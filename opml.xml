@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Personal feeds</title>
+    <dateCreated>Sun, 26 Apr 2026 03:05:34 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="AI" title="AI">
+      <outline type="rss" text="The Power Law" title="The Power Law" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-power-law.xml" htmlUrl="https://peterwildeford.substack.com/"/>
+      <outline type="rss" text="Rising Tide" title="Rising Tide" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/rising-tide.xml" htmlUrl="https://helentoner.substack.com/"/>
+      <outline type="rss" text="The Counterfactual" title="The Counterfactual" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-counterfactual.xml" htmlUrl="https://thecounterfactual.substack.com/"/>
+    </outline>
+    <outline text="Animal Rights" title="Animal Rights">
+      <outline type="rss" text="The Optimist's Barn" title="The Optimist's Barn" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-optimists-barn.xml" htmlUrl="https://optimistsbarn.substack.com/"/>
+      <outline type="rss" text="Taj!" title="Taj!" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/taj.xml" htmlUrl="https://tajblog.substack.com/"/>
+      <outline type="rss" text="More Than Meats The Eye" title="More Than Meats The Eye" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/more-than-meats-the-eye.xml" htmlUrl="https://morethanmeatstheeye.substack.com/"/>
+      <outline type="rss" text="Sandcastles" title="Sandcastles" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/sandcastles.xml" htmlUrl="https://sandcastlesblog.substack.com/"/>
+      <outline type="rss" text="regressiontothemeat" title="regressiontothemeat" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/regressiontothemeat.xml" htmlUrl="https://regressiontothemeat.substack.com/"/>
+      <outline type="rss" text="Coefficient Giving farm animal welfare newsletter" title="Coefficient Giving farm animal welfare newsletter" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/coefficient-giving-farm-animal-welfare.xml" htmlUrl="https://farmanimalwelfare.substack.com/"/>
+      <outline type="rss" text="The Vegan Strategist" title="The Vegan Strategist" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-vegan-strategist.xml" htmlUrl="https://tobiasleenaert.substack.com/"/>
+      <outline type="rss" text="Marina Bolotnikova" title="Marina Bolotnikova" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/marina-bolotnikova.xml" htmlUrl="https://mbolotnikova.substack.com/"/>
+      <outline type="rss" text="The Urban Animal" title="The Urban Animal" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-urban-animal.xml" htmlUrl="https://urbananimal.substack.com/"/>
+      <outline type="rss" text="The Simple Heart" title="The Simple Heart" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-simple-heart.xml" htmlUrl="https://blog.simpleheart.org/"/>
+      <outline type="rss" text="Aidan's Soupstack" title="Aidan's Soupstack" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/aidans-soupstack.xml" htmlUrl="https://aidanssoupstack.substack.com/"/>
+    </outline>
+    <outline text="Effective Altruism" title="Effective Altruism">
+      <outline type="rss" text="Astral Codex Ten" title="Astral Codex Ten" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/astral-codex-ten.xml" htmlUrl="https://www.astralcodexten.com/"/>
+      <outline type="rss" text="That Vast Variety" title="That Vast Variety" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/that-vast-variety.xml" htmlUrl="https://thatvastvariety.substack.com/"/>
+      <outline type="rss" text="Both/And" title="Both/And" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/both-and.xml" htmlUrl="https://willmacaskill.substack.com/"/>
+      <outline type="rss" text="Dylan Matthews" title="Dylan Matthews" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/dylan-matthews.xml" htmlUrl="https://dylanmatthews.substack.com/"/>
+      <outline type="rss" text="Knowingless" title="Knowingless" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/knowingless.xml" htmlUrl="https://aella.substack.com/"/>
+      <outline type="rss" text="Thing of Things" title="Thing of Things" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/thing-of-things.xml" htmlUrl="https://thingofthings.substack.com/"/>
+      <outline type="rss" text="From Matter" title="From Matter" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/from-matter.xml" htmlUrl="https://frommatter.substack.com/"/>
+    </outline>
+    <outline text="Friends" title="Friends">
+      <outline type="rss" text="Vahid Baugher" title="Vahid Baugher" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/vahid-baugher.xml" htmlUrl="https://vahidbaugher.substack.com/"/>
+      <outline type="rss" text="Adit's Substack" title="Adit's Substack" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/adits-substack.xml" htmlUrl="https://aditpakala.substack.com/"/>
+      <outline type="rss" text="Amateur Amateur" title="Amateur Amateur" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/amateur-amateur.xml" htmlUrl="https://amateuramateur.substack.com/"/>
+    </outline>
+    <outline text="Humor" title="Humor">
+      <outline type="rss" text="Cartoons Hate Her" title="Cartoons Hate Her" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/cartoons-hate-her.xml" htmlUrl="https://www.cartoonshateher.com/"/>
+      <outline type="rss" text="United States of Exception" title="United States of Exception" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/united-states-of-exception.xml" htmlUrl="https://statesofexception.substack.com/"/>
+      <outline type="rss" text="Going Awol" title="Going Awol" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/going-awol.xml" htmlUrl="https://wollenblog.substack.com/"/>
+    </outline>
+    <outline text="Magazines" title="Magazines">
+      <outline type="rss" text="Asterisk Magazine" title="Asterisk Magazine" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/asterisk-magazine.xml" htmlUrl="https://asteriskmag.substack.com/"/>
+      <outline type="rss" text="Asimov Press" title="Asimov Press" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/asimov-press.xml" htmlUrl="https://www.asimov.press/"/>
+      <outline type="rss" text="In Development Magazine" title="In Development Magazine" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/in-development-magazine.xml" htmlUrl="https://indevelopmentmag.substack.com/"/>
+      <outline type="rss" text="The Works In Progess Newsletter" title="The Works In Progess Newsletter" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-works-in-progess-newsletter.xml" htmlUrl="https://www.worksinprogress.news/"/>
+      <outline type="rss" text="Forethought" title="Forethought" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/forethought.xml" htmlUrl="https://newsletter.forethought.org/"/>
+      <outline type="rss" text="The Argument" title="The Argument" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/the-argument.xml" htmlUrl="https://www.theargumentmag.com/"/>
+    </outline>
+    <outline text="Philosophy" title="Philosophy">
+      <outline type="rss" text="Wonder and Aporia" title="Wonder and Aporia" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/wonder-and-aporia.xml" htmlUrl="https://wonderandaporia.substack.com/"/>
+      <outline type="rss" text="Silver Bulletin" title="Silver Bulletin" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/silver-bulletin.xml" htmlUrl="https://www.natesilver.net/"/>
+      <outline type="rss" text="Bentham's Bulldog" title="Bentham's Bulldog" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/benthams-bulldog.xml" htmlUrl="https://benthams.substack.com/"/>
+      <outline type="rss" text="Andy Masley" title="Andy Masley" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/andy-masley.xml" htmlUrl="https://blog.andymasley.com/"/>
+      <outline type="rss" text="Good Bones" title="Good Bones" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/good-bones.xml" htmlUrl="https://acotra.substack.com/"/>
+      <outline type="rss" text="Big iff True" title="Big iff True" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/big-iff-true.xml" htmlUrl="https://bigifftrue.substack.com/"/>
+    </outline>
+    <outline text="Productivity" title="Productivity">
+      <outline type="rss" text="Useful Fictions" title="Useful Fictions" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/useful-fictions.xml" htmlUrl="https://usefulfictions.substack.com/"/>
+      <outline type="rss" text="Sasha's 'Newsletter'" title="Sasha's 'Newsletter'" xmlUrl="https://RobertPaineBlueBear.github.io/feeds/feeds/sashas-newsletter.xml" htmlUrl="https://sashachapin.substack.com/"/>
+    </outline>
+  </body>
+</opml>

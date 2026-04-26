@@ -1,0 +1,251 @@
+# Feed sources, ported from DefaultSources.json.
+#
+# Each entry needs a unique `slug` (used in the output filename and URL),
+# a `name`, and a `homepage`. `feed_url` defaults to `homepage + /feed`
+# (Substack convention) — set it explicitly if a source lives elsewhere.
+# `author` and `category` are optional metadata.
+
+defaults:
+  feed_path: /feed     # appended to homepage when feed_url is omitted
+  max_items: 50        # max items kept per source per run
+
+sources:
+  - slug: wonder-and-aporia
+    name: Wonder and Aporia
+    author: Silas Abrahamsen
+    category: Philosophy
+    homepage: https://wonderandaporia.substack.com/
+
+  - slug: astral-codex-ten
+    name: Astral Codex Ten
+    author: Scott Alexander
+    category: Effective Altruism
+    homepage: https://www.astralcodexten.com/
+
+  - slug: that-vast-variety
+    name: That Vast Variety
+    author: Matt Beard
+    category: Effective Altruism
+    homepage: https://thatvastvariety.substack.com/
+
+  - slug: both-and
+    name: Both/And
+    author: Will MacAskill
+    category: Effective Altruism
+    homepage: https://willmacaskill.substack.com/
+
+  - slug: vahid-baugher
+    name: Vahid Baugher
+    author: Vahid Baugher
+    category: Friends
+    homepage: https://vahidbaugher.substack.com/
+
+  - slug: useful-fictions
+    name: Useful Fictions
+    author: Cate Hall
+    category: Productivity
+    homepage: https://usefulfictions.substack.com/
+
+  - slug: adits-substack
+    name: Adit's Substack
+    author: Adit Pakala
+    category: Friends
+    homepage: https://aditpakala.substack.com/
+
+  - slug: amateur-amateur
+    name: Amateur Amateur
+    author: Everett Hunter
+    category: Friends
+    homepage: https://amateuramateur.substack.com/
+
+  - slug: sashas-newsletter
+    name: Sasha's 'Newsletter'
+    author: Sasha Chapin
+    category: Productivity
+    homepage: https://sashachapin.substack.com/
+
+  - slug: the-optimists-barn
+    name: The Optimist's Barn
+    author: Robert Yaman
+    category: Animal Rights
+    homepage: https://optimistsbarn.substack.com/
+
+  - slug: dylan-matthews
+    name: Dylan Matthews
+    author: Dylan Matthews
+    category: Effective Altruism
+    homepage: https://dylanmatthews.substack.com/
+
+  - slug: asterisk-magazine
+    name: Asterisk Magazine
+    category: Magazines
+    homepage: https://asteriskmag.substack.com/
+
+  - slug: silver-bulletin
+    name: Silver Bulletin
+    author: Nate Silver
+    category: Philosophy
+    homepage: https://www.natesilver.net/
+
+  - slug: asimov-press
+    name: Asimov Press
+    category: Magazines
+    homepage: https://www.asimov.press/
+
+  - slug: in-development-magazine
+    name: In Development Magazine
+    category: Magazines
+    homepage: https://indevelopmentmag.substack.com/
+
+  - slug: the-works-in-progess-newsletter
+    name: The Works In Progess Newsletter
+    category: Magazines
+    homepage: https://www.worksinprogress.news/
+
+  - slug: benthams-bulldog
+    name: Bentham's Bulldog
+    author: Matthew Adelstein
+    category: Philosophy
+    homepage: https://benthams.substack.com/
+
+  - slug: forethought
+    name: Forethought
+    category: Magazines
+    homepage: https://newsletter.forethought.org/
+
+  - slug: taj
+    name: Taj!
+    author: Taj
+    category: Animal Rights
+    homepage: https://tajblog.substack.com/
+
+  - slug: andy-masley
+    name: Andy Masley
+    author: Andy Masley
+    category: Philosophy
+    homepage: https://blog.andymasley.com/
+
+  - slug: knowingless
+    name: Knowingless
+    author: Aella
+    category: Effective Altruism
+    homepage: https://aella.substack.com/
+
+  - slug: the-argument
+    name: The Argument
+    category: Magazines
+    homepage: https://www.theargumentmag.com/
+
+  - slug: cartoons-hate-her
+    name: Cartoons Hate Her
+    author: Cartoons Hate Her
+    category: Humor
+    homepage: https://www.cartoonshateher.com/
+
+  - slug: good-bones
+    name: Good Bones
+    author: Ajeya Cotra
+    category: Philosophy
+    homepage: https://acotra.substack.com/
+
+  - slug: more-than-meats-the-eye
+    name: More Than Meats The Eye
+    author: Björn Johann Olafsson
+    category: Animal Rights
+    homepage: https://morethanmeatstheeye.substack.com/
+
+  - slug: sandcastles
+    name: Sandcastles
+    author: Aidan Kankyoku
+    category: Animal Rights
+    homepage: https://sandcastlesblog.substack.com/
+
+  - slug: regressiontothemeat
+    name: regressiontothemeat
+    author: Seth Ariel Green
+    category: Animal Rights
+    homepage: https://regressiontothemeat.substack.com/
+
+  - slug: coefficient-giving-farm-animal-welfare
+    name: Coefficient Giving farm animal welfare newsletter
+    author: Lewis Bollard
+    category: Animal Rights
+    homepage: https://farmanimalwelfare.substack.com/
+
+  - slug: the-vegan-strategist
+    name: The Vegan Strategist
+    author: Tobias Leenaert
+    category: Animal Rights
+    homepage: https://tobiasleenaert.substack.com/
+
+  - slug: marina-bolotnikova
+    name: Marina Bolotnikova
+    author: Marina Bolotnikova
+    category: Animal Rights
+    homepage: https://mbolotnikova.substack.com/
+
+  - slug: the-urban-animal
+    name: The Urban Animal
+    author: Dean Guzman Wyrzykowski
+    category: Animal Rights
+    homepage: https://urbananimal.substack.com/
+
+  - slug: the-simple-heart
+    name: The Simple Heart
+    author: Wayne Hsiung
+    category: Animal Rights
+    homepage: https://blog.simpleheart.org/
+
+  - slug: the-power-law
+    name: The Power Law
+    author: Peter Wildeford
+    category: AI
+    homepage: https://peterwildeford.substack.com/
+
+  - slug: rising-tide
+    name: Rising Tide
+    author: Helen Toner
+    category: AI
+    homepage: https://helentoner.substack.com/
+
+  - slug: thing-of-things
+    name: Thing of Things
+    author: Ozy Brennan
+    category: Effective Altruism
+    homepage: https://thingofthings.substack.com/
+
+  - slug: united-states-of-exception
+    name: United States of Exception
+    author: States of Exception
+    category: Humor
+    homepage: https://statesofexception.substack.com/
+
+  - slug: the-counterfactual
+    name: The Counterfactual
+    author: Sophie Kim
+    category: AI
+    homepage: https://thecounterfactual.substack.com/
+
+  - slug: big-iff-true
+    name: Big iff True
+    author: Daniel Muñoz
+    category: Philosophy
+    homepage: https://bigifftrue.substack.com/
+
+  - slug: aidans-soupstack
+    name: Aidan's Soupstack
+    author: Aidan Alexander
+    category: Animal Rights
+    homepage: https://aidanssoupstack.substack.com/
+
+  - slug: from-matter
+    name: From Matter
+    author: Matt Reardon
+    category: Effective Altruism
+    homepage: https://frommatter.substack.com/
+
+  - slug: going-awol
+    name: Going Awol
+    author: Amos Wollen
+    category: Humor
+    homepage: https://wollenblog.substack.com/

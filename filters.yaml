@@ -1,0 +1,45 @@
+# Exclusion rules ported from DefaultFilterRules.json.
+# - source: case-insensitive substring of the source name. Omit to apply to all sources.
+# - field: "title" or "content".
+# - op:    "hasPrefix", "contains", or "regex".
+# - value: string (or regex pattern, for op: regex). Matching is case-insensitive.
+
+- source: astral codex ten
+  field: title
+  op: hasPrefix
+  value: open thread
+
+- source: silver bulletin
+  field: title
+  op: hasPrefix
+  value: how popular is
+
+- source: silver bulletin
+  field: title
+  op: hasPrefix
+  value: who's ahead on the
+
+- source: silver bulletin
+  field: title
+  op: hasPrefix
+  value: who is ahead on the
+
+- source: silver bulletin
+  field: title
+  op: contains
+  value: poll tracker
+
+- source: silver bulletin
+  field: title
+  op: contains
+  value: approval rating tracker
+
+- source: silver bulletin
+  field: title
+  op: contains
+  value: continuously updated
+
+- source: silver bulletin
+  field: title
+  op: regex
+  value: '\b(nba|nfl|mlb|wnba|basketball|baseball|super bowl|world series|march madness|nba finals|nfl draft|the knicks|the lakers|the yankees|sports betting|playoff odds)\b'
