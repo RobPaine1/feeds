@@ -2,9 +2,10 @@ name: Build feeds
 
 on:
   schedule:
-    # Three times a day at 14:00, 19:00, and 01:00 UTC
-    # ≈ 7am / 12pm / 6pm Pacific (off by an hour around DST shifts).
-    - cron: "0 1,14,19 * * *"
+    # Three times a day, ~13 minutes past the hour to avoid the top-of-hour
+    # cron rush on GitHub-hosted runners (which often delays or silently drops
+    # :00 triggers). 01:13, 14:13, and 19:13 UTC ≈ ~6pm/7am/12pm Pacific.
+    - cron: "13 1,14,19 * * *"
   workflow_dispatch: {}
 
 permissions:
