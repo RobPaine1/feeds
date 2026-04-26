@@ -293,6 +293,7 @@ def public_feed_url(slug: str) -> str:
 
 
 def write_opml(sources: list[dict]) -> None:
+    """Flat OPML — one <outline type="rss"/> per source, sorted by name."""
     base = public_base_url()
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     lines = [
@@ -304,41 +305,31 @@ def write_opml(sources: list[dict]) -> None:
         "  </head>",
         "  <body>",
     ]
-    by_cat: dict[str, list[dict]] = {}
-    for s in sources:
-        by_cat.setdefault(s.get("category") or "Uncategorized", []).append(s)
-    for cat, group in sorted(by_cat.items()):
-        lines.append(f'    <outline text="{xml_escape(cat)}" title="{xml_escape(cat)}">')
-        for s in group:
-            url = f"{base}/feeds/{s['slug']}.xml" if base else f"feeds/{s['slug']}.xml"
-            html_url = s.get("homepage") or url
-            lines.append(
-                '      <outline type="rss" '
-                f'text="{xml_escape(s["name"])}" '
-                f'title="{xml_escape(s["name"])}" '
-                f'xmlUrl="{xml_escape(url)}" '
-                f'htmlUrl="{xml_escape(html_url)}"/>'
-            )
-        lines.append("    </outline>")
+    for s in sorted(sources, key=lambda x: x["name"].lower()):
+        url = f"{base}/feeds/{s['slug']}.xml" if base else f"feeds/{s['slug']}.xml"
+        html_url = s.get("homepage") or url
+        lines.append(
+            '    <outline type="rss" '
+            f'text="{xml_escape(s["name"])}" '
+            f'title="{xml_escape(s["name"])}" '
+            f'xmlUrl="{xml_escape(url)}" '
+            f'htmlUrl="{xml_escape(html_url)}"/>'
+        )
     lines += ["  </body>", "</opml>", ""]
     OPML_FILE.write_text("\n".join(lines), encoding="utf-8")
 
 
 def write_index(sources: list[dict]) -> None:
+    """Flat index.html — one <li> per source, sorted alphabetically."""
     base = public_base_url()
-    rows = []
-    by_cat: dict[str, list[dict]] = {}
-    for s in sources:
-        by_cat.setdefault(s.get("category") or "Uncategorized", []).append(s)
-    for cat in sorted(by_cat):
-        rows.append(f"<h2>{xml_escape(cat)}</h2><ul>")
-        for s in sorted(by_cat[cat], key=lambda x: x["name"].lower()):
-            url = f"{base}/feeds/{s['slug']}.xml" if base else f"feeds/{s['slug']}.xml"
-            rows.append(
-                f'<li><a href="{xml_escape(url)}">{xml_escape(s["name"])}</a>'
-                f' &middot; <a href="{xml_escape(s.get("homepage", "#"))}">homepage</a></li>'
-            )
-        rows.append("</ul>")
+    rows = ["<ul>"]
+    for s in sorted(sources, key=lambda x: x["name"].lower()):
+        url = f"{base}/feeds/{s['slug']}.xml" if base else f"feeds/{s['slug']}.xml"
+        rows.append(
+            f'<li><a href="{xml_escape(url)}">{xml_escape(s["name"])}</a>'
+            f' &middot; <a href="{xml_escape(s.get("homepage", "#"))}">homepage</a></li>'
+        )
+    rows.append("</ul>")
     body = "\n".join(rows)
     opml_url = f"{base}/opml.xml" if base else "opml.xml"
     INDEX_FILE.write_text(f"""<!doctype html>

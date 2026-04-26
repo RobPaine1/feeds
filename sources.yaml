@@ -249,3 +249,81 @@ sources:
     author: Amos Wollen
     category: Humor
     homepage: https://wollenblog.substack.com/
+
+  - slug: tzus-newsletter
+    name: Tzu's Newsletter
+    author: Tzu Kit Chan
+    category: Effective Altruism
+    homepage: https://tzukit.substack.com/
+
+  - slug: matts-five-points
+    name: Matt's Five Points
+    author: Matt Glassman
+    category: AI
+    homepage: https://fivepoints.mattglassman.net/
+
+  - slug: exponential-view
+    name: Exponential View
+    author: Azeem Azhar
+    category: AI
+    homepage: https://www.exponentialview.co/
+
+  - slug: noahpinion
+    name: Noahpinion
+    author: Noah Smith
+    category: AI
+    # Spreadsheet had a broken post URL; substituted Noah's actual blog homepage.
+    homepage: https://www.noahpinion.blog/
+
+  - slug: david-oks
+    name: David Oks
+    author: David Oks
+    category: AI
+    homepage: https://davidoks.blog/
+
+  - slug: jasmines-substack
+    name: "@jasmine's substack"
+    author: Jasmine Sun
+    category: AI
+    homepage: https://jasmi.news/
+
+  - slug: clear-eyed-ai
+    name: Clear-Eyed AI
+    author: Steven Adler
+    category: AI
+    homepage: https://www.clear-eyed.ai/
+
+  - slug: joe-carlsmiths-substack
+    name: Joe Carlsmith's Substack
+    author: Joe Carlsmith
+    category: AI
+    homepage: https://joecarlsmith.substack.com/
+
+  - slug: understanding-ai
+    name: Understanding AI
+    author: Timothy B. Lee
+    category: AI
+    homepage: https://www.understandingai.org/
+
+  - slug: wharton-accountable-ai-forum
+    name: Wharton Accountable AI Forum
+    author: Wharton
+    category: AI
+    homepage: https://www.accountableaiforum.com/
+
+  - slug: ai-policy-perspectives
+    name: AI Policy Perspectives
+    category: AI
+    homepage: https://www.aipolicyperspectives.com/
+
+  - slug: hyperdimensional
+    name: Hyperdimensional
+    author: Dean Ball
+    category: AI
+    homepage: https://www.hyperdimensional.co/
+
+  - slug: kailer
+    name: Kailer
+    author: Kailer
+    category: Friends
+    homepage: https://kailerlaino.substack.com/
