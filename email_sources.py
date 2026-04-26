@@ -224,11 +224,14 @@ def write_email_feed(newsletter: dict, items: list[dict],
 # -----------------------------------------------------------------------------
 
 def process_email_newsletters(newsletters_config: list[dict],
-                              public_feed_url_fn: Callable[[str], str]) -> list[dict]:
+                              public_feed_url_fn: Callable[[str], str],
+                              new_state: Optional[dict] = None) -> list[dict]:
     """Fetch IMAP, group by configured senders, write per-sender feeds.
 
     Returns the list of newsletter configs that produced at least one feed
-    item (so the caller can include them in the master OPML/index).
+    item (so the caller can include them in the master OPML/index). If
+    ``new_state`` is provided, writes ``latest_post`` (ISO datetime of the
+    newest matched message) per slug for the index page's freshness sort.
     """
     user = (os.environ.get("IMAP_USER") or "").strip()
     password = (os.environ.get("IMAP_PASS") or "").strip()
@@ -276,6 +279,12 @@ def process_email_newsletters(newsletters_config: list[dict],
         write_email_feed(n, items, public_feed_url_fn)
         log.info("[%s] wrote feed with %d items", n["slug"], len(items))
         processed.append(n)
+        if new_state is not None:
+            latest = max(it["pub"] for it in items)
+            new_state[n["slug"]] = {
+                "fail_count": 0,
+                "latest_post": latest.isoformat(),
+            }
 
     # Write the unknown-senders log (sorted by count desc).
     if unknown:

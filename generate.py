@@ -105,6 +105,55 @@ def parse_pubdate(value: Optional[str]) -> Optional[datetime]:
         return None
 
 
+def parse_iso(value: Optional[str]) -> Optional[datetime]:
+    """Parse an ISO-8601 string back into an aware UTC datetime; return None on failure."""
+    if not value:
+        return None
+    try:
+        dt = datetime.fromisoformat(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except (TypeError, ValueError):
+        return None
+
+
+def time_ago(dt: datetime, now: datetime) -> str:
+    """Compact relative time: '2h ago', '3d ago', '4mo ago'. Past only."""
+    delta = now - dt
+    seconds = int(delta.total_seconds())
+    if seconds < 60:
+        return "just now"
+    minutes = seconds // 60
+    if minutes < 60:
+        return f"{minutes}m ago"
+    hours = minutes // 60
+    if hours < 24:
+        return f"{hours}h ago"
+    days = hours // 24
+    if days < 7:
+        return f"{days}d ago"
+    weeks = days // 7
+    if weeks < 5:
+        return f"{weeks}w ago"
+    months = days // 30
+    if months < 12:
+        return f"{months}mo ago"
+    years = days // 365
+    return f"{years}y ago"
+
+
+def staleness_class(latest: Optional[datetime], now: datetime) -> str:
+    if latest is None:
+        return "no-data"
+    days = (now - latest).days
+    if days < 30:
+        return "active"
+    if days < 90:
+        return "slow"
+    return "stale"
+
+
 def entry_to_item(entry, source_name: str) -> dict:
     """Normalize a feedparser entry into the dict shape filter_rules expects."""
     title = (entry.get("title") or "Untitled").strip()
@@ -209,9 +258,16 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
     prev_modified = prev.get("modified")
     prev_fail_count = int(prev.get("fail_count", 0))
 
-    log.info("[%s] fetching %s", slug, feed_url)
+    # If we don't yet have a latest_post for this source, force a non-conditional
+    # fetch — we need the actual entries to compute it. This is a one-shot
+    # bootstrap; once latest_post is populated, conditional GET resumes normally.
+    bootstrap = not prev.get("latest_post")
+    fetch_etag = None if bootstrap else prev_etag
+    fetch_modified = None if bootstrap else prev_modified
+
+    log.info("[%s] fetching %s%s", slug, feed_url, "  (bootstrap)" if bootstrap else "")
     try:
-        parsed = fetch_feed(feed_url, etag=prev_etag, modified=prev_modified)
+        parsed = fetch_feed(feed_url, etag=fetch_etag, modified=fetch_modified)
     except Exception as exc:  # noqa: BLE001
         log.error("[%s] fetch failed: %s", slug, exc)
         # Preserve prior etag/modified so we still try conditional GET next time;
@@ -220,6 +276,7 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
             "etag": prev_etag,
             "modified": prev_modified,
             "fail_count": prev_fail_count + 1,
+            "latest_post": prev.get("latest_post"),
             "last_error": str(exc)[:200],
         }
         return 0, 0, 1
@@ -231,6 +288,7 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
             "etag": getattr(parsed, "etag", None) or prev_etag,
             "modified": getattr(parsed, "modified", None) or prev_modified,
             "fail_count": 0,
+            "latest_post": prev.get("latest_post"),
         }
         return 0, 0, 0
 
@@ -240,6 +298,7 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
             "etag": prev_etag,
             "modified": prev_modified,
             "fail_count": prev_fail_count + 1,
+            "latest_post": prev.get("latest_post"),
             "last_error": f"parse: {parsed.bozo_exception}"[:200],
         }
         return 0, 0, 1
@@ -318,10 +377,27 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
         "[%s] kept=%d dropped=%d  reasons=%s",
         slug, kept, dropped, dict(sorted(skipped_reasons.items())) or "{}",
     )
+
+    # Capture the most recent pubDate across ALL parsed entries (including
+    # filtered ones). A source with all items filtered is still alive — we
+    # want to reflect that in the freshness indicator.
+    latest_post: Optional[datetime] = None
+    for entry in parsed.entries:
+        for key in ("published", "updated"):
+            v = entry.get(key)
+            if v:
+                pub = parse_pubdate(v)
+                if pub and (latest_post is None or pub > latest_post):
+                    latest_post = pub
+                break
+
     new_state[slug] = {
         "etag": getattr(parsed, "etag", None),
         "modified": getattr(parsed, "modified", None),
         "fail_count": 0,
+        "latest_post": (
+            latest_post.isoformat() if latest_post else prev.get("latest_post")
+        ),
     }
     return kept, dropped, 0
 
@@ -372,19 +448,47 @@ def write_opml(sources: list[dict]) -> None:
     OPML_FILE.write_text("\n".join(lines), encoding="utf-8")
 
 
-def write_index(sources: list[dict]) -> None:
-    """Flat index.html — one <li> per source, sorted alphabetically."""
+def write_index(sources: list[dict], state: dict, refresh_time: datetime) -> None:
+    """Index page sorted by recent activity, with per-source freshness indicator."""
     base = public_base_url()
-    rows = ["<ul>"]
-    for s in sorted(sources, key=lambda x: x["name"].lower()):
+
+    annotated = []
+    for s in sources:
+        st = state.get(s["slug"], {}) or {}
+        latest = parse_iso(st.get("latest_post"))
+        annotated.append((s, latest))
+
+    # Sort: known dates desc, then alphabetical for unknowns at the bottom.
+    def sort_key(pair):
+        s, latest = pair
+        if latest is None:
+            return (1, s["name"].lower())
+        return (0, -latest.timestamp())
+
+    annotated.sort(key=sort_key)
+
+    rows = ['<ul class="feed-list">']
+    for s, latest in annotated:
         url = f"{base}/feeds/{s['slug']}.xml" if base else f"feeds/{s['slug']}.xml"
+        homepage = s.get("homepage") or "#"
+        klass = staleness_class(latest, refresh_time)
+        ago = time_ago(latest, refresh_time) if latest else "no posts"
         rows.append(
-            f'<li><a href="{xml_escape(url)}">{xml_escape(s["name"])}</a>'
-            f' &middot; <a href="{xml_escape(s.get("homepage", "#"))}">homepage</a></li>'
+            f'<li class="{klass}">'
+            f'<a class="name" href="{xml_escape(url)}">{xml_escape(s["name"])}</a>'
+            f'<span class="ago">{xml_escape(ago)}</span>'
+            f'<a class="home" href="{xml_escape(homepage)}">homepage</a>'
+            "</li>"
         )
     rows.append("</ul>")
     body = "\n".join(rows)
+
     opml_url = f"{base}/opml.xml" if base else "opml.xml"
+    refresh_iso = refresh_time.replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    refresh_human = refresh_time.strftime("%Y-%m-%d %H:%M UTC")
+    feed_count = len(sources)
+    active_count = sum(1 for _, l in annotated if l and (refresh_time - l).days < 30)
+
     INDEX_FILE.write_text(f"""<!doctype html>
 <html lang="en">
 <head>
@@ -393,16 +497,44 @@ def write_index(sources: list[dict]) -> None:
 <style>
   body {{ font: 16px/1.5 -apple-system, system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #222; }}
   a {{ color: #0a66c2; }}
-  h1 {{ font-size: 1.4rem; }}
-  h2 {{ font-size: 1.05rem; margin-top: 1.5rem; color: #555; }}
-  ul {{ padding-left: 1.2rem; }}
-  .opml {{ margin: 0.5rem 0 1.5rem; padding: 0.75rem 1rem; background: #f4f4f0; border-radius: 6px; }}
+  h1 {{ font-size: 1.4rem; margin-bottom: 0.25rem; }}
+  .stats {{ color: #666; font-size: 0.9rem; margin: 0 0 0.75rem; }}
+  .stats time {{ color: #444; }}
+  .opml {{ margin: 0.75rem 0 1.5rem; padding: 0.75rem 1rem; background: #f4f4f0; border-radius: 6px; }}
+  .feed-list {{ list-style: none; padding: 0; margin: 0; }}
+  .feed-list li {{ display: flex; align-items: baseline; gap: 0.75rem; padding: 0.45rem 0; border-bottom: 1px solid #f0f0f0; }}
+  .feed-list .name {{ flex: 1; font-weight: 500; text-decoration: none; }}
+  .feed-list .name:hover {{ text-decoration: underline; }}
+  .feed-list .ago {{ font-size: 0.85rem; color: #888; min-width: 5.5rem; text-align: right; }}
+  .feed-list .home {{ font-size: 0.85rem; color: #888; text-decoration: none; }}
+  .feed-list .home:hover {{ text-decoration: underline; }}
+  .feed-list li.active .ago {{ color: #2a8e2a; }}
+  .feed-list li.slow .ago {{ color: #b88c00; }}
+  .feed-list li.stale .ago {{ color: #c33; }}
+  .feed-list li.no-data {{ opacity: 0.55; }}
 </style>
 </head>
 <body>
 <h1>Personal feeds</h1>
+<p class="stats">{feed_count} feeds &middot; {active_count} active &middot; refreshed <time datetime="{refresh_iso}" id="refresh">{refresh_human}</time></p>
 <p class="opml">Bulk import in NetNewsWire: <a href="{xml_escape(opml_url)}">opml.xml</a></p>
 {body}
+<script>
+  // Append a relative-time hint based on the reader's local clock.
+  (function() {{
+    var t = document.getElementById('refresh');
+    if (!t || !t.dateTime) return;
+    var dt = new Date(t.dateTime);
+    var diff = (Date.now() - dt.getTime()) / 1000;
+    if (isNaN(diff) || diff < 0) return;
+    var s;
+    if      (diff < 90)         s = Math.round(diff) + 's ago';
+    else if (diff < 3600)       s = Math.round(diff / 60) + 'm ago';
+    else if (diff < 86400)      s = Math.round(diff / 3600) + 'h ago';
+    else                        s = Math.round(diff / 86400) + 'd ago';
+    t.textContent += ' (' + s + ')';
+  }})();
+</script>
 </body>
 </html>
 """, encoding="utf-8")
@@ -468,6 +600,7 @@ def main() -> int:
 
     prev_state = load_state()
     new_state: dict = {}
+    refresh_time = datetime.now(timezone.utc)
 
     log.info("loaded %d sources, %d rules, %d cached state entries",
              len(sources), len(rules), len(prev_state))
@@ -489,7 +622,7 @@ def main() -> int:
     try:
         from email_sources import process_email_newsletters
         email_sources_processed = process_email_newsletters(
-            load_newsletters(), public_feed_url
+            load_newsletters(), public_feed_url, new_state,
         )
     except Exception as exc:  # noqa: BLE001
         log.error("email pipeline failed: %s", exc)
@@ -505,7 +638,7 @@ def main() -> int:
         })
 
     write_opml(combined)
-    write_index(combined)
+    write_index(combined, new_state, refresh_time)
     save_state(new_state)
 
     log.info(

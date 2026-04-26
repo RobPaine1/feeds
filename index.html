@@ -6,70 +6,98 @@
 <style>
   body { font: 16px/1.5 -apple-system, system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #222; }
   a { color: #0a66c2; }
-  h1 { font-size: 1.4rem; }
-  h2 { font-size: 1.05rem; margin-top: 1.5rem; color: #555; }
-  ul { padding-left: 1.2rem; }
-  .opml { margin: 0.5rem 0 1.5rem; padding: 0.75rem 1rem; background: #f4f4f0; border-radius: 6px; }
+  h1 { font-size: 1.4rem; margin-bottom: 0.25rem; }
+  .stats { color: #666; font-size: 0.9rem; margin: 0 0 0.75rem; }
+  .stats time { color: #444; }
+  .opml { margin: 0.75rem 0 1.5rem; padding: 0.75rem 1rem; background: #f4f4f0; border-radius: 6px; }
+  .feed-list { list-style: none; padding: 0; margin: 0; }
+  .feed-list li { display: flex; align-items: baseline; gap: 0.75rem; padding: 0.45rem 0; border-bottom: 1px solid #f0f0f0; }
+  .feed-list .name { flex: 1; font-weight: 500; text-decoration: none; }
+  .feed-list .name:hover { text-decoration: underline; }
+  .feed-list .ago { font-size: 0.85rem; color: #888; min-width: 5.5rem; text-align: right; }
+  .feed-list .home { font-size: 0.85rem; color: #888; text-decoration: none; }
+  .feed-list .home:hover { text-decoration: underline; }
+  .feed-list li.active .ago { color: #2a8e2a; }
+  .feed-list li.slow .ago { color: #b88c00; }
+  .feed-list li.stale .ago { color: #c33; }
+  .feed-list li.no-data { opacity: 0.55; }
 </style>
 </head>
 <body>
 <h1>Personal feeds</h1>
+<p class="stats">54 feeds &middot; 45 active &middot; refreshed <time datetime="2026-04-26T05:34:43Z" id="refresh">2026-04-26 05:34 UTC</time></p>
 <p class="opml">Bulk import in NetNewsWire: <a href="https://RobertPaineBlueBear.github.io/feeds/opml.xml">opml.xml</a></p>
-<ul>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/jasmines-substack.xml">@jasmine's substack</a> &middot; <a href="https://jasmi.news/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/adits-substack.xml">Adit's Substack</a> &middot; <a href="https://aditpakala.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/ai-policy-perspectives.xml">AI Policy Perspectives</a> &middot; <a href="https://www.aipolicyperspectives.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/aidans-soupstack.xml">Aidan's Soupstack</a> &middot; <a href="https://aidanssoupstack.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/amateur-amateur.xml">Amateur Amateur</a> &middot; <a href="https://amateuramateur.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/andy-masley.xml">Andy Masley</a> &middot; <a href="https://blog.andymasley.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/asimov-press.xml">Asimov Press</a> &middot; <a href="https://www.asimov.press/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/asterisk-magazine.xml">Asterisk Magazine</a> &middot; <a href="https://asteriskmag.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/astral-codex-ten.xml">Astral Codex Ten</a> &middot; <a href="https://www.astralcodexten.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/benthams-bulldog.xml">Bentham's Bulldog</a> &middot; <a href="https://benthams.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/big-iff-true.xml">Big iff True</a> &middot; <a href="https://bigifftrue.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/both-and.xml">Both/And</a> &middot; <a href="https://willmacaskill.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/cartoons-hate-her.xml">Cartoons Hate Her</a> &middot; <a href="https://www.cartoonshateher.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/clear-eyed-ai.xml">Clear-Eyed AI</a> &middot; <a href="https://www.clear-eyed.ai/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/coefficient-giving-farm-animal-welfare.xml">Coefficient Giving farm animal welfare newsletter</a> &middot; <a href="https://farmanimalwelfare.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/david-oks.xml">David Oks</a> &middot; <a href="https://davidoks.blog/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/dylan-matthews.xml">Dylan Matthews</a> &middot; <a href="https://dylanmatthews.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/exponential-view.xml">Exponential View</a> &middot; <a href="https://www.exponentialview.co/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/forethought.xml">Forethought</a> &middot; <a href="https://newsletter.forethought.org/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/from-matter.xml">From Matter</a> &middot; <a href="https://frommatter.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/going-awol.xml">Going Awol</a> &middot; <a href="https://wollenblog.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/good-bones.xml">Good Bones</a> &middot; <a href="https://acotra.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/hyperdimensional.xml">Hyperdimensional</a> &middot; <a href="https://www.hyperdimensional.co/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/in-development-magazine.xml">In Development Magazine</a> &middot; <a href="https://indevelopmentmag.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/joe-carlsmiths-substack.xml">Joe Carlsmith's Substack</a> &middot; <a href="https://joecarlsmith.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/kailer.xml">Kailer</a> &middot; <a href="https://kailerlaino.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/knowingless.xml">Knowingless</a> &middot; <a href="https://aella.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/marina-bolotnikova.xml">Marina Bolotnikova</a> &middot; <a href="https://mbolotnikova.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/matts-five-points.xml">Matt's Five Points</a> &middot; <a href="https://fivepoints.mattglassman.net/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/more-than-meats-the-eye.xml">More Than Meats The Eye</a> &middot; <a href="https://morethanmeatstheeye.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/noahpinion.xml">Noahpinion</a> &middot; <a href="https://www.noahpinion.blog/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/regressiontothemeat.xml">regressiontothemeat</a> &middot; <a href="https://regressiontothemeat.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/rising-tide.xml">Rising Tide</a> &middot; <a href="https://helentoner.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/sandcastles.xml">Sandcastles</a> &middot; <a href="https://sandcastlesblog.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/sashas-newsletter.xml">Sasha's 'Newsletter'</a> &middot; <a href="https://sashachapin.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/silver-bulletin.xml">Silver Bulletin</a> &middot; <a href="https://www.natesilver.net/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/taj.xml">Taj!</a> &middot; <a href="https://tajblog.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/that-vast-variety.xml">That Vast Variety</a> &middot; <a href="https://thatvastvariety.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-argument.xml">The Argument</a> &middot; <a href="https://www.theargumentmag.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-counterfactual.xml">The Counterfactual</a> &middot; <a href="https://thecounterfactual.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-optimists-barn.xml">The Optimist's Barn</a> &middot; <a href="https://optimistsbarn.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-power-law.xml">The Power Law</a> &middot; <a href="https://peterwildeford.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-simple-heart.xml">The Simple Heart</a> &middot; <a href="https://blog.simpleheart.org/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-urban-animal.xml">The Urban Animal</a> &middot; <a href="https://urbananimal.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-vegan-strategist.xml">The Vegan Strategist</a> &middot; <a href="https://tobiasleenaert.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-works-in-progess-newsletter.xml">The Works In Progess Newsletter</a> &middot; <a href="https://www.worksinprogress.news/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/thing-of-things.xml">Thing of Things</a> &middot; <a href="https://thingofthings.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/tzus-newsletter.xml">Tzu's Newsletter</a> &middot; <a href="https://tzukit.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/understanding-ai.xml">Understanding AI</a> &middot; <a href="https://www.understandingai.org/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/united-states-of-exception.xml">United States of Exception</a> &middot; <a href="https://statesofexception.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/useful-fictions.xml">Useful Fictions</a> &middot; <a href="https://usefulfictions.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/vahid-baugher.xml">Vahid Baugher</a> &middot; <a href="https://vahidbaugher.substack.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/wharton-accountable-ai-forum.xml">Wharton Accountable AI Forum</a> &middot; <a href="https://www.accountableaiforum.com/">homepage</a></li>
-<li><a href="https://RobertPaineBlueBear.github.io/feeds/feeds/wonder-and-aporia.xml">Wonder and Aporia</a> &middot; <a href="https://wonderandaporia.substack.com/">homepage</a></li>
+<ul class="feed-list">
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/exponential-view.xml">Exponential View</a><span class="ago">2h ago</span><a class="home" href="https://www.exponentialview.co/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/sashas-newsletter.xml">Sasha's 'Newsletter'</a><span class="ago">9h ago</span><a class="home" href="https://sashachapin.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/benthams-bulldog.xml">Bentham's Bulldog</a><span class="ago">13h ago</span><a class="home" href="https://benthams.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/silver-bulletin.xml">Silver Bulletin</a><span class="ago">14h ago</span><a class="home" href="https://www.natesilver.net/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-counterfactual.xml">The Counterfactual</a><span class="ago">22h ago</span><a class="home" href="https://thecounterfactual.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/clear-eyed-ai.xml">Clear-Eyed AI</a><span class="ago">1d ago</span><a class="home" href="https://www.clear-eyed.ai/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/thing-of-things.xml">Thing of Things</a><span class="ago">1d ago</span><a class="home" href="https://thingofthings.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/noahpinion.xml">Noahpinion</a><span class="ago">1d ago</span><a class="home" href="https://www.noahpinion.blog/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/forethought.xml">Forethought</a><span class="ago">1d ago</span><a class="home" href="https://newsletter.forethought.org/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-works-in-progess-newsletter.xml">The Works In Progess Newsletter</a><span class="ago">1d ago</span><a class="home" href="https://www.worksinprogress.news/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/good-bones.xml">Good Bones</a><span class="ago">1d ago</span><a class="home" href="https://acotra.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/cartoons-hate-her.xml">Cartoons Hate Her</a><span class="ago">1d ago</span><a class="home" href="https://www.cartoonshateher.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-argument.xml">The Argument</a><span class="ago">1d ago</span><a class="home" href="https://www.theargumentmag.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/taj.xml">Taj!</a><span class="ago">1d ago</span><a class="home" href="https://tajblog.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/andy-masley.xml">Andy Masley</a><span class="ago">2d ago</span><a class="home" href="https://blog.andymasley.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/astral-codex-ten.xml">Astral Codex Ten</a><span class="ago">2d ago</span><a class="home" href="https://www.astralcodexten.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/in-development-magazine.xml">In Development Magazine</a><span class="ago">2d ago</span><a class="home" href="https://indevelopmentmag.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/knowingless.xml">Knowingless</a><span class="ago">3d ago</span><a class="home" href="https://aella.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/understanding-ai.xml">Understanding AI</a><span class="ago">3d ago</span><a class="home" href="https://www.understandingai.org/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-simple-heart.xml">The Simple Heart</a><span class="ago">3d ago</span><a class="home" href="https://blog.simpleheart.org/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/asterisk-magazine.xml">Asterisk Magazine</a><span class="ago">3d ago</span><a class="home" href="https://asteriskmag.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/ai-policy-perspectives.xml">AI Policy Perspectives</a><span class="ago">3d ago</span><a class="home" href="https://www.aipolicyperspectives.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-urban-animal.xml">The Urban Animal</a><span class="ago">4d ago</span><a class="home" href="https://urbananimal.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/wonder-and-aporia.xml">Wonder and Aporia</a><span class="ago">5d ago</span><a class="home" href="https://wonderandaporia.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-power-law.xml">The Power Law</a><span class="ago">5d ago</span><a class="home" href="https://peterwildeford.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/big-iff-true.xml">Big iff True</a><span class="ago">5d ago</span><a class="home" href="https://bigifftrue.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/that-vast-variety.xml">That Vast Variety</a><span class="ago">6d ago</span><a class="home" href="https://thatvastvariety.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/matts-five-points.xml">Matt's Five Points</a><span class="ago">1w ago</span><a class="home" href="https://fivepoints.mattglassman.net/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/dylan-matthews.xml">Dylan Matthews</a><span class="ago">1w ago</span><a class="home" href="https://dylanmatthews.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-vegan-strategist.xml">The Vegan Strategist</a><span class="ago">1w ago</span><a class="home" href="https://tobiasleenaert.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/jasmines-substack.xml">@jasmine's substack</a><span class="ago">1w ago</span><a class="home" href="https://jasmi.news/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/adits-substack.xml">Adit's Substack</a><span class="ago">1w ago</span><a class="home" href="https://aditpakala.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/from-matter.xml">From Matter</a><span class="ago">1w ago</span><a class="home" href="https://frommatter.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/regressiontothemeat.xml">regressiontothemeat</a><span class="ago">2w ago</span><a class="home" href="https://regressiontothemeat.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/david-oks.xml">David Oks</a><span class="ago">2w ago</span><a class="home" href="https://davidoks.blog/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/joe-carlsmiths-substack.xml">Joe Carlsmith's Substack</a><span class="ago">2w ago</span><a class="home" href="https://joecarlsmith.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-optimists-barn.xml">The Optimist's Barn</a><span class="ago">2w ago</span><a class="home" href="https://optimistsbarn.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/sandcastles.xml">Sandcastles</a><span class="ago">2w ago</span><a class="home" href="https://sandcastlesblog.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/hyperdimensional.xml">Hyperdimensional</a><span class="ago">2w ago</span><a class="home" href="https://www.hyperdimensional.co/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/asimov-press.xml">Asimov Press</a><span class="ago">2w ago</span><a class="home" href="https://www.asimov.press/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/rising-tide.xml">Rising Tide</a><span class="ago">2w ago</span><a class="home" href="https://helentoner.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/useful-fictions.xml">Useful Fictions</a><span class="ago">3w ago</span><a class="home" href="https://usefulfictions.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/both-and.xml">Both/And</a><span class="ago">3w ago</span><a class="home" href="https://willmacaskill.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/going-awol.xml">Going Awol</a><span class="ago">3w ago</span><a class="home" href="https://wollenblog.substack.com/">homepage</a></li>
+<li class="active"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/tzus-newsletter.xml">Tzu's Newsletter</a><span class="ago">4w ago</span><a class="home" href="https://tzukit.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/united-states-of-exception.xml">United States of Exception</a><span class="ago">4w ago</span><a class="home" href="https://statesofexception.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/marina-bolotnikova.xml">Marina Bolotnikova</a><span class="ago">4w ago</span><a class="home" href="https://mbolotnikova.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/vahid-baugher.xml">Vahid Baugher</a><span class="ago">1mo ago</span><a class="home" href="https://vahidbaugher.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/coefficient-giving-farm-animal-welfare.xml">Coefficient Giving farm animal welfare newsletter</a><span class="ago">1mo ago</span><a class="home" href="https://farmanimalwelfare.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/more-than-meats-the-eye.xml">More Than Meats The Eye</a><span class="ago">1mo ago</span><a class="home" href="https://morethanmeatstheeye.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/kailer.xml">Kailer</a><span class="ago">2mo ago</span><a class="home" href="https://kailerlaino.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/amateur-amateur.xml">Amateur Amateur</a><span class="ago">2mo ago</span><a class="home" href="https://amateuramateur.substack.com/">homepage</a></li>
+<li class="slow"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/wharton-accountable-ai-forum.xml">Wharton Accountable AI Forum</a><span class="ago">2mo ago</span><a class="home" href="https://www.accountableaiforum.com/">homepage</a></li>
+<li class="stale"><a class="name" href="https://RobertPaineBlueBear.github.io/feeds/feeds/aidans-soupstack.xml">Aidan's Soupstack</a><span class="ago">6mo ago</span><a class="home" href="https://aidanssoupstack.substack.com/">homepage</a></li>
 </ul>
+<script>
+  // Append a relative-time hint based on the reader's local clock.
+  (function() {
+    var t = document.getElementById('refresh');
+    if (!t || !t.dateTime) return;
+    var dt = new Date(t.dateTime);
+    var diff = (Date.now() - dt.getTime()) / 1000;
+    if (isNaN(diff) || diff < 0) return;
+    var s;
+    if      (diff < 90)         s = Math.round(diff) + 's ago';
+    else if (diff < 3600)       s = Math.round(diff / 60) + 'm ago';
+    else if (diff < 86400)      s = Math.round(diff / 3600) + 'h ago';
+    else                        s = Math.round(diff / 86400) + 'd ago';
+    t.textContent += ' (' + s + ')';
+  })();
+</script>
 </body>
 </html>
