@@ -258,14 +258,20 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
     prev_modified = prev.get("modified")
     prev_fail_count = int(prev.get("fail_count", 0))
 
-    # If we don't yet have a latest_post for this source, force a non-conditional
-    # fetch — we need the actual entries to compute it. This is a one-shot
-    # bootstrap; once latest_post is populated, conditional GET resumes normally.
-    bootstrap = not prev.get("latest_post")
+    # Force a non-conditional fetch in two cases:
+    #   (1) Bootstrap: no latest_post yet — we need entries to compute it.
+    #   (2) Recovery: prior fetch/parse failed. Otherwise the cached ETag plus
+    #       a 304 response would lock us out from re-trying indefinitely.
+    bootstrap = not prev.get("latest_post") or prev_fail_count > 0
     fetch_etag = None if bootstrap else prev_etag
     fetch_modified = None if bootstrap else prev_modified
 
-    log.info("[%s] fetching %s%s", slug, feed_url, "  (bootstrap)" if bootstrap else "")
+    why = ""
+    if not prev.get("latest_post"):
+        why = "  (bootstrap)"
+    elif prev_fail_count > 0:
+        why = f"  (recovery from {prev_fail_count} prior failure{'s' if prev_fail_count != 1 else ''})"
+    log.info("[%s] fetching %s%s", slug, feed_url, why)
     try:
         parsed = fetch_feed(feed_url, etag=fetch_etag, modified=fetch_modified)
     except Exception as exc:  # noqa: BLE001
