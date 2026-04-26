@@ -8,13 +8,16 @@ NetNewsWire (or any RSS reader) subscribes to the URLs.
 
 ## Layout
 
-- `sources.yaml` — list of sources (name, homepage, optional `feed_url`).
+- `sources.yaml` — list of RSS sources (name, homepage, optional `feed_url`).
+- `newsletters.yaml` — list of email senders (Gmail-via-IMAP) to expose as feeds.
 - `filters.yaml` — exclusion rules (title/content match by source pattern).
 - `filter_rules.py` — filter engine.
-- `generate.py` — fetcher + writer.
+- `email_sources.py` — IMAP fetch + per-sender RSS for email newsletters.
+- `generate.py` — orchestrator: runs both pipelines, writes OPML/index.
 - `feeds/<slug>.xml` — generated per-source RSS files (committed by CI).
 - `opml.xml` — bulk subscription file for RSS readers.
 - `index.html` — simple landing page listing every feed.
+- `unknown_senders.json` — emails received but not matched by `newsletters.yaml`.
 - `.github/workflows/build-feeds.yml` — runs `generate.py` on schedule.
 
 ## Subscribing
@@ -71,11 +74,58 @@ If `feed_url` is omitted, it's derived from `homepage` by appending
 Commit and push. The next scheduled run will pick it up. To pull in the
 new feed immediately, trigger the workflow manually from the Actions tab.
 
+## Email newsletters
+
+Email-only newsletters can be turned into RSS feeds by routing them through
+a dedicated Gmail account. The pipeline polls Gmail over IMAP, groups
+messages by sender, and emits one RSS file per sender — same shape as the
+Substack feeds, same OPML, same NetNewsWire experience.
+
+### One-time setup
+
+1. **Create a dedicated Gmail account** (e.g., `yourname-feeds@gmail.com`).
+   Use this address only for newsletter subscriptions.
+2. **Enable 2-Step Verification** on it: <https://myaccount.google.com/security>.
+3. **Generate an App Password** at <https://myaccount.google.com/apppasswords>.
+   Pick "Mail" as the app. You'll get a 16-character password — copy it
+   verbatim (no spaces).
+4. **Add GitHub secrets** in this repo:
+   `Settings → Secrets and variables → Actions → New repository secret`.
+   - `IMAP_USER` — the full Gmail address.
+   - `IMAP_PASS` — the 16-character App Password.
+5. **Subscribe to newsletters** using the new Gmail, then trigger the
+   workflow manually (Actions tab → Build feeds → Run workflow).
+
+### Adding a newsletter
+
+After the first run with subscriptions arriving, look at `unknown_senders.json`
+in the repo — it lists every From-header that hit the inbox but didn't match
+any entry in `newsletters.yaml`, sorted by message count, with a few sample
+subjects. Use it to pick a `match` substring (a domain or address fragment
+that uniquely identifies the sender), then add an entry to
+`newsletters.yaml`:
+
+```yaml
+newsletters:
+  - slug: stratechery
+    name: Stratechery
+    homepage: https://stratechery.com/
+    match: stratechery.com
+```
+
+Commit, push, run the workflow. The new feed appears at
+`feeds/<slug>.xml` and in `opml.xml`.
+
+If `IMAP_USER` / `IMAP_PASS` aren't set, the email step is silently skipped
+and the Substack pipeline runs as normal.
+
 ## Local testing
 
 ```
 pip install -r requirements.txt
-python generate.py
+python generate.py                       # Substack feeds only
+IMAP_USER=...@gmail.com IMAP_PASS=... \
+  python generate.py                     # both Substack and email
 ```
 
 Output lands in `feeds/` and at the repo root.

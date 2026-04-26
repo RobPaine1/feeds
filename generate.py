@@ -7,6 +7,7 @@ Run in CI:      same — driven from .github/workflows/build-feeds.yml
 from __future__ import annotations
 
 import html as html_lib
+import json
 import logging
 import os
 import re
@@ -37,6 +38,8 @@ from filter_rules import (
 ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.yaml"
 FILTERS_FILE = ROOT / "filters.yaml"
+NEWSLETTERS_FILE = ROOT / "newsletters.yaml"
+STATE_FILE = ROOT / "feed_state.json"   # per-source ETag / Last-Modified cache
 FEEDS_DIR = ROOT / "feeds"
 OPML_FILE = ROOT / "opml.xml"
 INDEX_FILE = ROOT / "index.html"
@@ -159,15 +162,23 @@ def entry_to_item(entry, source_name: str) -> dict:
     }
 
 
-def fetch_feed(url: str) -> feedparser.FeedParserDict:
-    """Fetch with retries. feedparser handles HTTP itself when given a URL."""
+def fetch_feed(url: str, etag: Optional[str] = None,
+               modified: Optional[str] = None) -> feedparser.FeedParserDict:
+    """Fetch with retries.
+
+    If `etag` or `modified` are passed, feedparser sends If-None-Match and
+    If-Modified-Since headers; the response will have ``status == 304`` when
+    the feed hasn't changed since last fetch.
+    """
     last_exc = None
     for attempt in range(REQUEST_RETRIES + 1):
         try:
-            return feedparser.parse(
-                url,
-                request_headers={"User-Agent": USER_AGENT},
-            )
+            kwargs: dict = {"request_headers": {"User-Agent": USER_AGENT}}
+            if etag:
+                kwargs["etag"] = etag
+            if modified:
+                kwargs["modified"] = modified
+            return feedparser.parse(url, **kwargs)
         except Exception as exc:  # noqa: BLE001 — feedparser raises a wide net
             last_exc = exc
             time.sleep(1.5 * (attempt + 1))
@@ -178,8 +189,14 @@ def fetch_feed(url: str) -> feedparser.FeedParserDict:
 # Per-source pipeline
 # -----------------------------------------------------------------------------
 
-def process_source(src: dict, rules: list[FilterRule], max_items: int) -> tuple[int, int, int]:
-    """Fetch, filter, and write the per-source RSS file. Returns (kept, dropped, errors)."""
+def process_source(src: dict, rules: list[FilterRule], max_items: int,
+                   prev_state: dict, new_state: dict) -> tuple[int, int, int]:
+    """Fetch, filter, and write the per-source RSS file. Returns (kept, dropped, errors).
+
+    Uses ``prev_state[slug]`` for conditional GET (etag + last-modified) and writes
+    the next-fetch values into ``new_state[slug]``. On HTTP 304, leaves the existing
+    ``feeds/<slug>.xml`` untouched.
+    """
     name = src["name"]
     slug = src["slug"]
     feed_url = src["feed_url"]
@@ -187,15 +204,44 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int) -> tuple[
     author = src.get("author")
     category = src.get("category")
 
+    prev = prev_state.get(slug, {}) or {}
+    prev_etag = prev.get("etag")
+    prev_modified = prev.get("modified")
+    prev_fail_count = int(prev.get("fail_count", 0))
+
     log.info("[%s] fetching %s", slug, feed_url)
     try:
-        parsed = fetch_feed(feed_url)
+        parsed = fetch_feed(feed_url, etag=prev_etag, modified=prev_modified)
     except Exception as exc:  # noqa: BLE001
         log.error("[%s] fetch failed: %s", slug, exc)
+        # Preserve prior etag/modified so we still try conditional GET next time;
+        # bump fail_count so health surfacing can highlight chronically-broken sources.
+        new_state[slug] = {
+            "etag": prev_etag,
+            "modified": prev_modified,
+            "fail_count": prev_fail_count + 1,
+            "last_error": str(exc)[:200],
+        }
         return 0, 0, 1
+
+    status = getattr(parsed, "status", None)
+    if status == 304:
+        log.info("[%s] not modified (304) — skipping regeneration", slug)
+        new_state[slug] = {
+            "etag": getattr(parsed, "etag", None) or prev_etag,
+            "modified": getattr(parsed, "modified", None) or prev_modified,
+            "fail_count": 0,
+        }
+        return 0, 0, 0
 
     if parsed.bozo and not parsed.entries:
         log.error("[%s] parse failed: %s", slug, parsed.bozo_exception)
+        new_state[slug] = {
+            "etag": prev_etag,
+            "modified": prev_modified,
+            "fail_count": prev_fail_count + 1,
+            "last_error": f"parse: {parsed.bozo_exception}"[:200],
+        }
         return 0, 0, 1
 
     fg = FeedGenerator()
@@ -272,6 +318,11 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int) -> tuple[
         "[%s] kept=%d dropped=%d  reasons=%s",
         slug, kept, dropped, dict(sorted(skipped_reasons.items())) or "{}",
     )
+    new_state[slug] = {
+        "etag": getattr(parsed, "etag", None),
+        "modified": getattr(parsed, "modified", None),
+        "fail_count": 0,
+    }
     return kept, dropped, 0
 
 
@@ -293,15 +344,17 @@ def public_feed_url(slug: str) -> str:
 
 
 def write_opml(sources: list[dict]) -> None:
-    """Flat OPML — one <outline type="rss"/> per source, sorted by name."""
+    """Flat OPML — one <outline type="rss"/> per source, sorted by name.
+
+    No ``dateCreated`` element on purpose: the file should change only when the
+    source list does, otherwise every workflow run would commit a noop.
+    """
     base = public_base_url()
-    now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<opml version="2.0">',
         "  <head>",
         "    <title>Personal feeds</title>",
-        f"    <dateCreated>{now}</dateCreated>",
         "  </head>",
         "  <body>",
     ]
@@ -380,6 +433,30 @@ def load_rules() -> list[FilterRule]:
     return [FilterRule.from_dict(r) for r in raw]
 
 
+def load_newsletters() -> list[dict]:
+    if not NEWSLETTERS_FILE.exists():
+        return []
+    raw = yaml.safe_load(NEWSLETTERS_FILE.read_text(encoding="utf-8")) or {}
+    return raw.get("newsletters") or []
+
+
+def load_state() -> dict:
+    if not STATE_FILE.exists():
+        return {}
+    try:
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as exc:
+        log.warning("could not read %s (%s) — starting fresh", STATE_FILE.name, exc)
+        return {}
+
+
+def save_state(state: dict) -> None:
+    STATE_FILE.write_text(
+        json.dumps(state, indent=2, sort_keys=True) + "\n",
+        encoding="utf-8",
+    )
+
+
 def main() -> int:
     import socket
     socket.setdefaulttimeout(HTTP_TIMEOUT)
@@ -389,19 +466,53 @@ def main() -> int:
     rules = load_rules()
     max_items = int(defaults.get("max_items", 50))
 
-    log.info("loaded %d sources, %d rules", len(sources), len(rules))
+    prev_state = load_state()
+    new_state: dict = {}
 
-    total_kept = total_dropped = total_errors = 0
+    log.info("loaded %d sources, %d rules, %d cached state entries",
+             len(sources), len(rules), len(prev_state))
+
+    total_kept = total_dropped = total_errors = total_unchanged = 0
     for s in sources:
-        kept, dropped, errors = process_source(s, rules, max_items)
+        kept, dropped, errors = process_source(
+            s, rules, max_items, prev_state, new_state,
+        )
         total_kept += kept
         total_dropped += dropped
         total_errors += errors
+        if kept == 0 and dropped == 0 and errors == 0:
+            total_unchanged += 1
 
-    write_opml(sources)
-    write_index(sources)
+    # Email newsletters (only fires when IMAP_USER + IMAP_PASS are set in env).
+    # The import is local so a missing dependency doesn't break the Substack pass.
+    email_sources_processed: list[dict] = []
+    try:
+        from email_sources import process_email_newsletters
+        email_sources_processed = process_email_newsletters(
+            load_newsletters(), public_feed_url
+        )
+    except Exception as exc:  # noqa: BLE001
+        log.error("email pipeline failed: %s", exc)
 
-    log.info("done. kept=%d dropped=%d errors=%d", total_kept, total_dropped, total_errors)
+    # Combine RSS + email entries for the master OPML and landing page.
+    combined = list(sources)
+    for n in email_sources_processed:
+        combined.append({
+            "slug": n["slug"],
+            "name": n["name"],
+            "homepage": n.get("homepage"),
+            "category": n.get("category"),
+        })
+
+    write_opml(combined)
+    write_index(combined)
+    save_state(new_state)
+
+    log.info(
+        "done. rss kept=%d dropped=%d errors=%d unchanged=%d  email_feeds=%d",
+        total_kept, total_dropped, total_errors, total_unchanged,
+        len(email_sources_processed),
+    )
     # Treat any successful run as success even if individual feeds failed —
     # we don't want one flaky source to fail the whole CI run.
     return 0

@@ -34,13 +34,18 @@ jobs:
         env:
           # Pages base URL is used in <atom:link rel=self> and OPML xmlUrl entries.
           PAGES_BASE: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          # IMAP creds for the email-newsletter pipeline. Set as GitHub secrets;
+          # if either is empty, the email step is silently skipped.
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
         run: python generate.py
 
       - name: Commit changes
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feeds/ opml.xml index.html
+          git add feeds/ opml.xml index.html feed_state.json
+          [ -f unknown_senders.json ] && git add unknown_senders.json || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
