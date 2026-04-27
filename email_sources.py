@@ -33,6 +33,8 @@ from xml.sax.saxutils import escape as xml_escape
 
 from feedgen.feed import FeedGenerator
 
+from html_cleaner import clean_email_html
+
 
 log = logging.getLogger("email")
 
@@ -119,7 +121,7 @@ def extract_html(msg: email.message.Message) -> str:
         except Exception:  # noqa: BLE001
             pass
     if html:
-        return html
+        return clean_email_html(html)
     if text:
         return f"<pre>{xml_escape(text)}</pre>"
     return ""
