@@ -22,8 +22,9 @@ Design goals:
 """
 from __future__ import annotations
 
+import base64
 import re
-from typing import Iterable
+from typing import Iterable, Optional
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 from bs4 import BeautifulSoup, Tag
@@ -108,6 +109,21 @@ DROP_TAGS: tuple[str, ...] = (
     "script", "style", "iframe", "object", "embed", "noscript", "form",
 )
 
+# Hosts whose URLs are tracker-redirect wrappers around a base64-encoded target.
+# Pattern: /<segment>/.../<base64-encoded-https-url>/.../<segment>
+# We try to decode the longest path segment that looks like base64 of an http(s) URL.
+TRACKER_REDIRECT_HOSTS: tuple[str, ...] = (
+    "link.axios.com",
+    "links.politico.com",
+    "click.politico.com",
+    "track.politico.com",
+    "click.email.",        # generic email-marketing prefix
+    "click.convertkit-mail",
+    "trk.klclick.com",     # Klaviyo
+    "click.mlsend.com",    # MailerLite
+    "links.lennysnewsletter.com",
+)
+
 # Maximum text length for a block to be considered "footer-y" rather than
 # real content. Stops us from killing whole article bodies that mention
 # "unsubscribe" in passing.
@@ -153,6 +169,47 @@ def _strip_tracking_params(url: str) -> str:
         return urlunparse(parsed._replace(query=urlencode(clean)))
     except Exception:  # noqa: BLE001
         return url
+
+
+def _resolve_tracker_redirect(url: str) -> Optional[str]:
+    """If url is a known tracker-redirect wrapper, return the underlying target URL.
+
+    Example: ``https://link.axios.com/click/<id>/<base64-of-target>/<id>``
+    decodes the base64 segment to the real article URL. Returns None if this
+    doesn't look like a tracker redirect we recognize.
+    """
+    if not url or not url.lower().startswith(("http://", "https://")):
+        return None
+    try:
+        parsed = urlparse(url)
+    except Exception:  # noqa: BLE001
+        return None
+    host = (parsed.hostname or "").lower()
+    if not any(h in host for h in TRACKER_REDIRECT_HOSTS):
+        return None
+
+    # Look for the longest path segment that decodes to an http(s) URL.
+    parts = [p for p in parsed.path.split("/") if p]
+    parts.sort(key=len, reverse=True)
+    for part in parts:
+        if len(part) < 20:
+            continue
+        # Try url-safe and standard base64, with padding fixup.
+        for decoder in (base64.urlsafe_b64decode, base64.b64decode):
+            for candidate in (part, part + "=" * (-len(part) % 4)):
+                try:
+                    decoded = decoder(candidate).decode("utf-8", errors="strict")
+                except Exception:  # noqa: BLE001
+                    continue
+                if decoded.startswith(("http://", "https://")) and " " not in decoded:
+                    return decoded
+    return None
+
+
+def _normalize_link(url: str) -> str:
+    """Resolve tracker redirects then strip tracking query params. Idempotent."""
+    resolved = _resolve_tracker_redirect(url)
+    return _strip_tracking_params(resolved if resolved else url)
 
 
 def _is_chrome_block(node: Tag) -> bool:
@@ -205,7 +262,7 @@ def clean_email_html(html: str) -> str:
 
     # 3. Strip tracking params from links.
     for a in soup.find_all("a", href=True):
-        a["href"] = _strip_tracking_params(a["href"])
+        a["href"] = _normalize_link(a["href"])
 
     # 4. Remove footer/chrome blocks. Iterate over a list snapshot since we mutate.
     for tag in list(soup.find_all(["table", "div", "p", "td", "tr", "section", "footer"])):
@@ -234,7 +291,7 @@ def clean_article_html(html: str) -> str:
         if _is_tracking_pixel(img):
             img.decompose()
     for a in soup.find_all("a", href=True):
-        a["href"] = _strip_tracking_params(a["href"])
+        a["href"] = _normalize_link(a["href"])
 
     return str(soup)
 
@@ -257,6 +314,18 @@ def _selftest() -> None:
       <div id="email-footer">Sent to user@example.com. Manage preferences here.</div>
     </body></html>
     """
+    # Tracker-redirect resolution test (Axios-style)
+    import base64 as _b64
+    target = "https://www.axios.com/2026/04/26/ai-cost-human-workers?utm_source=newsletter&utm_medium=email&id=99"
+    encoded = _b64.urlsafe_b64encode(target.encode()).decode().rstrip("=")
+    redirect = f"https://link.axios.com/click/45395977.87441/{encoded}/abc123"
+    resolved = _normalize_link(redirect)
+    assert resolved.startswith("https://www.axios.com/2026/04/26/"), f"redirect not unwrapped: {resolved}"
+    assert "utm_source" not in resolved, f"utm not stripped from unwrapped url: {resolved}"
+    assert "id=99" in resolved, f"non-tracking query lost: {resolved}"
+    print(f"redirect resolution: {redirect[:50]}...")
+    print(f"             -> {resolved}")
+
     out = clean_email_html(sample)
     assert "footer" not in out.lower() or "Manage" in sample  # the footer table should be gone
     assert "Unsubscribe" not in out, "footer block not stripped"
