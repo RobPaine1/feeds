@@ -28,3 +28,8 @@ newsletters:
     name: POLITICO's Weekly Agriculture
     homepage: https://www.politico.com/newsletters/weekly-agriculture
     match: weeklyagriculture@email.politico.com
+
+  - slug: politico-digital-future-daily
+    name: POLITICO's Digital Future Daily
+    homepage: https://www.politico.com/newsletters/digital-future-daily
+    match: digitalfuturedaily@email.politico.com
