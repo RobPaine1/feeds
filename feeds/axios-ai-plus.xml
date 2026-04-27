@@ -8,187 +8,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 20:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 21:30:52 +0000</lastBuildDate>
     <item>
       <title>💸 AI costs surge</title>
-      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap</link>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
       <description>💸 AI costs surge</description>
-      <content:encoded><![CDATA[<!doctype html>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
 <html>
 <head>
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="chrome=1" />
-<meta property="og:title" content="" />
-<meta property="og:image" content="" />
-<meta property="og:description" content="" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="" />
-<meta name="twitter:description" content="" />
-<meta property="twitter:image" content="" />
-<meta name="format-detection" content="telephone=no">
-<meta name="format-detection" content="date=no">
-<meta name="format-detection" content="address=no">
-<meta name="format-detection" content="email=no">
-<meta name="st-public-url" content="https://link.axios.com/public/45395977">
-<style type="text/css">
-a[x-apple-data-detectors] {
-color: inherit !important;
-text-decoration: none !important;
-font-size: inherit !important;
-font-family: inherit !important;
-font-weight: inherit !important;
-line-height: inherit !important;
-border-bottom: none !important;
-}
-@font-face {
-font-family: 'atizatext';
-src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot');
-src: url('https://static.axios.com/fonts/atizatext-regular-webfont.eot?#iefix') format('embedded-opentype'),
-url('https://static.axios.com/fonts/atizatext-regular-webfont.woff2') format('woff2'),
-url('https://static.axios.com/fonts/atizatext-regular-webfont.woff') format('woff'),
-url('https://static.axios.com/fonts/atizatext-regular-webfont.ttf') format('truetype'),
-url('https://static.axios.com/fonts/atizatext-regular-webfont.svg#atizatext') format('svg');
-font-weight: 300;
-font-style: normal;
-}
-@font-face {
-font-family: 'atizabold';
-src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot');
-src: url('https://static.axios.com/fonts/atizatext-bold-webfont.eot?#iefix') format('embedded-opentype'),
-url('https://static.axios.com/fonts/atizatext-bold-webfont.woff2') format('woff2'),
-url('https://static.axios.com/fonts/atizatext-bold-webfont.woff') format('woff'),
-url('https://static.axios.com/fonts/atizatext-bold-webfont.ttf') format('truetype'),
-url('https://static.axios.com/fonts/atizatext-bold-webfont.svg#atizatext') format('svg');
-font-weight: 300;
-font-style: normal;
-}
-@font-face {
-font-family: 'gordita';
-src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot');
-src: url('https://static.axios.com/fonts/gorditaregular-webfont.eot?#iefix') format('embedded-opentype'),
-url('https://static.axios.com/fonts/gorditaregular-webfont.woff2') format('woff2'),
-url('https://static.axios.com/fonts/gorditaregular-webfont.woff') format('woff'),
-url('https://static.axios.com/fonts/gorditaregular-webfont.ttf') format('truetype'),
-url('https://static.axios.com/fonts/gorditaregular-webfont.svg#gorditaregular') format('svg');
-font-weight: 300;
-font-style: normal;
-}
-@font-face {
-font-family: 'gorditamedium';
-src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot');
-src: url('https://static.axios.com/fonts/gorditamedium-webfont.eot?#iefix') format('embedded-opentype'),
-url('https://static.axios.com/fonts/gorditamedium-webfont.woff2') format('woff2'),
-url('https://static.axios.com/fonts/gorditamedium-webfont.woff') format('woff'),
-url('https://static.axios.com/fonts/gorditamedium-webfont.ttf') format('truetype'),
-url('https://static.axios.com/fonts/gorditamedium-webfont.svg#gorditamedium') format('svg');
-font-weight: 500;
-font-style: normal;
-}
-@font-face {
-font-family: 'gorditabold';
-src: url('https://static.axios.com/fonts/gorditabold-webfont.eot');
-src: url('https://static.axios.com/fonts/gorditabold-webfont.eot?#iefix') format('embedded-opentype'),
-url('https://static.axios.com/fonts/gorditabold-webfont.woff2') format('woff2'),
-url('https://static.axios.com/fonts/gorditabold-webfont.woff') format('woff'),
-url('https://static.axios.com/fonts/gorditabold-webfont.ttf') format('truetype'),
-url('https://static.axios.com/fonts/gorditabold-webfont.svg#gorditabold') format('svg');
-font-weight: 500;
-font-style: normal;
-}
-</style>
-<style type="text/css">
-p {
-margin-top: 0px;
-margin-bottom: 1em;
-}
-p strong {
-font-family: Georgia, serif;
-font-weight: 700;
-}
-.main-header,
-.bodytext {
-font-family: Arial, Helvetica, sans-serif;
-}
-.figcaption {
-color: #848484;
-font-size: 13px;
-font-family:'Gordita',Arial,Helvetica,sans-serif!important;
-margin-bottom: 20px;
-}
-.figcaption + blockquote {
-margin-top: 20px;
-margin-left: 40px;
-}
-.post-text a {
-border-bottom: 1px solid #008dc8;
-text-decoration: none;
-}
-.post-text a:hover {
-color: #008dc8;
-}
-.post-text ul li {
-margin-bottom: 10px;
-}
-a {
-color: #222222;
-}
-.hq-cta a {
-border-bottom: 1px solid #008dc8;
-text-decoration: none;
-}
-.hq-cta a:hover {
-color: #008dc8;
-}
-.gmailfix {
-display:none;
-display:none!important;
-}
-.card-byline {
-text-decoration: underline !important;
-font-size:13px!important;
-font-family:'Gordita',Arial,Helvetica,sans-serif!important;
-color:#333335 !important;
-}
-.card-byline:hover {
-text-decoration: underline;
-}
-@media (max-width: 600px) {
-.hed {
-font-size: 26px !important;
--webkit-text-size-adjust: 100%;
-}
-.main-header {
-font-size: 34px !important;
-}
-.post-text {
-font-size: 17px !important;
--webkit-text-size-adjust: none !important;
-}
-.hq-cta{
-padding: 16px !important;
-}
-.hq-cta img{
-width:64px !important;
-}
-.hq-cta-text-header{
-display:block;
-font-size: 14px !important;
-line-height:17.5px !important;
--webkit-text-size-adjust: 100%;
-}
-.hq-cta-text-body{
-display:block;
-margin-top:8px !important;
-line-height:13.75px !important;
-font-size: 11px !important;
--webkit-text-size-adjust: 100%;
-}
-}
-div > u + .body .gmail{
-display: initial !important;
-}
-</style>
-<link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/>
+<meta content="https://link.axios.com/public/45395977" name="st-public-url"/>
+
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
 <!--[if mso]>
 <style type="text/css">
 .bodytext, .main-header  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
@@ -204,43 +49,30 @@ a {color: #222222; text-decoration:underline !important;}
 </o:OfficeDocumentSettings>
 </xml><![endif]-->
 </head>
-<body style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;" class="body">
+<body class="body" style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;">
 <div style="display:none;font-size:1px;color:#222222;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
 Plus: Adobe, the pope and more | Monday, April 27, 2026
 </div>
-<table cellpadding="0" cellspacing="0" width="100%" style="background-color: #f6f6f6;text-align: center">
+<table cellpadding="0" cellspacing="0" style="background-color: #f6f6f6;text-align: center" width="100%">
 <tr>
 <td style="max-width: 600px;">
 <!--[if mso]>
 <table style="width:600px;"><tr><td>
 <![endif]-->
-<table style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;" cellspacing="0" cellpadding="0">
+<table cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;">
 <tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
+<td height="20" style="height: 20px; font-size: 0;"> </td>
 </tr>
+
 <tr>
-<td style="vertical-align: top;">
-<table cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td style="padding-left: 3.5%">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Bef1f7b98" title="AXIOS" target="_blank"><img src="https://static.axios.com/img-email/axios-retina.png" alt="Axios" width="83" border="0"/></a>  <a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5heGlvcy5jb20_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10B13389de7"><img src="https://link.axios.com/img/69ed94405b9537219f092f10r0zrd.1vgx/f0aefd09.gif" alt="" border="0" /></a>
-</td>
-<td style="padding-right: 3.5%;" align="right">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10B70148242" target="_blank" class="bodytext" style="color: #222222; font-size: 13px; font-family: 'gordita', Arial, Helvetica, sans-serif;text-decoration:underline;">View in browser</a>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td height="30" style="height: 30px; font-size: 0;">&nbsp;</td>
+<td height="30" style="height: 30px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="text-align: center; line-height: 1.3;">
 </td>
 </tr>
 <tr>
-<td height="16" style="height: 16px; font-size: 0;">&nbsp;</td>
+<td height="16" style="height: 16px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="text-align: center; line-height: 1;">
@@ -249,9 +81,9 @@ Plus: Adobe, the pope and more | Monday, April 27, 2026
 </tr>
 <tr>
 <td style="text-align: center; line-height: 1.5; padding-bottom:35px;padding-top:10px;">
-<span class="bodytext"  style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; ">By
+<span class="bodytext" style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; ">By
 Ina Fried and Madison Mills
-<span style="margin: 0 6px;">&middot;</span>
+<span style="margin: 0 6px;">·</span>
 Apr 27, 2026
 </span>
 </td>
@@ -262,10 +94,10 @@ Apr 27, 2026
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="padding: 20px 3.5% 10px; line-height: 1.5;">
@@ -277,16 +109,16 @@ Apr 27, 2026
 <tr>
 <td style="padding: 0 3.5% 10px; line-height: 1.5;">
 <span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">
-By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvbW1pbGxzP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B64f5125d" class="card-byline" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a>
+By <a class="card-byline" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvbW1pbGxzP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B64f5125d" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a>
 </span>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td>
-<img src="https://images.axios.com/XlIsl7Uk9diwAOpDGEhx-zBXg1w=/0x0:1920x1080/1920x1080/2025/07/02/1751484371498.jpeg" width="600" style="width:100%" id="item02" alt="A futuristic scene featuring a humanoid robot sitting in a chair at a modern desk, working on a glowing high-tech computer. The robot is focused on a digital interface displayed on the screen. The background is a teal color with geometric shapes, creating a digital and modern atmosphere.">
+<img alt="A futuristic scene featuring a humanoid robot sitting in a chair at a modern desk, working on a glowing high-tech computer. The robot is focused on a digital interface displayed on the screen. The background is a teal color with geometric shapes, creating a digital and modern atmosphere." id="item02" src="https://images.axios.com/XlIsl7Uk9diwAOpDGEhx-zBXg1w=/0x0:1920x1080/1920x1080/2025/07/02/1751484371498.jpeg" style="width:100%" width="600"/>
 </td>
 </tr>
 <tr>
@@ -300,7 +132,7 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </td>
 </tr>
 <tr>
-<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+<td height="15" style="height: 15px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -309,37 +141,18 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </tr>
 <tr>
 <td align="center" style="padding: 20px 3.5% 25px 3.5%;">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNi9haS1jb3N0LWh1bWFuLXdvcmtlcnM_dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B78f7aa31"
-style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
-alt="Share on Facebook"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1BSSUyMGNhbiUyMGNvc3QlMjBtb3JlJTIwdGhhbiUyMGh1bWFuJTIwd29ya2VycyUyMG5vdyZoYXNodGFncz1heGlvc2FpJTIwJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNi9haS1jb3N0LWh1bWFuLXdvcmtlcnM_dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B3e2ca751"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
-alt="Tweet this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjYvYWktY29zdC1odW1hbi13b3JrZXJzP3V0bV90ZXJtJTNEbGlzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Be07118b3"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
-alt="Post to LinkedIn"></a>
-<a href="mailto:?subject=From Axios: AI can cost more than human workers now&body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAI can cost more than human workers now%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F26%2Fai-cost-human-workers%3Futm_term%3Demshare"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
-alt="Email this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjYvYWktY29zdC1odW1hbi13b3JrZXJzP3V0bV90ZXJtPXNtc3NoYXJlJnNtc3NoYXJlPXRydWUmbmFtZT1BeGlvcyUyMEFJJTJCJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B62480f26"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
-alt="Text this Story"></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNi9haS1jb3N0LWh1bWFuLXdvcmtlcnM_dXRtX3Rlcm0lM0RmYnNvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B78f7aa31" style="display: inline-block;"><img alt="Share on Facebook" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1BSSUyMGNhbiUyMGNvc3QlMjBtb3JlJTIwdGhhbiUyMGh1bWFuJTIwd29ya2VycyUyMG5vdyZoYXNodGFncz1heGlvc2FpJTIwJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNi9haS1jb3N0LWh1bWFuLXdvcmtlcnM_dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B3e2ca751" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjYvYWktY29zdC1odW1hbi13b3JrZXJzP3V0bV90ZXJtJTNEbGlzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Be07118b3" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="mailto:?subject=From Axios: AI can cost more than human workers now&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAI can cost more than human workers now%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F26%2Fai-cost-human-workers%3Futm_term%3Demshare" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjYvYWktY29zdC1odW1hbi13b3JrZXJzP3V0bV90ZXJtPXNtc3NoYXJlJnNtc3NoYXJlPXRydWUmbmFtZT1BeGlvcyUyMEFJJTJCJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B62480f26" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none" target="_blank" width="32"/></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="padding: 20px 3.5% 10px; line-height: 1.5;">
@@ -351,16 +164,16 @@ alt="Text this Story"></a>
 <tr>
 <td style="padding: 0 3.5% 10px; line-height: 1.5;">
 <span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">
-By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvaW5hP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Bffe3279f" class="card-byline" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a>
+By <a class="card-byline" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvaW5hP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Bffe3279f" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a>
 </span>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td>
-<img src="https://images.axios.com/B75NeAaMpKJdxlU2qyuFu6rhVTM=/0x0:3840x2160/1920x1080/2026/04/24/1777066127170.png" width="600" style="width:100%" id="item03" alt="Dark UI mockup of a photo editor titled "Portrait retouch" showing two men in aprons on a purple-to-navy gradient; floating menus show Auto-straighten, Auto-tone, Lens blur, Crop; bottom reads "Retouch this headshot".">
+<img "retouch="" a="" alt="Dark UI mockup of a photo editor titled " aprons="" auto-straighten,="" auto-tone,="" blur,="" bottom="" crop;="" floating="" gradient;="" headshot"."="" id="item03" in="" lens="" men="" menus="" on="" portrait="" purple-to-navy="" reads="" retouch"="" show="" showing="" src="https://images.axios.com/B75NeAaMpKJdxlU2qyuFu6rhVTM=/0x0:3840x2160/1920x1080/2026/04/24/1777066127170.png" style="width:100%" this="" two="" width="600"/>
 </td>
 </tr>
 <tr>
@@ -374,7 +187,7 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </td>
 </tr>
 <tr>
-<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+<td height="15" style="height: 15px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -383,37 +196,18 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </tr>
 <tr>
 <td align="center" style="padding: 20px 3.5% 25px 3.5%;">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNy9hZG9iZS1hZ2VudGljLWFpLWZpcmVmbHktY2xhdWRlP3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10C0a9f9eb7"
-style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
-alt="Share on Facebook"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1FeGNsdXNpdmU6JTIwQWRvYmUlMjBicmluZ3MlMjBhZ2VudGljJTIwQUklMjB0byUyMEZpcmVmbHklMkMlMjB3aXRoJTIwQ2xhdWRlJTIwbmV4dCZoYXNodGFncz1heGlvc2FpJTIwJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNy9hZG9iZS1hZ2VudGljLWFpLWZpcmVmbHktY2xhdWRlP3V0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Cbe49d93a"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
-alt="Tweet this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjcvYWRvYmUtYWdlbnRpYy1haS1maXJlZmx5LWNsYXVkZT91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Ca72ef877"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
-alt="Post to LinkedIn"></a>
-<a href="mailto:?subject=From Axios: Exclusive: Adobe brings agentic AI to Firefly, with Claude next&body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: Adobe brings agentic AI to Firefly, with Claude next%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F27%2Fadobe-agentic-ai-firefly-claude%3Futm_term%3Demshare"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
-alt="Email this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjcvYWRvYmUtYWdlbnRpYy1haS1maXJlZmx5LWNsYXVkZT91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10B55fffdcb"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
-alt="Text this Story"></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNy9hZG9iZS1hZ2VudGljLWFpLWZpcmVmbHktY2xhdWRlP3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10C0a9f9eb7" style="display: inline-block;"><img alt="Share on Facebook" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1FeGNsdXNpdmU6JTIwQWRvYmUlMjBicmluZ3MlMjBhZ2VudGljJTIwQUklMjB0byUyMEZpcmVmbHklMkMlMjB3aXRoJTIwQ2xhdWRlJTIwbmV4dCZoYXNodGFncz1heGlvc2FpJTIwJnVybD1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNy9hZG9iZS1hZ2VudGljLWFpLWZpcmVmbHktY2xhdWRlP3V0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Cbe49d93a" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjcvYWRvYmUtYWdlbnRpYy1haS1maXJlZmx5LWNsYXVkZT91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Ca72ef877" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="mailto:?subject=From Axios: Exclusive: Adobe brings agentic AI to Firefly, with Claude next&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: Adobe brings agentic AI to Firefly, with Claude next%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F27%2Fadobe-agentic-ai-firefly-claude%3Futm_term%3Demshare" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjcvYWRvYmUtYWdlbnRpYy1haS1maXJlZmx5LWNsYXVkZT91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10B55fffdcb" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none" target="_blank" width="32"/></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="padding: 20px 3.5% 10px; line-height: 1.5;">
@@ -425,16 +219,16 @@ alt="Text this Story"></a>
 <tr>
 <td style="padding: 0 3.5% 10px; line-height: 1.5;">
 <span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">
-By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvcmNvbnRyZXJhcz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Bb8558e26" class="card-byline" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Russell Contreras</a>
+By <a class="card-byline" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2F1dGhvcnMvcmNvbnRyZXJhcz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Bb8558e26" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Russell Contreras</a>
 </span>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td>
-<img src="https://images.axios.com/IXTZyWpxtysL4fl1Y1gLL6TWVMA=/0x0:1920x1080/1920x1080/2026/04/20/1776717733726.jpeg" width="600" style="width:100%" id="item04" alt="Illustration of the Holy See seal, with the keys replaced with key shapes made from 0's and 1's. ">
+<img alt="Illustration of the Holy See seal, with the keys replaced with key shapes made from 0's and 1's. " id="item04" src="https://images.axios.com/IXTZyWpxtysL4fl1Y1gLL6TWVMA=/0x0:1920x1080/1920x1080/2026/04/20/1776717733726.jpeg" style="width:100%" width="600"/>
 </td>
 </tr>
 <tr>
@@ -448,7 +242,7 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </td>
 </tr>
 <tr>
-<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+<td height="15" style="height: 15px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -457,43 +251,22 @@ By <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3Mu
 </tr>
 <tr>
 <td align="center" style="padding: 20px 3.5% 25px 3.5%;">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNC9jYXRob2xpY3MtcG9wZS12YXRpY2FuLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlP3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10D0c5dc620"
-style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
-alt="Share on Facebook"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UaGUlMjBwb3BlJTIwbW92ZXMlMjB0byUyMHBvbGljZSUyMEFJJmhhc2h0YWdzPWF4aW9zYWklMjAmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI2LzA0LzI0L2NhdGhvbGljcy1wb3BlLXZhdGljYW4tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2U_dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Dba14d07b"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
-alt="Tweet this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjQvY2F0aG9saWNzLXBvcGUtdmF0aWNhbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZT91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Df00ca27b"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
-alt="Post to LinkedIn"></a>
-<a href="mailto:?subject=From Axios: The pope moves to police AI&body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AThe pope moves to police AI%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F24%2Fcatholics-pope-vatican-artificial-intelligence%3Futm_term%3Demshare"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
-alt="Email this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjQvY2F0aG9saWNzLXBvcGUtdmF0aWNhbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZT91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10B9453b733"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
-alt="Text this Story"></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vMjAyNi8wNC8yNC9jYXRob2xpY3MtcG9wZS12YXRpY2FuLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlP3V0bV90ZXJtJTNEZmJzb2NpYWxzaGFyZSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10D0c5dc620" style="display: inline-block;"><img alt="Share on Facebook" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UaGUlMjBwb3BlJTIwbW92ZXMlMjB0byUyMHBvbGljZSUyMEFJJmhhc2h0YWdzPWF4aW9zYWklMjAmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI2LzA0LzI0L2NhdGhvbGljcy1wb3BlLXZhdGljYW4tYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2U_dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Dba14d07b" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjQvY2F0aG9saWNzLXBvcGUtdmF0aWNhbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZT91dG1fdGVybSUzRGxpc29jaWFsc2hhcmUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Df00ca27b" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="mailto:?subject=From Axios: The pope moves to police AI&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AThe pope moves to police AI%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F04%2F24%2Fcatholics-pope-vatican-artificial-intelligence%3Futm_term%3Demshare" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tLzIwMjYvMDQvMjQvY2F0aG9saWNzLXBvcGUtdmF0aWNhbi1hcnRpZmljaWFsLWludGVsbGlnZW5jZT91dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10B9453b733" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none" target="_blank" width="32"/></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="20" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="20" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;">
-<p class="bodytext"
-style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
->
+<p class="bodytext" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
 A MESSAGE FROM AXIOS
 </p>
 </td>
@@ -504,15 +277,15 @@ A MESSAGE FROM AXIOS
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td>
-<img src="https://images.axios.com/Sdo9zvYd_z5PCInNsXJTb0-4UUs=/2026/03/17/1773759762770.gif" alt="" width="600" style="width:100%" />
-</td>
+<img alt="" src="https://images.axios.com/Sdo9zvYd_z5PCInNsXJTb0-4UUs=/2026/03/17/1773759762770.gif" style="width:100%" width="600">
+</img></td>
 </tr>
 <tr>
-<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+<td height="15" style="height: 15px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -533,10 +306,10 @@ published on <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="padding: 20px 3.5% 10px; line-height: 1.5;">
@@ -546,7 +319,7 @@ published on <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -555,37 +328,18 @@ published on <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3
 </tr>
 <tr>
 <td align="center" style="padding: 20px 3.5% 25px 3.5%;">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtYWktcGx1cy05MDdlM2YxMC0zZmZiLTExZjEtYmYzYS0yM2RjYWRhNjUzZTMuaHRtbD9jaHVuayUzRDQlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTQmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10E272f6c55"
-style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
-alt="Share on Facebook"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UcmFpbmluZyUyMGRhdGEmaGFzaHRhZ3M9YXhpb3NhaSUyMCZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Edf5c4c44"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
-alt="Tweet this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10E046cc1db"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
-alt="Post to LinkedIn"></a>
-<a href="mailto:?subject=From Axios: Training data&body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-907e3f10-3ffb-11f1-bf3a-23dcada653e3.html%3Fchunk%3D4%26utm_term%3Demshare%23story4"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
-alt="Email this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bms9NCZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3Ajc3Rvcnk0/69ed94405b9537219f092f10B17bc2ea1"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
-alt="Text this Story"></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtYWktcGx1cy05MDdlM2YxMC0zZmZiLTExZjEtYmYzYS0yM2RjYWRhNjUzZTMuaHRtbD9jaHVuayUzRDQlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTQmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10E272f6c55" style="display: inline-block;"><img alt="Share on Facebook" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1UcmFpbmluZyUyMGRhdGEmaGFzaHRhZ3M9YXhpb3NhaSUyMCZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0R0d3NvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10Edf5c4c44" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q0JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk0JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10E046cc1db" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-907e3f10-3ffb-11f1-bf3a-23dcada653e3.html%3Fchunk%3D4%26utm_term%3Demshare%23story4" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bms9NCZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3Ajc3Rvcnk0/69ed94405b9537219f092f10B17bc2ea1" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none" target="_blank" width="32"/></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td style="padding: 20px 3.5% 10px; line-height: 1.5;">
@@ -595,7 +349,7 @@ alt="Text this Story"></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -604,43 +358,22 @@ alt="Text this Story"></a>
 </tr>
 <tr>
 <td align="center" style="padding: 20px 3.5% 25px 3.5%;">
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtYWktcGx1cy05MDdlM2YxMC0zZmZiLTExZjEtYmYzYS0yM2RjYWRhNjUzZTMuaHRtbD9jaHVuayUzRDUlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10F6f790664"
-style="display: inline-block;"><img width="32" height="32" style="border: none" target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png"
-alt="Share on Facebook"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMkIlMjBUaGlzJmhhc2h0YWdzPWF4aW9zYWklMjAmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1haS1wbHVzLTkwN2UzZjEwLTNmZmItMTFmMS1iZjNhLTIzZGNhZGE2NTNlMy5odG1sP2NodW5rJTNENSUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5NSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10F83868ecb"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png"
-alt="Tweet this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q1JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk1JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10F8394af9c"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png"
-alt="Post to LinkedIn"></a>
-<a href="mailto:?subject=From Axios: + This&body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-907e3f10-3ffb-11f1-bf3a-23dcada653e3.html%3Fchunk%3D5%26utm_term%3Demshare%23story5"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png"
-alt="Email this Story"></a>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bms9NSZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3Ajc3Rvcnk1/69ed94405b9537219f092f10Bd2ddd9ec"
-style="display: inline-block; margin-left: 7px"><img width="32" height="32" style="border: none"
-target="_blank"
-src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png"
-alt="Text this Story"></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci5waHA_dT1odHRwczovL3d3dy5heGlvcy5jb20vbmV3c2xldHRlcnMvYXhpb3MtYWktcGx1cy05MDdlM2YxMC0zZmZiLTExZjEtYmYzYS0yM2RjYWRhNjUzZTMuaHRtbD9jaHVuayUzRDUlMjZ1dG1fdGVybSUzRGZic29jaWFsc2hhcmUlMjNzdG9yeTUmdXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10F6f790664" style="display: inline-block;"><img alt="Share on Facebook" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD0lMkIlMjBUaGlzJmhhc2h0YWdzPWF4aW9zYWklMjAmdXJsPWh0dHBzOi8vd3d3LmF4aW9zLmNvbS9uZXdzbGV0dGVycy9heGlvcy1haS1wbHVzLTkwN2UzZjEwLTNmZmItMTFmMS1iZjNhLTIzZGNhZGE2NTNlMy5odG1sP2NodW5rJTNENSUyNnV0bV90ZXJtJTNEdHdzb2NpYWxzaGFyZSUyM3N0b3J5NSZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10F83868ecb" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vc2hhcmVBcnRpY2xlP21pbmk9dHJ1ZSZ1cmw9aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bmslM0Q1JTI2dXRtX3Rlcm0lM0RsaXNvY2lhbHNoYXJlJTIzc3Rvcnk1JnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10F8394af9c" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-907e3f10-3ffb-11f1-bf3a-23dcada653e3.html%3Fchunk%3D5%26utm_term%3Demshare%23story5" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none" target="_blank" width="32"/></a>
+<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzL2F4aW9zLWFpLXBsdXMtOTA3ZTNmMTAtM2ZmYi0xMWYxLWJmM2EtMjNkY2FkYTY1M2UzLmh0bWw_Y2h1bms9NSZ1dG1fdGVybT1zbXNzaGFyZSZzbXNzaGFyZT10cnVlJm5hbWU9QXhpb3MlMjBBSSUyQiZ1dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3Ajc3Rvcnk1/69ed94405b9537219f092f10Bd2ddd9ec" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" height="32" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none" target="_blank" width="32"/></a>
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
-<td height="20" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="20" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;">
-<p class="bodytext"
-style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;"
->
+<p class="bodytext" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
 A MESSAGE FROM AXIOS
 </p>
 </td>
@@ -651,15 +384,15 @@ A MESSAGE FROM AXIOS
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td>
-<img src="https://images.axios.com/Sdo9zvYd_z5PCInNsXJTb0-4UUs=/2026/03/17/1773759762770.gif" alt="" width="600" style="width:100%" />
-</td>
+<img alt="" src="https://images.axios.com/Sdo9zvYd_z5PCInNsXJTb0-4UUs=/2026/03/17/1773759762770.gif" style="width:100%" width="600">
+</img></td>
 </tr>
 <tr>
-<td height="15" style="height: 15px; font-size: 0;">&nbsp;</td>
+<td height="15" style="height: 15px; font-size: 0;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;">
@@ -680,7 +413,7 @@ published on <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3
 </td>
 </tr>
 <tr>
-<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;">&nbsp;</td>
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;"> </td>
 </tr>
 <tr>
 <td class="post-text" style="padding: 20px 3.5% 10px 3.5%; margin: 0; line-height: 1.75; border-bottom: 10px solid #f5f5f5; font-size: 16px; color: #222222; letter-spacing: -0.1px; font-family: Georgia, serif;">
@@ -688,9 +421,7 @@ published on <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3
 </td>
 </tr>
 <tr>
-<td
-class="hq-cta"
-style="
+<td class="hq-cta" style="
 padding: 24px 4% 24px 4%;
 margin: 0;
 line-height: 1.75;
@@ -698,34 +429,17 @@ font-size: 16px;
 color: #222222;
 letter-spacing: -0.1px;
 font-family: Arial, sans-serif;
-"
->
-<table
-width="100%"
-style="margin: 0 auto; width: 100%"
-cellspacing="0"
-cellpadding="0"
->
+">
+<table cellpadding="0" cellspacing="0" style="margin: 0 auto; width: 100%" width="100%">
 <tr>
 <td style="font-size: 0">
-<img
-src=https://static.axios.com/img-email/smart-brevity.gif
-style="width: 100%; max-width: 87px; min-width: 64px"
-border="0"
-alt=HQ
-width="87"
-/>
-</td>
+<img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width: 100%; max-width: 87px; min-width: 64px" width="87">
+</img></td>
 <td>
-<table
-width="100%"
-style="max-width: 600px; margin: 0 auto; width: 100%"
-cellspacing="0"
-cellpadding="0"
->
+<table cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; width: 100%" width="100%">
 <tr>
-<td style="padding-left: 20px; font-family: 'NB International Pro', 'Helvetica', 'Helvetica Neue'" class="hq-cta-text">
-<div style="font-size: 17px; color: #333335" class="hq-cta-text-header">👆 Like this comms style and format?</div><div style="padding-top: 6px; font-size: 14px; color: #656568; line-height: 1.5" class="hq-cta-text-body">It's called Smart Brevity®. <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZGVtbz91dG1fc291cmNlPWF4aW9zLW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXhpb3NocS1ubC1mb290ZXImc3RyZWFtPXRvcA/69ed94405b9537219f092f10Bbfc91596">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div>
+<td class="hq-cta-text" style="padding-left: 20px; font-family: 'NB International Pro', 'Helvetica', 'Helvetica Neue'">
+<div class="hq-cta-text-header" style="font-size: 17px; color: #333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top: 6px; font-size: 14px; color: #656568; line-height: 1.5">It's called Smart Brevity®. <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3NocS5jb20vZGVtbz91dG1fc291cmNlPWF4aW9zLW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YXhpb3NocS1ubC1mb290ZXImc3RyZWFtPXRvcA/69ed94405b9537219f092f10Bbfc91596">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div>
 </td>
 </tr>
 </table>
@@ -737,77 +451,20 @@ cellpadding="0"
 </table>
 <!-- End email content -->
 <!-- Start footer -->
-<table style="max-width:600px; margin: 0 auto; width: 100%;" cellspacing="0" cellpadding="0">
-<tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
-</tr>
-<tr>
-<td align="center" style="padding: 0 5%; line-height: 1.75;">
-<span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;">
-<p>Axios thanks our partners for supporting our newsletters.
-<br> Sponsorship has no influence on editorial content.
-<br><a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FkdmVydGlzZT91dG1fc291cmNlPWF4aW9zJnV0bV9tZWRpdW09bmwtZm9vdGVyJnV0bV9jYW1wYWlnbj1hZHYtbmwtZm9vdGVyJnN0cmVhbT10b3A/69ed94405b9537219f092f10B4dc803a9" style="color: #333335;">Advertise with us</a>.</p>
-</span>
-<span class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;">
-Axios, PO Box 101060, Arlington VA 22201
-</span>
-</td>
-</tr>
-<tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
-</tr>
-<tr>
-<td align="center" style="padding: 0 5%; line-height: 1.2;">
-<span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;">
-You received this email because you signed up for newsletters from Axios.<br>
-To stop receiving this newsletter, <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucy9jb25maXJtYXRpb24_bmFtZT1BeGlvcyUyMEFJJTIwJmxpc3ROYW1lPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzaWQ9NjllZDk0NDA1Yjk1MzcyMTlmMDkyZjEwJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B1f6257d3" style="color: #333335;">unsubscribe</a> or <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Bea4938bc" style="color: #333335;">manage your email preferences</a>.
-<!-- To stop receiving this newsletter, <a href="https://link.axios.com/oc/69ed94405b9537219f092f10r0zrd.1vgx/a29d1b7b" style="color: #333335;">unsubscribe</a> or <a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL2FjY291bnQvc3Vic2NyaXB0aW9ucz91dG1fc291cmNlPW5ld3NsZXR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249bmV3c2xldHRlcl9heGlvc2xvZ2luJnN0cmVhbT10b3A/69ed94405b9537219f092f10Cea4938bc" style="color: #333335;">manage your email preferences</a>. -->
-</span>
-</td>
-</tr>
-<tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
-</tr>
-<tr>
-<td align="center" style="padding: 0 5%; line-height: 1.2;">
-<span class="bodytext" style="font-size: 12px; line-height: 1.2; color: #333335;">
-Was this email forwarded to you?<br>
-<a href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuYXhpb3MuY29tL25ld3NsZXR0ZXJzP3V0bV9zb3VyY2U9bmV3c2xldHRlcl9zaGFyZT91dG1fc291cmNlJTNEZm9yd2FyZGVkX2VtYWlsJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Bc7c4254d" style="color: #333335;">Sign up now</a> to get Axios in your inbox.
-</span>
-</td>
-</tr>
-<tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
-</tr>
-<tr>
-<td height="30" align="center">
-<p class="bodytext" style="font-size: 12px; line-height: 1.75; color: #333335;">Follow Axios on social media:</p>
-<a target="_blank" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2F4aW9zbmV3cy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Bbc1316bf"><img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" height="32" alt="Axios on Facebook" style="border: 0; padding-right: 20px;" /></a>
-<a target="_blank" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cudHdpdHRlci5jb20vYXhpb3MvP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1uZXdzbGV0dGVyX2F4aW9zbG9naW4mc3RyZWFtPXRvcA/69ed94405b9537219f092f10B5528a27f"><img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" height="32" alt="Axios on X" style="border: 0; padding-right: 20px;" /></a>
-<a target="_blank" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9heGlvcy8_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10B51a1cdb9"><img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" height="32" alt="Axios on Instagram" style="border: 0; padding-right: 20px;" /></a>
-<a target="_blank" href="https://link.axios.com/click/45395977.87441/aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvYXhpb3MtbWVkaWE_dXRtX3NvdXJjZT1uZXdzbGV0dGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPW5ld3NsZXR0ZXJfYXhpb3Nsb2dpbiZzdHJlYW09dG9w/69ed94405b9537219f092f10Bc5987036"><img src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" height="32" alt="Axios on LinkedIn" style="border: 0;" /></a>
-</td>
-</tr>
-<tr>
-<td height="20" style="height: 20px; font-size: 0;">&nbsp;</td>
-</tr>
-<tr>
-<td height="70" style="height: 70px; font-size: 0;">&nbsp;</td>
-</tr>
-</table>
+
 <!-- End footer -->
 </td>
 </tr>
 </table>
 <div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                             
 </div>
-<a style="color: #f5f5f5" href=https://link.axios.com/oc/69ed94405b9537219f092f10r0zrd.1vgx/a29d1b7b> </a>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10r0zrd.1vgx/a29d1b7b" style="color: #f5f5f5"> </a>
 </body>
 </html>
 ]]></content:encoded>
       <guid isPermaLink="false">20260427092910.45395977.87441@sailthru.com</guid>
-      <enclosure url="https://static.axios.com/img-email/axios-retina.png" length="0" type="image/jpeg"/>
+      <enclosure url="https://images.axios.com/XlIsl7Uk9diwAOpDGEhx-zBXg1w=/0x0:1920x1080/1920x1080/2025/07/02/1751484371498.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 27 Apr 2026 09:29:10 -0400</pubDate>
     </item>
   </channel>
