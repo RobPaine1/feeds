@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/coefficient-giving-farm-animal-welfare.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!s6s1!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e1298b-7a02-496b-86d5-16686369920d_512x512.jpeg</url>
+      <title>Coefficient Giving farm animal welfare newsletter</title>
+      <link>https://farmanimalwelfare.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:15 +0000</lastBuildDate>
     <item>
       <title>What happened to plant-based meat?</title>
       <link>https://farmanimalwelfare.substack.com/p/what-happened-to-plant-based-meat</link>

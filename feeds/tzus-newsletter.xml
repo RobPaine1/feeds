@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/tzus-newsletter.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!p6JH!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82b4105-a6f8-42c5-9f6d-3c9d27a5e3ec_500x500.png</url>
+      <title>Tzu's Newsletter</title>
+      <link>https://tzukit.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:17 +0000</lastBuildDate>
     <item>
       <title>Coming soon</title>
       <link>https://tzukit.substack.com/p/coming-soon</link>

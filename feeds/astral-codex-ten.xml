@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/astral-codex-ten.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!bGN2!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F430241cb-ade5-4316-b1c9-6e3fe6e63e5e_256x256.png</url>
+      <title>Astral Codex Ten</title>
+      <link>https://www.astralcodexten.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:11 +0000</lastBuildDate>
     <item>
       <title>Every Debate On Pausing AI</title>
       <link>https://www.astralcodexten.com/p/every-debate-on-pausing-ai</link>

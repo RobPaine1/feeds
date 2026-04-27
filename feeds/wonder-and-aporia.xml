@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/wonder-and-aporia.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!efY2!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cffc056-cf15-482f-8c42-ddc6cc33a6ca_1280x1280.png</url>
+      <title>Wonder and Aporia</title>
+      <link>https://wonderandaporia.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:11 +0000</lastBuildDate>
     <item>
       <title>All Religions or No Religions</title>
       <link>https://wonderandaporia.substack.com/p/all-religions-or-no-religions</link>

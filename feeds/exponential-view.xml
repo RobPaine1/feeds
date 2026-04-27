@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/exponential-view.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!v0nk!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46fc2cf0-7745-4c27-8875-94a97cb1fc9f_900x900.png</url>
+      <title>Exponential View</title>
+      <link>https://www.exponentialview.co/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:18 +0000</lastBuildDate>
     <item>
       <title>📈 Data to start your week: The AI buildout</title>
       <link>https://www.exponentialview.co/p/data-to-start-your-week-data-centers</link>

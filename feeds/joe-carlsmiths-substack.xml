@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/joe-carlsmiths-substack.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!0n9O!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe108b95c-c73a-4845-ab3f-25dc68188cd1_1280x1280.png</url>
+      <title>Joe Carlsmith's Substack</title>
+      <link>https://joecarlsmith.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:19 +0000</lastBuildDate>
     <item>
       <title>Fake thinking and real thinking</title>
       <link>https://joecarlsmith.substack.com/p/fake-thinking-and-real-thinking</link>

@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/benthams-bulldog.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!5mRm!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc25749bc-5438-4e90-93e1-e7183c681d7b_960x960.png</url>
+      <title>Bentham's Bulldog</title>
+      <link>https://benthams.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:13 +0000</lastBuildDate>
     <item>
       <title>Burn The Stars</title>
       <link>https://benthams.substack.com/p/burn-the-stars</link>

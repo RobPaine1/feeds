@@ -97,6 +97,34 @@ def first_image_from_html(raw: str) -> Optional[str]:
     return m.group(1) if m else None
 
 
+def extract_channel_image(feed_meta) -> Optional[str]:
+    """Best-effort channel image URL from a parsed feed's metadata.
+
+    Tries, in order:
+      1. ``<channel><image><url>`` (standard RSS publication logo)
+      2. ``<itunes:image href="...">`` (podcast/show image — Substack puts the
+         author photo here on podcast-enabled feeds)
+      3. ``<logo>`` (Atom)
+      4. ``<icon>`` (Atom favicon)
+    Returns the first non-empty hit, or None.
+    """
+    if not feed_meta:
+        return None
+    img = feed_meta.get("image")
+    if isinstance(img, dict):
+        for key in ("url", "href", "link"):
+            v = img.get(key)
+            if v:
+                return v
+    elif isinstance(img, str) and img:
+        return img
+    for key in ("logo", "icon"):
+        v = feed_meta.get(key)
+        if v:
+            return v
+    return None
+
+
 def parse_pubdate(value: Optional[str]) -> Optional[datetime]:
     if not value:
         return None
@@ -400,6 +428,20 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
     fg.language("en")
     if author:
         fg.author({"name": author})
+    # Channel-level image — NetNewsWire and other readers display this as the
+    # feed's avatar/logo. Pulled from the source feed's own metadata so we
+    # inherit whatever Substack/Atom feed publishes (publication logo, author
+    # photo, etc.).
+    channel_image = extract_channel_image(getattr(parsed, "feed", None))
+    if channel_image:
+        try:
+            fg.image(
+                url=channel_image,
+                title=name,
+                link=homepage or feed_url,
+            )
+        except Exception:  # noqa: BLE001 — feedgen sometimes rejects odd URLs
+            pass
 
     kept = 0
     dropped = 0

@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-power-law.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!nmb2!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9e3a858-cfa5-4979-a32a-a1c165569572_250x250.png</url>
+      <title>The Power Law</title>
+      <link>https://peterwildeford.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:16 +0000</lastBuildDate>
     <item>
       <title>Z.ai and Huawei aren't defeating US export controls</title>
       <link>https://blog.peterwildeford.com/p/zai-and-huawei-arent-defeating-us</link>

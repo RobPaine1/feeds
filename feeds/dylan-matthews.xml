@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/dylan-matthews.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!8Zd-!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac31b39f-e57f-471b-8068-fb9dee346a10_1024x1024.png</url>
+      <title>Dylan Matthews</title>
+      <link>https://dylanmatthews.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:12 +0000</lastBuildDate>
     <item>
       <title>So It's Come to This: A Dylan Matthews Substack</title>
       <link>https://dylanmatthews.substack.com/p/so-its-come-to-this-a-dylan-matthews</link>

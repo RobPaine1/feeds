@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/rising-tide.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!v5jt!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef4e7f08-6cb6-4b12-b592-806a8f2357b0_1280x1280.png</url>
+      <title>Rising Tide</title>
+      <link>https://helentoner.substack.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:16 +0000</lastBuildDate>
     <item>
       <title>"Long" timelines to advanced AI have gotten crazy short</title>
       <link>https://helentoner.substack.com/p/long-timelines-to-advanced-ai-have</link>

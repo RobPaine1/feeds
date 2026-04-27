@@ -7,8 +7,13 @@
     <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/cartoons-hate-her.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://substackcdn.com/image/fetch/$s_!jz8r!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef11712-8048-4475-b1ad-763ffa768869_500x500.png</url>
+      <title>Cartoons Hate Her</title>
+      <link>https://www.cartoonshateher.com/</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:49:14 +0000</lastBuildDate>
     <item>
       <title>Many Such Takes: Reflect on the Blowjob, Barbie Dream Fest, Aham Biopic, and More</title>
       <link>https://www.cartoonshateher.com/p/many-such-takes-reflect-on-the-blowjob</link>
