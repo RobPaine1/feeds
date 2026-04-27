@@ -8,12 +8,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 14:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:59:57 +0000</lastBuildDate>
     <item>
       <title>Coming soon</title>
       <link>https://tzukit.substack.com/p/coming-soon</link>
       <description>This is Tzu's Newsletter.</description>
-      <content:encoded><![CDATA[<p>This is Tzu's Newsletter.</p><p class="button-wrapper"><a class="button primary" href="https://tzukit.substack.com/subscribe"><span>Subscribe now</span></a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>This is Tzu's Newsletter.</p><p class="button-wrapper"><a class="button primary" href="https://tzukit.substack.com/subscribe?"><span>Subscribe now</span></a></p>]]></content:encoded>
       <guid isPermaLink="false">https://tzukit.substack.com/p/coming-soon</guid>
       <category>Effective Altruism</category>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!p6JH!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc82b4105-a6f8-42c5-9f6d-3c9d27a5e3ec_500x500.png" length="0" type="image/jpeg"/>

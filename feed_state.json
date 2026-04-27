@@ -1,361 +1,326 @@
 {
   "adits-substack": {
-    "etag": "W/\"860e4-BIBiloyvHTosHXkjmxnACyIYl6E\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"860e4-lXf3AHN8uyFFkVDzoUMxRVKudIU\"",
+    "fail_count": 0,
     "latest_post": "2026-04-26T13:03:10+00:00",
     "modified": null
   },
   "ai-policy-perspectives": {
-    "etag": "W/\"aa3e8-SkGoHxzj4MoWmd8XtToMTkzrlzE\"",
+    "etag": "W/\"aa3e8-j5Q0LYhF88ES2VSua5IWOYb1LEg\"",
     "fail_count": 0,
     "latest_post": "2026-04-22T09:48:49+00:00",
     "modified": null
   },
   "aidans-soupstack": {
-    "etag": "W/\"729a2-aewKR6fJvJyHT/RU9zyI8t/oMMg\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"729a2-qE35/PzDMfWt7voorzB1C4XX2xA\"",
+    "fail_count": 0,
     "latest_post": "2025-10-27T09:13:28+00:00",
     "modified": null
   },
   "amateur-amateur": {
-    "etag": "W/\"28d5e-aFGARI1X3YTg70obfUL+PzOPlN0\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"28d5e-uLk7HCyESOpJJTzOAAf6vzmWDMU\"",
+    "fail_count": 0,
     "latest_post": "2026-02-14T10:01:41+00:00",
     "modified": null
   },
   "andy-masley": {
-    "etag": "W/\"1419e4-X0otehMa3IsOvUk/zBMKDHO/VFc\"",
+    "etag": "W/\"1419e4-Keecn0kdsq47bcPNM5Zcl4KoSXc\"",
     "fail_count": 0,
     "latest_post": "2026-04-24T04:21:51+00:00",
     "modified": null
   },
   "asimov-press": {
-    "etag": "W/\"14fb08-6UEmI13kF5IrKj3fWrSKa+Vnczc\"",
+    "etag": "W/\"14fb08-bHs1B1sXD7EW6Gf/s5rEutgCNU0\"",
     "fail_count": 0,
     "latest_post": "2026-04-07T19:30:22+00:00",
     "modified": null
   },
   "asterisk-magazine": {
-    "etag": "W/\"cefdc-iikGlW6mAvcMj1OqYEFSKyw1uho\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"cefdc-AApMC6cgKB42+x/9lyyMzzov/Ho\"",
+    "fail_count": 0,
     "latest_post": "2026-04-22T12:04:10+00:00",
     "modified": null
   },
   "astral-codex-ten": {
-    "etag": "W/\"62dc0-x6oc7WLNZfGUpSY0850u73zT1c0\"",
+    "etag": "W/\"62dc0-HSgzAKQuGZfCPQS/S6QLlK/g4To\"",
     "fail_count": 0,
     "latest_post": "2026-04-27T12:50:10+00:00",
     "modified": null
   },
   "benthams-bulldog": {
-    "etag": "W/\"6a58d-e8cKzThtUWYj4/PCX8IZlRrvfRY\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
-    "latest_post": "2026-04-25T15:47:18+00:00",
+    "etag": "W/\"6c833-ijSwDH2gpcLtthzLCWaXdnwkSZg\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-27T15:23:30+00:00",
     "modified": null
   },
   "big-iff-true": {
-    "etag": "W/\"d9460-HN4wAyA2P9O/QgOHMxl1gKkXlW0\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
-    "latest_post": "2026-04-20T10:45:33+00:00",
+    "etag": "W/\"dc134-+pfhxJwbj1aFFSN9gNujaKci7bw\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-27T09:45:51+00:00",
     "modified": null
   },
   "both-and": {
-    "etag": "W/\"1667c-XdPAuZCbsPa+xtWWUe1G1L0+yC4\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"1667c-R76hBXRtXuNrPEvwDsYCuGZRfOk\"",
+    "fail_count": 0,
     "latest_post": "2026-03-31T21:28:32+00:00",
     "modified": null
   },
   "cartoons-hate-her": {
-    "etag": "W/\"8f407-IzNZ90YepeUjZi7GfXriX8AW41w\"",
+    "etag": "W/\"8f407-p2lwutDIlUbYpgkgr+WnilGTKkU\"",
     "fail_count": 0,
     "latest_post": "2026-04-27T11:03:28+00:00",
     "modified": null
   },
   "clear-eyed-ai": {
-    "etag": "W/\"11fb77-Ej0YLsLQJRmIQAdGsObeHwLffns\"",
+    "etag": "W/\"11fb77-S+n7qpmCdq1YNDXadjTagTchXMA\"",
     "fail_count": 0,
     "latest_post": "2026-04-25T02:31:11+00:00",
     "modified": null
   },
   "coefficient-giving-farm-animal-welfare": {
-    "etag": "W/\"93895-XFciifc5KXj3fjdMFjrekc+sYmA\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"93895-IgfIKKWOC7gGq7aUju9HcclJWdM\"",
+    "fail_count": 0,
     "latest_post": "2026-03-12T14:58:01+00:00",
     "modified": null
   },
   "david-oks": {
-    "etag": "W/\"d7728-m0XOmAF38r8mivYrEgMsWtodiOA\"",
+    "etag": "W/\"d7728-sgBTcE5yfz4SwDUI+BD5GzE2xos\"",
     "fail_count": 0,
     "latest_post": "2026-04-09T18:06:45+00:00",
     "modified": null
   },
   "dylan-matthews": {
-    "etag": "W/\"15884-AmD1sSbzjvKraSQGo7HbkVHh0R4\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"15884-fDBGPQ0zAUCGmBHt0NiVixYixHs\"",
+    "fail_count": 0,
     "latest_post": "2026-04-15T13:02:23+00:00",
     "modified": null
   },
   "exponential-view": {
-    "etag": "W/\"48e0d-in/d7Cy4Kdh3HBzhEFZpK3ltOgk\"",
+    "etag": "W/\"48e0d-H7F891XEhipPS0QKFzs3XMVeRl0\"",
     "fail_count": 0,
     "latest_post": "2026-04-26T02:40:51+00:00",
     "modified": null
   },
   "forethought": {
-    "etag": "W/\"97769-whTGUiQO74ZYrUfaBPiHwvh9nSA\"",
+    "etag": "W/\"97769-nl5eC3zm/JGDcM7hNwJ1uoD5oRM\"",
     "fail_count": 0,
     "latest_post": "2026-04-24T17:07:42+00:00",
     "modified": null
   },
   "from-matter": {
-    "etag": "W/\"38ac9-NQC7evMx0yc2mi/QOkq84oswKM4\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"38ac9-vsPMy/3OIo59zcCKhGPA/7jzJzE\"",
+    "fail_count": 0,
     "latest_post": "2026-04-12T10:01:20+00:00",
     "modified": null
   },
   "going-awol": {
-    "etag": "W/\"624a6-pbLnU1ASfKJjcOLI4XN7tKofoqc\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"624a6-aIQIfww4yuoOX8kO7uJaMrwro8g\"",
+    "fail_count": 0,
     "latest_post": "2026-03-29T23:49:21+00:00",
     "modified": null
   },
   "good-bones": {
-    "etag": "W/\"26b7f-Y6X6RU6Fl45sjUHDGHwynyOQizQ\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"26b7f-+E9AziSRmTjau0o4CMVOkhl2/K8\"",
+    "fail_count": 0,
     "latest_post": "2026-04-24T14:03:32+00:00",
     "modified": null
   },
   "hyperdimensional": {
-    "etag": "W/\"60b1c-KOycJIoZk3Y7Yh2jXTw1PQ/FwKU\"",
+    "etag": "W/\"60b1c-ccUdUxk7AGXRtkm4HwjrMCHmoHU\"",
     "fail_count": 0,
     "latest_post": "2026-04-08T14:16:21+00:00",
     "modified": null
   },
   "in-development-magazine": {
-    "etag": "W/\"1f478-758Xz2ZjlwNHn/svfoC6MPLJznQ\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"1f478-pHdOyKLeMcCTHHITd3fwksVnZXQ\"",
+    "fail_count": 0,
     "latest_post": "2026-04-23T09:02:25+00:00",
     "modified": null
   },
   "jasmines-substack": {
-    "etag": "W/\"117bb1-qfrEyHojboupBStAkZrpgctGim0\"",
+    "etag": "W/\"117bb1-F1O1ZN/akgdaLUraSCZMI6m7Cpo\"",
     "fail_count": 0,
     "latest_post": "2026-04-13T15:31:00+00:00",
     "modified": null
   },
   "joe-carlsmiths-substack": {
-    "etag": "W/\"2b8aeb-FzCl+dprsi+8tuqCx9cjSMT3Q7o\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"2b8aeb-P2R8AaCF/YKmVNFDgOyrm9ktpQE\"",
+    "fail_count": 0,
     "latest_post": "2026-04-09T17:16:30+00:00",
     "modified": null
   },
   "kailer": {
-    "etag": "W/\"1b6c-P9UA80jH2dsSeABcHaVEStbxEnk\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"1b6c-gUcexmdRS5mN25j1DA4WNrRvm24\"",
+    "fail_count": 0,
     "latest_post": "2026-02-23T15:02:59+00:00",
     "modified": null
   },
   "knowingless": {
-    "etag": "W/\"cfa05-nYt41JpPKPr6DLQWvpLrT26fYFM\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"cfa05-cpNtaMc4mlX9mecwOhCo9A3qWZQ\"",
+    "fail_count": 0,
     "latest_post": "2026-04-23T01:49:58+00:00",
     "modified": null
   },
   "marina-bolotnikova": {
-    "etag": "W/\"bfb2-CyuBNAFDvxDwRdaiEczq3Vn7jC0\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"bfb2-Lnq7m6y/vTU6K+wZCYNEfqgUoKI\"",
+    "fail_count": 0,
     "latest_post": "2026-03-22T17:48:05+00:00",
     "modified": null
   },
   "matts-five-points": {
-    "etag": "W/\"d39ad-hErS4z81EsoFsPYbNNATUI7X2UI\"",
+    "etag": "W/\"d39ad-M6d36r+ufXeXCV196w3BRr1o51o\"",
     "fail_count": 0,
     "latest_post": "2026-04-17T17:05:02+00:00",
     "modified": null
   },
   "more-than-meats-the-eye": {
-    "etag": "W/\"54538-fIp4QcQiDsP2pF9815pRSXBTBbQ\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"54538-2UO3lwkLFctGATczmqaCPSQMGWk\"",
+    "fail_count": 0,
     "latest_post": "2026-03-05T14:22:12+00:00",
     "modified": null
   },
   "noahpinion": {
-    "etag": "W/\"de724-GFM34IoS5KOUvI0837xwwhKqBHA\"",
+    "etag": "W/\"de724-KxaO9ajid0pu6RVE0Pm/dTs7i7U\"",
     "fail_count": 0,
     "latest_post": "2026-04-27T09:58:07+00:00",
     "modified": null
   },
   "regressiontothemeat": {
-    "etag": "W/\"51701-dHOifh+R/zwHumf7xPi/Yv6X7bU\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"51701-k3WoMVgoIYrGk70jxoNejzG7ZpM\"",
+    "fail_count": 0,
     "latest_post": "2026-04-10T20:52:00+00:00",
     "modified": null
   },
   "rising-tide": {
-    "etag": "W/\"6a508-k0dWvbh8eudV6uL9QFqNpAuDI8g\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"6a508-iD82Ko+OlNvPvHt6xgPdG/RUx3E\"",
+    "fail_count": 0,
     "latest_post": "2026-04-06T14:31:49+00:00",
     "modified": null
   },
   "sandcastles": {
-    "etag": "W/\"136d1e-M4UOuBJ23n3yaIqkez2XF1BESEo\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"136d1e-qCyQfy5lvLwR9eW02qgltW0/qaU\"",
+    "fail_count": 0,
     "latest_post": "2026-04-09T11:10:39+00:00",
     "modified": null
   },
   "sashas-newsletter": {
-    "etag": "W/\"3da80-knhjszs1lloEeoxvEwKUfr5hYQM\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"3da80-Xt6kTRxNSBZx+NXDs1pVnulF5Mg\"",
+    "fail_count": 0,
     "latest_post": "2026-04-25T20:05:20+00:00",
     "modified": null
   },
   "silver-bulletin": {
-    "etag": "W/\"74816-KXHFAUL9UywTifhfhmbMzu6h3G4\"",
+    "etag": "W/\"74816-eq90Rn83UrdAcJ8ojhbQjSVoRzM\"",
     "fail_count": 0,
     "latest_post": "2026-04-27T13:02:00+00:00",
     "modified": null
   },
   "taj": {
-    "etag": "W/\"6cb3b-xy2F2MEwezTzYTT/PRYGMlr1+zE\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"6cb3b-UORSJm6AAtWNTqaja/gl5YfqwBI\"",
+    "fail_count": 0,
     "latest_post": "2026-04-24T06:30:42+00:00",
     "modified": null
   },
   "that-vast-variety": {
-    "etag": "W/\"6dfd0-+hMBmDFKZ1SXT47sbqL+zuGpaaM\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"6dfd0-dGW7iAlNf5G2qmSVqxOYmYpDXes\"",
+    "fail_count": 0,
     "latest_post": "2026-04-19T22:09:44+00:00",
     "modified": null
   },
   "the-argument": {
-    "etag": "W/\"59af3-EROABej3JKFiPYcIq9GWZdjppwc\"",
+    "etag": "W/\"59af3-5QcLtTdScxi72DLsppxdOcqs2mA\"",
     "fail_count": 0,
     "latest_post": "2026-04-27T10:01:11+00:00",
     "modified": null
   },
   "the-counterfactual": {
-    "etag": "W/\"5e527-76pn1jIS66SyVMrutc0YeKsyWiw\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"5e527-GPx+t5Hqn8VMPNCtQ6jlQq6DKUo\"",
+    "fail_count": 0,
     "latest_post": "2026-04-25T06:50:25+00:00",
     "modified": null
   },
   "the-optimists-barn": {
-    "etag": "W/\"5a9b6-FVXyUSDLW67KfAKUzgdNjY/8e5A\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"5a9b6-YxjrlcFfoY5lV1liLoYgH6zoRHg\"",
+    "fail_count": 0,
     "latest_post": "2026-04-09T12:44:46+00:00",
     "modified": null
   },
   "the-power-law": {
-    "etag": "W/\"ab89f-8oRDVzCoEX7qMJDta7DYsSTtqsA\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"ab89f-WN/ZYEgvz+cPOC4FfsaESQmbm5E\"",
+    "fail_count": 0,
     "latest_post": "2026-04-20T11:16:40+00:00",
     "modified": null
   },
   "the-simple-heart": {
-    "etag": "W/\"4e5d8-tUgXm4PhWbTxrFBWtpuGXZPLdn4\"",
+    "etag": "W/\"4e5d8-tFVuWsb2DaMC9sJTtZBg8KPfQPY\"",
     "fail_count": 0,
     "latest_post": "2026-04-26T19:47:37+00:00",
     "modified": null
   },
   "the-urban-animal": {
-    "etag": "W/\"67bda-rjF3/Xsk2T1Y2YUGSG8UMZ7c+KU\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"67bda-LeCwLRDugzPkB0zHu6uNI7i/qdA\"",
+    "fail_count": 0,
     "latest_post": "2026-04-21T15:41:24+00:00",
     "modified": null
   },
   "the-vegan-strategist": {
-    "etag": "W/\"494a9-SQZNpgeDzdk1XU6Rrbi7OtfIxwg\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"494a9-6UeGS1ZmKoIOzn/9Y95uEIRoIhg\"",
+    "fail_count": 0,
     "latest_post": "2026-04-14T13:40:03+00:00",
     "modified": null
   },
   "the-works-in-progess-newsletter": {
-    "etag": "W/\"8ab57-/AsdNJXpYKyaljg1hG04TqPAvCY\"",
+    "etag": "W/\"8ab57-6wd7Za3nFapbd7r2TwHP19L0fd8\"",
     "fail_count": 0,
     "latest_post": "2026-04-24T14:38:58+00:00",
     "modified": null
   },
   "thing-of-things": {
-    "etag": "W/\"5558f-jYbEnnd6ahkl9/Dfgteyy+wGNBE\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
-    "latest_post": "2026-04-24T23:01:29+00:00",
+    "etag": "W/\"55c29-EpYtfe+pLnUro5g/OAgV7/6sph4\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-27T12:03:41+00:00",
     "modified": null
   },
   "tzus-newsletter": {
-    "etag": "W/\"2bb0-7tk2ca4QSJeR2VMorhDwIVc6wUo\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"2bb0-qJYsYc/QwkZR3JiqHw8aVHbyYN0\"",
+    "fail_count": 0,
     "latest_post": "2026-03-28T20:28:20+00:00",
     "modified": null
   },
   "understanding-ai": {
-    "etag": "W/\"790c6-n3bzjcS7LDrseOA6Q2d2LntBB2A\"",
+    "etag": "W/\"790c6-LQ4UpxSYqAQDsvAbRZAiD8ZKT9g\"",
     "fail_count": 0,
     "latest_post": "2026-04-22T22:49:44+00:00",
     "modified": null
   },
   "united-states-of-exception": {
-    "etag": "W/\"b0375-F+MdiTj8xiJcKPHBPU+/GQtLL5w\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"b0375-VRa4wqKg5vc/CF8mhL0WAB6SRP0\"",
+    "fail_count": 0,
     "latest_post": "2026-03-24T05:45:48+00:00",
     "modified": null
   },
   "useful-fictions": {
-    "etag": "W/\"5df98-eR1t8ImMTm/dYv70mIFa37zpcxE\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"5df98-T3YKhrtqsHoh//TX3xmEgS2DrEA\"",
+    "fail_count": 0,
     "latest_post": "2026-04-01T15:30:49+00:00",
     "modified": null
   },
   "vahid-baugher": {
-    "etag": "W/\"29b28-4S5C432TVdrMWfVnWX9EKmRFTOo\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
+    "etag": "W/\"29b28-z2QkNkkj8teOThfC3B3SOYnwS/M\"",
+    "fail_count": 0,
     "latest_post": "2026-03-17T20:50:08+00:00",
     "modified": null
   },
   "wharton-accountable-ai-forum": {
-    "etag": "W/\"cad8-SvlYYfxsST+PMlvRGvGUlUviGyk\"",
+    "etag": "W/\"cad8-WTEe1x2G3bMOCt490RYuhhZzNIo\"",
     "fail_count": 0,
     "latest_post": "2026-02-04T18:42:50+00:00",
     "modified": null
   },
   "wonder-and-aporia": {
-    "etag": "W/\"821cb-VaDpIPzd+HDEVj/Rdy2q0qJfhmM\"",
-    "fail_count": 4,
-    "last_error": "parse: <unknown>:2:1326: not well-formed (invalid token)",
-    "latest_post": "2026-04-20T14:03:56+00:00",
+    "etag": "W/\"80b74-sr2GRQUWZKkTFoKUkLiD2+xclJY\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-27T14:00:49+00:00",
     "modified": null
   }
 }

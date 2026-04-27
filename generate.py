@@ -6,6 +6,7 @@ Run in CI:      same — driven from .github/workflows/build-feeds.yml
 """
 from __future__ import annotations
 
+import gzip
 import html as html_lib
 import json
 import logging
@@ -13,6 +14,9 @@ import os
 import re
 import sys
 import time
+import urllib.error
+import urllib.request
+import zlib
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -211,27 +215,96 @@ def entry_to_item(entry, source_name: str) -> dict:
     }
 
 
+def _http_get(url: str, etag: Optional[str], modified: Optional[str]) -> tuple[int, dict, bytes]:
+    """Single HTTP GET with conditional-GET headers + Accept + gzip support.
+
+    Returns ``(status, response_headers, body_bytes)``. Raises on network errors.
+    A 304 response is returned as ``(304, headers, b"")``.
+    """
+    headers = {
+        "User-Agent": USER_AGENT,
+        # Crucial: tell Cloudflare/Substack we're a feed reader. Without this,
+        # *.substack.com sometimes returns an HTML interstitial to cloud-IP
+        # requests, which then blows up feedparser's XML parser.
+        "Accept": (
+            "application/rss+xml, application/atom+xml, "
+            "application/xml;q=0.9, text/xml;q=0.9, */*;q=0.5"
+        ),
+        "Accept-Encoding": "gzip, deflate",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    if etag:
+        headers["If-None-Match"] = etag
+    if modified:
+        headers["If-Modified-Since"] = modified
+
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+            status = resp.status
+            resp_headers = {k.lower(): v for k, v in resp.headers.items()}
+            body = resp.read()
+    except urllib.error.HTTPError as e:
+        if e.code == 304:
+            return 304, {k.lower(): v for k, v in (e.headers or {}).items()}, b""
+        raise RuntimeError(f"HTTP {e.code}: {e.reason}") from e
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"network error: {e.reason}") from e
+
+    enc = resp_headers.get("content-encoding", "").lower()
+    if "gzip" in enc:
+        body = gzip.decompress(body)
+    elif "deflate" in enc:
+        try:
+            body = zlib.decompress(body)
+        except zlib.error:
+            body = zlib.decompress(body, -zlib.MAX_WBITS)
+
+    return status, resp_headers, body
+
+
 def fetch_feed(url: str, etag: Optional[str] = None,
                modified: Optional[str] = None) -> feedparser.FeedParserDict:
-    """Fetch with retries.
+    """Fetch + parse a feed with retries and conditional-GET support.
 
-    If `etag` or `modified` are passed, feedparser sends If-None-Match and
-    If-Modified-Since headers; the response will have ``status == 304`` when
-    the feed hasn't changed since last fetch.
+    Returns a feedparser dict with ``.status`` set to the HTTP code (304 means
+    not-modified). On parse errors, the first 300 bytes of the raw response
+    are accessible via ``parsed["raw_prefix"]`` for diagnostic logging.
     """
     last_exc = None
+    status = None
+    resp_headers: dict = {}
+    body = b""
     for attempt in range(REQUEST_RETRIES + 1):
         try:
-            kwargs: dict = {"request_headers": {"User-Agent": USER_AGENT}}
-            if etag:
-                kwargs["etag"] = etag
-            if modified:
-                kwargs["modified"] = modified
-            return feedparser.parse(url, **kwargs)
-        except Exception as exc:  # noqa: BLE001 — feedparser raises a wide net
+            status, resp_headers, body = _http_get(url, etag, modified)
+            break
+        except Exception as exc:  # noqa: BLE001
             last_exc = exc
             time.sleep(1.5 * (attempt + 1))
-    raise RuntimeError(f"failed to fetch {url}: {last_exc}")
+    else:
+        raise RuntimeError(f"failed to fetch {url}: {last_exc}")
+
+    if status == 304:
+        parsed = feedparser.FeedParserDict()
+        parsed["status"] = 304
+        parsed["entries"] = []
+        parsed["bozo"] = False
+        parsed["etag"] = etag
+        parsed["modified"] = modified
+        parsed["feed"] = feedparser.FeedParserDict()
+        return parsed
+
+    parsed = feedparser.parse(body)
+    parsed["status"] = status
+    parsed["raw_prefix"] = body[:300]
+    parsed["content_type"] = resp_headers.get("content-type", "")
+    # feedparser.parse(bytes) doesn't fill etag/modified — pull them from headers.
+    if "etag" in resp_headers and not parsed.get("etag"):
+        parsed["etag"] = resp_headers["etag"]
+    if "last-modified" in resp_headers and not parsed.get("modified"):
+        parsed["modified"] = resp_headers["last-modified"]
+    return parsed
 
 
 # -----------------------------------------------------------------------------
@@ -300,6 +373,12 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
 
     if parsed.bozo and not parsed.entries:
         log.error("[%s] parse failed: %s", slug, parsed.bozo_exception)
+        # Log enough of the response to diagnose Cloudflare interstitials,
+        # rate-limit pages, and other surprises.
+        ct = parsed.get("content_type", "?")
+        prefix = parsed.get("raw_prefix", b"")
+        log.error("[%s]   content-type: %s", slug, ct)
+        log.error("[%s]   first 300 bytes: %r", slug, prefix)
         new_state[slug] = {
             "etag": prev_etag,
             "modified": prev_modified,
