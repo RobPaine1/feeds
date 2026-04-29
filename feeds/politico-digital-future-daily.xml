@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 21:23:41 +0000</lastBuildDate>
     <item>
       <title>Trump’s anti-DEI movement comes for AI</title>
       <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV665J2NPBEylYMJ2aNN8lyfP8EYjQmqkxndB43yzmDqCa4QP9l4RYD7fRdZui5OZVpA/4q5/cjlR280iQrO3XHmOtjnfNg/h2/h001.1p9eOwKQIbmY3cEr8RORx_Q9iAtVyDoj-537JltU3K0</link>
@@ -33,48 +33,48 @@
 <div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
     Presented by NCTA - The Internet &amp; Television Association: How the next wave of technology is upending the global economy and its power structures
 </div>
-<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center" width="100%">
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
 <tbody>
-<tr>
-<td align="center" width="100%">
-<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;" width="540">
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
 <tbody>
 <!-- top date and utility link -->
 
 <!-- divider line -->
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- logo and byline -->
-<tr>
-<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0">
-<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;" title="Digital Future Daily.jpg" width="500"/>
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
 </td>
 </tr>
-<tr>
-<td align="center" style="padding:0 20px 10px 20px;">
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
 <p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
             By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
 </p>
 </td>
 </tr>
 <!-- sponsor logo -->
-<tr>
-<td style="padding-bottom:15px; min-width:100%; width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:15px; min-width:100%; width:100%;max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td align="center" style="min-width:100%; width: 100%;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto">
+<tr style="max-width:100%">
+<td align="center" style="min-width:100%; width: 100%;max-width:100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto;max-width:100%">
 <tbody>
-<tr>
+<tr style="max-width:100%">
 <th align="right" style="text-align:left;" valign="middle">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;font-weight: 400;color:#6E7381;margin-top:15px;margin-bottom:15px;line-height:22px">
                                                 Presented by 
                                             </p>
 </th>
 <th style="text-align:left;" width="100">
-<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/8536a0a/2147483647/resize/200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2F3e%2F4edc3ca34e2dbf28089daa984341%2Flogo.png" style="width:100px;max-width:100%; vertical-align: top; display: inline;" width="100"/>
+<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/8536a0a/2147483647/resize/200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2F3e%2F4edc3ca34e2dbf28089daa984341%2Flogo.png" style="width:100px;max-width:100%; vertical-align: top; display: inline;max-width:100%;height:auto"/>
 </th>
 </tr>
 </tbody>
@@ -86,14 +86,14 @@
 </td>
 </tr>
 <!-- body -->
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p align="center" style="margin:0 0 20px 0;"><img alt="An official Justice Department seal is seen at a press conference at the agency's headquarters on April 7, 2026." src="https://www.politico.com/dims4/default/22bf934/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F75%2Fa658b4a2469891a84f876203f29f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2269675063" style="width:100%;max-width:500px;" title="US-POLITICS-JUSTICE" width="500"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">The Department of Justice intervened in xAI's lawsuit challenging Colorado's AI law.   |  Kent Nishimura/AFP via Getty Images</p></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="An official Justice Department seal is seen at a press conference at the agency's headquarters on April 7, 2026." src="https://www.politico.com/dims4/default/22bf934/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F75%2Fa658b4a2469891a84f876203f29f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2269675063" style="width:100%;max-width:500px;max-width:100%;height:auto" title="US-POLITICS-JUSTICE"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">The Department of Justice intervened in xAI's lawsuit challenging Colorado's AI law.   |  Kent Nishimura/AFP via Getty Images</p></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The legal crusade against affirmative action </strong>is coming for artificial intelligence.</p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The legal crusade against affirmative action </strong>is coming for artificial intelligence.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">On Friday, the Justice Department intervened in xAI’s challenge to Colorado’s “Consumer Protections for Artificial Intelligence” law. In <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV665J2NPBEylYMJ2aNN8lyfP8EYjQmqkxndB43yzmDqCa4QP9l4RYD7fRdZui5OZVpA/4q5/cjlR280iQrO3XHmOtjnfNg/h2/h001.1p9eOwKQIbmY3cEr8RORx_Q9iAtVyDoj-537JltU3K0" target="_blank"><u>its complaint</u></a>, the DOJ argues the law’s provisions curbing algorithmic bias violates people’s 14th Amendment right to be treated equally under the law.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">The intervention is in some ways an outgrowth of the movement to eradicate all race-conscious policies after the landmark Supreme Court case <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV69p5_ghvpY4Sc65VMqWCvfPv1MXqm2taY6e2tsQp76tAQPRSP-WEnEkLOBY3w-grF9iqSmZgmcJXAvJIfBljKik/4q5/cjlR280iQrO3XHmOtjnfNg/h3/h001.ebxUik_yENwcfDNza8X7cnapbK2bmgQud7dnwnk4VJE" target="_blank"><i><u>Students for Fair Admissions v. Harvard</u></i></a> in 2023 struck down affirmative action in college admissions.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Conservative groups like America First Legal, founded by now-White House adviser Stephen Miller, quickly seized on the decision to also <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKN9cfA5vYXYlUTTdHIQFe4Y1nTbT2U-AJu2zcgpJFwIMbq8N4WVfmDVHs9-_8WXEvNMFXsCpfKjmrcOFFaM7iFAeMy-isAOTwNVhPu0_5N3Y5sR2HUyR8ppW3OvAbGdfTeVt87VXxafxygvXAIoqTmsiZvXPedsbwjIweMssbfrIJKhNbeOtjt4tNwHwdTTmW3PvPIo4EUV3Cjye15jgn5IB7JjW0Euf0InrmwlW1HjcqtjIf3R12F8WJah0bBtnww/4q5/cjlR280iQrO3XHmOtjnfNg/h4/h001.YXsBUNm33B1rRBnQP9TSJxqYoPq5R0oVbIFM02J5dQ8" target="_blank"><u>challenge diversity initiatives</u></a> in other contexts, like hiring and law journal recruiting. The DOJ took up that cause when President Donald Trump returned to office, and even cited the Harvard case in their challenge to the Colorado law.</p>
@@ -109,85 +109,85 @@
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">“You can have race consciousness in the actual design of the algorithm without ever having race play any part of the model in the actual decision process,” Selbst told DFD.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">The Colorado attorney general’s office, which is being sued in xAI’s case, said it would not comment on ongoing litigation. The DOJ and xAI did not respond to inquiries.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;">
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
 <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Protect CBRS and don't let the Big 3 cellular companies dictate how Americans can connect.</strong> Despite what big cellular says, increasing power levels in CBRS will upend connectivity, investment, and operations across manufacturing, airports, schools, healthcare, agriculture, and more. <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9Zy1zItZSIdRfHKDZCb0miTwFI4lhBxomrwzdAEAH8aWAl4u-MJS41SsUSs3ZKiniNBhr8_iNJ7fRH_8_GOsKu7CrVu3PCzWE6_VInvbtCGMt_7VwvdajWb6HwlnjLd5M/4q5/cjlR280iQrO3XHmOtjnfNg/h7/h001.VogWO9CETGi58iAylZ6FvRpsKSUpczJYxrv6LU1O8wo" style="text-decoration:underline;color:#ffffff;" target="_blank">Don’t ruin America’s leading wireless innovation.</a></p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">Maine’s data center moratorium gets vetoed</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Maine’s data center moratorium gets vetoed</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Maine Gov. Janet Mills on Friday vetoed a bill</strong> that would have established the country’s first statewide moratorium on permits for <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38CGEGQvkfXI1tyYJYGbeuWLjuHnFzFuyQMOFKdeyMuJrLd4hSzR6084KVxhV6NcatWcZehy9JKWZf6sAbn-teeUpI4IeFCf0MFPCODKkpbPQ/4q5/cjlR280iQrO3XHmOtjnfNg/h8/h001.gB99M6s3ulqpzRJ9XUI6gsmGpGUvt5rncrQ0aEi-hJo" target="_blank"><u>data center construction</u></a>.</p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Maine Gov. Janet Mills on Friday vetoed a bill</strong> that would have established the country’s first statewide moratorium on permits for <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38CGEGQvkfXI1tyYJYGbeuWLjuHnFzFuyQMOFKdeyMuJrLd4hSzR6084KVxhV6NcatWcZehy9JKWZf6sAbn-teeUpI4IeFCf0MFPCODKkpbPQ/4q5/cjlR280iQrO3XHmOtjnfNg/h8/h001.gB99M6s3ulqpzRJ9XUI6gsmGpGUvt5rncrQ0aEi-hJo" target="_blank"><u>data center construction</u></a>.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">In <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV679buCLOudEDVI_QjbwQeazvXMudsOkMqT_1bUd0YZClmKBcNVL2fZ4sUuQ70UXZMJcU2gHmCy3tUILzzVg1b3CF8OI9_iON8alPZuxJdW-HXcpIgdQaxKRF_GAYjQCjj1GDyksAzFYNwFCLvb1y7NgHyNs_Ag7Yd6Yy5PIT4xGM/4q5/cjlR280iQrO3XHmOtjnfNg/h9/h001.8YFfkdhSWZJe-VFGXaa2edkB12wLjrvHhQS9aJtJ-2M" target="_blank"><u>a letter</u></a> to the Maine Legislature, Mills, a Democrat, wrote that she broadly supports a moratorium due to the impacts of data centers on utility prices and the environment in other states, but would not sign the bill because it didn’t include an exemption for a project in Jay, a Maine town that has weathered economic hardship after the closure of a local mill in 2023.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">“After prior redevelopment efforts failed, the Town of Jay worked for two years on a $550 million data center redevelopment project to finally bring jobs and investment back to the mill site,” Mills wrote, adding that she would establish a council via executive order to evaluate the impact of data centers in Maine.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;">
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from NCTA - The Internet &amp; Television Association:</p>
-<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9HH6cGArwJmq9BaT1xCRuRuqKNllnLLbZWarAFsebIYtFW3_yl8-dz3FFR_HtfcQEoZZSFJrZ--W2zLb2zOk0LJt2UeYMA2RDpjF_oDSR8upJFCeWgTQxXt5dBCk6HUMc/4q5/cjlR280iQrO3XHmOtjnfNg/h10/h001.WAYzzZ9nB0cUSo6fCDUB25OjuEWakhBL2gHHJHTTu14" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/735bfae/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0b%2Fb7%2Ff79a8e594d19829a464a7a3aa31c%2F500x500.jpg" style="width:100%;max-width:500px;" title="Advertisement Image" width="500"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B35700818.445338752;sz=1x1;ord=[timestamp]"/></p>
+<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9HH6cGArwJmq9BaT1xCRuRuqKNllnLLbZWarAFsebIYtFW3_yl8-dz3FFR_HtfcQEoZZSFJrZ--W2zLb2zOk0LJt2UeYMA2RDpjF_oDSR8upJFCeWgTQxXt5dBCk6HUMc/4q5/cjlR280iQrO3XHmOtjnfNg/h10/h001.WAYzzZ9nB0cUSo6fCDUB25OjuEWakhBL2gHHJHTTu14" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/735bfae/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0b%2Fb7%2Ff79a8e594d19829a464a7a3aa31c%2F500x500.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Advertisement Image"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B35700818.445338752;sz=1x1;ord=[timestamp]" style="max-width:100%;height:auto"/></p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">Musk and Altman to battle in court</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Musk and Altman to battle in court</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Elon Musk and Sam Altman are finally going to trial </strong>OpenAI’s for-profit reorganization, Axel Springer’s <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38gR5U-7DNKZ_ZS7HCZH1LVSzlnm5nIkbaytb9kTwKwGpg7mZrmFSY5ETvfN7nzhvsISYn2_4Ms7rX1Ojt_yfxZHrotIQU6g8Z47hDa9g4CFLvL2TDTrHT04V0wGTfPr_GlK-VWl4yy-XDr47GLystL/4q5/cjlR280iQrO3XHmOtjnfNg/h11/h001.OWLUaEWm3MCP6M8nhG3JJRZv_FLaBmOIBoB7IOa8xJE" target="_blank"><u>Jacob Shamsian reports</u></a>.</p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Elon Musk and Sam Altman are finally going to trial </strong>OpenAI’s for-profit reorganization, Axel Springer’s <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38gR5U-7DNKZ_ZS7HCZH1LVSzlnm5nIkbaytb9kTwKwGpg7mZrmFSY5ETvfN7nzhvsISYn2_4Ms7rX1Ojt_yfxZHrotIQU6g8Z47hDa9g4CFLvL2TDTrHT04V0wGTfPr_GlK-VWl4yy-XDr47GLystL/4q5/cjlR280iQrO3XHmOtjnfNg/h11/h001.OWLUaEWm3MCP6M8nhG3JJRZv_FLaBmOIBoB7IOa8xJE" target="_blank"><u>Jacob Shamsian reports</u></a>.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Jury selection started Monday to hear a fight over Musk’s claims that he contributed $40 million to OpenAI with the understanding it would stick to its nonprofit mission, but that Altman and other executives bypassed him to establish a for-profit arm. OpenAI argues that Musk knew the company needed to make a profit to be viable, and that his gripes are about not getting more control over the company.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">The trial’s witness list has a bevy of heavy hitters, including Microsoft CEO Satya Nadella and OpenAI’s former CTO Mira Murati. Jared Birchall, Musk’s right-hand man, may also testify.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;">
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
 <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;">CBRS is the competition and innovation band because it allows a wide array of users, from businesses to airports and factories to farms, to deploy private networks that don't rely on the Big 3 and that coexist in the same spectrum used by the U.S. military with zero interference.
      <br/>
@@ -199,48 +199,48 @@
      Thanks to FCC approval in 2020, CBRS is a dynamic spectrum sharing American success story. Now, the FCC must preserve its leadership by protecting CBRS from interference.</p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">POST OF THE DAY</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dp_OtWzYXxL7csmvRTd2VSa-Z0XXDCw8Ygjwar2NRpXry0yr0L_XdScUMoV4CC_9rg/4q5/cjlR280iQrO3XHmOtjnfNg/h13/h001.gNSWkvJaM0RgGlcTVn2iT1JxZpr9D_DRrfogT4FSdxQ" target="_blank"><img alt="This is a post from an AI developer. " src="https://www.politico.com/dims4/default/1b99996/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F36%2Fda%2F4593b13e480f886ae0fe165a4d99%2Fpercent-postofday.jpg" style="width:100%;max-width:500px;" title="percent postofday.jpg" width="500"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dp_OtWzYXxL7csmvRTd2VSa-Z0XXDCw8Ygjwar2NRpXry0yr0L_XdScUMoV4CC_9rg/4q5/cjlR280iQrO3XHmOtjnfNg/h13/h001.gNSWkvJaM0RgGlcTVn2iT1JxZpr9D_DRrfogT4FSdxQ" target="_blank"><img alt="This is a post from an AI developer. " src="https://www.politico.com/dims4/default/1b99996/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F36%2Fda%2F4593b13e480f886ae0fe165a4d99%2Fpercent-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="percent postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">THE FUTURE IN 5 LINKS</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><ul>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
 <li style="margin-bottom:12px;">OpenAI and Microsoft loosen up their <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagso31JuMiVj-UQbNoZE5EOjQWIDTGvztsQr6VjWwaZyaCkwhSXAC2KeIiX1EkGilg8k0ah8H_b8qGt3GrJa-N0o/4q5/cjlR280iQrO3XHmOtjnfNg/h14/h001._fArdCJ4wMUYOpP_q1je9qFexPUDO0se3rCscnxPXpI"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>cloud computing</u></strong></a> partnership.  </li>
 <li style="margin-bottom:12px;">China bans Meta’s <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV697qymoFH945Kvn4j4RlOobAtUcriiyJfSbwo2YN9cOngWrqWoLkiYurLhIbsJhbPM0tGaKH2zuYP3xfftwhFP3uOLbdKLpkYNuDojPHPX9ihAOvWAiG-r7kFdjzCT4kZ9grZq0Id08fly1thtt94hpPrKMK7UHriWUA_931I_Zu/4q5/cjlR280iQrO3XHmOtjnfNg/h15/h001.ma8ozhkzAwbPRXM8nd_TMiolzh9t8mTOgIiwL_eyjEM"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>acquisition of Manus</u></strong></a>. </li>
 <li style="margin-bottom:12px;">Google workers petition CEO Sundar Pichai to <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV69rXRyiWqhCzIJbstXnYrx7789UvJBxSrHkZ9e7GPEIk0In-J-KDWFZXdSZ-TgAWBRrQqczB76d3qgwbGNXuoilVNwOD-5lOaL_ntC6ZUWf-jlbQEyYIv-MvXt9DuptBtQ/4q5/cjlR280iQrO3XHmOtjnfNg/h16/h001.v52m4IYqMhvlV6l8ux2DhOslffXJJrxZedtyL27D0Yc"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>limit AI work</u></strong></a> with the Pentagon.</li>
@@ -250,23 +250,23 @@
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
 </tr>
 <!-- End Ad Copy -->
-<tr>
+<tr style="max-width:100%">
 </tr>
 <!-- Post Body Content -->
-<tr>
+<tr style="max-width:100%">
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- Twitter Handles -->
-<tr>
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;">
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;padding-right:10px;" valign="middle" width="52"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;" title="" width="50"/></td>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;" valign="middle">
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
 <p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4q5/cjlR280iQrO3XHmOtjnfNg/h19/h001.z40UcBK6c-3HmJZBK9Buslq0mWVbHTMX409dc40vQR4" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
 <p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4q5/cjlR280iQrO3XHmOtjnfNg/h20/h001.MCCOr6tUF5PJPe0JkjC75eKz1mBwIBUiJgs-kotpcKg" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
 </td>
@@ -275,28 +275,28 @@
 </table>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- Family of Playbook -->
 <!-- Follow us -->
-<tr>
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;">
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4q5/cjlR280iQrO3XHmOtjnfNg/h21/h001.6XQ5IIYJvL867ENL7s4ChL7PWjEOEKwnu6n8cnTd_fY" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;" title="Follow us on Facebook" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4q5/cjlR280iQrO3XHmOtjnfNg/h22/h001.H2ijt39mL4jvF5Y08N-PC4EtbAx2f_4lqdvNaUCQGrk" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;" title="Follow us on X" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4q5/cjlR280iQrO3XHmOtjnfNg/h23/h001.7Yag4yWP4qv71VVLFHToRGPZ5tKRNHWq6U6oYmI7jxk" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;" title="Follow us on Instagram" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4q5/cjlR280iQrO3XHmOtjnfNg/h24/h001.HCBNY0ZxK-cdvyQjpu28qc4MtHRttNTYS004SzOcFNI" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;" title="Listen on Apple Podcast" width="24"/></a></td>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4q5/cjlR280iQrO3XHmOtjnfNg/h21/h001.6XQ5IIYJvL867ENL7s4ChL7PWjEOEKwnu6n8cnTd_fY" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4q5/cjlR280iQrO3XHmOtjnfNg/h22/h001.H2ijt39mL4jvF5Y08N-PC4EtbAx2f_4lqdvNaUCQGrk" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4q5/cjlR280iQrO3XHmOtjnfNg/h23/h001.7Yag4yWP4qv71VVLFHToRGPZ5tKRNHWq6U6oYmI7jxk" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4q5/cjlR280iQrO3XHmOtjnfNg/h24/h001.HCBNY0ZxK-cdvyQjpu28qc4MtHRttNTYS004SzOcFNI" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 </tbody>
 </table>
@@ -336,48 +336,48 @@
 <div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
     Presented by NCTA - The Internet &amp; Television Association: How the next wave of technology is upending the global economy and its power structures
 </div>
-<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center" width="100%">
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
 <tbody>
-<tr>
-<td align="center" width="100%">
-<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;" width="540">
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
 <tbody>
 <!-- top date and utility link -->
 
 <!-- divider line -->
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- logo and byline -->
-<tr>
-<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0">
-<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;" title="Digital Future Daily.jpg" width="500"/>
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
 </td>
 </tr>
-<tr>
-<td align="center" style="padding:0 20px 10px 20px;">
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
 <p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
             By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
 </p>
 </td>
 </tr>
 <!-- sponsor logo -->
-<tr>
-<td style="padding-bottom:15px; min-width:100%; width:100%;">
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:15px; min-width:100%; width:100%;max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td align="center" style="min-width:100%; width: 100%;">
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto">
+<tr style="max-width:100%">
+<td align="center" style="min-width:100%; width: 100%;max-width:100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto;max-width:100%">
 <tbody>
-<tr>
+<tr style="max-width:100%">
 <th align="right" style="text-align:left;" valign="middle">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;font-weight: 400;color:#6E7381;margin-top:15px;margin-bottom:15px;line-height:22px">
                                                 Presented by 
                                             </p>
 </th>
 <th style="text-align:left;" width="100">
-<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/8536a0a/2147483647/resize/200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2F3e%2F4edc3ca34e2dbf28089daa984341%2Flogo.png" style="width:100px;max-width:100%; vertical-align: top; display: inline;" width="100"/>
+<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/8536a0a/2147483647/resize/200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2F3e%2F4edc3ca34e2dbf28089daa984341%2Flogo.png" style="width:100px;max-width:100%; vertical-align: top; display: inline;max-width:100%;height:auto"/>
 </th>
 </tr>
 </tbody>
@@ -389,14 +389,14 @@
 </td>
 </tr>
 <!-- body -->
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>With help from Makayla Gray and Hassan Kanu</i><br/></p></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>With help from Makayla Gray and Hassan Kanu</i><br/></p></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p align="center" style="margin:0 0 20px 0;"><img alt="VERNON, CALIFORNIA - APRIL 14: A view of a 49.5 megawatt three-level data center under construction on April 14, 2026 in Vernon, California. A surge in demand for AI infrastructure is fueling a boom in data centers across the country and around the globe. (Photo by Mario Tama/Getty Images)" src="https://www.politico.com/dims4/default/e7c4401/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F98%2Ff0%2F755cea384d2a86e8c8fa5eac7843%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2271400584" style="width:100%;max-width:500px;" title="Data Centers Proliferate And Cause Controversy" width="500"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">A new Jacobin op-ed argues that the left's support for data center moratoriums is misguided.  |  Mario Tama/Getty Images</p></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="VERNON, CALIFORNIA - APRIL 14: A view of a 49.5 megawatt three-level data center under construction on April 14, 2026 in Vernon, California. A surge in demand for AI infrastructure is fueling a boom in data centers across the country and around the globe. (Photo by Mario Tama/Getty Images)" src="https://www.politico.com/dims4/default/e7c4401/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F98%2Ff0%2F755cea384d2a86e8c8fa5eac7843%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2271400584" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Data Centers Proliferate And Cause Controversy"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">A new Jacobin op-ed argues that the left's support for data center moratoriums is misguided.  |  Mario Tama/Getty Images</p></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>The socialist magazine Jacobin </i><a href="https://url4027.email.politico.com/ss/c/u001.3XN5ABWXt-rKFvL2_A5chZOnC9xuXyLrDXgV8U4klnKE7nOwFtjk0txPPPg2QpLcJ34HrjTVepkylQ6LqzDm9PVbEZgXlaqHpbdqn6sgSxw/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h2/h001.kArD9ClSwCSMsj7vBX6GSlQXA4RjWVXZwYlC4jl8BSg" target="_blank"><i><u>ran an op-ed</u></i></a><i> on Sunday arguing that the left is making a serious mistake in backing data center moratoriums. The piece has </i><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dsXLE8rgzneXjNVgmgeU-1Yvftd3JrHJCskICO8VQ5B7d_bClX0CxLC8gx44SxOHLA/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h3/h001.-WvJGItyJnZ9gtVCJTPSV22Wl17AN5ZvREbeLgs4blM" target="_blank"><i><u>sparked a fiery debate</u></i></a><i> among liberals as the Democratic party figures out its stance on data centers and affordability ahead of the 2026 midterm elections. </i></p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>The socialist magazine Jacobin </i><a href="https://url4027.email.politico.com/ss/c/u001.3XN5ABWXt-rKFvL2_A5chZOnC9xuXyLrDXgV8U4klnKE7nOwFtjk0txPPPg2QpLcJ34HrjTVepkylQ6LqzDm9PVbEZgXlaqHpbdqn6sgSxw/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h2/h001.kArD9ClSwCSMsj7vBX6GSlQXA4RjWVXZwYlC4jl8BSg" target="_blank"><i><u>ran an op-ed</u></i></a><i> on Sunday arguing that the left is making a serious mistake in backing data center moratoriums. The piece has </i><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dsXLE8rgzneXjNVgmgeU-1Yvftd3JrHJCskICO8VQ5B7d_bClX0CxLC8gx44SxOHLA/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h3/h001.-WvJGItyJnZ9gtVCJTPSV22Wl17AN5ZvREbeLgs4blM" target="_blank"><i><u>sparked a fiery debate</u></i></a><i> among liberals as the Democratic party figures out its stance on data centers and affordability ahead of the 2026 midterm elections. </i></p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Holly Buck, an associate environment and sustainability professor at the University of Buffalo, writes that such moratoriums could exacerbate the class divides the left wants to minimize. She contends that the policies may lead to data center offshoring, which raises prices on AI services and limits access for economically disadvantaged users. Instead, Buck proposes that the left focus on policies that enable more people to democratically govern AI. DFD spoke to Buck about the reactions to her piece, and the class dynamics of the data center backlash.</i></p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>This interview has been edited and condensed for clarity. </i></p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Why do you think data center moratoriums have become increasingly associated with the political left? </strong></p>
@@ -415,38 +415,38 @@
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">The challenge with AI is that the potential for the redistribution of wealth to these tech companies is so huge. It's a moment where I do think there is leverage, and I sympathize with the argument that the threat of a moratorium. I think the threat of a moratorium in Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4gjjA7PR9ME13GxzrNfmflBt8kHyDmefBRkGvxcuLrrisCAjaUTu9ylv55iHOSv81Mc9fHsUhZDvAgFdRx44Q1gM1J5mGDgo6TBrHSIxEPvukKYpZdevRVOR7Nr0FFFEM/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h5/h001.TbUi9FGY6w587pkZwqbjmyZzMbos_hNnatvBMuTdEhs" target="_blank"><u>bill was meant</u></a> to be a signal to the tech industry. I agree with them broadly that this is a moment to renegotiate the social contract</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">My challenge to the left is that we can do so much more with this moment than revisit the politics of blocking infrastructure and try to treat this as a local zoning issue.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;">
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
 <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Protect CBRS and don't let the Big 3 cellular companies dictate how Americans can connect.</strong> Despite what big cellular says, increasing power levels in CBRS will upend connectivity, investment, and operations across manufacturing, airports, schools, healthcare, agriculture, and more. <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9Zy1zItZSIdRfHKDZCb0miTwFI4lhBxomrwzdAEAH8aWAl4u-MJS41SsUSs3ZKiniNBhr8_iNJ7fRH_8_GOsKu7CrVu3PCzWE6_VInvbtCGMt_7VwvdajWb6HwlnjLd5M/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h6/h001.ol6xTNXLN47tBqis2a0zyiiG3tfHWsoz8pv2--jU8Co" style="text-decoration:underline;color:#ffffff;" target="_blank">Don’t ruin America’s leading wireless innovation.</a></p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">Saikat Chakrabarti dishes on his AI plan</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Saikat Chakrabarti dishes on his AI plan</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Saikat Chakrabarti, one of the four</strong> Democrats looking to replace Rep. Nancy Pelosi when she retires, unveiled his AI platform today in an interview with POLITICO’s Makayla Gray.</p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Saikat Chakrabarti, one of the four</strong> Democrats looking to replace Rep. Nancy Pelosi when she retires, unveiled his AI platform today in an interview with POLITICO’s Makayla Gray.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62wlveb_PlHK9_8kPafJHbobAZ5oI0N4rpBv77kZYpgCj9ZkrQ68pd-LFLVBFZTM23pG-i-5P0NQ9vOXbEbS5zg/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h7/h001.ZgGMmdH1DXEtquWkvd7qAmEy8D7634unxnZjdrCIZPc" target="_blank"><u>His plan calls for job guarantees</u></a> for workers displaced by the technology, a 32-hour work week, a publicly owned national AI lab and a requirement that data centers cover their own electricity.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Chakrabarti says he wants to focus less on regulating the technology, and more on who makes the decisions controlling it. His plan comes amid growing concerns in both parties about how AI could lead to mass job loss and economic disruption.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Public First, the Anthropic-backed super PAC, is committed to spending whatever it takes to defeat me, because they want to be in control entirely where this technology goes and do the bare minimum on regulation so they can keep going pretty much unchecked,” said Chakrabarti, a former engineer at Stripe.</p>
@@ -454,51 +454,51 @@
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Chakrabarti says his plan has the potential to be stronger in implementing AI regulation than SB 53, an AI bill that his opponent state Sen. Scott Wiener introduced, saying it made no meaningful checks to regulation of AI<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">.</strong></p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">“If that's the route we go, which is the route that I think a lot of the Public First kind of candidates are pitching, that's going to be disastrous,” Chakrabarti said. “It’s going to be the AI version of greenwashing.” The plan also calls for making a new AI trust fund, paid for by imposed taxes on AI companies.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;">
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from NCTA - The Internet &amp; Television Association:</p>
-<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9HH6cGArwJmq9BaT1xCRuRuqKNllnLLbZWarAFsebIYtFW3_yl8-dz3FFR_HtfcQEoZZSFJrZ--W2zLb2zOk0LJt2UeYMA2RDpjF_oDSR8upJFCeWgTQxXt5dBCk6HUMc/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h9/h001.59RjlalCh6gjugpp5kRehkxvlCeruXiO86K65eVz9-E" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/735bfae/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0b%2Fb7%2Ff79a8e594d19829a464a7a3aa31c%2F500x500.jpg" style="width:100%;max-width:500px;" title="Advertisement Image" width="500"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B35700818.445338752;sz=1x1;ord=[timestamp]"/></p>
+<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9HH6cGArwJmq9BaT1xCRuRuqKNllnLLbZWarAFsebIYtFW3_yl8-dz3FFR_HtfcQEoZZSFJrZ--W2zLb2zOk0LJt2UeYMA2RDpjF_oDSR8upJFCeWgTQxXt5dBCk6HUMc/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h9/h001.59RjlalCh6gjugpp5kRehkxvlCeruXiO86K65eVz9-E" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/735bfae/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0b%2Fb7%2Ff79a8e594d19829a464a7a3aa31c%2F500x500.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Advertisement Image"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B35700818.445338752;sz=1x1;ord=[timestamp]" style="max-width:100%;height:auto"/></p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">xAI’s Colorado suit is put on hold</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">xAI’s Colorado suit is put on hold</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">A federal court has approved an agreement</strong> pausing a lawsuit challenging Colorado’s algorithmic discrimination law, POLITICO’s Hassan Kanu reports for DFD.</p>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">A federal court has approved an agreement</strong> pausing a lawsuit challenging Colorado’s algorithmic discrimination law, POLITICO’s Hassan Kanu reports for DFD.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Colorado AG Phil Weiser, xAi and the <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38fPJX_IBMMwNmzcy4Uw_7OAUg7Z07wOZ6PzBdGPwdYofRN2e6gr3Jx8w-9aRinmOpi73MkLmrD347IHiwN3J_Z9zJvZaa1pRn85-6AkHM8wZGxHEARIm10cGSordDg_W4/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h10/h001.DTmV2m5xJTaaJYw3y01d0RVT84iaW2eSD5QToGYXGvI" target="_blank"><u>Trump administration</u></a> agreed to put the case and any potential enforcement under the statute on hold until state lawmakers sort out proposals to revise SB24-205, also known as the “Consumer Protections for Artificial Intelligence” law. Colorado legislators and Democratic Gov. Jared Polis <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr3_T6-D9PqmAGoQEIVIviq3SUXvErMVBH8BhSgKKo88gRVrAaGDXSdHbEz-_m5LQJGo_E2SLmPK1h-HGrKMG0IaTaBd13XYwyrQcjtmEsta2c0arG-St8dmwTtzOA112-fs/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h11/h001.0JKXOpglvWWD8qjXoZpw0TG4UKUflTwU3shL84V8qsg" target="_blank"><u>have had</u></a> <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4EAeGh33r92rff8Xm_8WL5bWys96Ffkny2vD3NJrhXmjI-_-bvXAnR9Ev8a0lo05O-30aP46JkK_aN0r6tEtAvg/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h12/h001.uKJCcaW-YkgvHsvL6epCzbEW4bHxJgVGEjx2x2_KcpI" target="_blank"><u>second thoughts</u></a> about the law burdening the industry. The Trump administration has generally opposed states regulating AI.</p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">Weiser explained in the joint request that his office won’t enforce the law until after the current legislative session due to “the possibility that legislation replacing or amending SB24-205 will be enacted” during the current session.<strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> </strong></p>
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;">A magistrate judge <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk5cGjOwlvy1tWxw3jbCj8eQy8qHOrH329FIMB0fmvMyAbTQmlNULc7Xx3JOd5Jwg4mRw37-K66rYxFPq92c-vScLlMTFGOQY57HqbcYh3cYIE99TFIdrK8VeFohUTKs1cA/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h13/h001.BlIAN05Bq36cyPqph2nmm4--E92lf63Zpf9c80G_dOI" target="_blank"><u>granted the parties’ request</u></a> on Monday. xAI and the Colorado AG did not immediately respond to a request for comment.<br/></p></td>
 </tr>
-<tr>
-<td>
-<table width="100%">
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
 <tbody>
-<tr>
-<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;">
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
 <p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;">CBRS is the competition and innovation band because it allows a wide array of users, from businesses to airports and factories to farms, to deploy private networks that don't rely on the Big 3 and that coexist in the same spectrum used by the U.S. military with zero interference.
      <br/>
@@ -510,48 +510,48 @@
      Thanks to FCC approval in 2020, CBRS is a dynamic spectrum sharing American success story. Now, the FCC must preserve its leadership by protecting CBRS from interference.</p>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
 </tr>
 </tbody>
 </table></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">POST OF THE DAY</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dqifVAhcDii6OkzixXAv2L-Z6X3bRzmJec-sDBcXpgCACa_Orm6Ae32LktZivRv8vV4M_OrEPHJ98g9mwWeVUUk/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h15/h001.bI3LAM1dvgG1FYY_UYd2gsXceHQ4youoqe5f8x53mvc" target="_blank"><img alt="This is a post from an editor. " src="https://www.politico.com/dims4/default/8c7449c/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F11%2F39%2F599fcf2946e6b04ca969d88dfcb2%2Fwifi-postofday.jpg" style="width:100%;max-width:500px;" title="wifi postofday.jpg" width="500"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dqifVAhcDii6OkzixXAv2L-Z6X3bRzmJec-sDBcXpgCACa_Orm6Ae32LktZivRv8vV4M_OrEPHJ98g9mwWeVUUk/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h15/h001.bI3LAM1dvgG1FYY_UYd2gsXceHQ4youoqe5f8x53mvc" target="_blank"><img alt="This is a post from an editor. " src="https://www.politico.com/dims4/default/8c7449c/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F11%2F39%2F599fcf2946e6b04ca969d88dfcb2%2Fwifi-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="wifi postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"></td>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
 </tr>
-<tr>
-<td style="padding-bottom:10px; min-width:100%; width:100%;"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;" width="100%">
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;" valign="middle">THE FUTURE IN 5 LINKS</td>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;"><ul>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
 <li style="margin-bottom:12px;">A chip startup is trying to solve the “<a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zrWa_8SJ0CLZxnsbLio66oHLRmGdGh7S5gzVsU1I2VpXLS6Lgiu5MvVtsAKcxrF1SMMZSdWmJujEIYkFing0QXtRnryulRkdrg6Or_Qwi7Qymn0fScRAF6aLZ3cZSC2SMfKRO-zui52Q37Ei2RCR_E/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h16/h001.obzObfuQ-jbyJ0kfferWi2SDvGY9zuhTAP_4x0Z_r00"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>memory wall</u></strong></a>” computing bottleneck. </li>
 <li style="margin-bottom:12px;">Google strikes an AI deal <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagtUmaXIQr1cU-mJEDcfNqL0S8j3PvQ5rfvGuS2Trv0x4quFf6WBZ_cjKHrVYQLMxk5mjsJc3zv_HmIXqnrdoWx9/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h17/h001.CRooj6BwMgIgbHrJ8oDfDwxV_VPRDBosrlC2OPYXDbY"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>with the Pentagon</u></strong></a>. </li>
 <li style="margin-bottom:12px;">True Anomaly <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63t1dRblGqt2lTKiiZfKK90sh5uPa0CK24gW62RoZ0GQU4oHzP4gQmCkykGJulwK5aA5kThCD1Q-wUhhRDuifHo/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h18/h001.fy8rIPlUlY6HXq81_lO-_SXPZuaF0iMYhoYGyJ3K2w0"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>raises $650 million</u></strong></a> for Golden Dome space interceptors. </li>
@@ -561,23 +561,23 @@
 <p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
 </tr>
 <!-- End Ad Copy -->
-<tr>
+<tr style="max-width:100%">
 </tr>
 <!-- Post Body Content -->
-<tr>
+<tr style="max-width:100%">
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- Twitter Handles -->
-<tr>
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;">
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;padding-right:10px;" valign="middle" width="52"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;" title="" width="50"/></td>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;" valign="middle">
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
 <p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h21/h001.K6AD-jdrQOC3xciIj2DWlIRsbOCq-mQgMPZ0aLezXNo" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
 <p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h22/h001.L-mpt4ijMOKLx2f3PfpxDJAzeXDfjPsiOlPf0IsTOnQ" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
 </td>
@@ -586,28 +586,28 @@
 </table>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 <!-- Family of Playbook -->
 <!-- Follow us -->
-<tr>
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;">
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
 <p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
 <tbody>
-<tr>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h23/h001.TwmkGyhbTK_Sn7GfzoJpHJ6k-CLuu68guPNy3-YFfPY" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;" title="Follow us on Facebook" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h24/h001.W1tO_WEBHXejGszqDGvchyhGHChw5qOwfExLtfQ7ZjA" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;" title="Follow us on X" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h25/h001.oTtGksSIBhScv-sVNxZx1gBWTFh8GeDsFUOFuES0hRc" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;" title="Follow us on Instagram" width="24"/></a></td>
-<td style="text-align:left;" width="40"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h26/h001.QkPYbrcihg6Tn9iujYm2Ti2wUs0MWeXMd_7zoqhSbqU" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;" title="Listen on Apple Podcast" width="24"/></a></td>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h23/h001.TwmkGyhbTK_Sn7GfzoJpHJ6k-CLuu68guPNy3-YFfPY" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h24/h001.W1tO_WEBHXejGszqDGvchyhGHChw5qOwfExLtfQ7ZjA" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h25/h001.oTtGksSIBhScv-sVNxZx1gBWTFh8GeDsFUOFuES0hRc" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4q6/9jDHdWp4TE6ZAvQm2OGbWw/h26/h001.QkPYbrcihg6Tn9iujYm2Ti2wUs0MWeXMd_7zoqhSbqU" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
 </tr>
 </tbody>
 </table>
 </td>
 </tr>
-<tr>
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;"> </td>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
 </tr>
 </tbody>
 </table>
@@ -622,6 +622,310 @@
       <guid isPermaLink="false">pr49v5eCR7uNt_4vl_FzWA@geopod-ismtpd-106</guid>
       <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 28 Apr 2026 21:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>The AI arms race’s sneakiest tactic</title>
+      <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zLoZXTXef5DMx71Bjc8E31ZecD7ucqrO-2FHcyHSSCXHtEcfG8hr9ip0TbUxB4H7Nyh0ZaQXhnraOChGXtTMTg/4q7/FayQ53RnTi6SzwGwZwVjbg/h2/h001.GIC9TsoTfgfS1n207c6CBOZlpJkigfydkOatAW5LaMU</link>
+      <description>The AI arms race’s sneakiest tactic</description>
+      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+
+</head>
+<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    Presented by NCTA - The Internet &amp; Television Association: How the next wave of technology is upending the global economy and its power structures
+</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
+<tbody>
+<!-- top date and utility link -->
+
+<!-- divider line -->
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- logo and byline -->
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
+<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
+            By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
+</p>
+</td>
+</tr>
+<!-- sponsor logo -->
+<tr style="max-width:100%">
+<td style="padding-bottom:15px; min-width:100%; width:100%;max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="min-width:100%; width: 100%;max-width:100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<th align="right" style="text-align:left;" valign="middle">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;font-weight: 400;color:#6E7381;margin-top:15px;margin-bottom:15px;line-height:22px">
+                                                Presented by 
+                                            </p>
+</th>
+<th style="text-align:left;" width="100">
+<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/8536a0a/2147483647/resize/200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2F3e%2F4edc3ca34e2dbf28089daa984341%2Flogo.png" style="width:100px;max-width:100%; vertical-align: top; display: inline;max-width:100%;height:auto"/>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- body -->
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="A U.S. and a Chinese flag wave in the breeze." src="https://www.politico.com/dims4/default/4b66350/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0d%2F00%2F16d3eafa4e27bd5b4290fb05ef6f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F75279164" style="width:100%;max-width:500px;max-width:100%;height:auto" title="A US and a Chinese flag wave outside a c..."/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">A US and a Chinese flag wave outside a commercial building in Beijing, 09 July 2007.   |  Teh Eng Koon/AFP via Getty Images</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The White House has sounded the alarm </strong>on a high-tech ploy that’s allowed developers in China to piggyback off American AI labs.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Last week, the Office of Technology and Science Policy Director Michael Kratsios <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zLoZXTXef5DMx71Bjc8E31ZecD7ucqrO-2FHcyHSSCXHtEcfG8hr9ip0TbUxB4H7Nyh0ZaQXhnraOChGXtTMTg/4q7/FayQ53RnTi6SzwGwZwVjbg/h2/h001.GIC9TsoTfgfS1n207c6CBOZlpJkigfydkOatAW5LaMU" target="_blank"><u>released a memo</u></a> reporting that Chinese entities have been conducting “industrial-scale campaigns to distill U.S. frontier AI systems.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Distillation is <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6wK9Xt_X2f9kcD10d7_Ntgf0FuAfSLaYON2iGpsZvno3qIufWusc05dacuzVvp9T3infXra3DBmj9smaYoaNwYs/4q7/FayQ53RnTi6SzwGwZwVjbg/h3/h001.X0IuNAeMDkrq8h_uftKZZIL4-7sJlL1I0tYNKKfEjSM" target="_blank"><u>a training technique</u></a> that involves a “student” model submitting a series of inquiries to a “teacher” model in order to replicate its performance. Though it does have legitimate uses, Kratsios wrote that some actors are abusing the process: “Leveraging tens of thousands of proxy accounts to evade detection and using jailbreaking techniques to expose proprietary information, these coordinated campaigns systematically extract capabilities from American AI models, exploiting American expertise and innovation.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">While unauthorized distillation is a technical problem that demands technical solutions, diplomacy could also help to curb the practice. The government has tools at its disposal to discourage China’s AI developers from plundering American models, and foreign policy analysts say shrewd strategy could go a long way to help curtail the problem.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Creating a [distillation] taboo requires a mix of diplomacy, creating international forums, and it has to have some compliance costs,” Benjamin Jensen, a senior fellow at the Center for Strategic and International Studies who <a href="https://url4027.email.politico.com/ss/c/u001.2Z4DCAMF7Pq6fUenFyNGNYTnvnIFKdiEXg3lf3hLDlRr7D_-LNg_sLIHN70T6DtDh7yCPH7_WImZpdPLl0WObzmt6cazNBuZmT7C8s6aZcd8zc_r8PueJ4MsR3FLrqWnRkgnOJea_XDlXAGS4UxGYg/4q7/FayQ53RnTi6SzwGwZwVjbg/h4/h001.-A6wKBfltCHHBFP3DEKFScGz6FFCTrwtJsyPonoI2uo" target="_blank"><u>previously testified</u></a> before Congress on distillation, told DFD. “What would be the right mix of sanctions or entity list designations that would be part of longer-term economic statecraft policy?”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">One challenge with addressing distillation </strong>is the legal gray area around it, especially when it comes to criminal liability. While many companies prohibit the practice in their terms of service, distillation typically involves going through the front door to submit queries to publicly available models, rather than traditional hacking.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“The closest [applicable criminal statute] is the Computer Fraud and Abuse Act, and it may be that the Department of Justice is able to prosecute under that statute,” said Joe Khawam, a managing director at the Law Reform Institute who was formerly an attorney in the State Department’s Office of the Legal Adviser. “However, criminal prosecutions take time, and many of the actors won't be subject to U.S. jurisdiction, so whether or not criminal statutes will serve as an effective deterrence is a real question.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Even absent a viable criminal prosecution strategy, there are trade and diplomacy laws that could exact economic consequences for distillation. Yet given the U.S.’s already fraught relations with China, attempting to restrain distillation may require a delicate approach. Khawam has <a href="https://url4027.email.politico.com/ss/c/u001.-P_kjUrZtu2zsRYBgF_pW52_9V3v6G6FTw7CeLsJq5JMgxs37wZTX--PMbnDoiL7MsC4MQYvWTc3dlkKaRL30w/4q7/FayQ53RnTi6SzwGwZwVjbg/h5/h001.AGmIWD0oGGY0ftph8CGd_5kPQyw0vztqpfXvbshVp5U" target="_blank"><u>proposed a strategy</u></a> to gradually ratchet up the pressure on China.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The approach begins with imposing export licensing requirements on major Chinese AI labs, which would restrict their access to American chips if they conduct distillation campaigns. If that activity doesn’t cease, then the escalation would continue until it reaches the <a href="https://url4027.email.politico.com/ss/c/u001.2X07yoUIwtiBEZy3wqohq092cmg_ekLsCsuebbtxlTZbrYOJjq8u21umk-tn2IFR0WehTFbe8N2ZM1mXU9aQgA/4q7/FayQ53RnTi6SzwGwZwVjbg/h6/h001.hs8H8oTTjQt9Ra0N3yJMwPn9Xa3vXFdlB9KnvbBA2nQ" target="_blank"><u>most extreme option</u></a> of freezing the labs’ U.S. assets and prohibiting Americans from dealing with them — which is how the government handles narcotics traffickers and terrorists.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">According to Khawam, immediately jumping to the harshest sanctions would run the risk of Beijing retaliating with its trump card: critical minerals. China produces <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV69IXsV7tu9HPv6r68YZjzBZSBkNRm8wja0DmghMC8fcey9qg3eSVoJBqUg-Qgu788BLd5TfWOsAe2eMF2HdFnmY/4q7/FayQ53RnTi6SzwGwZwVjbg/h7/h001.d8SfumDBghkQYIEjCSyAKrOfykdUjHbUpubQztlyJb0" target="_blank"><u>90 percent</u></a> of the world’s critical minerals, which are essential for everything from consumer tech devices to robotics, so cutting off access would be devastating for U.S. industry. “The hope certainly would be that sanctions wouldn't be necessary, that bilateral diplomacy would be sufficient, but of course you want to have that stick in case it is needed,” Khawam told DFD.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Another way to avoid a retaliatory tit-for-tat would be to get more countries involved in collectively agreeing that unauthorized distillation is bad form, said Jensen. Having more actors involved could defray the impact of potential retaliation from China, but it also just establishes a norm. “So by shining a light, by bringing in other countries, you're bringing a reputational risk to bear for the perpetrators,” Jensen told DFD. “So that's where you actually do get good diplomatic forums.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">But before going through all this trouble </strong>and risking a further strain on relations with China, Georgetown Center for Security and Emerging Technology research associate Kyle Miller says a crucial question still needs to be answered: How much has distillation actually helped Chinese labs advance their models?</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Let's assume … they get a slight bump in performance — in that case, it’s fine that we invest in some defenses on the margins,” he told DFD. The threat could be largely left for the industry to address on its own. If it’s a significant driver of China’s AI progress, then some of these more aggressive government measures would be warranted.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“If distillation is very effective and it's giving Chinese companies a major performance bump, that implies that a lot of China's frontier AI capabilities are dependent on distillation of U.S. models,” Miller told DFD.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Anthropic pointed DFD to its <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68UDOrDPgTvqM_ghwpLdF8tyiaLsbUyQHwlzqlE8mtZB_v851X0qEQChkoYlMVxd1zgS3rdvPneWMZ3AaftfCMPQ8qK8HDawdaFHBqGpmrvG/4q7/FayQ53RnTi6SzwGwZwVjbg/h8/h001.qS3t5ljtI043DcuAD2ELPTZbodMlC4fMZ_sGhz44oFg" target="_blank"><u>report on distillation</u></a>, and to company policy head Sarah Heck’s statement on the OSTP memo: “We need to have more of a spotlight on this issue, and look forward to continuing to collaborate on maintaining American AI leadership.” OpenAI pointed DFD to a <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKGX-Us4DJp2JFdOGmHG8UriRSghwIoVAC3EjS54_12cDEkfJkC-ZwDxbs-AVatJ463cnpZrgjJU9_gVgnXfPViE/4q7/FayQ53RnTi6SzwGwZwVjbg/h9/h001.wTszenUNuTHTKDUiCvPQiy6DvizDdyLK926ZQhL4Tjc" target="_blank"><u>memo on distillation</u></a> it sent to the China Select Committee in February. The White House and the Chinese embassy in D.C. did not respond to inquiries.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
+<p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Protect CBRS and don't let the Big 3 cellular companies dictate how Americans can connect.</strong> Despite what big cellular says, increasing power levels in CBRS will upend connectivity, investment, and operations across manufacturing, airports, schools, healthcare, agriculture, and more. <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9Zy1zItZSIdRfHKDZCb0miTwFI4lhBxomrwzdAEAH8aWAl4u-MJS41SsUSs3ZKiniNBhr8_iNJ7fRH_8_GOsKu7CrVu3PCzWE6_VInvbtCGMt_7VwvdajWb6HwlnjLd5M/4q7/FayQ53RnTi6SzwGwZwVjbg/h10/h001.PJjslLW9lzFtGIBnduzKHxu3GVM4eqE9AmyRVt_UY8k" style="text-decoration:underline;color:#ffffff;" target="_blank">Don’t ruin America’s leading wireless innovation.</a></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">King Charles boosts a tech deal</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">King Charles III’s visit to Washington </strong>may help to revive the United Kingdom’s Tech Prosperity Deal with the U.S., POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4sxSkL8WbGJKXeyFF2lVZJi7hmG8EZ5k3X-D3b8eZlYVxcCCIO19S9NFbZxdWH1V4U8fTflVzw-oGT4j3C1LqRNpZ3hZTPE7HbTqNgAF1Ne8/4q7/FayQ53RnTi6SzwGwZwVjbg/h11/h001.j1bJAGHWxdXBLAxoGnGNwr29BwOPKLGpE8jt56P1S_k" target="_blank"><u>Joseph Bambridge reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Our new partnerships in nuclear fusion and quantum computing and in A.I. and life sciences” could save “countless lives,” the king said in his Tuesday address to Congress. The TDP would establish a U.S.-U.K. joint effort across the AI, quantum and civil nuclear sectors.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">He later attended a reception with tech executives from firms including Nvidia and Google, where he told attendees “there is no limit to what we can achieve” through collaboration between the U.S. and the U.K.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The British embassy in Washington said in a statement concerning the TDP that the reception was meant to “galvanise confidence in the UK as a tier-one partner for technology cooperation and reaffirm the depth of the commercial and scientific ties that underpin it.” The Trump administration froze talks on the TDP due to broader trade disagreements in December, and the U.K. has been trying to restart the negotiations since February.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from NCTA - The Internet &amp; Television Association:</p>
+<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9HH6cGArwJmq9BaT1xCRuRuqKNllnLLbZWarAFsebIYtFW3_yl8-dz3FFR_HtfcQEoZZSFJrZ--W2zLb2zOk0LJt2UeYMA2RDpjF_oDSR8upJFCeWgTQxXt5dBCk6HUMc/4q7/FayQ53RnTi6SzwGwZwVjbg/h12/h001.6V6avUasiY0uIdbFFVlIDd_Wv9HwqPbX4Ka1qam5Bhc" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/735bfae/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0b%2Fb7%2Ff79a8e594d19829a464a7a3aa31c%2F500x500.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Advertisement Image"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B35700818.445338752;sz=1x1;ord=[timestamp]" style="max-width:100%;height:auto"/></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">China warns of retaliation against Europe</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Beijing is threatening to impose “countermeasures” </strong>if the European Union goes through with plans to ban Huawei and other Chinese companies from the bloc’s supply chains.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“If the EU insists on adopting these acts and taking measures against China, China will have to take countermeasures,” Suo Peng, minister at the Chinese Mission to the European Union, said about an EU bill to block such suppliers. The Cybersecurity Act that European lawmakers are currently considering would establish rules for how EU governments assess supply chain risks and bar foreign companies from certain market sectors.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“We firmly oppose and express our serious concern,” Peng added.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#ffffff;background-color:#003034;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#ffffff;">A message from NCTA - The Internet &amp; Television Association:</p>
+<p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#ffffff;">CBRS is the competition and innovation band because it allows a wide array of users, from businesses to airports and factories to farms, to deploy private networks that don't rely on the Big 3 and that coexist in the same spectrum used by the U.S. military with zero interference.
+     <br/>
+      
+     <br/>
+<a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfbTJD1ervaL6Qj-yGvuh4q9-XxlLDffdIrjWQNw6ENBxdz44rq0ixwj8blv_051E-inr9cnY5NQFDS6ECle7-Mo4VU8s-esjAgdtOX5dV_lmVXOoIbqvnz4aoCbVPYd9KM0J69Ovbp7ULBxTRA953Ei/4q7/FayQ53RnTi6SzwGwZwVjbg/h13/h001.wEBy3TIdpXFiEl8zMwRs4N0_5mhCdvI0CWZf7phw8nY" style="text-decoration:underline;color:#ffffff;" target="_blank">A new study shows that converting fewer than 2% of CBRS base stations to high power would be catastrophic, wasting billions of dollars in private investment.</a> Individual CBRS users would face severe impacts, for instance, John Deere’s connectivity in Illinois would shrink to the range of wireless earbuds. Miami Airport’s network capacity would be cut by one-third, immediately impacting essential activities from passenger security to runway safety.
+     <br/>
+<br/>
+     Thanks to FCC approval in 2020, CBRS is a dynamic spectrum sharing American success story. Now, the FCC must preserve its leadership by protecting CBRS from interference.</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #FFFFFF;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">post of the day</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dkbrUbcZIOgfkwB_UwYQYHRDDTeTu8BFhnUDAOV2y9ys3H_Aqtg0ks_CDX8tobRNh1-5-eGXCP86AuSrA8nwvq0/4q7/FayQ53RnTi6SzwGwZwVjbg/h14/h001.PpVzz5WTczc44hJUfv0D8N1N7v_zilKd0WArCoO0Wtk" target="_blank"><img alt="This is a post from a meme account. " src="https://www.politico.com/dims4/default/0e25c54/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb8%2F33%2Fd9883c5b40ea8430cd9cdbda2ccc%2Fcow-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="cow postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
+<li style="margin-bottom:12px;">Google and Meta are enjoying a <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagvjFtIombuNnWeDHFweGcCqL82PPGbPE3dE8KyZak-NI8o2f7lzEZ-aOQ487N01By3143awfeW2YuQDFFruTSSM/4q7/FayQ53RnTi6SzwGwZwVjbg/h15/h001.AcoGc4-Izy0qSWGZcDHBvwl96sqF1lyjTHyj8LVxp-4"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>digital ad boom</u></strong></a> due to AI. </li>
+<li style="margin-bottom:12px;">The U.S. restricts equipment shipments to <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6ybcmhjoEsFvVpqTYRiaPpSJlqGmGG15IXXKF2PC8jELLvvqd-vYf0pNqRKALzVRSzOJ1AsPiE11qbma3szFm3c_EKLiYfe0koaUTF_Pjw80KJ-h6D2kTaeJnVm4X1wFnsvnRHlrxHZ9saX4Gb__ucUVyLT4fF87pAufDr85Turf/4q7/FayQ53RnTi6SzwGwZwVjbg/h16/h001.PtajfwyiySeWLwOqDoZ3PXJpfpAuAbZFQasoL--65CM"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>a Chinese chipmaker</u></strong></a>. </li>
+<li style="margin-bottom:12px;">Uber enters the <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8wXmksu40rhAD5V-r2Oq0pLvJsBzX0v7FtFU7BcA5qxfn1yK32Q3XB1CTmcRGDOmSKELt0YJyaotCLqqYZMy8JB0DcGBSZ1QLLgz5t__6I90F6o2guBeNmFvIwXp0aMR4Q/4q7/FayQ53RnTi6SzwGwZwVjbg/h17/h001.dphF05ZLI4DQSYY3aWfIogy514LzsTawTQcz0iP0ZCU"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>hotel business</u></strong></a>. </li>
+<li style="margin-bottom:12px;">A <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6wayDWFDU_dq_Z5Ef5dHIwytK4WG5Q7sMZgI5AOunc3q7soTmFlZ_TyLQQr8124cZJWN9kEW9vz7BZ7LAMd4nhZhrkN2ZaGriKwkVkov-B14t-8RRaSanqc81I2iSvoqTA/4q7/FayQ53RnTi6SzwGwZwVjbg/h18/h001.lrRbac9PZ-j-cg0gvrX6aHw9nPMmvT2Hs58vkKMXY0A"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>robotic claw</u></strong></a> could harken a ChatGPT moment for the physical world.</li>
+<li style="margin-bottom:24px;">The FDA is using AI to accelerate <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68C0RXWv88d6y0EdSezKnOAsvZZJq_DmkVFlLPAN2oMz0OIgZOvXOo-YiQycbBGWP0J2Dwawh6ZHzENQF_w1McU4qSRb7JLEU5p9f6jJEHCDJvr-NJmqVrLoX_fTKn4UMD3yNd6OEWKddBx4fFTatMU/4q7/FayQ53RnTi6SzwGwZwVjbg/h19/h001.zJZ1EJYgdgNsaLoy7j5lwApsC5xp55IKGcwccwtVBv8"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>clinical trials</u></strong></a>. </li>
+</ul>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
+</tr>
+<!-- End Ad Copy -->
+<tr style="max-width:100%">
+</tr>
+<!-- Post Body Content -->
+<tr style="max-width:100%">
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Twitter Handles -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4q7/FayQ53RnTi6SzwGwZwVjbg/h20/h001.0p5o_oR-EbvpnwaezK-UVODQ_35a8fj_OYH5uvQv3s4" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4q7/FayQ53RnTi6SzwGwZwVjbg/h21/h001.WVUaVGvHi7gJkMIqltU1nd4RDr2dfPyITFVWBzfVcA8" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Family of Playbook -->
+<!-- Follow us -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4q7/FayQ53RnTi6SzwGwZwVjbg/h22/h001.5IqsF4WTpV-5fJBwsuS7QsozT5VQNZeT0vuLAuBE6zg" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4q7/FayQ53RnTi6SzwGwZwVjbg/h23/h001.th7fqlZeP8uwFlbc2e1a_FeezCrmNxwUt4qBgxzZlUE" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4q7/FayQ53RnTi6SzwGwZwVjbg/h24/h001.r-tBXOT3jlEGlnB49vYeiZoNNejbYiVZcFRg1NaDJck" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4q7/FayQ53RnTi6SzwGwZwVjbg/h25/h001.CbSOV2PkvyQnCS4SqqURRW0PJKMTudwONbNnUGMMI6w" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+<!-- howler#email.footers/core-newsletter.footer.html -->
+
+</body></html>]]></content:encoded>
+      <guid isPermaLink="false">WO61--EWRqe_L5q8qrdotg@geopod-ismtpd-87</guid>
+      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 29 Apr 2026 20:30:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
