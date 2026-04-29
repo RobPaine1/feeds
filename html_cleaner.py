@@ -212,6 +212,29 @@ def _normalize_link(url: str) -> str:
     return _strip_tracking_params(resolved if resolved else url)
 
 
+def _make_responsive(soup: BeautifulSoup) -> None:
+    """Mutate soup so table-based email layouts reflow on narrow viewports.
+
+    Newsletter emails ship <table width="600"> and <img width="600"> everywhere,
+    which forces horizontal scroll on iPhone. We strip those hard widths and
+    add inline ``max-width:100%`` so the layout collapses gracefully.
+    """
+    for img in soup.find_all("img"):
+        for attr in ("width", "height"):
+            if img.has_attr(attr):
+                del img[attr]
+        existing = (img.get("style") or "").rstrip(";").strip()
+        addon = "max-width:100%;height:auto"
+        img["style"] = f"{existing};{addon}" if existing else addon
+
+    for tag in soup.find_all(["table", "td", "tr"]):
+        if tag.has_attr("width"):
+            del tag[tag.name == "table" and "width" or "width"]   # always 'width'
+        existing = (tag.get("style") or "").rstrip(";").strip()
+        addon = "max-width:100%"
+        tag["style"] = f"{existing};{addon}" if existing else addon
+
+
 def _is_chrome_block(node: Tag) -> bool:
     """True if a block element looks like newsletter chrome (footer/legal)."""
     klass = " ".join(node.get("class", []) or []).lower()
@@ -270,6 +293,9 @@ def clean_email_html(html: str) -> str:
             continue   # already removed via cascade
         if _is_chrome_block(tag):
             tag.decompose()
+
+    # 5. Make table/img layouts reflow on narrow viewports (iPhone NetNewsWire).
+    _make_responsive(soup)
 
     return str(soup)
 

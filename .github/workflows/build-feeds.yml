@@ -2,10 +2,11 @@ name: Build feeds
 
 on:
   schedule:
-    # Three times a day, ~13 minutes past the hour to avoid the top-of-hour
-    # cron rush on GitHub-hosted runners (which often delays or silently drops
-    # :00 triggers). 01:13, 14:13, and 19:13 UTC ≈ ~6pm/7am/12pm Pacific.
-    - cron: "13 1,14,19 * * *"
+    # Hourly at :13 past, with a ~4-hour pause overnight Pacific.
+    # Skipped UTC hours 8-12 ≈ 1-5am Pacific (PDT) / midnight-4am (PST).
+    # :13 minute avoids the top-of-hour cron rush on GitHub-hosted runners.
+    # Public repo → unlimited Actions minutes, conditional GET keeps runs cheap.
+    - cron: "13 0-7,13-23 * * *"
   workflow_dispatch: {}
 
 permissions:

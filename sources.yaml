@@ -327,3 +327,15 @@ sources:
     author: Kailer
     category: Friends
     homepage: https://kailerlaino.substack.com/
+
+  - slug: ea-forum-frontpage
+    name: EA Forum (frontpage, karma 30+)
+    category: Forums
+    homepage: https://forum.effectivealtruism.org/
+    feed_url: https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&karmaThreshold=30
+
+  - slug: lesswrong-curated
+    name: LessWrong (curated)
+    category: Forums
+    homepage: https://www.lesswrong.com/
+    feed_url: https://www.lesswrong.com/feed.xml?view=curated-rss
