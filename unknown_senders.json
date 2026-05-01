@@ -1,4 +1,14 @@
 {
+  "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
+    "count": 5,
+    "subjects": [
+      "What Trump wants out of the shooting",
+      "James Comey gets indicted (again)",
+      "Log off with some very good dogs",
+      "Trump's next redistricting targets",
+      "Why Trump says the US-Iran war is over"
+    ]
+  },
   "Google <no-reply@accounts.google.com>": {
     "count": 4,
     "subjects": [
@@ -6,15 +16,6 @@
       "Security alert",
       "2-Step Verification turned on",
       "Security alert"
-    ]
-  },
-  "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 4,
-    "subjects": [
-      "What Trump wants out of the shooting",
-      "James Comey gets indicted (again)",
-      "Log off with some very good dogs",
-      "Trump's next redistricting targets"
     ]
   },
   "Axios <newsletters@axios.com>": {
