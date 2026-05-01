@@ -1,110 +1,97 @@
 {
   "adits-substack": {
-    "etag": "W/\"860e4-c6EjW/O22RajpGKIFtw58urSSxI\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://aditpakala.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"860e4-+pS1wrNVnrPX5lKcNwR7KckcVqc\"",
+    "fail_count": 0,
     "latest_post": "2026-04-26T13:03:10+00:00",
     "modified": null
   },
   "ai-policy-perspectives": {
-    "etag": "W/\"ac1bc-foSEkHQ5J2calnddx1nlCDEzadA\"",
+    "etag": "W/\"ac1bc-kPE88KDwjsAGQsCw1V17QI56rrg\"",
     "fail_count": 0,
     "latest_post": "2026-04-30T11:09:40+00:00",
     "modified": null
   },
   "aidans-soupstack": {
-    "etag": "W/\"729a2-ZcT2a6eyoyFcmKX7oC1HUAgWv6Q\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://aidanssoupstack.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"729a2-B2im5qElWBmVTcPmO4ZnptC0lxs\"",
+    "fail_count": 0,
     "latest_post": "2025-10-27T09:13:28+00:00",
     "modified": null
   },
   "amateur-amateur": {
-    "etag": "W/\"28d5e-7G4FO3lgza094fp9uugGLJLjPSs\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://amateuramateur.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"28d5e-gQWhNyLp2jSaDKpZ2ZEKtHL+k8M\"",
+    "fail_count": 0,
     "latest_post": "2026-02-14T10:01:41+00:00",
     "modified": null
   },
   "andy-masley": {
-    "etag": "W/\"141a1b-JxCdvdJ2wg+HBBUYJbld7+WSWZA\"",
+    "etag": "W/\"141a1b-CqXgnPTRx5/Ut4D3pI3e/nxbeyg\"",
     "fail_count": 0,
     "latest_post": "2026-04-24T04:21:51+00:00",
     "modified": null
   },
   "asimov-press": {
-    "etag": "W/\"14fb08-d4MA3F5/u/D85iqV3qpQNJD8Uyc\"",
+    "etag": "W/\"14fb08-ic8JikKk1wzVkZyKELUU7oMp5lw\"",
     "fail_count": 0,
     "latest_post": "2026-04-07T19:30:22+00:00",
     "modified": null
   },
   "asterisk-magazine": {
-    "etag": "W/\"d39f4-pJA7d5NjT5VT62IIeikcV27ZmUc\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://asteriskmag.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-29T12:00:56+00:00",
+    "etag": "W/\"cfa9f-xgBcKFTGKs6LDjl0d6K0rjIXVG4\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-30T12:03:30+00:00",
     "modified": null
   },
   "astral-codex-ten": {
-    "etag": "W/\"67399-FjKnQUqwczBHI6EBw/Qu/MMkkSU\"",
+    "etag": "W/\"67399-LtMk92+G50ih2GF94XacZHINF2c\"",
     "fail_count": 0,
     "latest_post": "2026-04-30T23:11:09+00:00",
     "modified": null
   },
-  "axios-ai-plus": {
-    "fail_count": 0,
-    "latest_post": "2026-04-30T09:29:38-04:00"
-  },
   "benthams-bulldog": {
-    "etag": "W/\"65aac-7/XJ6S0OqMKxfZREsbZIpmuOH0k\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://benthams.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-29T16:01:11+00:00",
+    "etag": "W/\"6955a-xHqPtJlRc2r6tN5ljWo0cg+3TQ4\"",
+    "fail_count": 0,
+    "latest_post": "2026-05-01T15:20:03+00:00",
     "modified": null
   },
   "big-iff-true": {
-    "etag": "W/\"dc13e-zaKKMkUrrIdHY2pZXfwiJSyusXE\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://bigifftrue.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"dc13e-cTVuZti1NOglDoWhtd+hshKZFio\"",
+    "fail_count": 0,
     "latest_post": "2026-04-27T09:45:51+00:00",
     "modified": null
   },
   "both-and": {
-    "etag": "W/\"1667c-lJE5k9Pmj6nw353DteUYihhMsK8\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://willmacaskill.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"1667c-k663vAStjqxooBGTKoOmdzRoVfM\"",
+    "fail_count": 0,
     "latest_post": "2026-03-31T21:28:32+00:00",
     "modified": null
   },
   "cartoons-hate-her": {
-    "etag": "W/\"7403f-Ddnqf3+mV/icdtpgwONAqB/wGFI\"",
+    "etag": "W/\"7403f-fM00r3XcHW3NE7hfOEGetkjEyWI\"",
     "fail_count": 0,
     "latest_post": "2026-05-01T11:03:13+00:00",
     "modified": null
   },
   "clear-eyed-ai": {
-    "etag": "W/\"11fb80-h6ZQYS7H8uYsryGAUfkAVEcTqLc\"",
+    "etag": "W/\"11fb80-bgfYyr8aSlNYkr5vLrdXrVmzsaI\"",
     "fail_count": 0,
     "latest_post": "2026-04-25T02:31:11+00:00",
     "modified": null
   },
   "coefficient-giving-farm-animal-welfare": {
-    "etag": "W/\"93895-0TGK9+dKGV/CSL539tkf0aOjWnM\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://farmanimalwelfare.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"93895-8Bhqlw17AUw+3X6HoJEBa6yoHeg\"",
+    "fail_count": 0,
     "latest_post": "2026-03-12T14:58:01+00:00",
     "modified": null
   },
   "david-oks": {
-    "etag": "W/\"d7728-Yy5FJoX5ZEeSEa0OKHbLYbFrp5o\"",
+    "etag": "W/\"d7728-mTtbp+2DcjgWxdb8Tmk/PnnzKTw\"",
     "fail_count": 0,
     "latest_post": "2026-04-09T18:06:45+00:00",
     "modified": null
   },
   "dylan-matthews": {
-    "etag": "W/\"15884-DMZzTBiUGeWj2E3nylSQAzvRfBs\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://dylanmatthews.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"15884-U8xVJNw4PYkcE5Ye/TYcJzhj8ng\"",
+    "fail_count": 0,
     "latest_post": "2026-04-15T13:02:23+00:00",
     "modified": null
   },
@@ -115,76 +102,69 @@
     "modified": null
   },
   "exponential-view": {
-    "etag": "W/\"45094-vqiY4qfSzUU1EEWW90UbiwJIVZI\"",
+    "etag": "W/\"45094-IHfFGy6qX5RVk/8ZhnKCeA/Q3Iw\"",
     "fail_count": 0,
     "latest_post": "2026-04-26T02:40:51+00:00",
     "modified": null
   },
   "forethought": {
-    "etag": "W/\"97769-vv+XIkDZpQ8OolwjFIJiipdrsZ4\"",
+    "etag": "W/\"97769-9B/BEHL6alkFZ7rK/WSsubZ+cq4\"",
     "fail_count": 0,
     "latest_post": "2026-04-24T17:07:42+00:00",
     "modified": null
   },
   "from-matter": {
-    "etag": "W/\"38ac9-/uevSePBrVc/M0lIJV/zjtsHRtY\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://frommatter.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"38ac9-zC9n/CdYqTNrD7BLcJZK4q8dcoE\"",
+    "fail_count": 0,
     "latest_post": "2026-04-12T10:01:20+00:00",
     "modified": null
   },
   "going-awol": {
-    "etag": "W/\"624a6-KJPatb1HJLYNTjwUs7PBDZXheyE\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://wollenblog.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"624a6-BMuBVaMYvitv7ve5cb98tj9N2G4\"",
+    "fail_count": 0,
     "latest_post": "2026-03-29T23:49:21+00:00",
     "modified": null
   },
   "good-bones": {
-    "etag": "W/\"26b7f-HuBwYlvu4IaLjHV0M/wQ8SYXssk\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://acotra.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"26b7f-ZfrM+diONsmNFkvylGCY+cLoO5I\"",
+    "fail_count": 0,
     "latest_post": "2026-04-24T14:03:32+00:00",
     "modified": null
   },
   "hyperdimensional": {
-    "etag": "W/\"60b1c-trLqUvTd0/Ber/BMJ/XqAj46teo\"",
+    "etag": "W/\"60b1c-ueOzlcc8spI35z2hYsKhFnNeKts\"",
     "fail_count": 0,
     "latest_post": "2026-04-08T14:16:21+00:00",
     "modified": null
   },
   "in-development-magazine": {
-    "etag": "W/\"1f478-PhUc2yWebJfyUumo75iPacSonks\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://indevelopmentmag.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-23T09:02:25+00:00",
+    "etag": "W/\"2a349-HXY2o5mqvNS53us/iy3Qn5FWkhU\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-30T09:00:35+00:00",
     "modified": null
   },
   "jasmines-substack": {
-    "etag": "W/\"117bb1-t0QJp9nWx8iIZV6nNmOeQKYrWg0\"",
+    "etag": "W/\"117bb1-G3fHLAwCEkeUWRRgXMWaU/QAEUE\"",
     "fail_count": 0,
     "latest_post": "2026-04-13T15:31:00+00:00",
     "modified": null
   },
   "joe-carlsmiths-substack": {
-    "etag": "W/\"2b8aeb-JSoo7Uk5oV5JULunGK+ldCyYL68\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://joecarlsmith.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"2b8aeb-6ICc5L8w30n9xuXhja+2ICQNTUw\"",
+    "fail_count": 0,
     "latest_post": "2026-04-09T17:16:30+00:00",
     "modified": null
   },
   "kailer": {
-    "etag": "W/\"1b6c-mrPZAEuUDoscJo6JwgfYHqf38VI\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://kailerlaino.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"1b6c-FhXY44+IfA3e1CWA1JDQGLeRwdU\"",
+    "fail_count": 0,
     "latest_post": "2026-02-23T15:02:59+00:00",
     "modified": null
   },
   "knowingless": {
-    "etag": "W/\"cfa05-fBvYDGJLgF+VQiWy4b8Y5aqBOsg\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://aella.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-23T01:49:58+00:00",
+    "etag": "W/\"cd070-xbGTEOkYGo8EJ/y+OazNUx+8y9c\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-30T06:13:10+00:00",
     "modified": null
   },
   "lesswrong-curated": {
@@ -194,192 +174,166 @@
     "modified": null
   },
   "marina-bolotnikova": {
-    "etag": "W/\"c093-crlLZkm+SvdxQBHgOGkbJBZi1+c\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://mbolotnikova.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-03-22T17:48:05+00:00",
+    "etag": "W/\"e563-SgAOiXNiw4QV6vUU3ksQJMYVW1Q\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-29T22:20:30+00:00",
     "modified": null
   },
   "matts-five-points": {
-    "etag": "W/\"d39ad-7wqqcPRL+OUG5p8doXV3RWEIyxI\"",
+    "etag": "W/\"d39ad-f04fKmESsfazCC14dPjrsjWZQZE\"",
     "fail_count": 0,
     "latest_post": "2026-04-17T17:05:02+00:00",
     "modified": null
   },
   "more-than-meats-the-eye": {
-    "etag": "W/\"54539-mrB4VFrCFIcg5aBqdmc0FtdMa0U\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://morethanmeatstheeye.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"54539-bymnp/qoxbAmkuxQ3DC+GFl6MvY\"",
+    "fail_count": 0,
     "latest_post": "2026-03-05T14:22:12+00:00",
     "modified": null
   },
   "noahpinion": {
-    "etag": "W/\"da993-fyzdEfdXaunu33Ggkfjb2sRQYXg\"",
+    "etag": "W/\"da993-9OlNwvrq+7KzMAdcI0SpV+Q1Gf4\"",
     "fail_count": 0,
     "latest_post": "2026-05-01T08:57:37+00:00",
     "modified": null
   },
-  "politico-digital-future-daily": {
-    "fail_count": 0,
-    "latest_post": "2026-04-30T20:17:25+00:00"
-  },
-  "politico-weekly-agriculture": {
-    "fail_count": 0,
-    "latest_post": "2026-04-27T14:02:51+00:00"
-  },
   "regressiontothemeat": {
-    "etag": "W/\"516e7-I81QX9odaLnqOy3/W0P5PV7060Q\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://regressiontothemeat.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"516e7-c+B/KE+9LwiUnINxLx50SQ9LuEE\"",
+    "fail_count": 0,
     "latest_post": "2026-04-10T20:52:00+00:00",
     "modified": null
   },
   "rising-tide": {
-    "etag": "W/\"6a508-6iOsH9QevmmX8mdmyqGib29rE/E\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://helentoner.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"6a508-aQFlL/QgIHk41hZ6fC5cjPq9bx0\"",
+    "fail_count": 0,
     "latest_post": "2026-04-06T14:31:49+00:00",
     "modified": null
   },
   "sandcastles": {
-    "etag": "W/\"136d1e-5gELRZvZXFa/Xk+TVtPrJp+R5hw\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://sandcastlesblog.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-09T11:10:39+00:00",
+    "etag": "W/\"13279e-Hr9MGMfaudx24llPW0r4oM0qGM4\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-29T20:13:30+00:00",
     "modified": null
   },
   "sashas-newsletter": {
-    "etag": "W/\"3da80-7aFuSWKtXlMEgqvDx2Mw9i8u0So\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://sashachapin.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"3da80-PboAg5tdUsL102QNbJytLcwiyug\"",
+    "fail_count": 0,
     "latest_post": "2026-04-25T20:05:20+00:00",
     "modified": null
   },
   "silver-bulletin": {
-    "etag": "W/\"7200a-lYez1fM3W8fCvcyKtJYIQCeYUXI\"",
+    "etag": "W/\"7200a-G/VRjZe/uGOpxQGtenPzGZaGKpI\"",
     "fail_count": 0,
-    "latest_post": "2026-05-01T16:01:55+00:00",
+    "latest_post": "2026-05-01T13:02:00+00:00",
     "modified": null
   },
   "taj": {
     "etag": "W/\"6cb3b-NqPfmOsPml/l4WDY0MF+eDSWngA\"",
-    "fail_count": 18,
-    "last_error": "failed to fetch https://tajblog.substack.com/feed: HTTP 403: Forbidden",
+    "fail_count": 2,
+    "last_error": "failed to fetch https://tajblog.substack.com/feed: HTTP 400: Bad Request",
     "latest_post": "2026-04-24T06:30:42+00:00",
     "modified": null
   },
   "that-vast-variety": {
-    "etag": "W/\"6dfd0-4cksuAZtXmj14TEl1msp2fby7As\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://thatvastvariety.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"6dfd0-vD02MIMgc+cKsZkBBC+rriTTxiE\"",
+    "fail_count": 0,
     "latest_post": "2026-04-19T22:09:44+00:00",
     "modified": null
   },
   "the-argument": {
-    "etag": "W/\"616b6-Au1rq0AjGwFyqVZ+NU1y7+CV8gI\"",
+    "etag": "W/\"616b6-J8aTfEvSJhKrZaHAHRl6BV6prAw\"",
     "fail_count": 0,
     "latest_post": "2026-05-01T10:03:16+00:00",
     "modified": null
   },
   "the-counterfactual": {
-    "etag": "W/\"5e532-jwqK3i4A7ZHHZyR7hfpOoGev4qM\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://thecounterfactual.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"5e532-/bDEBGsu66fb3lgtXKq9hNeXvBk\"",
+    "fail_count": 0,
     "latest_post": "2026-04-25T06:50:25+00:00",
     "modified": null
   },
   "the-optimists-barn": {
-    "etag": "W/\"5a9b7-zVE8D/RSaK5mEuLpAgXn6RqvXyg\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://optimistsbarn.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"5a9b7-w3pIVxKUIL//TFo2Q4Moe4Ul2+Y\"",
+    "fail_count": 0,
     "latest_post": "2026-04-09T12:44:46+00:00",
     "modified": null
   },
   "the-power-law": {
-    "etag": "W/\"ab89f-WvhlXqrPPveiatsB7yzFFHYL8Iw\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://peterwildeford.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"ab89f-FNJT0XNR/mNEHY48t4De3ZoTkzw\"",
+    "fail_count": 0,
     "latest_post": "2026-04-20T11:16:40+00:00",
     "modified": null
   },
   "the-simple-heart": {
-    "etag": "W/\"4fd65-UWOfCxcBYc5WXgpXI6dCGKoUQfU\"",
+    "etag": "W/\"4fd65-0M8yxpb9HAcyA2cHHPgPvjnt3TY\"",
     "fail_count": 0,
     "latest_post": "2026-04-30T14:15:33+00:00",
     "modified": null
   },
   "the-urban-animal": {
-    "etag": "W/\"67c66-loTxxZD1qXEG6IxGmUci8SHyGGA\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://urbananimal.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"67c66-xwjVcZu/3juk0GsbwpB3UUm5bE0\"",
+    "fail_count": 0,
     "latest_post": "2026-04-21T15:41:24+00:00",
     "modified": null
   },
   "the-vegan-strategist": {
-    "etag": "W/\"494a9-caK09NjRW/VtQAJgRS6j0CofA4c\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://tobiasleenaert.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"494a9-OhK2H/wqImmqb/w3ZfarBBPHjJ4\"",
+    "fail_count": 0,
     "latest_post": "2026-04-14T13:40:03+00:00",
     "modified": null
   },
   "the-works-in-progess-newsletter": {
-    "etag": "W/\"904fe-uI7zSiN/iHAzf06MDy+iCMxhjf4\"",
+    "etag": "W/\"904fe-BPSTeh8GZLZR+Rg0K0ksM5SVsUc\"",
     "fail_count": 0,
     "latest_post": "2026-05-01T13:13:46+00:00",
     "modified": null
   },
   "thing-of-things": {
-    "etag": "W/\"50cf0-GS2RmswU/pQ0TN06haiCKMXqHow\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://thingofthings.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-28T12:02:54+00:00",
+    "etag": "W/\"5460f-/sFmEm0Yuhs1T60SKWU0vaWY4hs\"",
+    "fail_count": 0,
+    "latest_post": "2026-05-01T12:03:33+00:00",
     "modified": null
   },
   "tzus-newsletter": {
-    "etag": "W/\"2bb0-WXpLInlgWfEOgFJN9AxeZE1i3MM\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://tzukit.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"2bb0-xYPXpw1z7OIWnrSou4pZbK1debk\"",
+    "fail_count": 0,
     "latest_post": "2026-03-28T20:28:20+00:00",
     "modified": null
   },
   "understanding-ai": {
-    "etag": "W/\"790c6-55F4n9cQ4ix3t+mgaIK4tZWRNOo\"",
+    "etag": "W/\"790c6-eKFtN00qvJSfu+v3XODjMIzvPik\"",
     "fail_count": 0,
     "latest_post": "2026-04-22T22:49:44+00:00",
     "modified": null
   },
   "united-states-of-exception": {
-    "etag": "W/\"b0375-2Nhz27wOtYjp8A02YvlbicLnKAU\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://statesofexception.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"b0375-SabpoQwGpjZd+ZJGeByjm14jyu0\"",
+    "fail_count": 0,
     "latest_post": "2026-03-24T05:45:48+00:00",
     "modified": null
   },
   "useful-fictions": {
-    "etag": "W/\"5df98-HxORIEUuvoZS1ee7jwmihPeV1d8\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://usefulfictions.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"5df98-JiQteguuf/STyp0QuYqpmQsOSwg\"",
+    "fail_count": 0,
     "latest_post": "2026-04-01T15:30:49+00:00",
     "modified": null
   },
   "vahid-baugher": {
-    "etag": "W/\"29b28-B2nRyKrzyT5jhnpehyFzUaQ/Y+k\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://vahidbaugher.substack.com/feed: HTTP 403: Forbidden",
+    "etag": "W/\"29b28-w3JLiP8M7g33bXx5wRMUQ0rNgUI\"",
+    "fail_count": 0,
     "latest_post": "2026-03-17T20:50:08+00:00",
     "modified": null
   },
   "wharton-accountable-ai-forum": {
-    "etag": "W/\"f386-tUMnrd/MZeqqo/DPkzwHW+LouWI\"",
+    "etag": "W/\"f386-EMwIPPEDCunO+5fiZbbRqf/OW0I\"",
     "fail_count": 0,
     "latest_post": "2026-04-28T16:15:51+00:00",
     "modified": null
   },
   "wonder-and-aporia": {
-    "etag": "W/\"80b74-gCdw6ky+xMXWRF1suBR8LP75tf0\"",
-    "fail_count": 17,
-    "last_error": "failed to fetch https://wonderandaporia.substack.com/feed: HTTP 403: Forbidden",
-    "latest_post": "2026-04-27T14:00:49+00:00",
+    "etag": "W/\"78d50-iJ4DuKlmb1mIDp5chjZcsbeOijg\"",
+    "fail_count": 0,
+    "latest_post": "2026-04-30T12:56:48+00:00",
     "modified": null
   }
 }

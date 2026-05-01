@@ -33,6 +33,7 @@ from filter_rules import (
     detect_video_only,
     is_excluded,
 )
+from html_cleaner import clean_article_html
 
 
 # -----------------------------------------------------------------------------
@@ -202,6 +203,11 @@ def entry_to_item(entry, source_name: str) -> dict:
     if not content_html:
         content_html = entry.get("summary") or entry.get("description") or ""
     description_raw = entry.get("summary") or entry.get("description") or ""
+
+    # Light cleanup for the article body: strip tracking pixels, normalize
+    # tracker-redirect URLs, fix Substack's broken footnote anchors.
+    content_html = clean_article_html(content_html, article_url=link)
+    description_raw = clean_article_html(description_raw, article_url=link)
 
     enclosure_url = None
     enclosure_type = None

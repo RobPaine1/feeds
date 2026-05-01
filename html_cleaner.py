@@ -300,9 +300,16 @@ def clean_email_html(html: str) -> str:
     return str(soup)
 
 
-def clean_article_html(html: str) -> str:
+_SUBSTACK_FEED_FOOTNOTE_RE = re.compile(r'^(.*?)/feed(#.+)$')
+
+
+def clean_article_html(html: str, article_url: Optional[str] = None) -> str:
     """Light cleanup for RSS articles — only strips clearly unsafe tags
     and tracking pixels. Leaves layout and styling alone.
+
+    If ``article_url`` is provided, also fixes Substack's broken footnote
+    anchors that emit ``href="<feed_url>#footnote-anchor-N"`` instead of
+    pointing at the article. Click-through goes to a 404 without this.
     """
     if not html or "<" not in html:
         return html
@@ -316,8 +323,15 @@ def clean_article_html(html: str) -> str:
     for img in list(soup.find_all("img")):
         if _is_tracking_pixel(img):
             img.decompose()
+
     for a in soup.find_all("a", href=True):
-        a["href"] = _normalize_link(a["href"])
+        href = a["href"]
+        # Fix Substack's broken footnote anchors that point at /feed#anchor.
+        if article_url and "/feed#" in href:
+            m = _SUBSTACK_FEED_FOOTNOTE_RE.match(href)
+            if m:
+                href = f"{article_url}{m.group(2)}"
+        a["href"] = _normalize_link(href)
 
     return str(soup)
 
