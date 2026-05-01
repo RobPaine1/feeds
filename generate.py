@@ -489,8 +489,25 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
             fe.author({"name": author})
         if category:
             fe.category({"term": category})
-        if item["content_html"]:
-            fe.content(item["content_html"], type="CDATA")
+
+        # For multi-author publications (e.g. The Argument, Forethought, Works
+        # in Progress), prepend a per-article "By X" byline to the HTML body so
+        # it's visible even in readers that don't surface the <author> field
+        # prominently. Skip when the entry author equals the source-level
+        # author (e.g. a single-author Substack) — that's already obvious.
+        body_html = item["content_html"]
+        entry_author = item["author"]
+        if entry_author and (
+            not author or entry_author.strip().lower() != author.strip().lower()
+        ):
+            byline = (
+                f'<p style="color:#777;font-size:0.9em;font-style:italic;'
+                f'margin:0 0 1em 0">By {html_lib.escape(entry_author)}</p>'
+            )
+            body_html = byline + body_html
+
+        if body_html:
+            fe.content(body_html, type="CDATA")
         if item["description_html"]:
             fe.description(item["description_html"])
         if item["image_url"]:
