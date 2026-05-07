@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 19:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:19:51 +0000</lastBuildDate>
     <item>
       <title>Trump’s anti-DEI movement comes for AI</title>
       <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV665J2NPBEylYMJ2aNN8lyfP8EYjQmqkxndB43yzmDqCa4QP9l4RYD7fRdZui5OZVpA/4q5/cjlR280iQrO3XHmOtjnfNg/h2/h001.1p9eOwKQIbmY3cEr8RORx_Q9iAtVyDoj-537JltU3K0</link>
@@ -2303,6 +2303,265 @@
       <guid isPermaLink="false">GWJKhyonSiu2V2pQ5mj6pw@geopod-ismtpd-20</guid>
       <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 06 May 2026 20:06:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>How antitrust law could weaken AI security</title>
+      <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68UDOrDPgTvqM_ghwpLdF8tyiaLsbUyQHwlzqlE8mtZB_v851X0qEQChkoYlMVxd1zgS3rdvPneWMZ3AaftfCMPQ8qK8HDawdaFHBqGpmrvG/4qf/3YgxMT_iT2adjQS0o2nhIA/h2/h001.Oz371HuO4npZP4VBcVwK_xSaDm5nkZanxCJogO7Lpjk</link>
+      <description>How antitrust law could weaken AI security</description>
+      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+
+</head>
+<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    How the next wave of technology is upending the global economy and its power structures
+</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
+<tbody>
+<!-- top date and utility link -->
+
+<!-- divider line -->
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- logo and byline -->
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
+<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
+            By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
+</p>
+</td>
+</tr>
+<!-- sponsor logo -->
+<!-- body -->
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="ChatGPT's landing page is seen on a computer screen. It reads &quot;What's on your mind today?&quot;" src="https://www.politico.com/dims4/default/6ff1469/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F32%2F3f%2Ff3bb83624e42abf0c99e53150e30%2Fchatgpt-vulnerable-teens-22086.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="ChatGPT Vulnerable Teens"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">AI companies like OpenAI have reported weathering distillation attacks.   |  Kiichiro Sato/AP</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Antitrust law could threaten to hobble AI labs’ attempts</strong> to stop foreign developers from pilfering their technology.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68UDOrDPgTvqM_ghwpLdF8tyiaLsbUyQHwlzqlE8mtZB_v851X0qEQChkoYlMVxd1zgS3rdvPneWMZ3AaftfCMPQ8qK8HDawdaFHBqGpmrvG/4qf/3YgxMT_iT2adjQS0o2nhIA/h2/h001.Oz371HuO4npZP4VBcVwK_xSaDm5nkZanxCJogO7Lpjk" target="_blank"><u>Anthropic</u></a>, <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKGX-Us4DJp2JFdOGmHG8UriRSghwIoVAC3EjS54_12cDEkfJkC-ZwDxbs-AVatJ463cnpZrgjJU9_gVgnXfPViE/4qf/3YgxMT_iT2adjQS0o2nhIA/h3/h001.ppS-78FHj7zjVfXZlGF7ocLMFAYV_-fhNAHgkwdpe_g" target="_blank"><u>OpenAI</u></a> and <a href="https://url4027.email.politico.com/ss/c/u001.PcLp7lHWAu6QqBu9_wca3CSK9dWZ5wRw4dQGjibC94mYL6kPX7Nv69WXRICB1DkEiok1olfZd5RpPOGR4xS8tMuAtxSzlpX2MSdGaln2SYoPIWi77Ldizfq5du9scZZdvyKJE9FhcidQ8XTv64a7DlNe431LdjX6jgYSWpzwwoM/4qf/3YgxMT_iT2adjQS0o2nhIA/h4/h001.7XqX6XmPwlKR7ZATgYCcbwgr5V_1udt3i6geUSImCJo" target="_blank"><u>Google</u></a> all released strikingly similar reports earlier this year of Chinese developers launching distillation attacks — a high-tech maneuver for extracting key information to train other models. Distillation involves a “student” model submitting a large number of prompts to a “teacher” model to figure out what’s going on under the hood.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">White House Office of Science and Technology Policy Director Michael Kratsios then published <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zLoZXTXef5DMx71Bjc8E31ZecD7ucqrO-2FHcyHSSCXHtEcfG8hr9ip0TbUxB4H7Nyh0ZaQXhnraOChGXtTMTg/4qf/3YgxMT_iT2adjQS0o2nhIA/h5/h001.t71o6UX8kJJFathmH5T9spMe4ajbFZfzYZPkSyn7xO8" target="_blank"><u>a memo</u></a> late last month disclosing that the government has evidence of Chinese entities conducting “industrial-scale campaigns to distill U.S. frontier AI systems.” (The Chinese embassy in Washington previously <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38fPJX_IBMMwNmzcy4Uw_7OAUg7Z07wOZ6PzBdGPwdYoTdRvHUcYLlZwEWtFFRgFxYBQ_6E88B5oSpgkwO66smV1o8rqlo9RY-rctt7ByW3F-5kCuZF2s8K6K8Vrn20eyI/4qf/3YgxMT_iT2adjQS0o2nhIA/h6/h001._JSGKQLecSez-cQvMi8INlKn76NHo1ftkLGRcJNDGG8" target="_blank"><u>told DFD</u></a> that the allegations are “groundless.”)</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The Trump administration wants AI companies to work together to combat Chinese efforts to extract sensitive model information. But antitrust experts and AI policy analysts say vague competition laws may discourage such coordination, creating a potential conflict between Washington’s national security priorities and antitrust regulations.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Kratsios laid out the administration’s</strong> game plan to combat unauthorized distillation in his memo, which will include an effort to “[e]nable the private sector to better coordinate against such attacks.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Teamwork between companies to address this threat might seem like common sense, but making it happen <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6wK9Xt_X2f9kcD10d7_Ntgey7bdkEQmS363tv6VB3oQJJADTcaFfTNWXK1jvtTdFPOUxZZ5nkQXLSKxn8b7_ZbQ5feAbLEow_Ob4mIeW_m9K/4qf/3YgxMT_iT2adjQS0o2nhIA/h7/h001.p_bMLjD0MNrsxX0uvgiSAKe3b2Tk97Y69QbjhGso-Yw" target="_blank"><u>isn’t all that straightforward</u></a>. Bloomberg <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6ykGZP1kSNxvKAuCdDjb3j-5Lce3C8hPMvMIxqkSDc362DX-wSzlEACiJ0nYuQFA3dVT7I195nX2RW8r4uOAoBj5Ssp8aStxBVGocpOZMn6HTw54PD1C9whNzrrr3rBAOkkswWTJS2LoMfNG5ChYzBFqZOQeQMJL-0nMf2HsQYoC/4qf/3YgxMT_iT2adjQS0o2nhIA/h8/h001.OWDEVLMMomKb4hx0wIB4pjSyk3F_zXX5sgueCL3hGxk" target="_blank"><u>recently reported</u></a> that AI companies have limited the information they share about distillation attacks due to fear of violating antitrust laws. Fair competition is important for AI, given how quickly it’s reshaping consumers’ lives.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“The most obvious thing the U.S. government should do at the moment is to facilitate information sharing between AI labs,” said Kyle Miller, a research analyst at Georgetown’s Center for Security and Emerging Technology. “The companies are just concerned that … it could be interpreted as anti-competitive behavior, and they just want the government to squash those concerns.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The Sherman Antitrust Act</strong>, which is the bedrock of American competition law, prohibits companies from conspiring together to unduly restrain the market. That rule has traditionally been applied to prevent companies from price-fixing or ganging up on a competitor with a joint boycott.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Yet it’s not entirely clear how foundational antitrust laws like the Sherman Act, many of which were enacted more than 100 years ago, apply to industry coordination on modern technologies like AI. That uncertainty discourages AI labs from alerting each other to IP addresses associated with distillation attacks or large-scale campaigns, Miller told DFD.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Unlike some areas of law that the companies have to deal with … antitrust doesn't have a detailed set of regulations that you could just analyze and point to the provision saying that what you want to do is okay or isn't okay,” said Tim Schnabel, president of the Law Reform Institute. “A lot of the analysis is very fact-intensive, so every time the companies want to work together on some new issue, they have to spin up their lawyers.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Antitrust laws allow for cooperation on certain matters, but determining whether companies can do so involves a sometimes nebulous analysis of whether the benefits of the activity outweigh the anti-competitive impacts.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">According to Lily Li, an AI risk attorney who founded the tech-focused firm Metaverse Law, sharing technical details on threats like distillation would likely pass muster, as long as it doesn't include anything related to “go-to-market strategies, pricing models or vendor pricing.” Such security information shouldn’t have a direct impact on consumer prices.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Yet, there hasn’t been a definitive signal from the government that companies won’t expose themselves to antitrust liability for working together on the issue. The Law Reform Institute recently <a href="https://url4027.email.politico.com/ss/c/u001.-P_kjUrZtu2zsRYBgF_pW52_9V3v6G6FTw7CeLsJq5JejrQjz_01BK-waD35bMd-Nw8FORpRdbGwuIfMbMgtsg/4qf/3YgxMT_iT2adjQS0o2nhIA/h9/h001.NWUoQvvyqOdXdEw0Mh7CrceRqY2BboUScka1K2n5OEY" target="_blank"><u>called on</u></a> the Department of Justice and the Federal Trade Commission to provide guidance on what AI risk information can be shared.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Distillation is only one issue </strong>for which some sort of collaboration could be important. Risks relating to the use of AI for developing bioweapons and other catastrophic threats may also be mitigated <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68jOhUyhcZcMlJAyEWI1WDEV27oh-PGKpWK1aMN-Fp43jWWkuQOnFsbk3UHJvzTX-4vRdaMH6WUA7hA3Xrmlsdzlhe4vSOl8EpOWOPw5DCcM/4qf/3YgxMT_iT2adjQS0o2nhIA/h10/h001.r5zUx32Qub2Csups7HO7auJqk_VrV60eP_VUxmqFyFc" target="_blank"><u>if labs join forces</u></a>. Relatedly, OpenAI actually has a line <a href="https://url4027.email.politico.com/ss/c/u001.2X07yoUIwtiBEZy3wqohq_ncf9SrXxHUXoqCCYX_Wf-DpGiHdcqDdH8RS-1hDK17/4qf/3YgxMT_iT2adjQS0o2nhIA/h11/h001.d-d2vkllTKmaybJ7wI_TMnWm-YAk4euQljiHRrTQeNs" target="_blank"><u>in its charter</u></a> stating: “[I]f a value-aligned, safety-conscious project comes close to building AGI before we do, we commit to stop competing with and start assisting this project.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Schnabel told DFD that such a commitment is an even thornier prospect, since it goes beyond info sharing or limited security-related collaboration. Yet he noted that it still might be a good idea, despite the possible antitrust implications.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“There's something to be said for there being a real public interest in how this technology develops so that it's not merely a race,” Schnabel said.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“No single AI lab can address this [distillation] threat alone,” OpenAI told DFD in a statement. “We need public and private sector cooperation, including pathways for companies to share threat information, improve detection and enforcement, and strengthen collective defense that build upon existing work in this space." The FTC declined to comment. OSTP, the DOJ, Anthropic and Google did not respond to inquiries.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#0075A5;margin-top:0;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">POLITICO Security Summit</strong>
+</p>
+<p style="margin-top:0;margin-bottom:12px;line-height:24px;margin-bottom:20px;color:#000000;">
+<i>On May 12, POLITICO's Security Summit will convene administration officials, policymakers and industry leaders for urgent conversations on the most pressing issues in defense and cybersecurity – including global defense cooperation, intelligence sharing, investments in new weapons systems, defense tech, and more. </i><a href="https://url4027.email.politico.com/ss/c/u001.dGU6vEH-V4r3GBLPJaoxDqO9YtgaAqeFYpq4c8btfn4VtCzZSJr0pKOGhqKgPDmtLDVeQFSa-D7UfLAafkucFqfJdLW2JYnV1TqJUG4roVM/4qf/3YgxMT_iT2adjQS0o2nhIA/h12/h001.gxq1A0KzThI1sgcScr7xABIXkurNWpl8EhsrkdxL-Ms" style="text-decoration:underline;color:#007BC7;" target="_blank"><i>Register to attend.</i></a>
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Apple assails Canada’s data bill</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Apple is raising privacy objections </strong>to a new digital records bill in Canada, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4PpF8qW332RRVP7U15RBf87A3taTdcYTOnGw917gNBW0hvVRz755Vu92YW6F3YD6dIT5JwN1bW-A4HKnYC5lStDowcuzvkZa15p00p1gbJMbwV9_SXqpH__cp63C9mz1U4-1RtOpCCZE47rFh5HEx9A/4qf/3YgxMT_iT2adjQS0o2nhIA/h13/h001.7xoQhDZTX-pICn3IEQKXTmQwPnf-Ga5tVlo_ASzLLp8" target="_blank"><u>Mickey Djuric reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Bill C-22 would oblige companies like Apple and Google to provide data police could use in criminal investigations to identify who is behind email addresses, phone numbers and other digital accounts. The companies would also have to maintain a system that can fulfill such requests from authorities.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Apple claims such requirements could allow for police to secretly access financial, location and health data, and could end up forcing the company to weaken end-to-end encryption. The Canadian government has denied this, however.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“Apple believes privacy is a fundamental human right. It’s one of our core values, which is why we design our products from the ground up to protect our users’ personal data and prioritize their privacy,” the company told POLITICO in a statement.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#0075A5;margin-top:0;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">POLITICO Pro</strong>
+</p>
+<p style="margin-top:0;margin-bottom:12px;line-height:24px;margin-bottom:20px;color:#000000;">
+<i>As policy challenges grow more complex, POLITICO Pro delivers authoritative reporting, expert analysis, and powerful tools to help professionals understand what is happening, why it matters, and what comes next. </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV635CG4SUqjbQNBk4U85WBteFinTGfqhCI6VUcSFvK0zyzN7DQWgTJQIfS9EhdjUdTP__KN4bE2NlqdrJTgxlJo0/4qf/3YgxMT_iT2adjQS0o2nhIA/h14/h001.kG2QC3HSBcXWDfld8s2LIZIicr4dA-10h5k4AG8-cm8" style="text-decoration:underline;color:#007BC7;" target="_blank"><i>Learn More about POLITICO Pro</i></a><i>.</i>
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">EU delays AI restrictions</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The European Union will postpone </strong>restrictions on high-risk applications of AI until December 2027, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4Tq-O2fqwSDK77620ur5lmNxLGJ6QHboULK_kivHSTNQPo4KT1yXlOGnVEpyas39Z-xDr8T16HGMJCIjDLB_DZQDOY5DHmLBEHq3_W6dM7z8/4qf/3YgxMT_iT2adjQS0o2nhIA/h15/h001.Pp7HvUD-EYQE8_VgHedqCk0xHwHbyV1FKH_Mm3zfI3A" target="_blank"><u>Pieter Haeck reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The provisions are a key part of the EU’s AI Act, and were set to go into effect in August. The deal reached by EU legislators Thursday also accommodates Germany’s demands for industrial AI to be regulated under a different set of rules.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The postponement marks the first major rollback of the EU’s digital rules, and follows pressure from the U.S. over its own tech laws as industry warns such restrictions could hurt Europe’s competitiveness in the global AI race. Commission President Ursula von der Leyen endorsed the deal in <a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1djjkPKw63DQi5ZGj8X8BrQHbqHR8HDIZUplEfluCR49VN5jvSdiTe0nzrRDFUjK5_lESFdnAD1We2nwT6D-LHwU/4qf/3YgxMT_iT2adjQS0o2nhIA/h16/h001.9vjexZn4_xLUik3w6MTXw1_dtw1MQRBr2U9QI_sIpBQ" target="_blank"><u>an X post</u></a> stating, “This provides a simple, innovation-friendly environment for our European AI ecosystem to grow.”<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">post of the day</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dqEjLneBCkcQpKzsP9RYdwQAGVNQd8syvQ2bDXh26MJHQp4iqCso_IJT7ejRw9I51d5-2Al1J3TOuK03iB8Ig1g/4qf/3YgxMT_iT2adjQS0o2nhIA/h17/h001.NKpURujs-RdTGkLxtbslA6RGvtypBZFhbyagHvbS4i0" target="_blank"><img alt="This is a post from a fiscal policy analyst. " src="https://www.politico.com/dims4/default/0f30e2c/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F94%2Fea%2F03ba0afa419b98a4e861d869b9cf%2Fmapquest-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="mapquest postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
+<li style="margin-bottom:12px;">SpaceX is poised to make a <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagtn7l_rLYCZZ8ibPYR__wNXdHVinXKuDXxX3O1E_zg0mb34Mc6lW5xdk0iZMTJ4xNc/4qf/3YgxMT_iT2adjQS0o2nhIA/h18/h001.XJePGZ-chhiC0jih1-c2EIxNCGHA3Z7ZuRU7BVqPYqE"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>$55 billion</u></strong></a> investment in AI chip manufacturing. </li>
+<li style="margin-bottom:12px;">How Mythos led to an overhaul of <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8wXmksu40rhAD5V-r2Oq0pLy95eG9cZ_UC3iUrblvVIxFTS2E-3DUSVhzb4NmcTcyBUa1aovUjOMiMzv2l30jZkc5G1gQg2AezXpWpRkg0U72q43zviCauw-ZcQHQ8_zlJJ9_Yh6L8k6As2Jr7SrNho/4qf/3YgxMT_iT2adjQS0o2nhIA/h19/h001.uEQN6z2eoYvR3nfSSK8t2QJFq0ClmJxRNMY3tIzvpfQ"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>Firefox’s cybersecurity</u></strong></a>. </li>
+<li style="margin-bottom:12px;">French prosecutors <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zrWa_8SJ0CLZxnsbLio66pgpUIbBvCjP3km4z7fbZnJ_m0qVRY8w1XrwXYS0YhuMprqDFdlbMs7IVJ2fSCq2JDGwVHUYuuhmBSCp1Augep0iLlaMqOGlzuR_b6vpUdORrGFdKamD6y0vVw-GzXU3LA/4qf/3YgxMT_iT2adjQS0o2nhIA/h20/h001.9SKJbAw9GgVwPocpHjZPo5KJS8d-_p3H4kTpW9uSfq0"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>summon Elon Musk</u></strong></a> to face criminal charges. </li>
+<li style="margin-bottom:12px;">Meta challenges a British regulator over <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6-qoZJ-4x2FKKkWkE6fwthETC3spvuzoX8jaVxAXXbQj4jgtH8TdMolEPyix0MCIabixmQgaQx3QtD3DAx1VMS6RWcsqkgovXCBZJbVgBZinSMqLHdOEBtoi0L1EQ6m0s3alNp6_1XDAl8XZdeC_WDo/4qf/3YgxMT_iT2adjQS0o2nhIA/h21/h001.ZgDL3Y5IJXg85t_-xP0MOcBnLFgEZm1zIh1AhzsOhg0"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>Online Safety Act</u></strong></a> fees. </li>
+<li style="margin-bottom:24px;">The EU considers restricting government use of <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63t1dRblGqt2lTKiiZfKK92aB7F754r708iWS99y8cP-2LiVxoHixSO-PLarhN_6AqvN4LlHPkK8TqhaqEMWQK8/4qf/3YgxMT_iT2adjQS0o2nhIA/h22/h001.7FtZnNkGKhNsG5LUnHAMXqPfeGz6utyknhAnHbnP1K8"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>U.S. cloud services</u></strong></a>. </li>
+</ul>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
+</tr>
+<!-- End Ad Copy -->
+<tr style="max-width:100%">
+</tr>
+<!-- Post Body Content -->
+<tr style="max-width:100%">
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Twitter Handles -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4qf/3YgxMT_iT2adjQS0o2nhIA/h23/h001.h5NunRR5WD3HrK-61_5P19cmKTk4RBSLTrKmqeKNYh8" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4qf/3YgxMT_iT2adjQS0o2nhIA/h24/h001.PZ-OVCD7Z7PU2IA1C6ECmqAeWngI8rpY2PsqPeGZjyA" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Family of Playbook -->
+<!-- Follow us -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4qf/3YgxMT_iT2adjQS0o2nhIA/h25/h001.jrIaZOqkf_HMzEJSYIc4V1wDAYr9QV9WDlr7_tBjY9o" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4qf/3YgxMT_iT2adjQS0o2nhIA/h26/h001.jLau4QX4c_Gp6tABBIeVOAACDTKaZAhHpG4O8-TN8b0" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4qf/3YgxMT_iT2adjQS0o2nhIA/h27/h001.LzV-GNtdNZg0WzBz5SYlwADpcOpVlSuTCEprzi8dKEM" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4qf/3YgxMT_iT2adjQS0o2nhIA/h28/h001.w26MP1NBHu-G2RNxVSYwVWj3BoI5JowELeSsiK_RcHI" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+<!-- howler#email.footers/core-newsletter.footer.html -->
+
+</body></html>]]></content:encoded>
+      <guid isPermaLink="false">WbqNNnC_RNSjPJw2KeEB1A@geopod-ismtpd-31</guid>
+      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 07 May 2026 20:03:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
