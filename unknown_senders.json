@@ -18,17 +18,18 @@
       "Security alert"
     ]
   },
+  "Axios <newsletters@axios.com>": {
+    "count": 2,
+    "subjects": [
+      "Your feedback matters to us",
+      "Introducing Axios Media Trends"
+    ]
+  },
   "AI+ Government <ai.plus.gov@axios.com>": {
     "count": 2,
     "subjects": [
       "\u2699\ufe0f Anthropic policy pivot",
       "\ud83d\udc40 Big safety pivot"
-    ]
-  },
-  "Axios <newsletters@axios.com>": {
-    "count": 1,
-    "subjects": [
-      "Your feedback matters to us"
     ]
   },
   "Axios Live <events@axios.com>": {
