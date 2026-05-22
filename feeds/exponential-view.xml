@@ -13,16 +13,6 @@
       <link>https://www.exponentialview.co/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 04:39:09 +0000</lastBuildDate>
-    <item>
-      <title>🍏 Apple’s AI bet got a CEO</title>
-      <link>https://www.exponentialview.co/p/apples-ai-bet-got-a-ceo</link>
-      <description>Apple&amp;#8217;s board picked John Ternus, senior vice president of Hardware Engineering, to succeed Tim Cook on September 1.</description>
-      <content:encoded><![CDATA[<p>Apple’s board picked John Ternus, senior vice president of Hardware Engineering, to succeed Tim Cook on September 1.</p><p>Not Craig Federighi (software) nor Eddy Cue (services). The hardware chief.</p><p>A month ago I <a href="https://www.exponentialview.co/p/why-i-changed-my-mind-about-apple">shared with you all why I changed my mind about Apple</a>. I’d been in the camp that wrote it off on AI. They had no hyperscale capex, Siri hadn’t meaningfully improved in a decade, and WWDC was seemingly losing steam. What I missed was that every time I switched between ChatGPT and Claude, I was doing it on an Apple device. </p><p>My read is that Ternus’s appointment reflects a bet on hybrid computing. Frontier model training compute has been growing around 5x per year in recent years, while GPU memory bandwidth has improved around 28% per year. That creates a widening systems bottleneck and strengthens the case for shifting routine AI tasks to edge devices while leaving heavier workloads in the cloud.</p><p>This new device landscape is still evolving, but it will be a combination of the highly portable phone with the persistent desktop or server. Both play to Apple’s strengths – they run on the same architecture and sit inside an installed base of over 2.5 billion active devices.</p><p>The board picking a hardware CEO is Apple telling us how it sees its next chapter. My analysis is open to all readers today:</p><div class="digest-post-embed"></div>]]></content:encoded>
-      <guid isPermaLink="false">https://www.exponentialview.co/p/apples-ai-bet-got-a-ceo</guid>
-      <category>AI</category>
-      <enclosure url="https://substack-post-media.s3.amazonaws.com/public/images/bfd083ab-71e1-49a4-b05d-137c8c721f4c_3840x2160.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Apr 2026 15:40:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 08:36:15 +0000</lastBuildDate>
   </channel>
 </rss>
