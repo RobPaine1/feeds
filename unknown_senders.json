@@ -34,16 +34,17 @@
       "Introducing Axios Media Trends"
     ]
   },
+  "Vox <contribute@vox.com>": {
+    "count": 2,
+    "subjects": [
+      "Your summer upgrade: Become a member for $30/year",
+      "Last chance: Become a member for $30/year"
+    ]
+  },
   "Axios Live <events@axios.com>": {
     "count": 1,
     "subjects": [
       "\ud83d\udce3 Axios and The Race in Monaco June 2026 | Get Updates"
-    ]
-  },
-  "Vox <contribute@vox.com>": {
-    "count": 1,
-    "subjects": [
-      "Your summer upgrade: Become a member for $30/year"
     ]
   }
 }
