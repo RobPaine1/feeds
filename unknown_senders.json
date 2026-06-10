@@ -28,18 +28,19 @@
       "Security alert"
     ]
   },
+  "Vox <contribute@vox.com>": {
+    "count": 3,
+    "subjects": [
+      "Your summer upgrade: Become a member for $30/year",
+      "Last chance: Become a member for $30/year",
+      "So, what's happening with the primaries?"
+    ]
+  },
   "Axios <newsletters@axios.com>": {
     "count": 2,
     "subjects": [
       "Your feedback matters to us",
       "Introducing Axios Media Trends"
-    ]
-  },
-  "Vox <contribute@vox.com>": {
-    "count": 2,
-    "subjects": [
-      "Your summer upgrade: Become a member for $30/year",
-      "Last chance: Become a member for $30/year"
     ]
   },
   "Axios Live <events@axios.com>": {
