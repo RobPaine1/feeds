@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:24:32 +0000</lastBuildDate>
     <item>
       <title>Trump’s anti-DEI movement comes for AI</title>
       <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV665J2NPBEylYMJ2aNN8lyfP8EYjQmqkxndB43yzmDqCa4QP9l4RYD7fRdZui5OZVpA/4q5/cjlR280iQrO3XHmOtjnfNg/h2/h001.1p9eOwKQIbmY3cEr8RORx_Q9iAtVyDoj-537JltU3K0</link>
@@ -9007,6 +9007,264 @@
       <guid isPermaLink="false">w-o46s-1SGOL6drxTvuntg@geopod-ismtpd-86</guid>
       <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 15 Jun 2026 20:03:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why it’s hard to control software exports</title>
+      <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38iZakYcsR6iTlraUq5h3YiZICxyo6sVM7rFdKLdGHBVyr1uEdUBUVrVjsmGTtbF3yYxoL6ZayNBUJBqI54x_fA5AcDApXlLK2uKcruQ7QM8Ay-wq6D4vRBckxBpxZU-FjHqvgoooHNFXxReP_aE7oOeUyuMAMJ2Fg2-JJ_sciETQ/4rj/SUdyEfYWRxurdipgbank4Q/h2/h001.pkOaHqBQL_v4lVNlMLWJtU4Y0_gK_-t-YJNB_IRBRNU</link>
+      <description>Why it’s hard to control software exports</description>
+      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+
+</head>
+<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    How the next wave of technology is upending the global economy and its power structures
+</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
+<tbody>
+<!-- top date and utility link -->
+
+<!-- divider line -->
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- logo and byline -->
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
+<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
+            By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
+</p>
+</td>
+</tr>
+<!-- sponsor logo -->
+<!-- body -->
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="This photograph shows the logo of the AI assistant &quot;Claude Mythos&quot; built by the US artificial intelligence safety and research company Anthropic displayed on a smartphone's screen in Brussels on June 10, 2026. (Photo by Nicolas TUCAT / AFP via Getty Images)" src="https://www.politico.com/dims4/default/1633d7e/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc8%2Ff0%2F2cef363f453ebca18cbb57e4633c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2280225206" style="width:100%;max-width:500px;max-width:100%;height:auto" title="BELGIUM-TECHNOLOGY-IA"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">The Trump administration imposed export controls on multiple Anthropic models last week.   |  Nicolas Tucat/AFP via Getty Images</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Restricting the distribution of computer programs</strong> has never been an easy task, but that isn’t stopping the Trump administration.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The White House imposed extensive <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38iZakYcsR6iTlraUq5h3YiZICxyo6sVM7rFdKLdGHBVyr1uEdUBUVrVjsmGTtbF3yYxoL6ZayNBUJBqI54x_fA5AcDApXlLK2uKcruQ7QM8Ay-wq6D4vRBckxBpxZU-FjHqvgoooHNFXxReP_aE7oOeUyuMAMJ2Fg2-JJ_sciETQ/4rj/SUdyEfYWRxurdipgbank4Q/h2/h001.pkOaHqBQL_v4lVNlMLWJtU4Y0_gK_-t-YJNB_IRBRNU" target="_blank"><u>export controls</u></a> on Anthropic’s Fable 5 and Mythos 5 last week, which led the company to shut down all customer access to the models. Despite Anthropic’s assurances, senior officials <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38iZakYcsR6iTlraUq5h3YiZICxyo6sVM7rFdKLdGHBVyr1uEdUBUVrVjsmGTtbF3yYxoL6ZayNBUJBqI54x_fA5AcDApXlLK2uKcruQ7QM8Ay-wq6D4vRBckxBpxZU-FjHqvgoooHNFXxReP_aE7oOeUyuMAMJ2Fg2-JJ_sciETQ/4rj/SUdyEfYWRxurdipgbank4Q/h3/h001.Z3m8hRaZj0ZCRs8qcO77hLBqg1PyfrNR4Y0M7LKfpsE" target="_blank"><u>developed fresh doubts</u></a> that the systems’ safeguards against potentially dangerous uses aren’t adequately secure.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">This isn’t the first time that the government has tried to impose export controls to keep high-risk software out of the wrong hands. In fact, there are <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_J5B_pOD9F6JgdzteVrVSkYDcMMj5_1wrJsgejeqy_tW5XrJgGPVqObDLfqhXfkMK1OZ_ymnLS7hj9iDY1X9uk/4rj/SUdyEfYWRxurdipgbank4Q/h4/h001.STFYcQF0_4M-CbEv0aYJOEDv-Sj0FN4GfsJ8ZtmrZUw" target="_blank"><u>controls in place</u></a> for software used in missile systems, battle simulations and other defense applications.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Yet regulating software exports has proven to be a legal and logistical can of worms. Though AI is an exceptionally powerful and transformative technology, those attempting to regulate it with export controls may run into challenges encountered with other types of software.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“In general, controlling software is much harder than controlling hardware, and there's no reason that won't be true in this case,” said Michael Horowitz, a former deputy assistant defense secretary in the Biden White House.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The battle over exports of encryption technologies</strong> at the turn of the century is an instructive precedent for the current controversy around Anthropic. The Clinton administration <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63mdYxtkCat6LB8-iz19LCAHqMx3ZSeN4mcFC0HJL0MEkSnRXwlCrZVu5YdboVhAWUzbQtIR24o1t1kobz9Jneo/4rj/SUdyEfYWRxurdipgbank4Q/h5/h001.dVvny3vwZP1rn3XVsYDVYLk8_0KV3JblbHLCcSyvcFY" target="_blank"><u>pursued a variety</u></a> of ultimately unsuccessful efforts to restrict the spread of code that encrypts communications, on the grounds that the software posed a threat to national security and law enforcement.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">On a practical level, it proved to be difficult to restrict the flow of information on <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdaguovVS_UhEnoKOr5lF5ANENMdknypDEOI2g4zsoAssBL4pQWGK05OcDcllTWwV15JJwA-bLhiGjB7okouX9tnlv-8knE3HBYMEexssMiv7hcg/4rj/SUdyEfYWRxurdipgbank4Q/h6/h001.WNVaNs3WRMVdUlnBIr3WHHy14cKxNKRFSQjdDIV_yiI" target="_blank"><u>a borderless internet</u></a>. In one case, the Clinton Justice Department sought to <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6-O5SHz5VTm3KoRCkaENxtuUyM_QkGz60kiqDzp4m4WOCHKB84pPzLclesRLkDTiwJiW2jCfj713bJGvKJeyN6o/4rj/SUdyEfYWRxurdipgbank4Q/h7/h001.HYq_gd5krfnUxqugynqw5z6PFVX32if0nucA1Yw0Jyw" target="_blank"><u>take legal action</u></a> against the developer of an encryption program known as Pretty Good Privacy. By the time the department dropped the investigation, the software was already widely available on the internet.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">While only the U.S.’ major frontier labs have so far created powerful models like Mythos, developers in other countries are expected to have their own versions in <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38fPJX_IBMMwNmzcy4Uw_7OAUg7Z07wOZ6PzBdGPwdYodthCp_R-jAhG3itrJmBEOuAEU3m70JZBzQedPA_nlfjn4RqSPqirbOS5anywhlJQ-lcpkYJ1mNbEJFQv_a8vs8/4rj/SUdyEfYWRxurdipgbank4Q/h8/h001.26gxoknS9Fk3pO4ft0yexT9-V9OJGZHjhV4ELa96uDo" target="_blank"><u>a matter of months</u></a>. Open-source versions may also eventually make the technology more widely available.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“China has the leading open models, but is that something they continue to do as the models become more capable?” Brad Carson, president of the nonprofit Americans for Responsible Innovation, told DFD. He added that software export controls are unlikely to be effective by themselves, and would need to be paired with strong limits on chip sales abroad.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Since export controls were initially designed for the international circulation of physical items, they aren’t always the best fit for code. “For models that are publicly available, in some ways you have to almost assume some degree of leakage internationally, even if you have strong export controls,” said Horowitz.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">And then there’s the potential constitutional hurdles. </strong>The Clinton State Department and DOJ suffered a major legal defeat in the landmark 1999 case <a href="https://url4027.email.politico.com/ss/c/u001.-P_kjUrZtu2zsRYBgF_pWzfwFcSXa5d9rCHQpcsGPRo2InemXDxT9BLMgQF2t3GDldNzIIx0Iapth7FnWTNwTVNJnsTx4S279hOXNgLqehq13eesM0wai6nctU7gaUkX/4rj/SUdyEfYWRxurdipgbank4Q/h9/h001.V-WRSYz7N86atFAhXxb_nvk49AVn55FsaOzjx_ZmFD4" target="_blank"><i><u>Bernstein v. United States</u></i></a>, which involved a Ph.D. student who challenged export controls on his encryption algorithm and source code.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The Ninth Circuit Court of Appeals struck down the restrictions, holding that they infringed on the First Amendment. The ruling established that software can be considered speech in some instances, as developers often use code to express scientific ideas.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Courts are <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr39AhMi1HTTYdiQngEr8iABb7lLvFgN3ecP0hmge-teJCnRCHAsVtIPxm4UJ19oLSeq3EMy6WLgGeINEM5OAdKDH88rhV4mFyD5NrcG2eB-3Uw/4rj/SUdyEfYWRxurdipgbank4Q/h10/h001.mv2woUk0cnEwsBKfHZQ4riDV7MdQ2fY1dFVIMH5-1xM" target="_blank"><u>mulling over the question</u></a> of whether AI chatbot algorithms are protected by the First Amendment in a number of pending cases, which could have implications for the export controls debate.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Carson contends, however, that there may be some legally salient differences between cryptographic and AI codes. The constitutional precedents around encryption are focused squarely on the code itself, while cases involving generative AI systems also concern whether outputs are a form of speech.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“If I write code, that's actually communicating my intent … it is me attempting to express something, and you can link that to a human being — I have a First Amendment right,” Carson told DFD. “But with a model output, which is created by a machine, I think the mainstream view is that it’s not attributable to a human. The LLM is not a human that's generating the output.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Anthropic declined to comment beyond its <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68UDOrDPgTvqM_ghwpLdF8tHEZz-pb_7XGOcVoLuoR1G6Ejtp8wspZ9hU3AabhQ8_A/4rj/SUdyEfYWRxurdipgbank4Q/h11/h001.NVQCevxoG63a7OdNBCe9PcN66M7bop8Akw2SZ85uaEA" target="_blank"><u>blog post</u></a> on the export controls, in which it stated that “the government should have the ability to block unsafe deployments, as part of a statutory process that is transparent, fair, clear, and grounded in technical facts. This action does not adhere to those principles.” The White House did not respond to a request for comment. <br/></p></td>
+</tr>
+<tr style="max-width:100%">
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#0075A5;margin-top:0;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Watch J.B. Pritzker on <i>On the Road with Jonathan Martin</i></strong>
+</p>
+<p style="margin-top:0;margin-bottom:12px;line-height:24px;margin-bottom:20px;color:#000000;">
+<i>Gov. J.B. Pritzker joins Jonathan Martin in Chicago for a wide-ranging conversation on Democrats’ future, his own political rise, Trump and what it will take for the party to rebuild.</i>
+<br/><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6wzH62Rc9P4qcO39WcxLMDeYYIGYvcfQOHGF3jNxXlXQE8WLypHMhjJFiYLo-o3sxpBEGW4GTgjiBKrXT3rbT0tKlhp9Ylyonhu6kpqvsGASRar_2xlwlTEoXoeCUj-a3A/4rj/SUdyEfYWRxurdipgbank4Q/h12/h001.FQ5w1l1NBOEFgQ-9eX3dQUTjmiLcNn9LR5L3wk0ePd0" style="text-decoration:underline;color:#007BC7;" target="_blank"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><i>Watch the interview.</i></strong></a>
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Raskin scrutinizes Apple and Google in ICE probe</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Rep. Jamie Raskin (D-Md.) is demanding information</strong> from Apple and Google about their alleged takedowns of apps tracking Immigration and Customs Enforcement operations at the behest of the Trump administration, POLITICO’s <a data-debug-source-site="POLITICO Pro" data-debug-source-uuid="0000019e-d107-d4f4-a9fe-d7bfe3010001" href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr395wZW-J0YYGYyjIj9BRGbKOEFiJL0QXCFBIa3R0VE_EWNx7aSr_GuQs5GcZ91tQf_Hdhdcke5I6I3i7dt_ZLEu/4rj/SUdyEfYWRxurdipgbank4Q/h13/h001.8MjAOLjNzA9LQF1VSQwj3NubDBRd0i5Q69Dmj3RSb5Y" target="_blank"><u>Alfred Ng reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">In letters sent <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxZPvQGMwjrcav6he_y4b0PE_iz_kiAJjOneGYdeu_j8V5vQ5GaQhl1qSudNgjHLq8Nr-MHxiK7exMSZ6Wy7bt55/4rj/SUdyEfYWRxurdipgbank4Q/h14/h001.h3E4J1zJO6jK2IbyjPnS-rB5gAhkBc_lQjPtfFqJtTQ" target="_blank"><u>to Apple</u></a> <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxZPvQGMwjrcav6he_y4b0PEWhTaMRSQYXtaBzTzVRC1LFr8pH1DVD_MJaoZNYS_X3_L2LIyRCpgYyVOV9g4Qq4v/4rj/SUdyEfYWRxurdipgbank4Q/h15/h001.aXDRy74ndcPL0wRQq_1hg9FjR82nfFi3lXa-X2UuAI4" target="_blank"><u>and Google</u></a> on Tuesday, which POLITICO was the first to obtain, Raskin demanded that the companies provide all documents pertaining to their communications with the White House, the Department of Homeland Security and the Justice Department about the apps. “What drove this decision was not functionality, not safety, and not your anti-discrimination guidelines. It was governmental pressure, plain and simple,” wrote Raskin, who launched an investigation into the Trump administration’s alleged efforts to block apps tracking ICE agents <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr388AiPAXRA8BXz5hACXuzDonM4lgptOlQOpsFnlAX4VMNeLsIjisBFfVUAOpEuIb75cFmr3_PNBmvgw5DQ1FJSOegptn-mHQ646V7mbLmPXitgR107UVBEDqJIwvvolVWk/4rj/SUdyEfYWRxurdipgbank4Q/h16/h001.qjDvsv1r11b1aGFFeLbjrT9ids-RmJ7o1fU6B92cVb8" target="_blank"><u>in February</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“ICE tracking apps put the lives of the men and women of law enforcement in danger as they go after terrorists, vicious gangs, and violent criminal rings,” DHS said in a statement. The White House, Justice Department, Apple and Google did not reply to inquiries.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:20px 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#0075A5;margin-top:0;">
+<strong style="font-family:Helvetica,sans-serif;font-weight:bold;">POLITICO Pro</strong>
+</p>
+<p style="margin-top:0;margin-bottom:12px;line-height:24px;margin-bottom:20px;color:#000000;">
+<i>Navigate policy challenges with confidence. POLITICO Pro gives professionals authoritative reporting, expert analysis and powerful tools to understand the business of government — in Washington and beyond. </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV635CG4SUqjbQNBk4U85WBteFinTGfqhCI6VUcSFvK0zyzN7DQWgTJQIfS9EhdjUdTP__KN4bE2NlqdrJTgxlJo0/4rj/SUdyEfYWRxurdipgbank4Q/h17/h001.nNKG5v5f5Cd4Sv6FwEa6n6V2FTRj8zVFilWMPjj-XIg" style="text-decoration:underline;color:#007BC7;" target="_blank"><i>Learn more about POLITICO Pro</i></a><i>.</i>
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px; font-size:0; border-bottom:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Justice Department backs xAI in lawsuit</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The Justice Department is arguing</strong> that the NAACP’s environmental lawsuit against xAI could threaten national security, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4_3LmMCGfHiEsXUisO3ztcoc-VxIfkvHhZHiPbQQmwCL9dA70cIqF-UWWiMfvIxiFYcsewNcPBuj_d7oPPc2cxFj08QvCy9Hu90R_zHJczX8/4rj/SUdyEfYWRxurdipgbank4Q/h18/h001.9p6d4Vs8oS69Mg01J3Unxm1vcGzT6Bg5t-oHzYlaCM0" target="_blank"><u>Hassan Ali Kanu reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The NAACP filed a lawsuit in April challenging a construction project by Elon Musk’s AI startup to build and expand its Colossus Gas Plant in Mississippi to power data centers. The advocacy group alleges the plant harms vulnerable and heavily Black communities, and was constructed without the required pollution controls and permits.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The DOJ filed documents with the court on Monday contending that the lawsuit would interfere with the Trump administration’s efforts to develop AI infrastructure necessary for the military to “meet its national security mission and keep pace with adversaries.”<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dvKS3zzvcgK_7kcAnE-jvS9RTnTDp-4Zgh24l1yLajWCw069FJ-fxm1Y-Lc2Or677w/4rj/SUdyEfYWRxurdipgbank4Q/h19/h001.vByzHC-7g5TnVkW2zXyNwrMpaLyeaKT0pDryDP-b108" target="_blank"><img alt="This is a post from an AI policy researcher. " src="https://www.politico.com/dims4/default/111129b/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F50%2F56%2F2b34db4d4495af4b83d52269f107%2Fanthorpic-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="anthorpic postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">The future in 5 links</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
+<li style="margin-bottom:12px;">Asia’s <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagsDjrzRhGoG7nuHiIIrl8NwI8y3C3gM35_YjOoKySHg19MiDX6f3m9RGtmIh3qF0wexF0R8BJov1CBJsURtdkMS/4rj/SUdyEfYWRxurdipgbank4Q/h20/h001.URAX6H97TadsEfApYCF3BZT7-6voB_hgsCwip1lUqNY"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>chip companies</u></strong></a> are thriving in the AI boom. </li>
+<li style="margin-bottom:12px;">Snap debuts $2,195 <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63t1dRblGqt2lTKiiZfKK93q1JKrEFlvqITtgN2_TyPWfbT1kCnOaS8Z_wbe6NHqLyMsI6mTkvP7iLGLcc0hEefNyeJW2O7uVmGHjkvG87ySuu0xJV7hk9k-QmhprxqKRQ/4rj/SUdyEfYWRxurdipgbank4Q/h21/h001.EuHAM7OQ9rlWS0BSI0DCyp5OXi1cW-srWr6Z3B0jXIE"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>augmented reality glasses</u></strong></a>. </li>
+<li style="margin-bottom:12px;">India <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8wXmksu40rhAD5V-r2Oq0pJD-Nvo9COuxC727A31koDlN7YZ63L9INlHleXBCfmuZaOe0OBhJpPkm-pQ_PRb-2uc3Y3TrYLTACFjbri3md0gPmm-qX8E6UWtt2tExSNbtg/4rj/SUdyEfYWRxurdipgbank4Q/h22/h001.fLE0xevt7pPBHopwf8K31dl1VO-Zf3SPFOVX4Ztnsrs"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>temporarily bans Telegram</u></strong></a> due to concerns about entrance exam fraud. </li>
+<li style="margin-bottom:12px;">SpaceX announces it will acquire the AI coding agent Cursor <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV66HuzS4lQL-DiTku361KqvFwyPXL_2jjS6YHarE-hlIUuWlLbZt6O1s-_QrJ9h4MN1m8Mt8ks_uHHXqgWbD2LZriYVXUju82otK9nIyh3093QYtbVFDgqKukEOuo6yk945Be3aJn7M7ITOZec3OLRJQ/4rj/SUdyEfYWRxurdipgbank4Q/h23/h001.p2DzrwuWcYQEq51CUkWjCuzi1gQecGoIDb2jFZRMUZE"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>for $60 billion</u></strong></a>.</li>
+<li style="margin-bottom:24px;">The FCC removes an import ban on <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6ybcmhjoEsFvVpqTYRiaPpTaJUhL-P02Nq7HIfmtoDyv0C9jRz1-lIc7a7jhawqyvdvcKgocRbVaaYeNHoSz2HDaECrf8-bEgYHjpJbDqUK8FA6oFdmN3l0UKpdrGKEFFw/4rj/SUdyEfYWRxurdipgbank4Q/h24/h001.krLWajO3a3Tmqxs4zF0FeQTWIG2tGpmWFfVXHLyLE4o"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>Chinese toy drones</u></strong></a>.  </li>
+</ul>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Gabby Miller (</i><a href="mailto:gmiller@politico.com" target="_blank"><i><u>gmiller@politico.com</u></i></a><i>); Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
+</tr>
+<!-- End Ad Copy -->
+<tr style="max-width:100%">
+</tr>
+<!-- Post Body Content -->
+<tr style="max-width:100%">
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Twitter Handles -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4rj/SUdyEfYWRxurdipgbank4Q/h25/h001.cGOxroGDrEBx5eSszUOKDWHzxQRk66wVKaxUBMrqrBw" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4rj/SUdyEfYWRxurdipgbank4Q/h26/h001._TmuUA5ahKL0DEfY8gNd2ZUf2drd_f-v3IGzTUoHirA" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Family of Playbook -->
+<!-- Follow us -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4rj/SUdyEfYWRxurdipgbank4Q/h27/h001.CZU-AgI-JdDTwTaq16oS0ll7WTpcAdQ-hOhMJ268J6g" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4rj/SUdyEfYWRxurdipgbank4Q/h28/h001.BkCMjGAYrERmJ_kvqAEdVMRNdhZdPgI7GUryqlG4bJA" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4rj/SUdyEfYWRxurdipgbank4Q/h29/h001.AKRJyZ_ekuKak6L9F6LceoVZdhC25NT2XcYgOQGWkrU" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4rj/SUdyEfYWRxurdipgbank4Q/h30/h001.iAr5OsHKV1XQOrDRd9lNCQgFJkXbCT1ubFwcQlYinGE" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+<!-- howler#email.footers/core-newsletter.footer.html -->
+
+</body></html>]]></content:encoded>
+      <guid isPermaLink="false">limlLw-zTcOgeb5GSgdO5Q@geopod-ismtpd-111</guid>
+      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 16 Jun 2026 20:05:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
