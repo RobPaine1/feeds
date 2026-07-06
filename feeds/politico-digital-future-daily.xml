@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 19:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:05:24 +0000</lastBuildDate>
     <item>
       <title>Trump’s anti-DEI movement comes for AI</title>
       <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV665J2NPBEylYMJ2aNN8lyfP8EYjQmqkxndB43yzmDqCa4QP9l4RYD7fRdZui5OZVpA/4q5/cjlR280iQrO3XHmOtjnfNg/h2/h001.1p9eOwKQIbmY3cEr8RORx_Q9iAtVyDoj-537JltU3K0</link>
@@ -12614,6 +12614,214 @@
       <guid isPermaLink="false">GoR_P9hqRwGnma_cDdiqKg@geopod-ismtpd-97</guid>
       <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 02 Jul 2026 20:01:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>A business model for quantum computing</title>
+      <link>https://url4027.email.politico.com/ss/c/u001.q0b8P1m1uhdBZsHkA5woD-pqtnEgz-UJLqYvWXhHTZZZcjoiwgKn6v6V1LfFAyLmsDaJvyk4SfFACuXqOaanqK1YF5e8HY9xnWPVAmPiTZ2PeeLQ2cYbXddAFh4I-Y-79hYu9P_LBCGH0IcOL0NUBj5dcScMb6BtKX_AUIEU-nnURajYrI3elkCYcOv51m-IJ27TOafNshmhXR0Mqax7OUWecPdgGfnUY8LDpU821P0/4s3/luIJCXZARLKH2U3xMObIwA/h2/h001.v7BAkteluIsFPf5_WT18EHC9YEERT1OREYp2OeyE8Yw</link>
+      <description>A business model for quantum computing</description>
+      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+
+</head>
+<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    How the next wave of technology is upending the global economy and its power structures
+</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
+<tbody>
+<!-- top date and utility link -->
+
+<!-- divider line -->
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- logo and byline -->
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
+<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
+            By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
+</p>
+</td>
+</tr>
+<!-- sponsor logo -->
+<!-- body -->
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt='The IBM Quantum System Two is seen at IBM Thomas J. Watson Research Center on June 6, 2025 in Yorktown Heights, New York. Technology veteran IBM on June 10 laid out a plan to have a "practical" quantum computer tackling big problems before the end of this decade.
+Current quantum computers are still experimental and face significant challenges, including high error rates. Companies like IBM, Google, and others are working to build more stable and scalable quantum systems. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images)          ' src="https://www.politico.com/dims4/default/9f4ee7a/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F02%2F5b%2F9deecfba42c992346386736aa8bc%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2218892002" style="width:100%;max-width:500px;max-width:100%;height:auto" title="US-TECHNOLOGY-INTERNET-IBM"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">An IBM quantum computing system at the company's Thomas J. Watson Research Center in New York on June 6, 2025.  |  Angela Weiss/AFP via Getty Images</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Researchers from the Oak Ridge National Laboratory, Cleveland Clinic and IBM announced a breakthrough </i><a href="https://url4027.email.politico.com/ss/c/u001.q0b8P1m1uhdBZsHkA5woD-pqtnEgz-UJLqYvWXhHTZZZcjoiwgKn6v6V1LfFAyLmsDaJvyk4SfFACuXqOaanqK1YF5e8HY9xnWPVAmPiTZ2PeeLQ2cYbXddAFh4I-Y-79hYu9P_LBCGH0IcOL0NUBj5dcScMb6BtKX_AUIEU-nnURajYrI3elkCYcOv51m-IJ27TOafNshmhXR0Mqax7OUWecPdgGfnUY8LDpU821P0/4s3/luIJCXZARLKH2U3xMObIwA/h2/h001.v7BAkteluIsFPf5_WT18EHC9YEERT1OREYp2OeyE8Yw" target="_blank"><i><u>on Monday</u></i></a><i> that could establish one of the first practical uses for quantum computing, a technology whose </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38fPJX_IBMMwNmzcy4Uw_7OAUg7Z07wOZ6PzBdGPwdYoR3J6uXFsx_E9JZ9_LKSzTSpA7-J455wGHImy2P_nRP5IRr1vJW2PvCdOEepjzT5RpMxAcsFlCV3U1a0eJAWuj8/4s3/luIJCXZARLKH2U3xMObIwA/h3/h001.MPBwMCGv_yWf6KGgLV6GHqN69VZgrrICIOchkyapExI" target="_blank"><i><u>financial viability</u></i></a><i> has long been a source of concern. The research team unveiled the first-known method for using AI-enhanced quantum computers to identify promising sources of tritium, a rare radioactive material needed to fuel future fusion reactors. The project may demonstrate how quantum computing can lead to discoveries that will be commercially valuable for renewable energy and other sectors. </i></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>The announcement is part of the Genesis Mission — a </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr3_4dKT5kk4gf376rzPj7qqXgwxg_9VN_j9rBwNCng2znM1Pxjg12SJZq39mDankgHuOp6etGlWUyEDD6apmMnJRvHyz502FBw-d5vVpz2ma-g/4s3/luIJCXZARLKH2U3xMObIwA/h4/h001.yL3aocZd5-PIDZD5mYCEi2YBdQCAIoy2e3XseDm3Xrs" target="_blank"><i><u>federal initiative</u></i></a><i> established in a November </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV60SgT1lbNwilsYKFij_SeSSRfSECFHYbB9QTW5S-_OOY0m39Fy65lBUpyOpAQaIQM26szJvaVd2z0axiJUor0RFCNj1XVlJeGNCDJEWIigJm/4s3/luIJCXZARLKH2U3xMObIwA/h5/h001.Rh8grsmfvmIlqiMgs8hdjmV94Stjjaz24zS7_E8XRgM" target="_blank"><i><u>executive order</u></i></a><i> to leverage frontier tech, like AI and quantum computing, to accelerate scientific discovery. DFD spoke with IBM’s director of research, Jay Gambetta, about how this project could help lay the groundwork for a quantum computing business model and the prospect of the industry sustaining itself without government support. This interview has been edited for length and clarity. </i></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Was quantum computing necessary to make this discovery? </strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The teams are trying to solve a problem that matters for eventually creating fusion — this tritium production. I'm not going to say that quantum is required right now, but to get to the point where we can scale this, you're not going to be able to solve it with classical [computing]. The way I look at this is the first significant step where we can actually show a workflow that runs on a quantum computer, runs on classical supercomputers and runs using AI.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What role did the Genesis Mission play in this research?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">I think of it as a partnership. From the IBM side, we obviously understand quantum computers. We are not experts in nuclear fusion. [The Genesis Mission is] forcing a collaboration to do things that are beyond what a single institution could do. It was coordinating the expertise and the ambition.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">One of </strong><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr396MPjho3G2zOoP4i1NAyC2-52_aEWTVBDw1qzxRUlE3Vz9nGA3NlqWy9tijWZFKodwZiTmids-TaJFKWjsYWjXqxnNeoyngOVNJtbbPbYG8_dzFXh9VxAV6FjKW7Zix6R-Vysezs15hGTX9fjcQdXR/4s3/luIJCXZARLKH2U3xMObIwA/h6/h001.NEwA-uvUGUgxm522r0XhQWbbKg9AOyjd3tXlK_bQt2s" target="_blank"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>the concerns</u></strong></a><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"> with the Genesis Mission is that the government has separately cut back on a lot of the data collection operations that could help with research. How have you found the process of finding the necessary data for your research? </strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">One of the beautiful things with quantum is it's not something that's driven by data. What we're doing is looking at the problem in a way where data doesn't exist for those types of solutions. Quantum gives us the accuracy to allow us to make predictions that we can't make from previous data.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Based on how this research project was structured, what do you see as the business model for quantum computing?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The business model is very simple at the moment. We want to build quantum computers and provide [customers] with capacity. Obviously, in this experiment we worked with the national labs, but we also have over 370 members of what we call our IBM Quantum Network — that includes commercial clients who are already looking at using quantum computers. So this is just one example of us going from <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_CqYvbVzjcZ8ZSgXad28FRSRGP0mSuxknWmXp2hj4hgdxOZ3NksOqOAIQNCdf9c7X92Xj93VaRZjdGorGYVv3c/4s3/luIJCXZARLKH2U3xMObIwA/h7/h001.4o7wIWq5QXQE-j71NR6_K_rLO-YO-Uuu89n7xRW_4TY" target="_blank"><u>toy problems</u></a> to practical problems. And then eventually our business model is through [providing] the capacity of using our systems.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">So the business model would be, say, a fusion company presenting you with a problem to be solved with your quantum computing service?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Yes. And of course, the customers … in this case are some of the best nuclear physicists on the planet. They need to know the exact problem to a [precise] degree. I can give you my best answer as a physicist [with] my university degree, but what I know best is the quantum computing side. Once we take their idea, we know how to really map it efficiently onto our quantum computers. That's why the partnership between experts who really understand their domain and us, as experts who understand quantum computing, allows us to iterate much faster.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Spanberger bucks data center moratorium </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Democratic Virginia Gov. Abigail Spanberger</strong> is pushing back against a proposed nationwide moratorium on data center construction that’s becoming increasingly popular in her party, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4uCMSYGmub2nm7k9yExKkEEY1FF00LM68XiNVjv9Y1wwOudwNEP9k0NPwXzuoORYOMI8WpJg6t70o1vChPp1oKcfm1RRWbaaOh0XQRgJJlUvwxyC0JM5FSJ2kV-3g_bAy/4s3/luIJCXZARLKH2U3xMObIwA/h8/h001.xZUQFR1NjpY0vCpGmQJTijKStny7y-KSeSsButQ3-Sk" target="_blank"><u>Josh Siegel reports</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">On the Monday episode of the <a href="https://url4027.email.politico.com/ss/c/u001.2Z4DCAMF7Pq6fUenFyNGNeKTJhgRg2750u6dZgJj6HbrXILXejdVG-Z7wuxcHPVipEqER99b6mf3r3P8Z0djM3-g8E4Pz9V4hIDyjfeiaxju4gYsuPmMN1WHtuAqHIjOOnG-errjHIJIjY_-dQbzUUAn-BP_DqwMJFW6pLM7ne0iIiDwT--Ni6HPRSLFzLPkKIa0U8iGtPx_yXP63eTKV3huXqMwCQLpYbFuh6iYryvLCIKyfL1Sd9Hl2FjLFBbt_IDK9FfOD1eaY1wwNg0PJ6pwwmapLvi7lhnvUVUZ13aWlR9Hjy0MazdO62CwRZlJMr1j-oYqHC-JssU6DvjyhQ/4s3/luIJCXZARLKH2U3xMObIwA/h9/h001.CIjMNToVYjTLuHP9lZjzEGbtiH-17JfbM8XnfwpQQjo" target="_blank"><u>POLITICO Energy podcast</u></a>, Spanberger said “walking away from the table” to implement the moratorium would threaten economic growth and national security. Spanberger’s state has the world’s largest concentration of data centers, and she said a national pause on new construction would have “a major impact on jobs in Virginia, union jobs, electrical jobs, certainly the building trades.” She added, “The need for data centers, processing of information, there's a national security implication here in Virginia. We don't, as a nation, want to cede that ground.”</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Instead, Spanberger, a former CIA intelligence officer who ran on making energy more affordable, said communities should have more say in deciding where data centers are located. Spanberger’s rebuttal was in response to Energy and Commerce Committee ranking member Frank Pallone (D-N.J.) endorsing a moratorium <a href="https://url4027.email.politico.com/ss/c/u001.q0b8P1m1uhdBZsHkA5woD4BM5JPP9lFW9CABpnOlUpPltAYQQrYUhItRnqgXyftz_1U41THB9lrBCNlVsw_dlLYd280IKxtxK_lucZQZ_WBVhxOXf8KQ6VKnvD1Ikkj9OoyxBsg5kt_Hi7-pihFrSFr4blARSp2XsWlKw8-mtU7gj4-Q_huijko4vsct4PxYa_iFtb2FP0vHo1f68vr4oQ/4s3/luIJCXZARLKH2U3xMObIwA/h10/h001.TgnlUotIl8p_P0qC5i0NOHQQzqmtg26auwzhte8Bq6E" target="_blank"><u>in June</u></a>.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Supreme Court allows Texas to enforce app age verification</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">The Supreme Court</strong> <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">denied a request </strong>to temporarily block Texas’s age verification law for app stores on Monday, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr3877stf3InYVziQUmybH9GMTe-hk76_f57TpguSNBgTX4YlVHW3vhT5TNLHMyN0yE7lDOlbmL1UMB2Q4ncwqdpDMOqim6917tpJZkjAivT_wg/4s3/luIJCXZARLKH2U3xMObIwA/h11/h001.OQA4ntjhrOKgL8a34zmJzkQgUMGaZl4UWvFkRukSXdI" target="_blank"><u>Owen Dahlkamp and Hassan Ali Kanu report</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The ruling effectively means the state can enforce its Texas App Store Accountability Act — which requires app stores to implement age verification measures and obtain parental consent for minors downloading apps — while a First Amendment challenge to the law from the Youth advocacy organization Students Engaged in Advancing Texas and the Computer &amp; Communications Industry Association proceeds in the lower courts. The Supreme Court’s one-sentence order did not explain the decision.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">CCIA President Matt Schruers said his association looks forward “to an expedited hearing before the Fifth Circuit Court of Appeals in early August to demonstrate how Texas’ App Store Accountability Act violates the First Amendment.” SEAT and the office of Texas Attorney General Ken Paxton, which is defending the law, did not immediately respond to requests for comment.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dr-rfMtroPsjdRy8Nx5l3b-8oz0ielP1mtn7N3cCyCZtGH1KnNXuYm4l2Jvw90ucb5ZHCiXzJQ3ZSZx749PTaG0/4s3/luIJCXZARLKH2U3xMObIwA/h12/h001.NQTJ9UVSDQWRDIfeWMVJneee8TJa3T4s6b5hEr1Joio" target="_blank"><img alt="This is a post from a software designer." src="https://www.politico.com/dims4/default/0d70fc6/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fc5%2F6a%2F1e42d8f845cc9752f20428e2d430%2Fbrianpostofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="brianpostofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
+<li style="margin-bottom:12px;">SpaceX’s president says she’s donating company stock <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6x5I4x5ul5NYOQKyPu620x2AcAn1oOUovbpExPLe4ciHbOiZPuE6OyF-dK6oVqcWZBj_XupA6eqQmpNfvfLk0_meIfDP2_Rw0coY91Mn4ALQ/4s3/luIJCXZARLKH2U3xMObIwA/h13/h001.7pV3q0ozhQ3MthDPbpxkG6LfEfaSUvr4wB6un5ILEYc"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>to Trump Accounts</u></strong></a>. </li>
+<li style="margin-bottom:12px;">Anthropic and TeraWulf sign a <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV68DkcOgpKJhncvf49dlM8zkKeNryFCLi3jGPr-lfNRhEzp9msHA0ywyJcbn84Dv6Mtcmuw7OvWkxr1B7x_EGpujerHpuwiuK4K6no-KYOkNCq_yVH-Y7ZKRynRXrNTDJG2yLmFu4GHOAG5Cv7f_fwD4iQCtCziHv-wlivrxrQQdYlc32AuujgLUe0oRaHSl-8A/4s3/luIJCXZARLKH2U3xMObIwA/h14/h001.QGJo2TlSS4XF3rm2q7u1MlUEc94gc46RRbWJN5IkI10"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>$19 billion contract</u></strong></a> for a Kentucky AI campus.</li>
+<li style="margin-bottom:12px;">How Wikipedia is weathering partisan fights <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagsauV9f59y18024OF4cgAMB7XaPuFwjlWRh1yex2FS1EyHBpMdn4hAa4TwvPmKKZaILOgZH1WypqP7WK6oprZhd/4s3/luIJCXZARLKH2U3xMObIwA/h15/h001.GcWnWGsTHzZ_QP_SoBi5nTk5hyCxcnR2mBUL6V5xvos"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>over neutrality</u></strong></a>. </li>
+<li style="margin-bottom:12px;">A court rejects <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6ybcmhjoEsFvVpqTYRiaPpSKnRc9L3V1IAh1FTVXgDCdp9CzhW-hwfYnml_FIFnA5WloAGqOw0SxXHNChT1ZxJ_0pd2JsCF4F1wWQY8Ka9O4jryuP93UalJ_bPrNbl59Yg/4s3/luIJCXZARLKH2U3xMObIwA/h16/h001.eYCqhPEByiBxwuL3RW3-I6h5iTKyvZ24pJJz3mYT70I"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>Elon Musk’s attempt</u></strong></a> to dismiss a Twitter fraud verdict. </li>
+<li style="margin-bottom:24px;">Online loan platform Klarna seeks <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63t1dRblGqt2lTKiiZfKK921s4u82SCvBReB5BXDwUnCl-eN0wwn_Nc-eBKYUwN9bz5HRo7DTfnKu1QZ9I8XoNGc9zNTpS3iSD_VuuSwuHJfLIYmpDMTCNna6QMVc9P1_A/4s3/luIJCXZARLKH2U3xMObIwA/h17/h001.Wky-pyEvr8D-asItszRkAj8nqO1LAY4h_5Zwu9ZY1hk"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>a bank charter</u></strong></a>. </li>
+</ul>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Gabby Miller (</i><a href="mailto:gmiller@politico.com" target="_blank"><i><u>gmiller@politico.com</u></i></a><i>); Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i><u>amak@politico.com</u></i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i><u>bking@politico.com</u></i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i><u>nrobson@politico.com</u></i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i><u>jhewittjones@politico.com</u></i></a><i>).</i></p></td>
+</tr>
+<!-- End Ad Copy -->
+<tr style="max-width:100%">
+</tr>
+<!-- Post Body Content -->
+<tr style="max-width:100%">
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Twitter Handles -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4s3/luIJCXZARLKH2U3xMObIwA/h18/h001.sLmjtoDPGh5HVl5C4dT3Cdqpp6kjU3066RHix70qbJg" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4s3/luIJCXZARLKH2U3xMObIwA/h19/h001.pib94hBdloDGOAqD5JfUjRsIVaWDMszpzRML9f8tMfw" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Family of Playbook -->
+<!-- Follow us -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4s3/luIJCXZARLKH2U3xMObIwA/h20/h001.dJ2FdGeqXlJUYEMv-T5reqT9Mwx9RT5UmSk0FkEA8oU" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4s3/luIJCXZARLKH2U3xMObIwA/h21/h001.4Axl7OO-fH3CtgBVYrV2W1n3D2VZL0bzGwV3VF7tk_Q" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4s3/luIJCXZARLKH2U3xMObIwA/h22/h001.fiFlPtNrMdEHLFUNihYoDs4tIFAZWB3hbiWNWaq4Gz0" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4s3/luIJCXZARLKH2U3xMObIwA/h23/h001.qY8uUrESwVP4dMTknNenPXhoFEcUROBc_3fG1HOBUr0" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+<!-- howler#email.footers/core-newsletter.footer.html -->
+
+</body></html>]]></content:encoded>
+      <guid isPermaLink="false">4Fto7xzjQdSAPBqthdKvwA@geopod-ismtpd-30</guid>
+      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 06 Jul 2026 20:01:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
