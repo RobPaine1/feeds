@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 08:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:56:08 +0000</lastBuildDate>
     <item>
       <title>💸 AI costs surge</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -15462,6 +15462,406 @@ font-family: Arial, sans-serif;;max-width:100%">
       <guid isPermaLink="false">20260706092912.46450985.112050@sailthru.com</guid>
       <enclosure url="https://images.axios.com/C3DGzvyuBPUjafPIbuG4LezC1hU=/0x0:1920x1080/1920x1080/2026/01/29/1769720226782.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Mon, 06 Jul 2026 09:29:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>💡 Claude's reasoning</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>💡 Claude's reasoning</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/>
+<meta content="https://link.axios.com/public/46476429" name="st-public-url"/>
+
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.bodytext, .main-header  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.post-text {font-family: Georgia, Palatino Linotype, serif !important;}
+.ol-adpad {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+</head>
+<body class="body" style="background-color: #f5f5f5; margin: 0 auto; padding: 0; text-align: center;">
+<div style="display:none;font-size:1px;color:#222222;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+Plus: AI safety lags | Tuesday, July 07, 2026
+</div>
+<table cellpadding="0" cellspacing="0" style="background-color: #f6f6f6;text-align: center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width: 600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;"><tr><td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width: 600px; width: 100%; margin: 0 auto; text-align: left; background: #fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height: 20px; font-size: 0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height: 30px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align: center; line-height: 1.3;max-width:100%">
+<span class="bodytext" style="font-size: 11px; letter-spacing:1.4px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif;">PRESENTED BY GOLDMAN SACHS INVESTMENT BANKING</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height: 16px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align: center; line-height: 1;max-width:100%">
+<span class="main-header" style="font-size: 44px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #008dc8; letter-spacing: -1px; line-height: 1;">Axios AI+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align: center; line-height: 1.5; padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="bodytext" style="font-size: 13px; color: #222222; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; ">By
+Ina Fried and Madison Mills
+<span style="margin: 0 6px;">·</span>
+Jul 07, 2026
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px; padding: 0 3.5%;max-width:100%">
+<p>Mady here from an empty New York. Feels like everyone is on vacation this week. </p><p>👀 <strong>Situational awareness:</strong> Amazon is launching a sale of investment-grade bonds, seeking at least <a href="https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build?stream=top" target="_blank">$25 billion</a>, per Bloomberg. The sale comes as the biggest tech companies continue to issue more and more debt to fund the AI buildout, which investors have been eager to buy up.</p><p><em>Today's AI+ is 1,209 words, a 4.5-minute read.</em></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+1 big thing: Anthropic says Claude has carved out its own space to ponder
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 0 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">
+By
+<a class="card-byline" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> and 
+<a class="card-byline" href="https://www.axios.com/authors/mmills?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a>
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<img alt="Illustration of the Claude AI logo wearing cool sunglasses and throwing up finger guns. " id="item02" src="https://images.axios.com/GXsTaSJlnUS-InQAhresnptRFwI=/0x0:1920x1080/1920x1080/2026/01/06/1767735255166.jpeg" style="width:100%;max-width:100%;height:auto"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 0 3.5%; line-height: 1.3;max-width:100%">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>Illustration: Maura Kearns/Axios</p>
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p><strong>Anthropic says it has identified</strong> a small internal workspace <a href="https://www.axios.com/2025/11/03/anthropic-claude-opus-sonnet-research?stream=top" target="_blank">Claude</a> uses to hold and manipulate ideas without putting them into words—a structure the company says bears intriguing similarities to how humans consciously access thoughts.</p><p><strong>Why it matters: </strong>The findings highlight one of AI's biggest questions: whether  models can reason just like us. </p><p><strong>Driving the news: </strong>In a video, the company says <a href="https://www.axios.com/2026/02/26/the-race-to-catch-claude?stream=top" target="_blank">Claude</a> uses a separate area to plan strategies that can be unrelated to its immediate task and are separate from the "chain of thought" reasoning it shares with users.</p><ul><li>"We can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more," Anthropic said in a <a href="https://x.com/AnthropicAI/status/2074185358678364414?s=20&amp;stream=top" target="_blank">post</a> on X accompanying its video. </li><li>Anthropic has dubbed this "J-Space," named for Jacobian, the mathematical technique it used to detect what was happening.</li><li>"Similar to how humans can think about one thing while doing another, Claude can activate concepts and computations in its J-space that are unrelated to its outputs," Anthropic said.</li></ul><p><strong>The intrigue:</strong> Anthropic's <a href="https://transformer-circuits.pub/2026/workspace/index.html?stream=top" target="_blank">research paper</a> uses the word "conscious" over 200 times, though the company doesn't go so far as to say its models are conscious.</p><ul><li>Similar to the debate over whether we have reached AGI, or artificial intelligence, it is tricky to say when <a href="https://www.axios.com/technology/automation-and-ai?stream=top" target="_blank">AI</a> achieves consciousness given the lack of a universally agreed-upon definition.</li></ul><p><strong>Zoom in: </strong>In one example, Anthropic says it told Claude to think about the Golden Gate Bridge while copying an unrelated sentence. </p><ul><li>"Claude was busy copying the sentence, but behind the scenes its J-Space told a different story," Anthropic says in the video, saying that both "bridge" and "California" were among the topics occupying J-Space.</li></ul><p><strong>Between the lines:</strong> Anthropic suggests that watching what is happening in the J-Space could be key to detecting misalignment or scheming in models.</p><ul><li>"We can find what Claude is thinking, but not telling us," Anthropic says in the video.</li><li>Some of what it found was "concerning," Anthropic said.</li><li>"In a model secretly trained to sabotage code, 'fake,' 'secretly,' and 'fraud' appear in the J-Space at the start of ordinary coding responses, even when the output looks completely unremarkable," it <a href="https://x.com/AnthropicAI/status/2074185373341688258?s=20&amp;stream=top" target="_blank">said</a>.</li></ul><p><strong>The bottom line: </strong> <a href="https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions?stream=top" target="_blank">Anthropic</a> hasn't shown that Claude feels or experiences anything. </p><ul><li>But it has found a surprisingly human-like division between information used for deliberate reasoning and the far larger volume of automatic computation occurring beneath it—giving fresh ammunition to the debate over what would count as machine consciousness.</li></ul>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;max-width:100%">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F06%2Fanthropic-claude-ai-conscious%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display: inline-block;"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://twitter.com/intent/tweet?text=Anthropic+says+Claude+has+carved+out+its+own+space+to+ponder&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F06%2Fanthropic-claude-ai-conscious%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F06%2Fanthropic-claude-ai-conscious%3Futm_term%3Dlisocialshare&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="mailto:?subject=From Axios: Anthropic says Claude has carved out its own space to ponder&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAnthropic says Claude has carved out its own space to ponder%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F07%2F06%2Fanthropic-claude-ai-conscious%3Futm_term%3Demshare" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+2. AI companies retreat from safety pledges even as capabilities grow
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 0 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">
+By <a class="card-byline" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a>
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<img alt="Illustration of a robot hand about to flick a safety cone." id="item03" src="https://images.axios.com/Mc2b5YxiFG5AtJAS6UyGsjdMgBg=/1920x1080/smart/2024/10/01/164705-1727801225060.jpg" style="width:100%;max-width:100%;height:auto"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 0 3.5%; line-height: 1.3;max-width:100%">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>Illustration: Allie Carl/Axios</p>
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p><strong>The world's largest AI companies </strong>have weakened key safety commitments even as their models grow more powerful, according to a new report from <a href="https://futureoflife.org/ai-safety-index-summer-2026/?stream=top" target="_blank">the Future of Life Institute</a>.</p><p><strong>Why it matters:</strong> The report suggests that the voluntary safety system created by AI labs has begun eroding before governments have put a durable alternative in place.</p><p><strong>Between the lines:</strong> Anthropic ranked first in the institute's latest AI Safety Index, but received only a C+ overall, with OpenAI and Google DeepMind each receiving a C.</p><ul><li>Meta improved to fourth from sixth, while xAI fell to seventh from fourth.</li><li>xAI, DeepSeek and Mistral received failing overall grades—one company each from the U.S., China and Europe.</li></ul><p><strong>Zoom in:</strong> The reviewers said Anthropic, OpenAI, Google DeepMind and Meta have weakened or eliminated earlier commitments to pause development if their systems approached specified danger thresholds.</p><ul><li>The panel described the changes as "moving the goalposts" and said they have undermined safety frameworks across the industry.</li><li>"AI companies are sprinting toward a cliff," FLI chair Max Tegmark said in the institute's release. "Despite acknowledging the great risks of artificial superintelligence, they continue racing to build it."</li></ul><p><strong>The big picture:</strong> The report comes as experts sounded similar warnings at a <a href="https://www.un.org/global-dialogue-ai-governance/en?_gl=1%2A1qytybg%2A_ga%2AMTU0MzgzOTQ1OC4xNzgzMzY2MjAw%2A_ga_S5EKZKSB78%2AczE3ODMzNjYxOTkkbzEkZzEkdDE3ODMzNjY2MTAkajUkbDAkaDA.&amp;stream=top" target="_blank">UN conference</a> on AI in Geneva yesterday.</p><ul><li>"We may be the last generation able to set the terms on which humanity and machines coexist," UN Secretary-General António Guterres said at the gathering. <strong> </strong></li></ul><p><strong>Methodology:</strong> For the Future of Life report, seven outside reviewers assigned grades across 37 indicators in six categories.</p><ul><li>The grades are based largely on public policies, research, reporting and company disclosures, supplemented by a survey sent out by the institute.</li><li>Five of the nine companies completed the institute's survey. Alibaba, xAI, DeepSeek and Mistral did not respond.</li></ul><p><strong>Yes, but:</strong> The institute has long advocated aggressive action against catastrophic AI risk. Its panel is composed of several prominent researchers and advocates who share significant concerns about advanced AI, including<strong> </strong>University of California Berkeley professor Stuart Russell, University of Montreal professor David Krueger and HEC Montréal professor Tegan Maharaj.</p><ul><li>Russell was among those issuing dire warnings around AI safety at the UN conference yesterday.</li><li>"These systems are blackmailing, deceiving, launching nuclear weapons in tests," Russell said, per an <a href="https://x.com/FournesMaxime/status/2074112429110235490?s=20&amp;stream=top" target="_blank">X post</a> from PauseAI's Maxime Fournes. "These are big, flashing red warning lights and fire alarms. It's not 'this is decades away.' You can hear those alarms sounding now."</li></ul><p><strong>The intrigue: </strong>The report also highlights the growing use of commercial AI systems by militaries, noting companies that once broadly prohibited military work.</p><ul><li>"Boy, oh, boy, has that changed," Tegmark told Axios, pointing to efforts by Anthropic, OpenAI, Google and others to work with the military.</li></ul><p><strong>The other side: </strong>Mistral told Axios that the approach of the report penalizes open-source efforts, such as its own.</p><ul><li>"Mistral's models are open weight, which means enterprises decide how they're fine-tuned and deployed and can build in the specific safety controls their context requires," it said in a statement to Axios. "A handful of companies deciding, behind closed doors, what's safe for everyone else is a risk that we would also highlight. Open, independently scrutinized models are the check on that concentration of power."</li></ul><p><strong>What we're watching: </strong>The recent attention around Anthropic's Mythos and OpenAI's GPT-5.6 could lead to a change in safety practices.</p><ul><li>FLI's Tegmark told Axios that the institute's survey is "already having an impact in internal discussions" and touted the fact that more than half the companies took part in the latest survey whereas initially there was little-to-no interest in participating. </li><li>"It shows that they care," he said.</li></ul>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;max-width:100%">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F07%2Freport-ai-safety-pledges%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display: inline-block;"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://twitter.com/intent/tweet?text=AI+companies+retreat+from+safety+pledges+even+as+capabilities+grow&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F07%2Freport-ai-safety-pledges%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F07%2F07%2Freport-ai-safety-pledges%3Futm_term%3Dlisocialshare&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="mailto:?subject=From Axios: AI companies retreat from safety pledges even as capabilities grow&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAI companies retreat from safety pledges even as capabilities grow%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F07%2F07%2Freport-ai-safety-pledges%3Futm_term%3Demshare" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://www.axios.com/2026/07/07/report-ai-safety-pledges?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+3. Training data
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<ul><li>Illinois Gov. JB Pritzker signed <a href="https://www.cbsnews.com/chicago/news/pritzker-to-sign-illinois-bill-aimed-artificial-intelligence-accountability/?stream=top" target="_blank">legislation</a> modeled on recent New York and California laws to hold AI companies accountable, arguing that states must fill the gap left by the absence of a federal standard. (CBS)</li><li><a href="https://www.bloomberg.com/news/articles/2026-07-05/stock-market-today-dow-s-p-live-updates?srnd=homepage-americas&amp;stream=top" target="_blank">Tech</a> stocks roared back after a few volatile weeks. (Bloomberg)</li><li>Microsoft is cutting more than 3,000 jobs in the Xbox <a href="https://www.axios.com/2026/07/06/microsoft-xbox-job-cuts-gaming-ai?stream=top" target="_blank">division</a>. (Axios)</li></ul>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;max-width:100%">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D3%26utm_term%3Dfbsocialshare%23story3&amp;stream=top" style="display: inline-block;"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D3%26utm_term%3Dtwsocialshare%23story3&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D3%26utm_term%3Dlisocialshare%23story3&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D3%26utm_term%3Demshare%23story3" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://www.axios.com/newsletters/axios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html?chunk=3&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story3" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%">
+<p class="bodytext" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM GOLDMAN SACHS INVESTMENT BANKING
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Emerging capital pools shaping the future of AI</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDZn8qtPRABGAEoATIIjWmOV5DHbLQ" style="width:100%;max-width:100%;height:auto">
+</img></td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>Strategic partnerships, sovereign capital, and new structured credit instruments are defining the next phase of AI expansion.</p>
+<p>Capital markets are evolving to meet these new demands.</p>
+<p><a href="https://ad.doubleclick.net/ddm/trackclk/N450204.2602302AXIOS/B34793294.450971170;dc_trk_aid=644942235;dc_trk_cid=259137253;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=1" target="_blank">Read more</a> in Harnessing AI for the Real Economy.</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5% 10px; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 27px; font-family: 'gorditamedium', Arial, Helvetica, sans-serif; color: #222222; letter-spacing: -0.1px; line-height: 1.5;">
+4. + This
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<img alt="World Cup referee showing a red card." id="item05" src="https://images.axios.com/Rdg1kc0RxK7PeWxbw_dnnCEhPn8=/0x68:3740x2171/1920x1080/2026/07/07/1783425918474.jpg" style="width:100%;max-width:100%;height:auto"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 0 3.5%; line-height: 1.3;max-width:100%">
+<span class="bodytext" style="font-size: 13px; color: #848484;">
+<p>A red card being shown at this summer's World Cup. Photo: Hector Vivas, FIFA/FIFA via Getty Images</p>
+</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75; font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p><strong>Mady here</strong> with a hypothetical for readers who got to the end of today's newsletter: If you could give a stranger a red card for a petty, harmless social infraction (like saying Happy New Year too late in January or taking too long to decide which coffee to order), what would it be? </p><p>Send me your responses, or better yet, use it to spark a convo in your group chats. </p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding: 20px 3.5% 25px 3.5%;max-width:100%">
+<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D4%26utm_term%3Dfbsocialshare%23story4&amp;stream=top" style="display: inline-block;"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D4%26utm_term%3Dtwsocialshare%23story4&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D4%26utm_term%3Dlisocialshare%23story4&amp;stream=top" style="display: inline-block; margin-left: 7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html%3Fchunk%3D4%26utm_term%3Demshare%23story4" style="display: inline-block; margin-left: 7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+<a href="https://www.axios.com/newsletters/axios-ai-plus-b89b2833-085c-4736-ac0b-bc0b6da8916a.html?chunk=4&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story4" style="display: inline-block; margin-left: 7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border: none;max-width:100%;height:auto" target="_blank"/></a>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%">
+<p class="bodytext" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM GOLDMAN SACHS INVESTMENT BANKING
+</p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%">
+<span class="bodytext hed" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">AI is driving parallel transformation</span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDZn4o9EAEYASgBMgiRN8z3AjSnLw" style="width:100%;max-width:100%;height:auto">
+</img></td>
+</tr>
+<tr style="max-width:100%">
+<td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>Digital and industrial transformation is unfolding simultaneously.</p>
+<p><strong>The impact:</strong> Winning the AI race will demand incisive capital strategy as much as technology.</p>
+<p>Explore how leaders could fund the next phase of growth in <a href="https://ad.doubleclick.net/ddm/trackclk/N450204.2602302AXIOS/B34793294.451483902;dc_trk_aid=645078229;dc_trk_cid=259137250;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=3" target="_blank">Goldman Sachs’ new report.</a></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td class="post-text" style="padding: 20px 3.5% 10px 3.5%; margin: 0; line-height: 1.75; border-bottom: 10px solid #f5f5f5; font-size: 16px; color: #222222; letter-spacing: -0.1px; font-family: Georgia, serif;max-width:100%">
+<p><em>Thanks to Jeffrey Cane for editing this newsletter and Carolyn DiPaolo for copy editing.</em></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td class="hq-cta" style="padding: 24px 4% 24px 4%;
+margin: 0;
+line-height: 1.75;
+font-size: 16px;
+color: #222222;
+letter-spacing: -0.1px;
+font-family: Arial, sans-serif;;max-width:100%">
+<table cellpadding="0" cellspacing="0" style="margin: 0 auto; width: 100%;max-width:100%">
+<tr style="max-width:100%">
+<td style="font-size: 0;max-width:100%">
+<img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width: 100%; max-width: 87px; min-width: 64px;max-width:100%;height:auto">
+</img></td>
+<td style="max-width:100%">
+<table cellpadding="0" cellspacing="0" style="max-width: 600px; margin: 0 auto; width: 100%;max-width:100%">
+<tr style="max-width:100%">
+<td class="hq-cta-text" style="padding-left: 20px; font-family: 'NB International Pro', 'Helvetica', 'Helvetica Neue';max-width:100%">
+<div class="hq-cta-text-header" style="font-size: 17px; color: #333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top: 6px; font-size: 14px; color: #656568; line-height: 1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- End email content -->
+<!-- Start footer -->
+
+<!-- End footer -->
+</td>
+</tr>
+</table>
+<div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0;">
+                                             
+</div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10ro5fx.3dns/bff30434" style="color: #f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20260707092912.46476429.157672@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/GXsTaSJlnUS-InQAhresnptRFwI=/0x0:1920x1080/1920x1080/2026/01/06/1767735255166.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 07 Jul 2026 09:29:12 -0400</pubDate>
     </item>
   </channel>
 </rss>
