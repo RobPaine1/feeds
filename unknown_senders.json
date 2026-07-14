@@ -52,6 +52,13 @@
       "Learn more about our updated Terms of Service"
     ]
   },
+  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
+    "count": 2,
+    "subjects": [
+      "Is the Iran war back on for real?",
+      "ICE pauses traffic stops, for now"
+    ]
+  },
   "Axios Live <events@axios.com>": {
     "count": 1,
     "subjects": [
@@ -74,12 +81,6 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
-    ]
-  },
-  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
-    "count": 1,
-    "subjects": [
-      "Is the Iran war back on for real?"
     ]
   }
 }
