@@ -38,6 +38,14 @@
       "Security alert"
     ]
   },
+  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
+    "count": 3,
+    "subjects": [
+      "Is the Iran war back on for real?",
+      "ICE pauses traffic stops, for now",
+      "A tale of two Trump flip-flops"
+    ]
+  },
   "Axios <newsletters@axios.com>": {
     "count": 2,
     "subjects": [
@@ -50,13 +58,6 @@
     "subjects": [
       "New privacy settings for Search services and Google Play",
       "Learn more about our updated Terms of Service"
-    ]
-  },
-  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
-    "count": 2,
-    "subjects": [
-      "Is the Iran war back on for real?",
-      "ICE pauses traffic stops, for now"
     ]
   },
   "Axios Live <events@axios.com>": {
