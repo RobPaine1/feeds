@@ -40,9 +40,8 @@
     ]
   },
   "Google <no-reply@accounts.google.com>": {
-    "count": 3,
+    "count": 2,
     "subjects": [
-      "Security alert",
       "2-Step Verification turned on",
       "Security alert"
     ]
@@ -83,6 +82,12 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
+    ]
+  },
+  "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
+    "count": 1,
+    "subjects": [
+      "All eyes on Iran"
     ]
   }
 }
