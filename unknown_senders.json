@@ -53,12 +53,6 @@
       "Learn more about our updated Terms of Service"
     ]
   },
-  "Google <no-reply@accounts.google.com>": {
-    "count": 1,
-    "subjects": [
-      "Security alert"
-    ]
-  },
   "Axios Live <events@axios.com>": {
     "count": 1,
     "subjects": [
@@ -87,6 +81,12 @@
     "count": 1,
     "subjects": [
       "All eyes on Iran"
+    ]
+  },
+  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
+    "count": 1,
+    "subjects": [
+      "Trump goes to (trade) war with Canada"
     ]
   }
 }
