@@ -39,13 +39,6 @@
       "Did Trump fire someone trying to stop IRS abuses?"
     ]
   },
-  "Google <no-reply@accounts.google.com>": {
-    "count": 2,
-    "subjects": [
-      "2-Step Verification turned on",
-      "Security alert"
-    ]
-  },
   "Axios <newsletters@axios.com>": {
     "count": 2,
     "subjects": [
@@ -58,6 +51,12 @@
     "subjects": [
       "New privacy settings for Search services and Google Play",
       "Learn more about our updated Terms of Service"
+    ]
+  },
+  "Google <no-reply@accounts.google.com>": {
+    "count": 1,
+    "subjects": [
+      "Security alert"
     ]
   },
   "Axios Live <events@axios.com>": {
