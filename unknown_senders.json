@@ -1,12 +1,12 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 50,
+    "count": 49,
     "subjects": [
-      "What Trump wants out of the shooting",
       "James Comey gets indicted (again)",
       "Log off with some very good dogs",
       "Trump's next redistricting targets",
-      "Why Trump says the US-Iran war is over"
+      "Why Trump says the US-Iran war is over",
+      "Trump eyes a new construction project"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -53,6 +53,13 @@
       "Learn more about our updated Terms of Service"
     ]
   },
+  "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
+    "count": 2,
+    "subjects": [
+      "All eyes on Iran",
+      "Which country will Trump bomb next?"
+    ]
+  },
   "Axios Live <events@axios.com>": {
     "count": 1,
     "subjects": [
@@ -75,12 +82,6 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
-    ]
-  },
-  "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
-    "count": 1,
-    "subjects": [
-      "All eyes on Iran"
     ]
   },
   "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
