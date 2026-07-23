@@ -1,12 +1,12 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 49,
+    "count": 48,
     "subjects": [
-      "James Comey gets indicted (again)",
       "Log off with some very good dogs",
       "Trump's next redistricting targets",
       "Why Trump says the US-Iran war is over",
-      "Trump eyes a new construction project"
+      "Trump eyes a new construction project",
+      "Trump's billion-dollar ballroom"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -46,6 +46,13 @@
       "Introducing Axios Media Trends"
     ]
   },
+  "Axios Live <events@axios.com>": {
+    "count": 2,
+    "subjects": [
+      "\ud83d\udce3 Axios and The Race in Monaco June 2026 | Get Updates",
+      "Save the date | Axios House returns for Climate Week and UNGA | Sept. 21 - 23"
+    ]
+  },
   "Google <google-noreply@google.com>": {
     "count": 2,
     "subjects": [
@@ -58,12 +65,6 @@
     "subjects": [
       "All eyes on Iran",
       "Which country will Trump bomb next?"
-    ]
-  },
-  "Axios Live <events@axios.com>": {
-    "count": 1,
-    "subjects": [
-      "\ud83d\udce3 Axios and The Race in Monaco June 2026 | Get Updates"
     ]
   },
   "Axios Live <newsletters@axios.com>": {
