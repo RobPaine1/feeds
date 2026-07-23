@@ -67,6 +67,13 @@
       "Which country will Trump bomb next?"
     ]
   },
+  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
+    "count": 2,
+    "subjects": [
+      "Trump goes to (trade) war with Canada",
+      "Did Trump just kill his own nuclear deal?"
+    ]
+  },
   "Axios Live <newsletters@axios.com>": {
     "count": 1,
     "subjects": [
@@ -83,12 +90,6 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
-    ]
-  },
-  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
-    "count": 1,
-    "subjects": [
-      "Trump goes to (trade) war with Canada"
     ]
   }
 }
