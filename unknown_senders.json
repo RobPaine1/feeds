@@ -1,12 +1,12 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 48,
+    "count": 47,
     "subjects": [
-      "Log off with some very good dogs",
       "Trump's next redistricting targets",
       "Why Trump says the US-Iran war is over",
       "Trump eyes a new construction project",
-      "Trump's billion-dollar ballroom"
+      "Trump's billion-dollar ballroom",
+      "The FBI investigates a journalist"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -39,6 +39,14 @@
       "Did Trump fire someone trying to stop IRS abuses?"
     ]
   },
+  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
+    "count": 3,
+    "subjects": [
+      "Trump goes to (trade) war with Canada",
+      "Did Trump just kill his own nuclear deal?",
+      "Logging off"
+    ]
+  },
   "Axios <newsletters@axios.com>": {
     "count": 2,
     "subjects": [
@@ -65,13 +73,6 @@
     "subjects": [
       "All eyes on Iran",
       "Which country will Trump bomb next?"
-    ]
-  },
-  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
-    "count": 2,
-    "subjects": [
-      "Trump goes to (trade) war with Canada",
-      "Did Trump just kill his own nuclear deal?"
     ]
   },
   "Axios Live <newsletters@axios.com>": {
