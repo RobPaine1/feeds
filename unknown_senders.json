@@ -1,6 +1,6 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 46,
+    "count": 47,
     "subjects": [
       "Why Trump says the US-Iran war is over",
       "Trump eyes a new construction project",
@@ -10,13 +10,13 @@
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 13,
+    "count": 12,
     "subjects": [
-      "\u2699\ufe0f Anthropic policy pivot",
       "\ud83d\udc40 Big safety pivot",
       "\ud83c\udde8\ud83c\uddf3 Biggest China conflicts",
       "\ud83d\ude2c Executive order disorder",
-      "\ud83e\uddbe Progressives vs. AI"
+      "\ud83e\uddbe Progressives vs. AI",
+      "\ud83d\udd2c Science power player"
     ]
   },
   "Vox <contribute@vox.com>": {
@@ -47,13 +47,6 @@
       "Logging off"
     ]
   },
-  "Axios <newsletters@axios.com>": {
-    "count": 2,
-    "subjects": [
-      "Your feedback matters to us",
-      "Introducing Axios Media Trends"
-    ]
-  },
   "Axios Live <events@axios.com>": {
     "count": 2,
     "subjects": [
@@ -73,6 +66,12 @@
     "subjects": [
       "All eyes on Iran",
       "Which country will Trump bomb next?"
+    ]
+  },
+  "Axios <newsletters@axios.com>": {
+    "count": 1,
+    "subjects": [
+      "Introducing Axios Media Trends"
     ]
   },
   "Axios Live <newsletters@axios.com>": {
