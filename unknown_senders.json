@@ -1,12 +1,12 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 47,
+    "count": 46,
     "subjects": [
-      "Why Trump says the US-Iran war is over",
       "Trump eyes a new construction project",
       "Trump's billion-dollar ballroom",
       "The FBI investigates a journalist",
-      "Is the Iran ceasefire about to end?"
+      "Is the Iran ceasefire about to end?",
+      "Will Iran agree to a US peace plan?"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -90,6 +90,12 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
+    ]
+  },
+  "\"Astead Herndon, Vox\" <contribute@vox.com>": {
+    "count": 1,
+    "subjects": [
+      "What's really at stake this midterms"
     ]
   }
 }
