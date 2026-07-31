@@ -1,16 +1,16 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 47,
+    "count": 46,
     "subjects": [
-      "The FBI investigates a journalist",
       "Is the Iran ceasefire about to end?",
       "Will Iran agree to a US peace plan?",
       "Can Trump lower gas prices?",
-      "Flavored vapes doomed Trump\u2019s FDA head"
+      "Flavored vapes doomed Trump\u2019s FDA head",
+      "Log off with a reminder about progress"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 12,
+    "count": 13,
     "subjects": [
       "\ud83d\udc40 Big safety pivot",
       "\ud83c\udde8\ud83c\uddf3 Biggest China conflicts",
@@ -96,6 +96,12 @@
     "count": 1,
     "subjects": [
       "What's really at stake this midterms"
+    ]
+  },
+  "POLITICO Live  <events@live.politico.com>": {
+    "count": 1,
+    "subjects": [
+      "Announcing POLITICO's Decoded Summit Series  -  new events defining the future of global AI"
     ]
   }
 }
