@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 07:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:57:40 +0000</lastBuildDate>
     <item>
       <title>🚨 Hassabis sounds alarm</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -16622,6 +16622,203 @@ a {color: #222222; text-decoration:underline !important;}
       <guid isPermaLink="false">20260813092825.47034291.207850@sailthru.com</guid>
       <enclosure url="https://images.axios.com/yOcImpZzmwGVvmahUf1_1jDUgqg=/0x0:1920x1080/1920x1080/2025/12/17/1766006047073.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 13 Aug 2026 09:28:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>🤐 Prompts and privacy</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>🤐 Prompts and privacy</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/47070017" name="st-public-url"/>
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.v {font-family: Georgia, Palatino Linotype, serif !important;}
+.t {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
+<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: Opening the stack | Monday, August 17, 2026</div>
+<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width:600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY TELEPORT </span> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="text-align:center;line-height:1;max-width:100%">
+<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried and Madison Mills  <span style="margin:0 6px">·</span> Aug 17, 2026 </span>
+</td>
+</tr><tr style="max-width:100%">
+<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>Ina here — kicking off our third look at what the biggest tech companies know about you, how they use that personal data, and what consumers should understand before sharing more of it. Today's AI+ is 1,242 words, a 4.5-minute read.</p></td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: What happens to the secrets you tell AI </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a person whispering into a small computer with a glitchy effect" id="item02" src="https://images.axios.com/klN4YJEJDcVEYybnYRBnVkOHof8=/0x0:1920x1080/1920x1080/2026/08/10/1786379596356.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Sarah Grillo/Axios. Stock: Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Imagine a chatbot</strong> built to keep you talking a little longer. To change your mind about something. Or persuade you to buy something.</p><ul><li>Now imagine it could draw on everything it knows about you — including the fears, insecurities and private details you shared in conversation — to do it.</li></ul><p><strong>Why it matters:</strong> Few rules directly govern that scenario today, making AI companies' promises about how they use consumer data especially consequential.</p><p><strong>The big picture:</strong> In the first installment of Axios' "What they know about you" <a href="https://www.axios.com/2019/06/11/what-apple-knows-about-you?stream=top" target="_blank">series</a>, published in 2019, we examined the information major tech companies collected about their users. In 2024, we <a href="https://www.axios.com/2024/11/04/ai-training-data-llm-privacy-big-tech?stream=top" target="_blank">followed up</a> with a look at what consumer data AI companies use to train their systems.</p><ul><li>This new series revisits those questions — and widens the lens. We'll examine not only whether a company uses consumer data to train future AI models, but also how it can use that data now: to personalize responses, retain a memory, recommend content or target advertising.</li></ul><p><strong>Driving the news: </strong>AI companies are seeking access to data beyond the chat window.</p><ul><li>OpenAI last week announced an optional <a href="https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/?stream=top" target="_blank">Computer History feature</a> that lets ChatGPT retain a record of the apps and websites a person uses.</li><li>Google, meanwhile, said last month it will use photos and other material people upload through Search to <a href="https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai/?stream=top" target="_blank">train its AI systems</a> by default, though users can opt out.</li><li>The upside is the potential for more useful, personalized AI. The trade-off is giving companies a broader and more continuous view of users' lives.</li></ul><p><strong>Between the lines:</strong> Chatbots can invite a kind of disclosure that search engines and social networks often do not.</p><ul><li>People use them to ask about health, money, work and relationships — potentially creating a more intimate record of their concerns.</li><li>Meta, Google and OpenAI are all exploring different approaches to advertising on their chatbots. </li><li>If consumer AI follows the path of search and social media, advertising could become a far more significant part of the business — creating an incentive for chatbot makers to increase engagement.</li></ul><p><strong>What they're saying: </strong>"The AI era will increasingly be fueled by people voluntarily handing over their full digital lives to AI tools that promise to relieve their mental load or loneliness," Miranda Bogen, chief technologist at the Center for Democracy &amp; Technology, told Axios.</p><ul><li>"The more a system knows about you, the easier it will be to make escalating requests for private details in a way that feels natural," Bogen said. "Without robust privacy protections, the incentive to monetize that knowledge will be hard to resist."</li></ul><p><strong>Zoom in: </strong>Company policies vary considerably. Apple, for example, offers the most private option with <a href="https://www.apple.com/privacy/?stream=top" target="_blank">Apple Intelligence</a> requests on a user's device. </p><ul><li>It handles the requests it can on-device. For more demanding tasks, Apple uses Private Cloud Compute, a system it says uses data only to fulfill the request and does not make that content accessible to Apple. </li><li>That approach can limit how much of a user's history Apple can retain and use for ongoing personalization.</li><li>It does not apply when a user chooses to send a request to a third-party service, such as ChatGPT.</li></ul><p><strong>Meta, </strong>by contrast, stakes a far broader claim to user data in its <a href="https://www.facebook.com/privacy/policy?stream=top" target="_blank">privacy policy</a>.</p><ul><li>The company says it can use interactions with Meta AI to personalize content and ads across its services, including some interactions through its smart glasses.</li><li>Meta also says it does not use conversations about certain sensitive topics — including health, politics and religion — to personalize ads.</li><li>It has also begun rolling out an Incognito Chat mode for temporary, private Meta AI conversations. This system is designed to work similarly to Apple's — Meta's servers see the query only to provide an answer, with no data stored.</li></ul><p><strong>Zoom out:</strong> Other AI services fall somewhere between Apple's device-centered approach and Meta's broader data-use policies.</p><ul><li>Some offer temporary chats that are not used for memory or model training. </li><li>There are services that only train on user data if users give permission, while others require a person to opt out to avoid having their data used for training. </li><li>Many services allow users to see the data that is stored and delete specific memories. Sometimes that's as easy as asking the chatbot not to remember a particular detail. Others have more complex mechanisms for editing memories. </li><li>And then some chatbots also have separate rules for health information, children's data or conversations shared with connected apps.</li></ul><p><strong>What we're watching: </strong>The key distinction is no longer whether a company trains on your prompts. It is whether those prompts can shape the system's understanding of you — and what else that understanding can be used to do.</p><p><strong>The bottom line:</strong> The value of a personalized chatbot may be worth the privacy trade-off for many people. But consumers deserve to understand the bargain before they start talking.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fsecrets-share-ai-openai-meta-google-anthropic%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=What+happens+to+the+secrets+you+share+with+AI&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fsecrets-share-ai-openai-meta-google-anthropic%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fsecrets-share-ai-openai-meta-google-anthropic%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: What happens to the secrets you share with AI&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AWhat happens to the secrets you share with AI%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fsecrets-share-ai-openai-meta-google-anthropic%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/17/secrets-share-ai-openai-meta-google-anthropic?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. Exclusive: Agents inch toward interoperability </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a grid with wireframe laptops in a pattern across it" id="item03" src="https://images.axios.com/YWAFAFJLw67IzP20bVpwjyA__8Y=/1920x1080/smart/2024/12/10/192419-1733858659597.jpg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Sarah Grillo/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>The Agent2Agent Protocol (A2A),</strong> a Google-created standard for AI agents to talk to one another, is moving to the Agentic AI Foundation, backers of the emerging standard told Axios.</p><p><strong>Why it matters:</strong> Open standards could make it easier to mix AI agents and tools from different providers without building custom connections between each one.</p><p><strong>The big picture:</strong> Different companies build AI agents using different models, platforms and tools. Common protocols aim to spare businesses from having to custom-build the connections among them.</p><ul><li>Putting A2A alongside MCP and related projects could help push the industry toward more modular, model-agnostic AI systems — giving companies more flexibility to choose providers based on cost, performance, latency or other needs.</li></ul><p><strong>State of play: </strong>The move puts A2A in the same home as <a href="https://www.axios.com/2025/04/17/model-context-protocol-anthropic-open-source?stream=top" target="_blank">Model Context Protocol</a> (MCP), which handles connections between AI applications and tools and data while A2A handles communication between independent agents.</p><p><strong>Driving the news: </strong>A2A will become a hosted project of the Agentic AI Foundation, moving from the Linux Foundation's broader portfolio into its foundation focused specifically on agentic AI.</p><ul><li>From its launch in December 2025, AAIF says it has grown from fewer than 40 members to more than 250, with key backers including Google, Microsoft, Amazon, Anthropic, OpenAI, Bloomberg, as well as Shopify and Block.</li></ul><p><strong>What they're saying:</strong> "When we first envisioned A2A, the hypothesis was customers are deploying agentic systems from multiple technology providers and platform providers," Google Cloud VP Rao Surapaneni told Axios. </p><ul><li>All of these agents need to be able to work together, he said. </li><li>AAIF executive director Mazin Gilbert said the move helps give a neutral home to develop an open way for AI agents to communicate with one another.</li><li>"There's a big difference between an open protocol and open standard, and having an open protocol becoming interoperable with the entire stack," he said in an interview. "Companies don't want just one protocol; they want the whole stack to be open."</li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fa2a-agentic-ai-foundation-open-ai-standards%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Exclusive%3A+Google-backed+agentic+A2A+protocol+gets+a+new+home&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fa2a-agentic-ai-foundation-open-ai-standards%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fa2a-agentic-ai-foundation-open-ai-standards%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Exclusive: Google-backed agentic A2A protocol gets a new home&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: Google-backed agentic A2A protocol gets a new home%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F17%2Fa2a-agentic-ai-foundation-open-ai-standards%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Training data </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><ul><li> Anthropic <a href="https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk?stream=top" target="_blank">will not release</a> a slightly stronger model it is testing internally. (Axios) </li><li>The release of GLM-5.3 on Friday highlights how Chinese open-weight models are <a href="https://www.axios.com/2026/08/14/china-open-source-ai-glm-53?stream=top" target="_blank">closing in</a> on U.S. frontier models' ability to find and exploit security flaws. (Axios)</li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D3%26utm_term%3Dfbsocialshare%23story3&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D3%26utm_term%3Dtwsocialshare%23story3&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D3%26utm_term%3Dlisocialshare%23story3&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D3%26utm_term%3Demshare%23story3" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html?chunk=3&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story3" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM TELEPORT
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">From Zero Trust to Agent Trust</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=1&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDlptrMGhABGAEoATII_6HfV2ZLdKM" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>AI agents are neither human nor machine — they act at machine speed with human unpredictability, and can produce globally destructive outcomes.</p>
+<p><strong>Zero Trust was built for</strong> a different threat model. Agent Trust extends it for the one you're actually facing.</p>
+<p><a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=1&amp;stream=top" target="_blank">Read the white paper.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. + This </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Duolingo stepped in</strong> to restore the 301-day streak of a 10-year-old who had an unexpected trip to the hospital. But now lots more people are <a href="https://x.com/duolingo/status/2087657558341231053?s=46&amp;t=lWeRdBU5epOoS27GJ8FHHg&amp;stream=top" target="_blank">sending in</a> their excuses.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D4%26utm_term%3Dfbsocialshare%23story4&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D4%26utm_term%3Dtwsocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D4%26utm_term%3Dlisocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html%3Fchunk%3D4%26utm_term%3Demshare%23story4" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-8c20ff06-ae96-44b6-88e2-b5e98e7c66b2.html?chunk=4&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story4" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM TELEPORT
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Collective agent activity can be destructive</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=3&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDlpvqukQEQARgBKAEyCBKKN8JPRu1j" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p><strong>Agents can individually</strong> stay fully in-scope yet still converge on the same fix, saturate I/O and crash a cluster.</p>
+<p>No single agent exceeded its permissions. No audit log flagged anything suspicious. Zero Trust has no language for this swarm-level failure.</p>
+<p><a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=3&amp;stream=top" target="_blank">Agent Trust bridges the gap.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to Megan Morrone for editing this newsletter and Matt Piper for copy editing.</em></p></td>
+</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
+</td>
+</tr>
+</table>
+<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10s0vgh.3ru9/61f28d2f" style="color:#f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20260817092817.47070017.176049@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/klN4YJEJDcVEYybnYRBnVkOHof8=/0x0:1920x1080/1920x1080/2026/08/10/1786379596356.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 17 Aug 2026 09:28:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
