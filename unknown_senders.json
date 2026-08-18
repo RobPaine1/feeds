@@ -61,6 +61,13 @@
       "Which country will Trump bomb next?"
     ]
   },
+  "POLITICO Live  <events@live.politico.com>": {
+    "count": 2,
+    "subjects": [
+      "Announcing POLITICO's Decoded Summit Series  -  new events defining the future of global AI",
+      "SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16"
+    ]
+  },
   "POLITICO <info@info.politico.com>": {
     "count": 2,
     "subjects": [
@@ -96,12 +103,6 @@
     "count": 1,
     "subjects": [
       "What's really at stake this midterms"
-    ]
-  },
-  "POLITICO Live  <events@live.politico.com>": {
-    "count": 1,
-    "subjects": [
-      "Announcing POLITICO's Decoded Summit Series  -  new events defining the future of global AI"
     ]
   }
 }
