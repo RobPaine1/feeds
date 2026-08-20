@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:03:53 +0000</lastBuildDate>
     <item>
       <title>🔥 Budget burners</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -16361,6 +16361,228 @@ A MESSAGE FROM TELEPORT
       <guid isPermaLink="false">20260819092820.47107377.174386@sailthru.com</guid>
       <enclosure url="https://images.axios.com/Hk4w0jKeKzLM6JAPKkw4RKxol80=/0x0:1920x1080/1920x1080/2026/03/02/1772489032391.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 09:28:20 -0400</pubDate>
+    </item>
+    <item>
+      <title>🏢 AI's data center problem</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>🏢 AI's data center problem</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/47134563" name="st-public-url"/>
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.v {font-family: Georgia, Palatino Linotype, serif !important;}
+.t {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
+<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: Money for cyber | Thursday, August 20, 2026</div>
+<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width:600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY TELEPORT </span> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="text-align:center;line-height:1;max-width:100%">
+<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried and Madison Mills  <span style="margin:0 6px">·</span> Aug 20, 2026 </span>
+</td>
+</tr><tr style="max-width:100%">
+<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>Alas, a late run by the Valkyries wasn't enough to defeat the league-leading Minnesota Lynx last night. Today's AI+ is 1,201 words, a 4.5-minute read.</p></td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: How data centers work </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/hscribner?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Herb Scribner</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Rows of liquid-cooled computer servers and cooling equipment inside a Global Switch data center in London." id="item02" src="https://images.axios.com/hewMn7_cXpSJBytYC6g4S8dpUKQ=/0x540:8192x5148/1920x1080/2026/08/19/1787159737821.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Liquid-cooled servers at the Global Switch Docklands data center campus in London. Photo: Jason Alden/Bloomberg via Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Data centers have become the face of AI backlash,</strong> with celebrities, politicians and protesters pushing to slow their growth.</p><p><strong>Why it matters:</strong> America's sharply rising public opposition to data centers — which fuel our everyday use of the internet — could pose an <a href="https://www.axios.com/2026/08/19/data-centers-ai-political-opinion?stream=top" target="_blank">existential threat</a> to AI's growth.</p><p><strong>State of play:</strong> There are at least <a href="https://www.axios.com/2025/12/18/data-center-growth-map-states?stream=top" target="_blank">4,000 data centers</a> nationwide, with some 3,000 under construction or planned.<strong> </strong></p><ul><li>The centers are often <a href="https://www.axios.com/local/charlotte/2026/05/11/charlotte-data-center-boom-electric-bills-water-use-noise-concerns?stream=top" target="_blank">big, windowless warehouses</a>, and many are developed in <a href="https://insideclimatenews.org/news/13072026/alabama-data-center-non-disclosure-agreement/?stream=top" target="_blank">secrecy</a>.</li></ul><p><strong>Driving the news:</strong> Data centers have <a href="https://www.axios.com/2026/06/22/ai-data-center-backlash-poll?stream=top" target="_blank">become a focus</a> of anti-AI sentiment, with <a href="https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx?stream=top" target="_blank">70% of Americans</a> opposing data center construction in their area.</p><ul><li>Former NFL star Jason Kelce announced a partnership between his Garage Beer company and Liquid Death to encourage Americans to <a href="https://www.adweek.com/creativity/liquid-death-and-garage-beer-urge-americans-to-send-their-pee-to-data-centers/?stream=top" target="_blank">send actual urine</a> to data centers in protest of their water use.</li><li>Nationwide, Republicans are warning that toxic views of U.S. <a href="https://www.axios.com/2026/08/17/openai-nvidia-ohio-data-center-sb-energy?stream=top" target="_blank">data centers</a> are directly impacting political outcomes, potentially upending years of support from the GOP and investors for their construction. </li></ul><p><strong>Zoom out:</strong> Data centers have long existed. But the ones helping train AI models are not your grandparents' <a href="https://www.ibm.com/think/topics/ai-data-center?stream=top" target="_blank">data centers</a>.</p><h2>How data centers work (a simple explanation)</h2><p><strong>How it works:</strong> <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai?stream=top" target="_blank">Data centers</a> typically house rows of powerful computers called "servers," which help us stream videos, search the internet, email and play online games.</p><ul><li>Servers generate a lot of heat. The buildings require cooling technology and large amounts of water to keep the computers from overheating.</li></ul><h2>The arguments against data centers</h2><p><strong>The criticisms are</strong> tied to water and power use, as well as effects on local environments and communities.</p><ul><li>The backlash has surfaced in political races in <a href="https://www.axios.com/local/detroit/2025/04/23/michigan-data-center-environment-concerns?stream=top" target="_blank">Michigan</a>, <a href="https://www.jsonline.com/story/news/politics/elections/2026/08/19/where-tom-tiffany-and-david-crowley-stand-on-wisconsin-data-centers/91304078007/?gnt-cfr=1&amp;gca-cat=p&amp;gca-uir=false&amp;gca-epti=z11xx54p118850c118850u004354e1162xxv11xx54&amp;gca-ft=105&amp;gca-ds=sophi&amp;stream=top" target="_blank">Wisconsin</a>, <a href="https://www.texastribune.org/2026/08/14/texas-data-center-approval-pause-ercot-power-grid/?stream=top" target="_blank">Texas</a> and <a href="https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election?stream=top" target="_blank">Ohio</a>.</li><li>Critics argue the data centers' <a href="https://www.iea.org/reports/energy-and-ai/executive-summary%C2%A0?stream=top" target="_blank">electricity use</a> can extend <a href="https://www.eesi.org/articles/view/data-center-buildout-is-hungry-for-fossil-fuels?stream=top" target="_blank">fossil-fuel</a> demand and that their generators can create <a href="https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-resources-data-centers?stream=top" target="_blank">air pollution</a>.</li></ul><p><strong>Zoom in: </strong>Data centers can be designed to be energy-efficient. Before the AI boom, the cloud computing industry focused on renewables, building locations near wind or other power sources.</p><ul><li>The AI buildout has pushed some developers toward gas turbines and other fossil-fuel sources.</li></ul><div align="center"><!--[if mso]><img alt='' src='https://images.axios.com/OMnMkYDzeRHZtsKAfvD6W6MnBxk=/fit-in/1116x1300/2026/08/19/1787169551908.jpeg' style='display:block; margin: 0 auto; max-width:100%;' width='558' /><![endif]--><!--[if !mso]><!--><img alt="" src="https://images.axios.com/OMnMkYDzeRHZtsKAfvD6W6MnBxk=/fit-in/1116x1300/2026/08/19/1787169551908.jpeg" style="display:block; margin: 0 auto; max-width:100%;max-width:100%;height:auto"><!--<![endif]--></img></div> <div class="bodytext" style="font-size:13px; font-family:'Gordita',Arial,Helvetica,sans-serif; color:#848484; margin-bottom:20px;">Cooling fans and generators at a Digital Realty data center next to a power substation in Ashburn, Va. Photo: Andrew Caballero-Reynolds/AFP via Getty Images</div><h2>Do data centers really use that much power and water?</h2><p><strong>Friction point: </strong>Data centers' power and water use remains <a href="https://www.axios.com/local/boulder/2026/07/16/ai-data-center-water-regulations-cu-boulder?stream=top" target="_blank">a core argument</a> against their construction.</p><p><strong>By the numbers: </strong>Globally, data centers consumed about 1.5% of global electricity use in 2024, and the International Energy Agency estimates the share will rise to 3% by 2030.</p><ul><li>A <a href="https://eta-publications.lbl.gov/publications/united-states-data-center-energy-2025?stream=top" target="_blank">Berkeley Lab report</a> updated in June estimates that U.S. data centers could consume 9.5% to 15.3% of U.S. electricity by 2030.</li></ul><p><strong>Data centers</strong> can need <a href="https://www.eesi.org/articles/view/data-centers-and-water-consumption?stream=top" target="_blank">5 million gallons of water</a> a day for cooling alone. In 2023, <a href="https://eta-publications.lbl.gov/sites/default/files/2024-12/us_data_center_energy_usage_report_lbnl-2001637_0.pdf?stream=top" target="_blank">U.S. data centers</a> consumed about 17 billion gallons of water, mostly for cooling, according to the <a href="https://eta-publications.lbl.gov/sites/default/files/2024-12/us_data_center_energy_usage_report_lbnl-2001637_0.pdf?stream=top" target="_blank">Berkeley Lab report</a>.</p><ul><li>The Berkeley Lab says data centers also have an indirect water footprint of about 211 billion gallons to help produce the electricity that's consumed by data centers. The footprint varies by region.</li></ul><p><strong>Yes, but: </strong>Newer closed-loop designs can reuse water, cutting consumption.</p><ul><li>And, compared to other industries, data centers use far less water.</li></ul><p><em><a href="https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction?stream=top" target="_blank">Keep reading</a>.</em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fai-power-data-center-electricity-construction%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=The+data+center+fight+is+heating+up.+Here%27s+how+they+work&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fai-power-data-center-electricity-construction%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fai-power-data-center-electricity-construction%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: The data center fight is heating up. Here's how they work&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AThe data center fight is heating up. Here's how they work%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fai-power-data-center-electricity-construction%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/19/ai-power-data-center-electricity-construction?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. OpenAI previews zero-retention safety system </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of two hands made out of glowing binary code typing on a keyboard. " id="item03" src="https://images.axios.com/_J4JlfTrijUQtdwNkl0hW8Z9BTQ=/0x0:1920x1080/1920x1080/2025/10/15/1760561858136.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Aïda Amer/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>OpenAI says a new technique</strong> will allow it to safely serve its most advanced models to businesses without needing to retain their data.</p><p><strong>Why it matters:</strong> Rival Anthropic has instituted a 30-day retention policy for business customers who want to use Fable 5 and Mythos 5.</p><p><strong>Driving the news: </strong>OpenAI is testing "Private Safety Processing" with early customers. The system is designed to identify misuse patterns across related interactions while preserving zero data retention, or ZDR, protections.</p><ul><li>Customer data can stay on customer-controlled infrastructure, or be stored by OpenAI with encryption keys controlled by the customer.</li></ul><p><strong>What they're saying:</strong> OpenAI says it needs some amount of context over time to detect risks, but that its new system lets it do so without requiring access to sensitive customer data.</p><ul><li>"We're seeing with more capable frontier models that often risks are emerging not just by looking at one single prompt and response pair, but when you look over time at multiple interactions," Aleah Houze, head of product policy at OpenAI, said in a briefing with reporters.</li></ul><p><strong>The other side:</strong> Anthropic says retaining data is necessary for security.</p><ul><li>"We have recently announced our plan to require 30-day data retention on our most capable models — a decision we believe will be unpopular with customers who have come to expect zero retention, and pose real risks to our business success (especially if competitors do not follow), but which we believe is essential to detect and prevent sophisticated attacks that span multiple requests," the company wrote in a <a href="https://urldefense.com/v3/__https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted*20Risk*20Report*20August*202026*20.pdf__;JSUlJSU!!Al82Z4c!zh6r17dGZpe0ap6HlussaSdufA3vXiuJpRUaOUYsFPE7hOJ31FsOLhKFeuGen5nNBdEf7S9N$?stream=top" target="_blank">risk report</a> last week.</li></ul><p><strong>State of play:</strong> It's another area where the two rivals <a href="https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic?stream=top" target="_blank">are diverging</a> as models enter a new era of risk and capabilities.</p><ul><li>OpenAI said Tuesday that it has <a href="https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework?stream=top" target="_blank">paused</a> some work in the training of new models to deal with safety concerns, while Anthropic says it doesn't see a current need to do the same.</li></ul><p><strong>Zoom in: </strong>The new safety system is currently designed for eligible enterprise and API customers, not people using OpenAI's paid or subscription consumer ChatGPT plans.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fopenai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=OpenAI+previews+zero-retention+safety+system+as+Anthropic+requires+data+logs&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fopenai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fopenai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: OpenAI previews zero-retention safety system as Anthropic requires data logs&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AOpenAI previews zero-retention safety system as Anthropic requires data logs%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F19%2Fopenai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Exclusive: CrowdStrike's CTO launches AI-cyber fund </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/mmills?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a computer mouse on a grid with various blocks of color" id="item04" src="https://images.axios.com/Udw0PEhjf9YZCTJXkHGKiBi_Xdk=/0x0:1920x1080/1920x1080/2026/02/20/1771612608842.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Sarah Grillo/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>CrowdStrike global CTO Elia Zaitsev</strong> is leaving the cybersecurity giant to launch Cognition, a new venture firm targeting a $170 million fund.</p><p><strong>Why it matters: </strong>Cognition is betting that AI will produce a rare, category-defining cybersecurity platform it wants to find and fund early. </p><p><strong>State of play: </strong>Zaitsev is leaving CrowdStrike after 13 years to launch  Cognition alongside Gur Talpaz and Tayler Sipperly.</p><ul><li>Talpaz and Sipperly worked in corporate development at CrowdStrike before launching their own early-stage fund, Brightmind.</li><li>There, they oversaw the largest Series A exit in cyber history: SGNL, which they entered at $105 million and exited at $740 million.</li><li>They see Zaitsev as their new fund's "superpower," Sipperly said, adding that "being able to offer" his expertise to founders is "deeply unique in the market."</li></ul><p><strong>Between the lines: </strong>Cognition's thesis is that agentic AI is a platform-reset moment for cyber. </p><ul><li>The three former CrowdStrikers behind the fund are specifically hunting for the rare technical team capable of building the next broad security platform. </li><li>Cognition plans to lead or co-lead seed and Series A rounds, and expects to make three or four concentrated investments a year.</li><li>Its model calls for average checks of $7 million at seed and $12 million at Series A.</li></ul><p><strong>What they're saying: </strong>"We have this new attack surface that's being brought on by AI and agents," Zaitsev told Axios.</p><ul><li>Zaitsev and his co-founders are looking for teams that can "keep up with the constantly changing adversarial threat landscape."</li><li>"AI security didn't exist five years ago. ... But as the adoption of AI dramatically ramps up in the enterprise, it requires a new set of tools," Talpaz told Axios. </li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F20%2Fexclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Exclusive%3A+CrowdStrike%27s+CTO+is+leaving+to+launch+an+AI-cyber+fund&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F20%2Fexclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F20%2Fexclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Exclusive: CrowdStrike's CTO is leaving to launch an AI-cyber fund&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: CrowdStrike's CTO is leaving to launch an AI-cyber fund%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F20%2Fexclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/20/exclusive-crowdstrikes-cto-is-leaving-to-launch-an-ai-cyber-fund?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM TELEPORT
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">We must assume misalignment with AI agents</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=1&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDlpuaAcRABGAEoATIIgSm8_FBaoMA" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>Agents drift — through manipulation, context shift or accumulated misgeneralization.</p>
+<p><strong>You must catch that drift</strong> in real time rather than reconstruct it after the damage is done. Agent Trust makes behavioral consistency a security primitive, not an assumption.</p>
+<p><a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=1&amp;stream=top" target="_blank">Learn more about Agent Trust principles.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. Training data </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><ul><li>Meta <a href="https://www.axios.com/2026/08/19/metas-new-mac-app-helps-influencers-and-small-biz-harness-ai?stream=top" target="_blank">launched</a> a new Mac app to help influencers and small businesses use AI to improve the way they promote products and run their businesses. (Axios)</li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D4%26utm_term%3Dfbsocialshare%23story4&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D4%26utm_term%3Dtwsocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D4%26utm_term%3Dlisocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D4%26utm_term%3Demshare%23story4" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html?chunk=4&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story4" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  5. + This </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Shout out to perennial WNBA All-Star, </strong>longtime players' union president and Stanford alum Nneka Ogwumike, who <a href="https://www.espn.com/wnba/story/_/id/49660380/nneka-ogwumike-11-wnba-all-star-retire-end-season?stream=top" target="_blank">announced</a> Wednesday that the current season will be her last.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D5%26utm_term%3Dfbsocialshare%23story5&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D5%26utm_term%3Dtwsocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D5%26utm_term%3Dlisocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html%3Fchunk%3D5%26utm_term%3Demshare%23story5" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-67c97e58-2dbe-4ded-8216-f7f362df3112.html?chunk=5&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story5" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM TELEPORT
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">“Identity is the new perimeter” is already dated</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=3&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDlpprw9AEQARgBKAEyCEKPyBeULoXk" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p><strong>For agents</strong>, verification at instantiation isn't enough — identity, access boundaries and behavior require continuous enforcement throughout execution.</p>
+<ul><li>Runtime is the new perimeter.</li></ul>
+<p>Learn why Zero Trust isn't enough for agents — and what is. <a href="https://goteleport.com/resources/white-papers/zero-trust-to-agent-trust/?axios_adlink=3&amp;stream=top" target="_blank">Read how agent trust extends Zero Trust to bridge the gap.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to Megan Morrone for editing this newsletter and Matt Piper for copy editing.</em></p></td>
+</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
+</td>
+</tr>
+</table>
+<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10s299f.3tw5/446d9b10" style="color:#f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20260820092817.47134563.178709@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/hewMn7_cXpSJBytYC6g4S8dpUKQ=/0x540:8192x5148/1920x1080/2026/08/19/1787159737821.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 09:28:17 -0400</pubDate>
     </item>
   </channel>
 </rss>
