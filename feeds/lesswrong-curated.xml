@@ -4,7 +4,7 @@
     <title>LessWrong (curated)</title>
     <link>https://www.lesswrong.com/</link>
     <description>Filtered feed for LessWrong (curated)</description>
-    <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/lesswrong-curated.xml" rel="self"/>
+    <atom:link href="https://RobPaine1.github.io/feeds/feeds/lesswrong-curated.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,7 +13,7 @@
       <link>https://www.lesswrong.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:22:04 +0000</lastBuildDate>
     <item>
       <title>A Mechanistic Explanation of Prompt Injection (and why you should study roles)</title>
       <link>https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you</link>

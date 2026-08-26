@@ -4,7 +4,7 @@
     <title>The Works In Progess Newsletter</title>
     <link>https://www.worksinprogress.news/</link>
     <description>Filtered feed for The Works In Progess Newsletter</description>
-    <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/the-works-in-progess-newsletter.xml" rel="self"/>
+    <atom:link href="https://RobPaine1.github.io/feeds/feeds/the-works-in-progess-newsletter.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,7 +13,7 @@
       <link>https://www.worksinprogress.news/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:18:17 +0000</lastBuildDate>
     <item>
       <title>The wild scheme to save koalas</title>
       <link>https://www.worksinprogress.news/p/why-we-should-vaccinate-wild-animals</link>

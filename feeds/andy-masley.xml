@@ -4,7 +4,7 @@
     <title>Andy Masley</title>
     <link>https://blog.andymasley.com/</link>
     <description>Filtered feed for Andy Masley</description>
-    <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/andy-masley.xml" rel="self"/>
+    <atom:link href="https://RobPaine1.github.io/feeds/feeds/andy-masley.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,7 +13,7 @@
       <link>https://blog.andymasley.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:18:36 +0000</lastBuildDate>
     <item>
       <title>A call for more specific and numerate climate communication</title>
       <link>https://blog.andymasley.com/p/a-call-for-more-specific-and-numerate</link>

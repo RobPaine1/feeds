@@ -4,7 +4,7 @@
     <title>Astral Codex Ten</title>
     <link>https://www.astralcodexten.com/</link>
     <description>Filtered feed for Astral Codex Ten</description>
-    <atom:link href="https://RobertPaineBlueBear.github.io/feeds/feeds/astral-codex-ten.xml" rel="self"/>
+    <atom:link href="https://RobPaine1.github.io/feeds/feeds/astral-codex-ten.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
@@ -13,7 +13,7 @@
       <link>https://www.astralcodexten.com/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:16:34 +0000</lastBuildDate>
     <item>
       <title>Highlights From The Discourse On The Hugging Face Incident</title>
       <link>https://www.astralcodexten.com/p/highlights-from-the-discourse-on</link>
