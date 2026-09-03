@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:08:17 +0000</lastBuildDate>
     <item>
       <title>💰 Mythos-maxxing</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -14919,6 +14919,265 @@ A MESSAGE FROM WEST MONROE
       <guid isPermaLink="false">20260902092823.47308199.174937@sailthru.com</guid>
       <enclosure url="https://images.axios.com/tbYHttLqKzCZ40x9ipTMXA2nbw8=/1920x1080/smart/2021/01/27/202909-1611779349562.jpg" length="0" type="image/jpeg"/>
       <pubDate>Wed, 02 Sep 2026 09:28:23 -0400</pubDate>
+    </item>
+    <item>
+      <title>📈 AI accounting 101</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>📈 AI accounting 101</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/47336275" name="st-public-url"/>
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.v {font-family: Georgia, Palatino Linotype, serif !important;}
+.t {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
+<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: OpenAI cyber announcement | Thursday, September 03, 2026</div>
+<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width:600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY WEST MONROE </span> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="text-align:center;line-height:1;max-width:100%">
+<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried and Madison Mills  <span style="margin:0 6px">·</span> Sep 03, 2026 </span>
+</td>
+</tr><tr style="max-width:100%">
+<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>Ina here, saying thanks to everyone who came to the Re/code Re/union we had in San Francisco this week. It was great to see not just great former colleagues, but so many people who I've worked with for decades.</p><p><strong><em>Situational awareness:</em></strong><em></em> Nvidia CEO Jensen Huang confirmed the company has agreed to <a href="https://www.axios.com/2026/09/03/nvidia-hugging-face-13b?stream=top" target="_blank">acquire Hugging Face</a> for $12.9 billion, emphasizing the importance of the AI library in the open AI ecosystem.</p><p>Today's AI+ is 1,197 words, a 4.5-minute read.</p></td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: Anthropic and OpenAI's revenue chasm  </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/mmills?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of stacks of hundred dollar bills with binary numbered bands falling over like dominos onto a businessman" id="item02" src="https://images.axios.com/wMmS8VZOPd0GdMSNb8PC-faHOYI=/0x0:1920x1080/1920x1080/2026/05/27/1779901367550.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Sarah Grillo/Axios. Stock: Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Anthropic is racing toward an IPO</strong> with a headline revenue number that will likely look bigger than that of its rival, OpenAI. </p><p><strong>Why it matters:</strong> Comparing revenue at the two AI labs isn't apples-to-apples unless you understand how differently they account for some sales through cloud partners.</p><p><strong>Driving the news: </strong>The latest update from Anthropic indicates its annualized revenue will exceed $65 billion this year. OpenAI says it's on track to exceed $40 billion in annualized revenue.</p><ul><li>Both companies annualize recent sales in roughly similar ways, <a href="https://www.theinformation.com/newsletters/dealmaker/math-behind-anthropics-mad-revenue-growth?stream=top" target="_blank">The Information</a> reported.</li><li>The biggest difference is what goes into that number.</li></ul><p><strong>Between the lines: </strong>Anthropic records the full value of Claude sales through its partners, then records the cloud providers' cuts as expenses.</p><ul><li>OpenAI records only its share of certain sales through partners like Microsoft, according to The Information.</li><li>If a customer pays $100 for an AI service through a cloud provider, Anthropic's accounting method allows it to record the full $100 as top-line revenue, per Francine McKenna, accounting professor and author of the newsletter <a href="https://thedig.substack.com/?stream=top" target="_blank">The Dig</a>. The cloud provider's cut is then listed an expense.</li></ul><p><strong>Zoom in: </strong>Why do both AI labs do it differently? </p><ul><li>"The criteria here has a lot to do with who is the principal and who is the agent in the transaction," McKenna says. It's about who really has control over the client relationship and is ultimately responsible for delivering the product, McKenna adds.</li><li>Anthropic says it views itself as the principal in each transaction. </li><li>OpenAI sees net revenue as more accurate. </li></ul><p><strong>What they're saying: </strong>Neither approach is necessarily wrong.</p><ul><li>"You can have two companies with the same business model come to a different conclusion," McKenna says, based on both customer contracts and what argument their teams made to the SEC to justify their revenue calculations.  </li><li>The question is whether the AI company is the principal selling the service or an agent in someone else's sale.</li><li>Accounting is "more of an art than a science," Lucas Ward, co-founder and CEO of Oath, a financial verification platform, told Axios. </li></ul><p><strong>Reality check:</strong> Accounting can't explain the entire $25 billion Anthropic-OpenAI gap based on what we know publicly.</p><ul><li>If Anthropic were to pivot and report revenue on a net versus gross basis, that would only amount to about a 6%–10% hit, per a source familiar with the company's financials. </li><li>That would still put Anthropic roughly $19 billion to $21 billion ahead of OpenAI, based on the latest reported figures.</li></ul><p><strong>What we're watching:</strong> Anthropic's IPO filing should finally show investors how it justifies its revenue treatment.</p><ul><li>As part of the pre-IPO paperwork process, correspondence between the SEC and Anthropic will get released. That should include justifications for Anthropic's accounting practices. </li><li>Ward plans to watch Anthropic's <a href="https://www.investopedia.com/terms/e/ebitda.asp?stream=top" target="_blank">EBITDA</a>, or earnings before interest, taxes, depreciation and amortization, for clarity on the firm's true profits. </li></ul><p><strong>The bottom line:</strong> Anthropic may really be growing faster than OpenAI.</p><ul><li>But $65 billion vs. $40 billion isn't a clean comparison between the two. </li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fanthropic-and-openais-revenue-chasm-explained%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Anthropic+and+OpenAI%27s+revenue+chasm%2C+explained&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fanthropic-and-openais-revenue-chasm-explained%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fanthropic-and-openais-revenue-chasm-explained%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Anthropic and OpenAI's revenue chasm, explained&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AAnthropic and OpenAI's revenue chasm, explained%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fanthropic-and-openais-revenue-chasm-explained%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/03/anthropic-and-openais-revenue-chasm-explained?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. Exclusive: OpenAI convenes security leaders </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ssabin?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Sam Sabin</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a robot dressed as a security guard." id="item03" src="https://images.axios.com/np9zasI3HwPu_yWZNS88iR7JakI=/0x0:1920x1080/1920x1080/2025/12/18/1766075549368.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Allie Carl/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>OpenAI president Greg Brockman</strong> is expected to make an announcement about expanding access to the company's tools to <a href="https://www.axios.com/2026/04/10/anthropic-mythos-openai-cyber-threats?stream=top" target="_blank">critical infrastructure</a> and public sector organizations, a spokesperson first shared with Axios. </p><p><strong>Why it matters:</strong> OpenAI's accidental hack of Hugging Face and a wave of seemingly <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a?stream=top" target="_blank">AI-assisted</a> cyberattacks on U.S. water systems have raised serious concerns about how vulnerable utilities are to future AI-enabled hacks. </p><p><strong>Driving the news:</strong> Brockman will make the announcement during a cyber summit at OpenAI's headquarters later today, the spokesperson said. </p><ul><li>Roughly 300 enterprise security leaders and CISOs from Fortune 100 companies are expected to attend the event. </li><li>The gathering will focus on how companies, governments and cybersecurity companies can get AI tools into the hands of defenders, including critical infrastructure and public services. </li></ul><p><strong>The big picture:</strong> The gathering and pending announcement come as OpenAI responds to security concerns surrounding its models following the Hugging Face breach and after its forthcoming Astra model reached "critical" cybersecurity capabilities. </p><ul><li>An <a href="https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns?stream=top" target="_blank">Information report</a> earlier this week about OpenAI pursuing a new training technique also raised concerns about whether security pros will still have visibility into the model's thought process. </li></ul><p><strong>Catch up quick:</strong> OpenAI issued an <a href="https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning?stream=top" target="_blank">open letter</a> last week warning that organizations only have months to prepare for AI-enabled cyberattacks. </p><ul><li>Brockman issued a similar warning in an <a href="https://openai.com/index/the-defenders-window/?stream=top" target="_blank">essay</a> last month. </li></ul><p><strong>What to watch:</strong> Raising awareness about protecting critical infrastructure is one thing, but it doesn't solve the problems many of these organizations find with funding and hiring security teams. </p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D2%26utm_term%3Dfbsocialshare%23story2&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Exclusive%3A+OpenAI+convenes+security+leaders&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D2%26utm_term%3Dtwsocialshare%23story2&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D2%26utm_term%3Dlisocialshare%23story2&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Exclusive: OpenAI convenes security leaders&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: OpenAI convenes security leaders%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D2%26utm_term%3Demshare%23story2" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html?chunk=2&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story2" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Meta debuts Muse Spark 1.3 </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Animated illustration of the Meta logo turning on its side and eating a row of sparkle emojis." id="item04" src="https://images.axios.com/VrFnWEzhAWGcsGLqUKNlBTeQcHk=/smart/2025/06/12/195758-1749758278926.gif" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Brendan Lynch/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Meta released Muse Spark 1.3, </strong>an update it says significantly improves performance in coding and agentic tasks.</p><p><strong>Why it matters: </strong>Meta is trying to keep pace with Anthropic, OpenAI and Google, which all made major model announcements this week.</p><p><strong>State of play: </strong>Meta AI chief Alexandr Wang told Axios the update helps pave the way for upcoming products, such as personal agents.</p><ul><li>"It's very competitive with frontier models," Wang said in an interview.</li><li>"A lot of the usability improvements that we've made will be really helpful for things that Mark [Zuckerberg] has talked about on earnings calls, like personal agents that can work 24/7 on your behalf and help you achieve your goals."</li></ul><p><strong>The big picture:</strong> Meta's release comes amid a flurry of model updates from across the industry.</p><ul><li>Google yesterday <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/?stream=top" target="_blank">debuted</a> Gemini 3.8 Flash, as well as a version geared toward cybersecurity work. Google's new model showed some impressive performance on certain coding benchmarks, and a larger update, Gemini 4, remains in training.</li><li>Anthropic released <a href="https://www.axios.com/2026/09/01/anthropic-releases-new-models-cost-structures-and-safeguards?stream=top" target="_blank">updates</a> to its Fable and Mythos models designed to cut costs and reduce the frequency of refusals of user requests for safety issues.</li><li>OpenAI, meanwhile, said it will soon release its Astra model, though it will <a href="https://www.axios.com/2026/09/01/openai-astras-cyber-critical?stream=top" target="_blank">limit</a> its most powerful cybersecurity capabilities to a smaller group of testers.</li></ul><p><em><a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues?stream=top" target="_blank">Keep reading.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F02%2Fmeta-debuts-muse-spark-13-as-personal-agent-work-continues%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Meta+debuts+Muse+Spark+1.3+as+personal+agent+work+continues&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F02%2Fmeta-debuts-muse-spark-13-as-personal-agent-work-continues%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F02%2Fmeta-debuts-muse-spark-13-as-personal-agent-work-continues%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Meta debuts Muse Spark 1.3 as personal agent work continues&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AMeta debuts Muse Spark 1.3 as personal agent work continues%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F02%2Fmeta-debuts-muse-spark-13-as-personal-agent-work-continues%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM WEST MONROE
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Building an AI-native enterprise comes with 3 imperatives</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://www.westmonroe.com/insights/building-the-ai-native-enterprise?axios_adlink=1&amp;industry=all&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJCV-O_8zwEQARgBKAEyCOM2mAK1YS1F" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>What separates AI leaders from everyone else?</p>
+<p><strong>Three imperatives:</strong></p>
+<ul>
+<li>AI as the operating layer.</li>
+<li>Bridging the AI ROI divide.</li>
+<li>Rewriting the org chart.</li>
+</ul>
+<p>New research shows what each requires — and where leaders should act now.</p>
+<p><a href="https://www.westmonroe.com/insights/building-the-ai-native-enterprise?axios_adlink=1&amp;industry=all&amp;stream=top" target="_blank">Explore the report.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. Exclusive: New bill cracks down on AI agents </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ssabin?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Sam Sabin</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a tiny robot breaking out a chat box. " id="item05" src="https://images.axios.com/J0nylSYocA8hI5frBeeI6VnTe2E=/1920x1080/smart/2024/10/23/204346-1729716226915.jpg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Aïda Amer/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Reps. Josh Gottheimer (D-N.J.) and Mike Lawler (R-N.Y.) </strong>are introducing a new bill today, first shared with Axios, aimed at securing AI agents amid a <a href="https://www.axios.com/2026/07/28/hugging-face-openai-cybersecurity-defense?stream=top" target="_blank">growing number of safety incidents</a> involving rogue agents. </p><p><strong>Why it matters:</strong> Washington has been slow to respond to the safety and security concerns raised by <a href="https://www.axios.com/2026/08/26/openai-hugging-face-technical-report-ai-hack?stream=top" target="_blank">OpenAI's Hugging Face hack</a> and other testing incidents involving agents that took unauthorized actions over the last two months.</p><p><strong>Driving the news:</strong> The Stop Rogue AI Act directs Commerce's National Institute of Standards and Technology to develop and publish standards, guidelines and best practices for how organizations can securely deploy AI agents. </p><ul><li>The standards should cover how organizations can continuously maintain and verify the actions that agents take on their systems; evaluate the security and reliability of AI agents; and generate tamper-proof logs of the actions that agents take. </li></ul><p><em><a href="https://www.axios.com/2026/09/03/house-bill-ai-agents-security?stream=top" target="_blank">Keep reading.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fhouse-bill-ai-agents-security%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Exclusive%3A+New+bill+cracks+down+on+AI+agents+after+Hugging+Face+breach&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fhouse-bill-ai-agents-security%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fhouse-bill-ai-agents-security%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Exclusive: New bill cracks down on AI agents after Hugging Face breach&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: New bill cracks down on AI agents after Hugging Face breach%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F03%2Fhouse-bill-ai-agents-security%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/03/house-bill-ai-agents-security?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  5. + This </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Photo of Lauren Goode, John Paczkowski, Ina Fried and Mike Isaac (left) and of Kara Swisher (right)" id="item06" src="https://images.axios.com/VlxFlQwT-sTkJpb7ykjRIkVmAck=/0x0:2027x1140/1920x1080/2026/09/02/1788382371687.png" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>At left: Lauren Goode, John Paczkowski, Ina Fried and Mike Isaac. Right: Kara Swisher. Photos: Courtesy of Elizabeth Crane</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Here are</strong> a couple shots from the festivities.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D5%26utm_term%3Dfbsocialshare%23story5&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D5%26utm_term%3Dtwsocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D5%26utm_term%3Dlisocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html%3Fchunk%3D5%26utm_term%3Demshare%23story5" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-c79551de-8ccc-4d94-bb94-06e2d0a58ab2.html?chunk=5&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story5" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM WEST MONROE
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Give us 30 minutes. Leave with your AI priorities</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://www.westmonroe.ai/?axios_adlink=3&amp;industry=all&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJCVhIDRShABGAEoATIIQVosFZA1YPg" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>AI leaders aren’t just deploying more tools. They’re changing how their businesses operate.</p>
+<p><strong>Join West Monroe’s chief AI officer</strong> on Sept. 16 to learn how to:</p>
+<ul>
+<li>Embed AI into operations.</li>
+<li>Turn AI investment into ROI.</li>
+<li>Redesign the org around AI.</li>
+</ul>
+<p><a href="https://www.westmonroe.ai/?axios_adlink=3&amp;industry=all&amp;stream=top" target="_blank">Save your spot.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to Megan Morrone for editing this newsletter and Matt Piper for copy editing.</em></p></td>
+</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
+</td>
+</tr>
+</table>
+<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10s6kwj.4a2m/c033250a" style="color:#f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20260903093110.47336275.199678@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/wMmS8VZOPd0GdMSNb8PC-faHOYI=/0x0:1920x1080/1920x1080/2026/05/27/1779901367550.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 09:31:10 -0400</pubDate>
     </item>
   </channel>
 </rss>
