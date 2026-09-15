@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:45:55 +0000</lastBuildDate>
     <item>
       <title>💡 Google's talent problem</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -14895,6 +14895,227 @@ A MESSAGE FROM BAIN &amp; COMPANY
       <guid isPermaLink="false">20260914092825.47472593.160335@sailthru.com</guid>
       <enclosure url="https://images.axios.com/0P8bonlHTrcT0VBWHCYCNN1OdUQ=/0x0:1280x720/2026/04/09/1775766037126.gif" length="0" type="image/jpeg"/>
       <pubDate>Mon, 14 Sep 2026 09:28:25 -0400</pubDate>
+    </item>
+    <item>
+      <title>💭 AI in Dreamland</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>💭 AI in Dreamland</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/47499962" name="st-public-url"/>
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.v {font-family: Georgia, Palatino Linotype, serif !important;}
+.t {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
+<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: Trust deficit | Tuesday, September 15, 2026</div>
+<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width:600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY BAIN &amp; COMPANY </span> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="text-align:center;line-height:1;max-width:100%">
+<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried and Madison Mills  <span style="margin:0 6px">·</span> Sep 15, 2026 </span>
+</td>
+</tr><tr style="max-width:100%">
+<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>✍️ Ina here, wondering if I am the only one still writing 5786 on their checks. Today's AI+ is 1,499 words, a 5.5-minute read.</p></td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: Dreamforce becomes ground zero for AI slowdown debate </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of the Golden Gate Bridge silhouetted and covered with red binary code." id="item02" src="https://images.axios.com/Gu1rlx6Knbp8siAK8wgjq4BTwD0=/1920x1080/smart/2023/08/09/211719-1691615839530.jpg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Annelise Capossela/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Today, the CEOs</strong> of Nvidia, OpenAI and Anthropic will converge in San Francisco for Salesforce's giant Dreamforce conference, one day after Nvidia's Jensen Huang threw cold water on weekend calls from OpenAI's Sam Altman and Anthropic's Dario Amodei to slow the pace of AI development.</p><p><strong>Why it matters:</strong> Dreamforce is taking on unique prominence this year as the tech industry <a href="https://www.axios.com/2026/09/13/ai-labs-regulation-safety?stream=top" target="_blank">debates</a> whether AI is advancing too quickly — and whether the rest of the world can keep up.</p><p><strong>Driving the news: </strong>Amodei and Huang are scheduled to be part of Salesforce CEO Marc Benioff's star-packed opening keynote, while Altman and Benioff are set for an afternoon <a href="https://reg.salesforce.com/flow/plus/df26/sessioncatalog/page/catalog/session/1783524406260001s846?stream=top" target="_blank">fireside chat</a>.</p><p><strong>Catch up quick: </strong>Amodei called for an <a href="https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing?stream=top" target="_blank">urgent slowdown</a> over the weekend, warning of dire consequences otherwise. Similar calls followed from Altman and others.</p><ul><li>Huang, meanwhile, <a href="https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit?stream=top" target="_blank">rebuffed such concerns</a> at the All-In conference yesterday, <a href="https://x.com/benitoz/status/2099572926865715548?s=20&amp;stream=top" target="_blank">taking</a> a live phone call from President Trump, who spent much of his day shooting down the need for an AI slowdown (see below).</li></ul><p><strong>Zoom in: </strong>Salesforce sees some benefit for itself — and the industry — if the pace of frontier releases over the next few years is slower than has become the norm in recent months.</p><ul><li>"As a builder, them slowing down a little bit is kind of good news because we have a lot of catching up to do, and we could use a little time to catch up," Salesforce president Patrick Stokes said in a press briefing yesterday.</li></ul><p><strong>My thought bubble:</strong> It's good that this long-needed discussion is finally happening.</p><ul><li>But, as our new managing editor for tech, Bradley Olson, points out below: Getting the global tech industry to slow down is a lot harder than getting people to talk about the need to do so.</li></ul><p><strong>The big picture:</strong> The AI debate is spilling over into Dreamforce, but the company is aiming to keep most of the focus on its new products and partnerships.</p><ul><li>One big focus is AIforce, the company's effort to allow customers to access data via AI agents rather than traditional user interfaces.</li><li>AIforce also lets users build their own interface, in real time, by describing what they want. Salesforce says those experiences remain governed by existing permissions and business rules.</li></ul><p><em><a href="https://www.axios.com/2026/09/15/dreamforce-gathering-ai-slowdown?stream=top" target="_blank">Full story.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fdreamforce-gathering-ai-slowdown%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Dreamforce+becomes+ground+zero+for+AI+slowdown+debate&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fdreamforce-gathering-ai-slowdown%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fdreamforce-gathering-ai-slowdown%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Dreamforce becomes ground zero for AI slowdown debate&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ADreamforce becomes ground zero for AI slowdown debate%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fdreamforce-gathering-ai-slowdown%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/15/dreamforce-gathering-ai-slowdown?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. Why a swift AI pause is unlikely </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/bradley.olson@axios.com?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Bradley Olson</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a robot holding up a finger to its mouth. " id="item03" src="https://images.axios.com/83za3vEAHLAnQX5pv8TQPs3yMRM=/1920x1080/smart/2023/10/23/230350-1698102230808.jpg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Allie Carl/Axios</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Most agree</strong> the AI industry needs oversight.</p><ul><li>The critical barrier: Few really trust the industry, or the safety advocates who come from inside the house.</li></ul><p><strong>Why it matters:</strong> Factions in the Trump administration, business executives wary of competitive threats, and advocates for cheaper, more customizable "open" models fear that new regulatory hurdles will offer frontier AI companies too much power.</p><h2>AI distrust, explained</h2><p><strong>Here are the key factors</strong> shaping that distrust, which are poised to delay the kind of <a href="https://www.axios.com/2026/09/12/ai-regulation-safety-plan-2026?stream=top" target="_blank">"all-hands-on-deck" response</a> many want.</p><p><strong>💰 Money:</strong> Anthropic stands alone in the history of capitalism, a company whose leaders are so concerned with safety that it broke away from OpenAI. Its employees, up to the CEO, honestly believe its product is so dangerous that there's a chance it could destroy humanity.</p><ul><li>And yet, as soon as this week, it's expected to file for what many think will be the biggest IPO of all time, seeking to raise $100 billion at a $2 trillion valuation.</li><li>Picture Oppenheimer meeting with sell-side analysts and you get a window into the "Dr. Strangelove" of it all. That duality — dire warnings and fundraising based on promises of AI Valhalla — continues to sow confusion.</li></ul><p><strong>⚠️ Safety:</strong> A group of AI obsessives and technologists for years have spent vast sums financing research and organizations dedicated to AI safety. The problem is that many critics see some of that work as lacking in substance, too focused on the probability of end-of-the-world scenarios.</p><ul><li>Another issue is how closely aligned some safety research organizations are to frontier AI labs. </li><li>Anthropic has pointed to METR, which conducted the evaluation of the Hugging Face incident at OpenAI, as a possible third-party evaluator. But industry skeptics point to a laundry list of financial and personal ties between the two companies as a nonstarter for competitors.</li><li>To the extent top U.S. AI companies embrace self-regulation, finding third-party organizations that are viewed as truly independent will be a challenge. </li></ul><p><strong>📊 Business:</strong> Business leaders, including Nvidia CEO Jensen Huang and Microsoft CEO Satya Nadella, have embraced open-weight AI systems, which are generally cheaper and offer companies the chance to build and customize proprietary models with their own data.</p><ul><li>Most of the best open models were made by Chinese startups, and some U.S. companies are using them to save money and protect themselves from potential competition from frontier AI companies.</li><li>Any attempt to bring AI systems under control could lead to a ban or restrictions on usage of Chinese models, something that might cause many U.S. businesses to revolt.</li></ul><p><strong>🏛️ Politics:</strong> Top administration officials, including White House AI adviser David Sacks, have repeatedly dismissed the push for regulation and oversight as a classic attempt at "regulatory capture."</p><p><strong>What we're watching:</strong> Who steps into the vacuum.</p><ul><li>While the industry squabbles over which evaluators are most honest and most independent, some key figures with Washington ties tell Axios they're thinking of starting their own shops to potentially fill the void.</li></ul><p><strong>The bottom line:</strong> Getting four top AI labs — Anthropic, OpenAI, SpaceX and Google — to agree on anything is a huge leap forward for the kind of regulation many AI proponents believe the industry desperately needs.</p><ul><li>But a lack of trust in the companies makes swift oversight unlikely.</li></ul><p><em>Maria Curi contributed reporting. </em></p><p><em><a href="https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai?stream=top" target="_blank">Full story.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fai-trust-safety-anthropic-openai%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Why+a+swift+AI+pause+is+unlikely%3A+No+one+trusts+AI+companies&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fai-trust-safety-anthropic-openai%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fai-trust-safety-anthropic-openai%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Why a swift AI pause is unlikely: No one trusts AI companies&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AWhy a swift AI pause is unlikely: No one trusts AI companies%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Fai-trust-safety-anthropic-openai%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/15/ai-trust-safety-anthropic-openai?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Trump's war on AI doomers gets personal </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/zbasu?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Zachary Basu</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of President Trump hugging a giant cursor arrow" id="item04" src="https://images.axios.com/dfn3YO1vhwySAYTSXgfdlBk__V4=/0x0:1920x1080/1920x1080/2025/09/05/1757099519535.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Photo illustration: Sarah Grillo/Axios. Photo: Nicholas Kamm/AFP via Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>President Trump declared war </strong>on the AI safety panic yesterday, dismissing the <a href="https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks?stream=top" target="_blank">industry's apocalyptic warnings</a> as part of a "sick conspiracy" to sabotage America and his legacy.</p><p><strong>Why it matters: </strong>Trump is rewriting a complex, years-long debate over AI's dangers in the <a href="https://www.axios.com/2025/07/23/trump-obama-epstein-investigation-maga?stream=top" target="_blank">partisan grammar</a> that has defined MAGA for a decade — hoaxes, conspiracies, traitors and, at the center of it all, one man.</p><p><strong>State of play:</strong> Yesterday marked a sharp escalation in the administration's <a href="https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress?stream=top" target="_blank">long-standing opposition</a> to AI regulation, as Trump recast the safety debate in starkly personal terms.</p><ul><li>Trump explicitly placed AI doomerism in the same bucket as the <a href="https://www.axios.com/2025/07/22/trump-forever-grudge-obama-hillary-clinton?stream=top" target="_blank">Russia investigation</a>, climate change and his impeachments — the latest entry in a catalog of "hoaxes" that has also included the <a href="https://www.axios.com/2025/09/05/trump-epstein-file-hoax-congress?stream=top" target="_blank">Epstein files</a> and the <a href="https://www.axios.com/2025/12/15/trump-economy-2026-income-inflation?stream=top" target="_blank">affordability crisis</a>.</li><li>He turned his fire on the <a href="https://www.axios.com/2026/09/13/ai-labs-regulation-safety?stream=top" target="_blank">AI leaders</a> urging restraint, questioning why CEOs would seek regulations that could cripple their own companies and arguing that any slowdown would squander America's lead over China.</li></ul><p><strong>The intrigue:</strong> Trump's campaign against AI doomerism then spilled onto the stage of the All-In Summit in Los Angeles, where <a href="https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit?stream=top" target="_blank">Nvidia CEO Jensen Huang</a> took a call from the president in the middle of a live interview.</p><ul><li>Trump dismissed fears of an AI takeover as a "hoax" and assured the crowd that "the robots will not be taking over."</li></ul><p><strong>Between the lines: </strong>Trump is grafting his own political grievances onto a counternarrative already taking hold among his Silicon Valley allies: that the AI panic is manufactured.</p><ul><li>David Sacks, Trump's influential AI adviser and "All-In" podcaster, has portrayed AI alarmism as the work of a well-funded "<a href="https://www.youtube.com/watch?v=h6ZO4tMw8QI&amp;stream=top" target="_blank">Doomer Industrial Complex</a>."</li><li>As the latest warnings exploded across social media last week, Sacks and his co-hosts <a href="https://www.youtube.com/watch?v=cvxjqbfLVk0&amp;stream=top" target="_blank">suggested the backlash</a> was a coordinated "psyop" tied to election season and the growing threat from open-source AI.</li></ul><p><strong>The big picture: </strong>Critics question how Trump, an 80-year-old populist who famously shuns email, became such an evangelist for AI. The answer is simple — the AI revolution combines nearly everything he finds irresistible:</p><ul><li>A race with China that America is currently winning.</li><li>A historic buildout of data centers, chip fabs and power plants — physical monuments to investment and growth.</li><li>Tech titans competing for his ear and influence.</li><li>A booming stock market.</li><li>A futuristic vision of American supremacy built on speed, scale and technological might.</li><li>And now, a familiar foil: an elite "expert" class telling him no.</li></ul><p><strong>The bottom line: </strong>Trump has been an AI accelerationist from the start. </p><ul><li>What's new is the degree to which he now sees the AI boom as <em>his boom</em> — and the safety revolt as an attempt to deny him his place in history.</li></ul><p><em><a href="https://www.axios.com/2026/09/15/trump-ai-doom-safety-regulation-hoax?stream=top" target="_blank">Full story.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Ftrump-ai-doom-safety-regulation-hoax%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%22I+am+the+Hoax+Buster%22%3A+Trump%27s+war+on+AI+doomers+gets+personal&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Ftrump-ai-doom-safety-regulation-hoax%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Ftrump-ai-doom-safety-regulation-hoax%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: &quot;I am the Hoax Buster&quot;: Trump's war on AI doomers gets personal&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A&quot;I am the Hoax Buster&quot;: Trump's war on AI doomers gets personal%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F09%2F15%2Ftrump-ai-doom-safety-regulation-hoax%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/09/15/trump-ai-doom-safety-regulation-hoax?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM BAIN &amp; COMPANY
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Fund your next wave of growth</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://ad.doubleclick.net/ddm/trackclk/N2558272.2602302AXIOS/B36021557.455801830;dc_trk_aid=650373934;dc_trk_cid=257737260;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=1" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJCVj9KnYhABGAEoATIICWr70izZnjs" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>As AI drives a new wave of technology spending, disciplined investment decisions are more important than ever. Learn how financial operations can provide a model to help leaders connect AI spending to business value.</p>
+<p><a href="https://ad.doubleclick.net/ddm/trackclk/N2558272.2602302AXIOS/B36021557.455801830;dc_trk_aid=650373934;dc_trk_cid=257737260;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=1" target="_blank">Optimize your investments.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. Training data </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><ul><li>OpenAI is <a href="https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370?st=nyLKnX&amp;stream=top" target="_blank">said</a> to have purchased Glass Imaging, a startup focused on improving smartphone cameras, in a deal that values the company at more than $300 million. (WSJ)</li><li>Apple <a href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update?stream=top" target="_blank">released iOS 27</a>, which includes the updated Siri AI, as well as software updates for Mac, Apple Watch and other devices. (The Verge)</li><li>Anthropic is still likely to <a href="https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai?stream=top" target="_blank">go public</a> in 2026, even as AI safety rockets into the zeitgeist, multiple sources tell Axios' Dan Primack. (Axios)</li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D4%26utm_term%3Dfbsocialshare%23story4&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D4%26utm_term%3Dtwsocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D4%26utm_term%3Dlisocialshare%23story4&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D4%26utm_term%3Demshare%23story4" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html?chunk=4&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story4" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  5. + This </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>A cool public works project </strong>captured the state of 1940 architecture in New York. A new online effort has turned that into an <a href="https://1940s.nyc/map?stream=top#13.69/40.7093/-73.99397" target="_blank">interactive map</a>. (I bet someone could use AI to make one heck of a fun video game.)</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D5%26utm_term%3Dfbsocialshare%23story5&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D5%26utm_term%3Dtwsocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D5%26utm_term%3Dlisocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html%3Fchunk%3D5%26utm_term%3Demshare%23story5" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-fcb9c20d-b16c-4830-8f5d-86ad62f4ba78.html?chunk=5&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story5" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM BAIN &amp; COMPANY
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">The Executive’s Guide to Agentic AI</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://ad.doubleclick.net/ddm/trackclk/N2558272.2602302AXIOS/B36021557.455801842;dc_trk_aid=650140826;dc_trk_cid=257737260;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=3" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJCVq_jq6QEQARgBKAEyCL-BNqZF8unh" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>The companies pulling ahead aren't just running better pilots; they're operating on a different logic.</p>
+<p>Learn how AI's winners are building proprietary intelligence through their own unique data, encoded workflows and learning architecture.</p>
+<p><a href="https://ad.doubleclick.net/ddm/trackclk/N2558272.2602302AXIOS/B36021557.455801842;dc_trk_aid=650140826;dc_trk_cid=257737260;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?axios_adlink=3" target="_blank">Get started.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to George Moriarty for editing this newsletter and Matt Piper for copy editing.</em></p></td>
+</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
+</td>
+</tr>
+</table>
+<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10sa37e.3e1q/6751c344" style="color:#f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20260915092828.47499962.158174@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/Gu1rlx6Knbp8siAK8wgjq4BTwD0=/1920x1080/smart/2023/08/09/211719-1691615839530.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Sep 2026 09:28:28 -0400</pubDate>
     </item>
   </channel>
 </rss>
