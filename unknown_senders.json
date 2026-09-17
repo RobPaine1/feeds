@@ -2,11 +2,11 @@
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
     "count": 47,
     "subjects": [
-      "Trump's extraordinary welcome for white South Africans",
       "Why Trump is blocking a big housing bill",
       "SCOTUS's deportations decision",
       "So Trump is president of AI now, too?",
-      "The most powerful president in generations"
+      "The most powerful president in generations",
+      "Birthright citizenship survives"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -56,13 +56,6 @@
       "Logging off"
     ]
   },
-  "Google <google-noreply@google.com>": {
-    "count": 2,
-    "subjects": [
-      "New privacy settings for Search services and Google Play",
-      "Learn more about our updated Terms of Service"
-    ]
-  },
   "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
     "count": 2,
     "subjects": [
@@ -88,6 +81,12 @@
     "count": 1,
     "subjects": [
       "We\u2019re not as helpless against dementia as we think"
+    ]
+  },
+  "Google <google-noreply@google.com>": {
+    "count": 1,
+    "subjects": [
+      "Learn more about our updated Terms of Service"
     ]
   },
   "\"Astead Herndon, Vox\" <contribute@vox.com>": {
