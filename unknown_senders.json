@@ -82,5 +82,17 @@
     "subjects": [
       "What's really at stake this midterms"
     ]
+  },
+  "Google <no-reply@accounts.google.com>": {
+    "count": 1,
+    "subjects": [
+      "Security alert"
+    ]
+  },
+  "Google <noreply-accounts@google.com>": {
+    "count": 1,
+    "subjects": [
+      "You shared some Google Account data with DeviantArt"
+    ]
   }
 }
