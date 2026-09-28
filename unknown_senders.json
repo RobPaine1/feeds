@@ -2,11 +2,11 @@
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
     "count": 47,
     "subjects": [
-      "Trump's World Cup intervention",
       "Log off with some good news for American soccer",
       "Is the US at war with Iran again?",
       "Log off and catch up with a friend",
-      "Trump purges an election agency"
+      "Trump purges an election agency",
+      "A different Greek myth before you log off"
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
@@ -75,6 +75,13 @@
       "Your Labor Day deal ends today"
     ]
   },
+  "DeviantArt <noreply@deviantart.com>": {
+    "count": 2,
+    "subjects": [
+      "Your profile is almost complete!",
+      "September's looking good on you \ud83c\udf42"
+    ]
+  },
   "\"Astead Herndon, Vox\" <contribute@vox.com>": {
     "count": 1,
     "subjects": [
@@ -91,12 +98,6 @@
     "count": 1,
     "subjects": [
       "You shared some Google Account data with DeviantArt"
-    ]
-  },
-  "DeviantArt <noreply@deviantart.com>": {
-    "count": 1,
-    "subjects": [
-      "Your profile is almost complete!"
     ]
   }
 }
