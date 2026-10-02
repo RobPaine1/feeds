@@ -10,13 +10,13 @@
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 12,
+    "count": 11,
     "subjects": [
-      "\ud83c\udf00 AI rules scramble",
       "\ud83d\udcb0 AI campaign cash",
       "\ud83c\udde8\ud83c\uddf3 China AI warning",
       "\u2699\ufe0f Building AI rules",
-      "\ud83c\udfdb\ufe0f State deepfake rules"
+      "\ud83c\udfdb\ufe0f State deepfake rules",
+      "\ud83e\udd1d Strange AI coalitions"
     ]
   },
   "POLITICO Live  <events@live.politico.com>": {
@@ -47,6 +47,14 @@
       "Logging off"
     ]
   },
+  "DeviantArt <noreply@deviantart.com>": {
+    "count": 3,
+    "subjects": [
+      "Your profile is almost complete!",
+      "September's looking good on you \ud83c\udf42",
+      "Gain access to the Core of DeviantArt"
+    ]
+  },
   "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
     "count": 2,
     "subjects": [
@@ -73,13 +81,6 @@
     "subjects": [
       "Celebrate Labor Day with Vox for $30/year",
       "Your Labor Day deal ends today"
-    ]
-  },
-  "DeviantArt <noreply@deviantart.com>": {
-    "count": 2,
-    "subjects": [
-      "Your profile is almost complete!",
-      "September's looking good on you \ud83c\udf42"
     ]
   },
   "\"Astead Herndon, Vox\" <contribute@vox.com>": {
