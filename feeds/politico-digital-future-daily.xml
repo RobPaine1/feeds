@@ -8,233 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 18:30:07 +0000</lastBuildDate>
-    <item>
-      <title>5 Questions for Stephanie T. Nguyen</title>
-      <link>https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4ObECGjFBp4fDvoEKh3Y2u-4i6uxUp2Telhx1FGsyUZwT66LKiDT0nXoW1Q8spVD49OybSm-VHOPoCqhxUmzeFeHUEH6ySJ_Qr2SbEKgynYdiP70hfieKHMYTlGm0Lwtu/4se/tBZkxC90RH6EAUbwkp5VsQ/h2/h001.t-Gs8hYGJ9x-uqk3LAQ5EmYeqKL-j0HKAIgU-O6wiY4</link>
-      <description>5 Questions for Stephanie T. Nguyen</description>
-      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-<title></title>
-<!--[if gte mso 9]>
-    <xml>
-        <o:OfficeDocumentSettings>
-            <o:AllowPNG/>
-            <o:PixelsPerInch>96</o:PixelsPerInch>
-        </o:OfficeDocumentSettings>
-    </xml><![endif]-->
-
-</head>
-<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
-<!-- preview text -->
-<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
-    How the next wave of technology is upending the global economy and its power structures
-</div>
-<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td align="center" style="max-width:100%">
-<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
-<tbody>
-<!-- top date and utility link -->
-
-<!-- divider line -->
-<tr style="max-width:100%">
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
-</tr>
-<!-- logo and byline -->
-<tr style="max-width:100%">
-<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
-<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
-<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
-            By  <a href="mailto:alfredng@politico.com" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Alfred Ng</a>
-</p>
-</td>
-</tr>
-<!-- sponsor logo -->
-<!-- body -->
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>With help from Aaron Mak</i><br/></p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="This is a headshot of Stephanie T. Nguyen." src="https://www.politico.com/dims4/default/76e7540/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F27%2F00%2F2a62bdd445afa15ec85042ad883e%2Fheadshot-sn-v9.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="headshot_sn_v9.jpg"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Stephanie T. Nguyen  |  Handout.</p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stephanie T. Nguyen was chief technologist at the Federal Trade Commission under President Joe Biden, where she led studies on artificial intelligence and surveillance pricing, and supported enforcement actions on competition and consumer protection. Nguyen is currently a senior fellow at Columbia Law School’s Center for Law and the Economy, where she is researching ways to help state and local regulators protect consumers and ensure fair competition. She talks to us about commercial surveillance’s effects on advertising and how lawmakers can use existing regulations to protect people from abuses in AI. This interview has been edited for length and clarity. </i></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What’s one underrated big idea?</strong></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">We should be able to navigate a world without feeling like we are living in some endless game of Pac-Man, where the ghosts keep multiplying, there’s new threats at every turn, and the people who designed the game itself control the conditions, the incentives and the rules.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Elected officials, policymakers and regulators have the power now to aggressively enforce existing authorities and pass new legislation when needed and go after bad actors who break the laws.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">But any attempts to address these problems that don’t fix these problems are missing the point. For example, adding more legalese into privacy policies as transparency doesn’t fix those problems. Sending people to consumer reporting mechanisms that don’t follow up or help them doesn’t fix those problems, or saying companies can just self-regulate and we can watch what happens in the next few years certainly won’t fix these problems either.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Can I go shopping and compare real prices? Can we not turn daycare or snacktime into surveillance? Can we live in your neighborhood in a place that doesn’t degrade your quality of life with basic resources?</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">I think an underrated big idea is to really put forth that North Star vision, and remember that the thing people want is to live their lives with quality.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What’s a technology you think is overhyped?</strong></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">I would say advertising, marketing and the surveillance infrastructure around it.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Advertising and marketing is a massive infrastructure for collecting data, predicting behavior, targeting individuals, matching buyers to sellers, using AI to create all sorts of content, and optimize people’s engagement.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">We’ve treated the ad economy as a normal part of life rather than a choice. It is now embedded into every single sector, which has become way more opaque, more widespread and more sophisticated to target individuals, not just with ads, but with prices too.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">This has created a really strange convergence. Big retailers are effectively advertising companies now, they no longer just sell products. Big Tech companies are advertisers, they aren’t just social media companies connecting people. Advertisers are now Big Tech companies, they aren’t just promoting products, they’re building those ecosystems that are designed to capture, measure and monetize human behavior.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Advertising isn’t something anymore that companies do to sell more products, it’s the underlying infrastructure. It shapes how businesses operate, how markets function, how people experience everyday life.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What could the government be doing regarding technology that it isn’t?</strong></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Two things: First is using existing laws more aggressively.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">A big one is we need to close the commercial surveillance loophole. The need for high-quality training data isn’t going away, so we need to prohibit certain data from being collected, prohibit data sales and monetization or selling or sharing as default, and require data deletion.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">There’s a strong body of FTC data broker cases that can serve as a good example for this.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">As AI agents and AI chatbots begin to take shape in virtually every sector, prohibiting a platform with conflicts of interest such as self-preferencing. Should you be able to operate an AI agent if you operate a platform that connects consumers with marketplaces or if you have some financial interest in the outcome of product recommendations or if you earn revenue from ads?</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The second thing is passing laws to help fill gaps without loopholes. I was chatting with my former Consumer Financial Protection Bureau colleagues about the idea to pass a law that says government auditors have ongoing supervisory authority — similar to bank supervisory authority — to examine companies’ algorithmic decision-making systems and pricing practices to ensure compliance with federal, state or local laws. Ideally, do these things before a crisis occurs, as opposed to after.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What book most shaped your conception of the future?</strong></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Here are two books that most recently have been on my mind.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The first one is because I have a tiny human in my house, and the book is <i>Because a Little Bug Went Ka-Choo</i> by Rosetta Stone, a.k.a. Dr. Seuss.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">It’s a kids book about the chaos that unfolds after a tiny bug sneezes, so like a turtle gets bopped, a hen gets drenched, a farmer gets a bucket stuck on his head, and it all converges into this massive town parade.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">It’s kind of this elegant distillation of cause and effect, and it captures the interconnectedness of the world and how a small action can create a long chain of unpredictable effects.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The second one is <i>Crisis Engineering</i> by friends and former colleagues of mine at U.S. Digital Service during the Obama administration. The book is about a useful way to think about how we work in and out of government. We are all cogs in the wheels of dozens of complex systems and within this, crisis can happen, which are significant changes in a short amount of time.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">In thinking about the future generally, it’s less about predicting it and more about building the capacity to make sense of it quickly, and respond to it when it happens.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What has surprised you the most this year?</strong></p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">I often read a lot of articles or listen to podcasts, or hear panels in conversations that accept the premise that the cat’s out of the bag, or certain outcomes are inevitable.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">We are told that we simply have to choose between the worst of the two evils. That we can get benefits of targeted surveillance discounts, or we can get no deals or no benefits at all. Or that we can have a world dominated by giant platforms with free convenient products that they provide or fall behind in global competition.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Policymakers, people often say, must balance innovation with regulations, as if these goals exist on opposite sides of a scale. But a competitive, fair and just market may be one of the strongest drivers of innovation.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">So what has surprised me most is how quickly we have accepted these trade-offs that are built in today’s systems. These aren’t laws of nature, these are choices created by executives, and people who run businesses driven by incentives. If those are choices, they can be changed.<br/></p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Democrats seek to influence chatbots</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">A progressive group that recruits </strong>candidates known as Run for Something has rolled out a new tool for campaigns to influence AI chatbot outputs, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH4ObECGjFBp4fDvoEKh3Y2u-4i6uxUp2Telhx1FGsyUZwT66LKiDT0nXoW1Q8spVD49OybSm-VHOPoCqhxUmzeFeHUEH6ySJ_Qr2SbEKgynYdiP70hfieKHMYTlGm0Lwtu/4se/tBZkxC90RH6EAUbwkp5VsQ/h2/h001.t-Gs8hYGJ9x-uqk3LAQ5EmYeqKL-j0HKAIgU-O6wiY4" target="_blank"><u>Owen Dahlkamp reports</u></a>.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">CampSight, which debuted last month, helps candidates examine what chatbots are saying about them to users. The tool also analyzes chatbot citations to offer pointers on how candidates can induce more favorable responses — with interventions such as rewording their campaign website’s issues page or submitting a Ballotpedia candidate profile. (Ballotpedia CEO and founder Leslie Graves told POLITICO that the site retains editorial discretion over profiles.)</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">A couple dozen campaigns are now using CampSight, and about 350 candidates and advocacy groups are on the waitlist, according to Run for Something Executive Director Amanda Litman. “We know that the most scientifically proven way to get someone to vote is to have a personal relationship with a candidate,” said Litman. “Everything else in a campaign is about replicating that intimacy between voter and candidate. This is just another way of doing that.”<br/></p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Poll shows growing data center opposition</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">New findings from The POLITICO Poll </strong>indicate that disapproval of datacenters has risen sharply over the first half of the year, POLITICO’s <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH499NTnnhj938Rf_UoNUzxaImuZ6I2vGVdDUVFMLreEOT_KS5v8ve80rSxPEXdJXyiGP-eV1RGA060r3QfY_TxEQ/4se/tBZkxC90RH6EAUbwkp5VsQ/h3/h001.9riqrT_je_iA_2U8CLIMa2MdG2HuibjiAJF3ThNH2JU" target="_blank"><u>Katherine Long and Jessie Blaeser report</u></a>.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">A <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxZPvQGMwjrcav6he_y4b0PEgcXA_GDaVK6iH4WCHDAAhFRbNZ28itMRi8IcJiVpX6x8fglnp6cdbmvmJJSWSGTu/4se/tBZkxC90RH6EAUbwkp5VsQ/h4/h001.raCfir88zvvxxpQuf5uuTvDGDarRS2EfgDjPAN0KBMo" target="_blank"><u>July survey</u></a> of 2,061 respondents by the independent polling organization Public First indicates that 41 percent of Americans would oppose the construction of a data center within three miles of where they live, up from 28 percent in a <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr3_fA6qWYQ14-vxL0cWz6PSWnHZl-U2E-4IrtwVcVDXVdpyVG1X35H94D1S-eDC_QKETKalp1AUZaW6NAHmKLTIp/4se/tBZkxC90RH6EAUbwkp5VsQ/h5/h001.vj-q73SG4zstI4PMPvO6Ihx45QIyIrmJKQMZNtc8x5A" target="_blank"><u>January POLITICO Poll</u></a>. There was also a drop in support for data centers from 37 percent to 24 percent in that six-month period.</p>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The negative shift in opinion was present on the right and left, though it was particularly pronounced among respondents who said they’d voted for Kamala Harris in 2024. “It's rare to see political attitudes change this fast in an era where they are often quite static and partisan,” said Public First head of polling Seb Wride.<br/></p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1dgn61DjmhBG7CimkBd_PRebwM41fz2rhIiWJv8uz9zkH5gD6V1UtpJT-Vf43h0WlWg/4se/tBZkxC90RH6EAUbwkp5VsQ/h6/h001.7rQ2KGtSy382fvaZerLJsb6wJzP3riKLDeHO-adhRcE" target="_blank"><img alt="This is a post from a tech commentary account." src="https://www.politico.com/dims4/default/be2d0e5/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fbd%2Ff1%2F8aea8b84468d82ed3cf53d82ea16%2Fcoobyk-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="coobyk postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
-<li style="margin-bottom:12px;">The rise of <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdagtOhMwTz0Z2uFl2hS4Vv3dshXRFDQiPTvdqRxAVnCufAkuBb85XMkSrmfkmQtKzRo9FirRcev6GwYTOzz0-UAN9/4se/tBZkxC90RH6EAUbwkp5VsQ/h7/h001.Z4lE83M7j_48F5zVUclElZq0kUO1YujoL-Z87_BwdfQ"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>books written by AI</u></strong></a> on Amazon.</li>
-<li style="margin-bottom:12px;">The campaign against “<a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV63vdexYVBNkmrNpnC_WH6gbwAPYraoU3rnbXNzqRwp8sP0kZ74RSWOWGZYa4VfTEHLKFQ1dJ7Y0Lop8gwz2vEYiI3_GnqsxIYs_ftTYl8yUb/4se/tBZkxC90RH6EAUbwkp5VsQ/h8/h001.HLf93nrhj9iXRndin9B6X-aT1yqlLwnFyKF3TbW-Y68"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>woke science</u></strong></a>” reaches space research.</li>
-<li style="margin-bottom:12px;">What happens when you give <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6zrWa_8SJ0CLZxnsbLio66pOsmkxlzA5da38_o7RUUCFFjJC2D-xxOoEOcUyM5bkAzenC4caeHay9xlGOCTrUQruS1wgf3y3vOmOCIJLRAw9ApMIKMzXqt4zmA2yYrKRtf_2U6CdZMCYTC9mckjiP8Q/4se/tBZkxC90RH6EAUbwkp5VsQ/h9/h001.1GjqFpX1g2YhRDOqs3dtv2WmIamalgMljqwmP6zqaKc"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>an AI agent</u></strong></a> access to your passwords? </li>
-<li style="margin-bottom:12px;">Zoox recalls software after robotaxis get stumped <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8wXmksu40rhAD5V-r2Oq0pIY5yQXeow3i2GJdmuyJXaECfAk3XVzY4_0vBYurzCW0MTD1RDQy0M5iKoOayBMXRiFA1MytuZHt7qqqarFScHM-r4pierT77Fv_cy74_JfJkWXt4Urbcnc8oPerDnSVoA/4se/tBZkxC90RH6EAUbwkp5VsQ/h10/h001.b4GoVTSzUG1mQc-Kp8A8JjDNVQgybw5j5JF9cami8C0"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>by heavy smoke</u></strong></a>. </li>
-<li style="margin-bottom:24px;">Indonesia's <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_xKqkVX2WnJ24y8gk1UKnEy22hUXeaxxeqmMwxjYujJB_Pa9xUExgOciiJuQNo33lEFqJblIDZZxNM9-B9AJvGWUNk-nRZQ7MYD-RacDwE5_b-0JJ0OFX4BkIV8ivr77WqajT-kGqUwmJtOaa5ZG8U/4se/tBZkxC90RH6EAUbwkp5VsQ/h11/h001.PUPCMr71E1hmuI64GQmdiF5hF4i0wl0kTN6QQ9fwMBs"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>copyright reforms</u></strong></a> could have major impacts on Google and AI.</li>
-</ul>
-<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Gabby Miller (</i><a href="mailto:gmiller@politico.com" target="_blank"><i>gmiller@politico.com</i></a><i>); Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i>amak@politico.com</i></a><i>); Bob King (</i><a href="mailto:bking@politico.com" target="_blank"><i>bking@politico.com</i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i>nrobson@politico.com</i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i>jhewittjones@politico.com</i></a><i>).</i></p></td>
-</tr>
-<!-- End Ad Copy -->
-<tr style="max-width:100%">
-</tr>
-<!-- Post Body Content -->
-<tr style="max-width:100%">
-</tr>
-<tr style="max-width:100%">
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
-</tr>
-<!-- Twitter Handles -->
-<tr style="max-width:100%">
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
-<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
-<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
-<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Hones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4se/tBZkxC90RH6EAUbwkp5VsQ/h12/h001.BZC88spj_FP-q8iixM39VwWXDpeLz8I6n3XIECswS2s" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
-<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4se/tBZkxC90RH6EAUbwkp5VsQ/h13/h001.mKAzC6ll3KMrRN5r6lvVfAPzI2S-Egz2S0UQyAjzgY0" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
-</tr>
-<!-- Family of Playbook -->
-<!-- Follow us -->
-<tr style="max-width:100%">
-<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
-<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
-<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
-<tbody>
-<tr style="max-width:100%">
-<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4se/tBZkxC90RH6EAUbwkp5VsQ/h14/h001.onm-lcNl48N2mVZLDv9mZdYTBMsFY8aWL18jFy0ZkKw" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
-<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4se/tBZkxC90RH6EAUbwkp5VsQ/h15/h001.ASoSvxK1-EIXMXwF40ecrazBJGTJHqxwd_5HbucSn9I" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
-<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4se/tBZkxC90RH6EAUbwkp5VsQ/h16/h001.CquQdQ91Os8BdIFOwCBEMhlxaSO6A8eQUU6m5s2ToSs" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
-<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4se/tBZkxC90RH6EAUbwkp5VsQ/h17/h001.EIS99R-nskqVetpGyqXE3JNaJLw-vS3dR4VOVkWsuWM" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</body></html>
-<!-- howler#email.footers/core-newsletter.footer.html -->
-
-</body></html>]]></content:encoded>
-      <guid isPermaLink="false">o2cHHCC9SLWXF1SdiL-J5Q@geopod-ismtpd-112</guid>
-      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 20:01:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Oct 2026 23:03:41 +0000</lastBuildDate>
     <item>
       <title>How AI will fragment the internet</title>
       <link>https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk8vXj7W24NYAb5NM3sDYtr3rFY0rMhWAFfSpc_AmXbSXg7tjSjAJY-P0TAxm4DFm0BGyfsrToNKbYh2b8k4r7jEHld8jyvqqH8tMVsOozlaW/4sh/4Po4o0DMSbS4bzObacHhKg/h2/h001.Br47ZbQilhKTlUeeGWkXr5McS5O2oiRo01akrW7PYMQ</link>
@@ -13551,6 +13325,329 @@
       <guid isPermaLink="false">_9SDZ0IKQDGpbLdIxa46Ug@geopod-ismtpd-51</guid>
       <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 01 Oct 2026 20:02:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>5 Questions for Scott Nolan</title>
+      <link>https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr39NqsoNNx_sBQaSSDpFEPuqX2UE_d2TfPD5K086-b9b4I33P4lMpv9jfdvs1YzCuWpKmfU5dwiEb2o1i5wTV91T0k3IXAvgSlW30NBVSTM80wmN8Zz2ZryuV0o3BGTFqrc/4uj/RWGzupC9Q3CxSKULJ0rqHg/h2/h001.gOcdhGmMYi584sGWSY8QZYzrcpF3qdRv5hqif3BSLMg</link>
+      <description>5 Questions for Scott Nolan</description>
+      <content:encoded><![CDATA[<html><body><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title></title>
+<!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml><![endif]-->
+
+</head>
+<body style="margin:0;padding:0;min-width:100%;background-color:#ffffff;">
+<!-- preview text -->
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+    Presented by EY: How the next wave of technology is upending the global economy and its power structures
+</div>
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding:5px 0 15px 0;margin:0;text-align:center;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" class="body-container" role="presentation" style="max-width:540px;table-layout:fixed;max-width:100%">
+<tbody>
+<!-- top date and utility link -->
+
+<!-- divider line -->
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- logo and byline -->
+<tr style="max-width:100%">
+<td align="center" style="text-align:center;padding:0 20px 15px 20px;margin:0;max-width:100%">
+<img alt="POLITICO Digital Future Daily Newsletter Header" border="0" src="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="Digital Future Daily.jpg"/>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td align="center" style="padding:0 20px 10px 20px;max-width:100%">
+<p style="text-align:center;font-family:Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#B1B4BD;text-transform:uppercase;margin:0;">
+            By  <a href="mailto:" style="color:#000000;text-decoration:none;font-weight:bold;" target="_blank">Aaron Mak</a>
+</p>
+</td>
+</tr>
+<!-- sponsor logo -->
+<tr style="max-width:100%">
+<td style="padding-bottom:15px; min-width:100%; width:100%;max-width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td align="center" style="min-width:100%; width: 100%;max-width:100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;table-layout:fixed;margin:0 auto;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<th align="right" style="text-align:left;" valign="middle">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;font-weight: 400;color:#6E7381;margin-top:15px;margin-bottom:15px;line-height:22px">
+                                                Presented by 
+                                            </p>
+</th>
+<th style="text-align:left;" width="50">
+<img alt="Sponsor Logo" border="0" src="https://www.politico.com/dims4/default/126d250/2147483647/resize/100x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F2f%2F0e%2F9f8b23f44d9790fae785c4436df7%2Flogo.png" style="width:50px;max-width:100%; vertical-align: top; display: inline;max-width:100%;height:auto"/>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- body -->
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><span style="color:#b70000;font-weight:bold;font-family:sans-serif;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">A NOTE TO DIGITAL FUTURE DAILY READERS</strong></span></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">This is the final edition of Digital Future Daily. On Oct. 5, it becomes Decoded by POLITICO. </strong>Decoded will build on the technology policy reporting you rely on today, with a wider lens on the people, power moves, policy battles and market shifts shaping the future of global technology.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Led each day by <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Brendan Bordelon</strong>, <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Calder McHugh</strong>, <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Christine Mui</strong> and <strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Sam Sutton</strong>, Decoded will harness the full reporting prowess of POLITICO’s global technology team to follow not only where technology is going, but the people, money and power taking it there.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">You don’t need to do anything. Look for the first edition of Decoded in your inbox on Oct. 5.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><img alt="This is a headshot of Scott Nolan. " src="https://www.politico.com/dims4/default/9abd06a/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F5e%2F61%2Fbc0f608b47a39961fe195e1eed2c%2F2u3a1090.JPG" style="width:100%;max-width:500px;max-width:100%;height:auto" title="2U3A1090.JPG"/></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Scott Nolan  |  General Matter handout. </p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Scott Nolan is the founder and CEO of General Matter, a nuclear fuel company that has drawn support from across the political spectrum — including groups backed by Peter Thiel and John Kerry. As our Francisco 'A.J.' Camacho wrote in a recent profile </i><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr39NqsoNNx_sBQaSSDpFEPuqX2UE_d2TfPD5K086-b9b4I33P4lMpv9jfdvs1YzCuWpKmfU5dwiEb2o1i5wTV91T0k3IXAvgSlW30NBVSTM80wmN8Zz2ZryuV0o3BGTFqrc/4uj/RWGzupC9Q3CxSKULJ0rqHg/h2/h001.gOcdhGmMYi584sGWSY8QZYzrcpF3qdRv5hqif3BSLMg" target="_blank"><i><u>for POLITICO Magazine</u></i></a><i>, Nolan is aiming to use his experience as one of SpaceX’s first employees to revive the nuclear power industry. Nolan talks to us about why nuclear energy is a bipartisan issue, and how the novel Dune informs his work. This interview has been edited for length and clarity.  </i></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What’s one underrated big idea?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Nuclear energy is the safest, cleanest form of baseload energy.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Many people believe nuclear energy hasn't expanded due to safety. It's actually been due to cost. Fossil fuels have always been cheaper than nuclear plants, and historically people have been less concerned with safety and CO2 emissions than they are with cost.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Big industrial-scale customers are now turning to nuclear as a way of ensuring safety and low carbon emissions baseload energy. Baseload energy is what almost all industrial facilities need to operate economically.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The driver of the cost of nuclear energy is enrichment. It's also the bottleneck in the domestic nuclear fuel supply chain.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What’s a technology you think is overhyped?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Enrichment technology. For decades, the technology behind enrichment has been designed by national labs that are more academic than commercial. Because of their role in the technology ecosystem, they emphasize performance and next-generation technology over commercial economics. This is them doing their job.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">History has shown that there's a lot of value in building something simple that works and can be made at low cost per unit of output. That's the approach we took at SpaceX to bring down the cost of launch but orders of magnitude over two decades.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What could the government be doing regarding technology that it isn’t?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">American nuclear energy is actually one of the few areas of alignment between the two parties in recent years. Biden wanted to triple it by 2050 and President Trump wants to quadruple it.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Congress voted overwhelmingly to ban Russian nuclear fuel imports a few years ago, and the waivers expire Jan. 1, 2028. That means in 15 months, we'll have a gap between the fuel we use and the fuel we have.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Earlier this week, the Senate <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6-IKWWOwzeD-42lQ7rg5McM3YMkszf6v_moANUpK1Wh64EsoMEHL-izUKgtWpg3eJVCgTKdFgkRzEgm_PpHl5OQ/4uj/RWGzupC9Q3CxSKULJ0rqHg/h3/h001.jiHeZP5OUNvLlTCMAhoS_o3hyrCpgANa3zQ9t7RICbk" target="_blank"><u>unanimously passed</u></a> a commonsense fix to speed up some non-nuclear construction while ensuring strong safeguards for taxpayers. In the House, a similar bill unanimously passed out of an Energy &amp; Commerce subcommittee a few weeks ago. We're grateful for Sens. Kelly (D-Ariz.) and Lummis (R-Wy.) for their bipartisan work on this topic.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Passing this commonsense bipartisan legislation is the most important thing Congress can do right now to boost American energy independence and end our reliance on foreign countries for fuel.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What book most shaped your conception of the future?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">There’s a lot of wisdom in Frank Herbert’s <a href="https://url4027.email.politico.com/ss/c/u001.2Z4DCAMF7Pq6fUenFyNGNTcUVhjsevGk8BX3C_wLGKs/4uj/RWGzupC9Q3CxSKULJ0rqHg/h4/h001.m7wQND1iDbAJvQ0kgBiIQ5hi1CnPL8XpFHDoygHzYVY" target="_blank"><i><u>Dune</u></i></a> that inspires our work at General Matter. Ultimately, we’re transforming uranium from a rock in the ground to something that reliably and affordably powers our grid.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">In <i>Dune</i>, "spice" is the scarce thing that all of society runs on. It's harvested from the sand and makes society prosperous. The people sent to mine it are there so civilization can keep moving.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">We see the same pattern with uranium. The rock in the ground is prevalent, but fuel that can actually be used is not. Enrichment is the important middle step. That we don't have at commercial scale in the U.S.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">If we can bring enrichment back to America, we'll be less reliant on other countries for our energy needs. We'll play our part in contributing to the nuclear renaissance. And with an abundance of clean, cheap, reliable baseload power, we'll help bring electricity costs down.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">What has surprised you the most this year?</strong></p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">It's been really heartening to see the bipartisan work taking place around nuclear energy. Whether it's lowering electricity bills, strengthening America's energy security, or just promoting clean power, there's incredible alignment. This week's unanimous vote in the U.S. Senate is a great example of that.<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#ffffff;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from EY:</p>
+<p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#000000;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Corporate AI governance is only as effective as its adoption‌.</strong> A new EY survey of senior AI leaders at the country's biggest public companies found 98% have formal governance policies on the books. The catch: nearly half say they have skipped them to get a deployment out the door. As Washington considers how to oversee AI, here’s what public companies are doing. Read the article <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfb-i1drvA_N5Frmz21Zzh_DjT4Vk7d5EubVXgGy762DtOHplxcUBTBbNZJPwj0im-khFgoNutr-tUTDyvEFXT1sz5vyi41wXlV7gwCMdOE_NW4O7tPUy56j0XQrKlEgsKzubavVjT_4S6DEDt_V7bA4/4uj/RWGzupC9Q3CxSKULJ0rqHg/h5/h001.fWhBMAmwif8B90H_2-mAia1cyqufdtCPZA8Y0pEhaXg" style="text-decoration:underline;color:#007bc7;" target="_blank">here.</a></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Dems propose Flock camera ban</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Rep. Alexandria Ocasio-Cortez (D-N.Y.) and Sens. Bernie Sanders (I-Vt.) and Jeff Merkley (D-Ore.) </strong>proposed legislation on Friday to ban Flock surveillance cameras and other automated license plate readers, POLITICO’s <a data-debug-source-site="POLITICO Pro" data-debug-source-uuid="000001a0-fd06-d424-abed-ff06dbf70000" href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr3-ILU6D1QJpKqGyigPEUbZIC8kwiUufXZfJ3Ch0wXisEhRBpRO0UousGZ1Vrzzyrg0KYg2m46gbAYu1QBHmpnVFUtCN6gRjJk0WK6dmf7PMOA/4uj/RWGzupC9Q3CxSKULJ0rqHg/h6/h001.Kzln2U82R3ckmXDmzjZR18CqHAybheJtAAjMNPXkU0M" target="_blank"><u>Owen Dahlkamp and Alfred Ng report</u></a>.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">The <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6z1r2SNX6K2LUnibanj7vkOge7B1ptiYa_3BbKwEYvy7WM-ZpM_d36IAHQPCOXXN1lNcEeGzbqhPW6lb2_xXIpg/4uj/RWGzupC9Q3CxSKULJ0rqHg/h7/h001.nq3U3TjdskHQ0b4yBb1QGIducrbsUKRHXxWa5Tv8JDE" target="_blank"><u>Ban Flock Act</u></a> would prohibit federal agencies from using such license plate readers or retrieving the data they collect. The bill would also preclude local and state governments from receiving federal grants if they use the technology. Flock, which has faced recent controversy over police misuse of its cameras, did not immediately respond to a request for comment.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“At a time of growing concern about the unchecked power of artificial intelligence, Flock is eviscerating the very notion of privacy by installing tens of thousands of cameras in communities across America without their consent,” Sanders said in a statement. “We cannot allow America to become a surveillance state where a handful of AI oligarchs profit by giving the government the power to track our every movement.”<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:center;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#FFFFFF;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from EY:</p>
+<p style="margin-top:0;margin-bottom:15px;line-height:15px;"><a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfb-i1drvA_N5Frmz21Zzh_DYubi795wvmlnZbV0l0O6VM7jeu_0kW7EvbFPStAeo1Y7pOsbTdGbNkahG3R3GfsNMAo17pQAsqzDfe3PtcHEebegtD_0uV8NuR0iL64GD1sJ90qJcAuj4BhCw-c5e5Xs/4uj/RWGzupC9Q3CxSKULJ0rqHg/h8/h001.54Re5c_OFRf915Vtw5MxIWJqOyC5bD-YSuVP3emj-pc" target="_blank"><img alt="Advertisement Image" border="0" src="https://www.politico.com/dims4/default/b770e6b/2147483647/resize/600x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F35%2F57%2Fca810106495885c770dccc1a5dd9%2F2605-11926-cs-ai-governance-survey-politico-300x250.png" style="width:100%;max-width:300px;max-width:100%;height:auto" title="Advertisement Image"/></a> <img a="" border="0" src="https://ad.doubleclick.net/ddm/ad/N7384.146504POLITICO0/B36782680.456929419;sz=1x1;ord=[timestamp]" style="max-width:100%;height:auto"/></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">Amazon’s new data center pledge </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p style="margin-top:0;margin-bottom:24px;line-height:24px;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Amazon announced a new set</strong> <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bG7Jvs14mkI7OfBHZtj51ztu5d6tA0khF2PmW0Y60LEQ3cdNruBAV7Y_z2ppxpoOQEyXfSlxt2HKFfmoDgf-I/4uj/RWGzupC9Q3CxSKULJ0rqHg/h9/h001.NZCH47WLsAprTSP3cr_Nw_Pb6PwKNBF6HqaEcr3np84" target="_blank"><u>of commitments</u></a> and a funding program for its data centers Friday as backlash against the facilities mounts across the country.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">In its policy statement the tech company also said it would no longer use nondisclosure agreements when working with government agencies on data center projects.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Under a <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk8trwrxfXlOPOjmQuq1Zi1PMGtt6JdGeu9cG8YoWgIX6F2AP58CinV5TUsO6FjRydQ/4uj/RWGzupC9Q3CxSKULJ0rqHg/h10/h001.qYsEE6ugkDyvTv_jPW5M_dRVfEGqLFgfzcZiXov--BE" target="_blank"><u>new framework</u></a>, the company plans to add $1 billion over the next five years toward funding education, job training, environmental preservation and other initiatives in the communities where it constructs data centers. The company also released its <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bG7Jvs14mkI7OfBHZtj51kVO2WXqpS3K68TxQP4ThS_pQPnGyFe7FYQAKY6Ed2pSahRznzeQnhNjUbEEF3mB6Et38vctrg_qyo2jtIz_-a/4uj/RWGzupC9Q3CxSKULJ0rqHg/h11/h001.fgf1C_KekFPgKQatWWiGwTFQAvQ-pm-MW5mJZnA7dk8" target="_blank"><u>Amazon Data Center Commitment</u></a>, which includes resolutions to pay for its own energy and infrastructure improvements and that its facilities will be water positive by 2030.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">Use of NDAs by companies working with local officials on data center projects has <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38fPJX_IBMMwNmzcy4Uw_7OAUg7Z07wOZ6PzBdGPwdYoWTWirupel8ueddAE7jEzXsdAyd-JwcIeAYcx7fnHROu7iv4KYuQU7CTfSS4DXcyiA/4uj/RWGzupC9Q3CxSKULJ0rqHg/h12/h001.bZRS54CUhPBD6xu22sF3xQ6S7EFX3OZQrrT9ZdtPc1Q" target="_blank"><u>become a political flashpoint</u></a>, leading some to reconsider the use of such agreements.</p>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;">“There is urgency to this data center buildout because we aren’t the only country that sees the benefits of AI for the economy and national security, and the countries that lead in AI will shape it and get the most from it in the short and long run,” the company said in <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bG7Jvs14mkI7OfBHZtj51kVO2WXqpS3K68TxQP4ThS_pQPnGyFe7FYQAKY6Ed2pSahRznzeQnhNjUbEEF3mB6Et38vctrg_qyo2jtIz_-a/4uj/RWGzupC9Q3CxSKULJ0rqHg/h13/h001.dA5hj2B6o25_vYLjZLId4OKaY57iTI6DoMEIngnw6Rg" target="_blank"><u>a press release</u></a>. “The choices we make today will determine that outcome, and a lapse in our nation’s focus or resolve could put us behind, and potentially irreparably so.”<br/></p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%">
+<table style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td height="15" style="height:15px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;background-color:#ffffff;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;margin-top:0;margin-bottom:10px;color:#000000;">A message from EY:</p>
+<p style="margin-top:0;margin-bottom:20px;line-height:24px;color:#000000;"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;">Inside how big public companies are governing AI</strong>
+<br/>
+<br/>
+     EY asked senior AI leaders, board members, C-suite and VP+, at publicly traded companies generating $1B+ in annual revenue how they are handling AI. The findings point to a real governance gap. Nearly all have formal governance rules, but 47% say they've skipped them in a pinch. More than 90% are already running agentic AI, often with no human watching in real time. And over a third have had an AI incident hit the bottom line.
+     <br/>
+<br/>
+     Read the article <a href="https://url4027.email.politico.com/ss/c/u001.dgGKIUEMNqic94f5rSpPKCJCpfzLXKLU6KDtDs6qCfb-i1drvA_N5Frmz21Zzh_D8KCloNk1br1tRhCO0KrWXCUEXU8Hl3DQU3Ub8Axkj4Z9WvljVP-oGWrKXytgz7Eqe_y3YCbuM9iUNViplozY_fpTBC3bAheFBejF1DkoWa1K2w40bQi-3GbOXLpOLPL5/4uj/RWGzupC9Q3CxSKULJ0rqHg/h14/h001.vwZpn3XsA8Yln2BM1bjcM808n1Zzs0SwHkF4RWv4TpU" style="text-decoration:underline;color:#007bc7;" target="_blank">here.</a></p>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">POST OF THE DAY</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><p align="center" style="margin:0 0 20px 0;"><a href="https://url4027.email.politico.com/ss/c/u001.zmXQYxftKFWCpJXVm9O1doe4xIPyB2Uss-NpUzzrB9FzVhXoMcmoBFmSkP-EQbYX-ugQUyTe5EaEbT4pCtoczQ/4uj/RWGzupC9Q3CxSKULJ0rqHg/h15/h001.lvAXY0UDlaVHlgtLvOObAHKutEqUwLvDOk5Is0ejOUM" target="_blank"><img alt="This is a post from a humor account. " src="https://www.politico.com/dims4/default/f7119a2/2147483647/resize/1000x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff7%2Ffa%2F89075d574b428e1713c0d8662dc9%2Fzoola-postofday.jpg" style="width:100%;max-width:500px;max-width:100%;height:auto" title="zoola postofday.jpg"/></a></p><p style="font-family:Helvetica,sans-serif;font-size:12px;color:#6E7381;margin-bottom:24px;">Screenshot/X</p></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"></td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding-bottom:10px; min-width:100%; width:100%;max-width:100%"><!-- Inline styling used, as its an email content -->
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#121522; min-width:100%;max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:12px;color:#FFFFFF;text-transform:uppercase;font-weight:bold;letter-spacing:2px;padding-top:10px;padding-bottom:10px;padding-left:20px;margin:0;max-width:100%" valign="middle">THE FUTURE IN 5 LINKS</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 20px 0 20px;text-align:left;font-family:Georgia,serif;font-size:16px;color:#000000;max-width:100%"><ul>
+<li style="margin-bottom:12px;">Russia is using <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV64bdYmMUM90y4Dz49LTdaguprKdSX8ZOy-xm78v6-yfeYpHTZQBY70d_vJlBrensu7AZ5nixykmhTej2oRs3oFJPKAg4Zpf8YEXetuc37gwt/4uj/RWGzupC9Q3CxSKULJ0rqHg/h16/h001.innr4vDitUw8R0apdZm32pxW-dgwy8cr6P6dHnMRq1o"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>AI-generated war songs</u></strong></a> to support its offensive against Ukraine. </li>
+<li style="margin-bottom:12px;">A new California law will <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8wXmksu40rhAD5V-r2Oq0pLK6ZWTKqjjMsm94HN1ZWfQ-XpzcTmlQ4H2GqN-J8PjX4yAxtX4QDBsxJ_O0EfGROVi6noM9-mrAkhqiyv464eIyc3X_gFFxrYZj3zB6fvx1g/4uj/RWGzupC9Q3CxSKULJ0rqHg/h17/h001.qLfKUoa8ALBFdq54bTCpASdeYMuRQzldFylXcmtcGBY"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>fine robotaxi operators</u></strong></a> for impeding first responders.</li>
+<li style="margin-bottom:12px;">Google bypassed the U.K.’s pre-release <a href="https://url4027.email.politico.com/ss/c/u001.lWesBdxv006jasBZWiiGk9P_ybPe2CGyS-6CLrg5BxYWkXV4TejjmX9mNkoHKTH46uLRuSdTn06IVq3EFHbRScHr_V_cPx0RU3hpBNCyZKyZSEJRuwv_I55apvIUd-oNO67RN914QlPw08EzWo4AJ5vc9wotJxo5h-me7lpYUEY/4uj/RWGzupC9Q3CxSKULJ0rqHg/h18/h001.HDwM1cSuhFcifwqkRfMOENwmqKA9ROc4w2Gi6TXnSfU"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>AI safety review</u></strong></a>.</li>
+<li style="margin-bottom:12px;">A major Dutch eyewear chain stops selling <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV67kzNZAO2MVbjAvBbZEiXCAkJIFJH0zQTA-gg2WyRKO6kx_u06eV2qCNvoYKqyJvN7wCkOIKKKh31oHmV1pqLLR1dN2hsF8Yl-TRz-0EH2qLHBXVC7j2dXnIPjfi2Uk24vO9WJxCl9_IKnRt2ZZIm24XSCMsRMiRSPF3VB1iQCaX/4uj/RWGzupC9Q3CxSKULJ0rqHg/h19/h001.ZJVIPkNns0GKiPgslvpaKeqXWUgFQKFIwnjN2po91Z4"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>Meta glasses</u></strong></a> due to privacy concerns.</li>
+<li style="margin-bottom:24px;">A flaw in <a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6wayDWFDU_dq_Z5Ef5dHIwwdqGHL5MhTDzznKXIPy0RiubKSNLLyJIryVKQ_GAdXMBW1-Nq-1jjAezSCYspsmZjWF1ZwzZen6QVIzlsxBgbvktQnK8r1rGD3S6-gfzzjHw/4uj/RWGzupC9Q3CxSKULJ0rqHg/h20/h001.l8Y-IDAov_2d5BWj3QmI4au8HQvBq93lT_NMZaWkTYI"><strong style="font-family:Helvetica,sans-serif;font-weight:bold;"><u>ChatGPT’s Mac app</u></strong></a> exposed chatlogs and user data. </li>
+</ul>
+<p style="margin-top:0;margin-bottom:24px;line-height:24px;"><i>Stay in touch with the whole team: Gabby Miller (</i><a href="mailto:gmiller@politico.com" target="_blank"><i>gmiller@politico.com</i></a><i>); Aaron Mak (</i><a href="mailto:amak@politico.com" target="_blank"><i>amak@politico.com</i></a><i>); Nate Robson (</i><a href="mailto:nrobson@politico.com" target="_blank"><i>nrobson@politico.com</i></a><i>); John Hewitt Jones (</i><a href="mailto:jhewittjones@politico.com" target="_blank"><i>jhewittjones@politico.com</i></a><i>); Emma Anderson (</i><a href="mailto:eanderson@politico.com" target="_blank"><i>eanderson@politico.com</i></a><i>); and Christopher Cadelago (</i><a href="mailto:ccadelago@politico.com" target="_blank"><i>ccadelago@politico.com</i></a><i>).</i></p></td>
+</tr>
+<!-- End Ad Copy -->
+<tr style="max-width:100%">
+</tr>
+<!-- Post Body Content -->
+<tr style="max-width:100%">
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Twitter Handles -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:20px;color:#000000;margin-top:0;margin-bottom:15px;"><strong>Follow us on X</strong></p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;padding-right:10px;max-width:100%" valign="middle"><img alt="" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:50px;max-width:100%;height:auto" title=""/></td>
+<td style="text-align:left;font-family:Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#000000;max-width:100%" valign="middle">
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">John Hewitt Jones <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb87hg6zek3on9PUQgMi7mTloVSX3j1YX7bOGc0SyZwvaB/4uj/RWGzupC9Q3CxSKULJ0rqHg/h21/h001.8aaaw9sJ9PKqRpDWrNnA1qXU3tEA5Ih5MZasea4EDqM" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@johnhewittjones</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Nate Robson  <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb813JWrquRk02AF0HbGO9f4czvCRgUo3EQxCvxQxSYe-u/4uj/RWGzupC9Q3CxSKULJ0rqHg/h22/h001.VmK_pbC1CmTwHSNoGHydSIJMpY5ZFMtyovkU3doq4GM" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@Nate_Robson1</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Owen Dahlkamp <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8yRrQV1HCzcTpLsybmt2Jb1XmSs4Br2vjLNto-d4FQr7/4uj/RWGzupC9Q3CxSKULJ0rqHg/h23/h001.TPYMdqRHjXFUIfz2owkA1KhfqEvBYbQ1G_5iIPnehzY" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@Owen_Dahlkamp</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Katherine Long <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb89NBLYkZB3q7C0RTlqCvugNWrW0QVSv4RQt2NEPsUdIf/4uj/RWGzupC9Q3CxSKULJ0rqHg/h24/h001.lXQ3nD0dWftWyHKJzViOlzPFY5G93FYrRWt6-oxvaQQ" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@katherinealong</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Aaron Mak <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb86WRo3h81yDkMHAtk6-DisPviI-0T7UPSpCwytAbF-ZT/4uj/RWGzupC9Q3CxSKULJ0rqHg/h25/h001.cp_KikUSGR7CXmxsncK7DpQWqGWNIMzrH_peJR8Mcxc" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@aarontmak</a></p>
+<p style="margin-top:0;margin-bottom:5px;line-height:14px;">Gabby Miller <a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb89rxi_a30YSKCrCjcjGk2ty37VDyTEkefVoOMgRtoG7u/4uj/RWGzupC9Q3CxSKULJ0rqHg/h26/h001.XsuUY2T4qORZUx3vfq0MTbryD0S2esKnt06GWkBHJJM" style="color:#007BC7;text-decoration:none;font-weight:bold;" target="_blank">@__gabbymiller</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+<!-- Family of Playbook -->
+<!-- Follow us -->
+<tr style="max-width:100%">
+<td style="color:#000000;padding:0px 20px 20px 20px;text-align:left;max-width:100%">
+<p style="font-family:Helvetica,sans-serif;font-size:12px;color:#000000;margin-bottom:10px;line-height:14px;text-transform:uppercase;font-weight:bold;letter-spacing:2px;">Follow us</p>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width:100%">
+<tbody>
+<tr style="max-width:100%">
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV6_63vz3YlmfgXZgBBPuohfncQEozH2QNrNaoNiJoLGLj/4uj/RWGzupC9Q3CxSKULJ0rqHg/h27/h001.315cMwfgOJkoZRuQnc8lJSn9BGmAHOlNweL-1ZwvTk8" target="_blank"><img alt="Follow us on Facebook" border="0" src="https://static.politico.com/hosted/icon-follow-facebook-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Facebook"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.tZBh-UKX-I3yMqqHCXLb8w7nTKp_5MaEpWgSlannY-rPGitTFmjElNOgtCYxQNWR/4uj/RWGzupC9Q3CxSKULJ0rqHg/h28/h001.Xl_a47hZYXL3Y5GUR3Ee2sZhjC9bKOlgfBdlGfrhTlI" target="_blank"><img alt="Follow us on X" border="0" src="https://static.politico.com/hosted/icon_x_gray.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on X"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV62pqZG40PinWV_MuzTv5FYQpZkSBoH-aqObyIyj-Hn4HQajRHRIuXx29zXGaH8JGjA/4uj/RWGzupC9Q3CxSKULJ0rqHg/h29/h001.vaMj8Ti4tXyd7LO1iC91_dnRHMUI50KBTi5hmATL3FM" target="_blank"><img alt="Follow us on Instagram" border="0" src="https://static.politico.com/hosted/icon-follow-instagram-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Follow us on Instagram"/></a></td>
+<td style="text-align:left;max-width:100%"><a href="https://url4027.email.politico.com/ss/c/u001.6g0Zd3AyneOViJYBXgbV65ZWHEH5gWGSDKLrcKzwr38Miv3Ou6p9oU_tkHQqi4_5/4uj/RWGzupC9Q3CxSKULJ0rqHg/h30/h001.wifK3qbOJG_Kt6YcMQ3p_J5vDVxNLisDLLfhbFKdVfs" target="_blank"><img alt="Listen on Apple Podcast" border="0" src="https://static.politico.com/hosted/icon-follow-applePodcast-gray%402x.png" style="max-width:24px;max-width:100%;height:auto" title="Listen on Apple Podcast"/></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td height="20" style="height:20px; font-size:0; border-top:1px solid #E5E7EB;max-width:100%"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+<!-- howler#email.footers/core-newsletter.footer.html -->
+
+</body></html>]]></content:encoded>
+      <guid isPermaLink="false">622Juz2BRsKicS-w_HH11Q@geopod-ismtpd-31</guid>
+      <enclosure url="https://static.politico.com/2f/71/b86cfd194bd6b6c715f8cd9c5b38/digital-future-daily.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 02 Oct 2026 20:30:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
