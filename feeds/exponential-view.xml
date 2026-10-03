@@ -13,7 +13,7 @@
       <link>https://www.exponentialview.co/</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 08:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:19:14 +0000</lastBuildDate>
     <item>
       <title>To err is human!</title>
       <link>https://www.exponentialview.co/p/to-err-is-human</link>
@@ -53,6 +53,16 @@
       <category>AI</category>
       <enclosure url="https://substackcdn.com/image/fetch/$s_!romE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2612d8d8-8207-4629-9912-079801ef8775_2700x1500.png" length="0" type="image/jpeg"/>
       <pubDate>Mon, 28 Sep 2026 14:38:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔮 Quick weekend reads: the big AI questions</title>
+      <link>https://www.exponentialview.co/p/quick-weekend-reads-the-big-ai-questions</link>
+      <description>A short set of readings on some of the biggest questions.</description>
+      <content:encoded><![CDATA[<p>AI is really forcing some big questions into the open. Here are some weekend reads on them. </p><h3>The biggest idea</h3><p><em>The Economist</em> address the effective altruism (EA) belief system, which it calls “t<a href="https://www.economist.com/leaders/2026/10/01/effective-altruism-is-this-centurys-biggest-idea">his century’s biggest idea</a>”:</p><blockquote><p>[P]lenty of EAs in Silicon Valley think that only they can be trusted with the technology. That is an alarming idea. Effective altruists’ argument for worrying about really powerful AIs is that the machines could optimise for a single and fatally wrong objective. Everyone should worry, too, about what happens when a small group of people fall into the same trap</p></blockquote><p>The <a href="https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world">full analysis is worth reading</a>.  Also <a href="https://x.com/albrgr/status/2105826918885167177?s=20">read the brief response</a> by Alexander Berger, the CEO of Coefficient Giving, an EA-aligned philanthropist. </p><h3>The religious angle</h3><p>The <em>New York Times</em> reports that <a href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html">Anthropic had been consulting with religious scholars and theologians</a> on the question of machine consciousness. Anthropic has prioritised questions of whether its systems might imbue consciousness and personhood more than other AI companies. It goes so far as Anthropic’s team proposed to withdraw from a Vatican event before the Pope’s encyclical <em><a href="https://standwithpopeleo.com/ai/">Magnifica Humanitas</a></em> argued that AIs “do not undergo experiences, do not possess a body, do not feel joy or pain… nor do they have a moral conscience.”</p><p>EV reader, <a href="https://x.com/anilkseth/status/2105777473237422367?s=46&amp;t=A5x5wVAeBUB-2HJDiyDQFQ">Anil Seth’s X thread and the pushback he received are worth scanning.</a></p><p>These are huge questions. We’ll touch on consciousness in tomorrow’s newsletter.<br/>Meanwhile, happy to hear your reasoned thoughts below. </p>]]></content:encoded>
+      <guid isPermaLink="false">https://www.exponentialview.co/p/quick-weekend-reads-the-big-ai-questions</guid>
+      <category>AI</category>
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!v0nk!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46fc2cf0-7745-4c27-8875-94a97cb1fc9f_900x900.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 03 Oct 2026 12:54:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
