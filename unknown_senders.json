@@ -30,9 +30,8 @@
     ]
   },
   "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
-    "count": 5,
+    "count": 4,
     "subjects": [
-      "Is the Iran war back on for real?",
       "ICE pauses traffic stops, for now",
       "A tale of two Trump flip-flops",
       "Logging off before Trump's speech",
@@ -99,6 +98,12 @@
     "count": 1,
     "subjects": [
       "You shared some Google Account data with DeviantArt"
+    ]
+  },
+  "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
+    "count": 1,
+    "subjects": [
+      "Sam Altman, Decoded"
     ]
   }
 }
