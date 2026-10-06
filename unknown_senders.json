@@ -29,15 +29,6 @@
       "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
     ]
   },
-  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
-    "count": 4,
-    "subjects": [
-      "ICE pauses traffic stops, for now",
-      "A tale of two Trump flip-flops",
-      "Logging off before Trump's speech",
-      "Did Trump fire someone trying to stop IRS abuses?"
-    ]
-  },
   "DeviantArt <noreply@deviantart.com>": {
     "count": 4,
     "subjects": [
@@ -45,6 +36,14 @@
       "September's looking good on you \ud83c\udf42",
       "Gain access to the Core of DeviantArt",
       "djdndjxndneksn, your inspiration has arrived!"
+    ]
+  },
+  "\"Andrew Prokop, Vox\" <newsletter@vox.com>": {
+    "count": 3,
+    "subjects": [
+      "A tale of two Trump flip-flops",
+      "Logging off before Trump's speech",
+      "Did Trump fire someone trying to stop IRS abuses?"
     ]
   },
   "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
@@ -83,6 +82,13 @@
       "Your Labor Day deal ends today"
     ]
   },
+  "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
+    "count": 2,
+    "subjects": [
+      "Sam Altman, Decoded",
+      "AI\u2019s biggest advocates think they have lost an ally"
+    ]
+  },
   "\"Astead Herndon, Vox\" <contribute@vox.com>": {
     "count": 1,
     "subjects": [
@@ -99,12 +105,6 @@
     "count": 1,
     "subjects": [
       "You shared some Google Account data with DeviantArt"
-    ]
-  },
-  "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 1,
-    "subjects": [
-      "Sam Altman, Decoded"
     ]
   }
 }
