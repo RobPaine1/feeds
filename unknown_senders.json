@@ -30,7 +30,7 @@
     ]
   },
   "DeviantArt <noreply@deviantart.com>": {
-    "count": 5,
+    "count": 6,
     "subjects": [
       "Your profile is almost complete!",
       "September's looking good on you \ud83c\udf42",
@@ -40,12 +40,13 @@
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 4,
+    "count": 5,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
       "Inside AI safety\u2019s hottest club",
-      "Peter Thiel's new Antichrist warnings"
+      "Peter Thiel's new Antichrist warnings",
+      "The cost of AI uncertainty"
     ]
   },
   "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
@@ -54,13 +55,6 @@
       "Trump goes to (trade) war with Canada",
       "Did Trump just kill his own nuclear deal?",
       "Logging off"
-    ]
-  },
-  "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
-    "count": 2,
-    "subjects": [
-      "All eyes on Iran",
-      "Which country will Trump bomb next?"
     ]
   },
   "Axios Live <events@axios.com>": {
@@ -82,6 +76,12 @@
     "subjects": [
       "Celebrate Labor Day with Vox for $30/year",
       "Your Labor Day deal ends today"
+    ]
+  },
+  "\"Benjy Sarlin, Vox\" <newsletter@vox.com>": {
+    "count": 1,
+    "subjects": [
+      "Which country will Trump bomb next?"
     ]
   },
   "\"Astead Herndon, Vox\" <contribute@vox.com>": {
