@@ -29,6 +29,16 @@
       "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
     ]
   },
+  "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
+    "count": 7,
+    "subjects": [
+      "Sam Altman, Decoded",
+      "AI\u2019s biggest advocates think they have lost an ally",
+      "Inside AI safety\u2019s hottest club",
+      "Peter Thiel's new Antichrist warnings",
+      "The cost of AI uncertainty"
+    ]
+  },
   "DeviantArt <noreply@deviantart.com>": {
     "count": 6,
     "subjects": [
@@ -39,29 +49,18 @@
       "Your October Halloween Hub is here"
     ]
   },
-  "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 6,
-    "subjects": [
-      "Sam Altman, Decoded",
-      "AI\u2019s biggest advocates think they have lost an ally",
-      "Inside AI safety\u2019s hottest club",
-      "Peter Thiel's new Antichrist warnings",
-      "The cost of AI uncertainty"
-    ]
-  },
-  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
-    "count": 3,
-    "subjects": [
-      "Trump goes to (trade) war with Canada",
-      "Did Trump just kill his own nuclear deal?",
-      "Logging off"
-    ]
-  },
   "Axios Live <events@axios.com>": {
     "count": 2,
     "subjects": [
       "Save the date | Axios House returns for Climate Week and UNGA | Sept. 21 - 23",
       "\ud83c\udf0e Register to attend Axios House at Climate Week and UNGA | Sept. 21 - 23"
+    ]
+  },
+  "\"Zack Beauchamp, Vox\" <newsletter@vox.com>": {
+    "count": 2,
+    "subjects": [
+      "Did Trump just kill his own nuclear deal?",
+      "Logging off"
     ]
   },
   "POLITICO <info@info.politico.com>": {
