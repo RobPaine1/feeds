@@ -10,23 +10,13 @@
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 13,
+    "count": 14,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
       "Inside AI safety\u2019s hottest club",
       "Peter Thiel's new Antichrist warnings",
       "The cost of AI uncertainty"
-    ]
-  },
-  "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 9,
-    "subjects": [
-      "\u2699\ufe0f Building AI rules",
-      "\ud83c\udfdb\ufe0f State deepfake rules",
-      "\ud83e\udd1d Strange AI coalitions",
-      "\ud83d\udce2 Data center messaging",
-      "\ud83d\udc40 Europe's AI gamble"
     ]
   },
   "POLITICO Live  <events@live.politico.com>": {
@@ -37,6 +27,16 @@
       "REGISTER TO WATCH | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16",
       "NEW SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
       "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
+    ]
+  },
+  "AI+ Government <ai.plus.gov@axios.com>": {
+    "count": 8,
+    "subjects": [
+      "\ud83c\udfdb\ufe0f State deepfake rules",
+      "\ud83e\udd1d Strange AI coalitions",
+      "\ud83d\udce2 Data center messaging",
+      "\ud83d\udc40 Europe's AI gamble",
+      "\ud83e\udd16 Drifting toward guardrails"
     ]
   },
   "DeviantArt <noreply@deviantart.com>": {
