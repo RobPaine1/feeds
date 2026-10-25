@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- Runs the substack cache refresh from this Mac 3x/day (07:20, 12:20, 18:20).
+     Install:
+       cp launchd/com.robpaine.feeds-substack-cache.plist ~/Library/LaunchAgents/
+       launchctl load ~/Library/LaunchAgents/com.robpaine.feeds-substack-cache.plist
+     Logs: ~/Library/Logs/feeds-substack-cache.log -->
+<dict>
+	<key>Label</key>
+	<string>com.robpaine.feeds-substack-cache</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/zsh</string>
+		<string>/Users/robpaine/Files/03_Projects/feeds/run_substack_cache.sh</string>
+	</array>
+	<key>StartCalendarInterval</key>
+	<array>
+		<dict>
+			<key>Hour</key>
+			<integer>7</integer>
+			<key>Minute</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>12</integer>
+			<key>Minute</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>Hour</key>
+			<integer>18</integer>
+			<key>Minute</key>
+			<integer>20</integer>
+		</dict>
+	</array>
+	<key>StandardOutPath</key>
+	<string>/Users/robpaine/Library/Logs/feeds-substack-cache.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/robpaine/Library/Logs/feeds-substack-cache.log</string>
+</dict>
+</plist>
