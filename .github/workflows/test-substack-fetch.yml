@@ -1,0 +1,68 @@
+name: Test substack fetch strategies
+
+# Temporary diagnostic workflow for the fix/substack-403 branch.
+# Tries several HTTP clients against blocked *.substack.com feeds from a
+# GitHub-hosted runner to find out which (if any) get past the 403.
+# Delete this file before merging.
+
+on:
+  push:
+    branches: [fix/substack-403]
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install clients
+        run: pip install curl_cffi requests
+
+      - name: Try fetch strategies
+        run: |
+          python - <<'EOF'
+          URLS = [
+              "https://benthams.substack.com/feed",
+              "https://thingofthings.substack.com/feed",
+              "https://joecarlsmith.substack.com/feed",
+          ]
+          UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 "
+                "(KHTML, like Gecko) Version/17.0 Safari/605.1.15")
+
+          def report(label, url, fn):
+              try:
+                  status, body = fn(url)
+                  looks_xml = body.lstrip()[:100].startswith(b"<?xml") or b"<rss" in body[:300]
+                  print(f"{label:28s} {url.split('/')[2]:38s} HTTP {status}  xml={looks_xml}  bytes={len(body)}")
+              except Exception as e:
+                  print(f"{label:28s} {url.split('/')[2]:38s} FAIL  {str(e)[:90]}")
+
+          import urllib.request
+          def via_urllib(url):
+              req = urllib.request.Request(url, headers={"User-Agent": UA})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  return r.status, r.read()
+
+          import requests as rq
+          def via_requests(url):
+              r = rq.get(url, headers={"User-Agent": UA}, timeout=20)
+              return r.status_code, r.content
+
+          from curl_cffi import requests as curlrq
+          def make_curl(imp):
+              def f(url):
+                  r = curlrq.get(url, impersonate=imp, timeout=20)
+                  return r.status_code, r.content
+              return f
+
+          for url in URLS:
+              report("urllib (current)", url, via_urllib)
+              report("requests", url, via_requests)
+              for imp in ("chrome", "safari", "firefox"):
+                  report(f"curl_cffi {imp}", url, make_curl(imp))
+              print()
+          EOF
