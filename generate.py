@@ -46,6 +46,7 @@ FILTERS_FILE = ROOT / "filters.yaml"
 NEWSLETTERS_FILE = ROOT / "newsletters.yaml"
 STATE_FILE = ROOT / "feed_state.json"   # per-source ETag / Last-Modified cache
 FEEDS_DIR = ROOT / "feeds"
+CACHE_DIR = ROOT / "substack_cache"     # raw-XML snapshots pushed by substack_cache.py
 OPML_FILE = ROOT / "opml.xml"
 INDEX_FILE = ROOT / "index.html"
 
@@ -341,6 +342,27 @@ def fetch_feed(url: str, etag: Optional[str] = None,
     return parsed
 
 
+def load_cached_feed(slug: str) -> Optional[feedparser.FeedParserDict]:
+    """Parse a ``substack_cache/<slug>.xml`` snapshot, if one exists.
+
+    Substack blocks cloud-datacenter IPs (GitHub runners get HTTP 403), so
+    ``substack_cache.py`` — run from a residential IP on a schedule — commits
+    raw feed XML here as a fallback. Returns None when there is no usable
+    snapshot.
+    """
+    path = CACHE_DIR / f"{slug}.xml"
+    if not path.exists():
+        return None
+    try:
+        parsed = feedparser.parse(path.read_bytes())
+    except Exception:  # noqa: BLE001
+        return None
+    if parsed.bozo and not parsed.entries:
+        return None
+    parsed["status"] = 200
+    return parsed
+
+
 # -----------------------------------------------------------------------------
 # Per-source pipeline
 # -----------------------------------------------------------------------------
@@ -379,20 +401,27 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
     elif prev_fail_count > 0:
         why = f"  (recovery from {prev_fail_count} prior failure{'s' if prev_fail_count != 1 else ''})"
     log.info("[%s] fetching %s%s", slug, feed_url, why)
+    used_cache = False
     try:
         parsed = fetch_feed(feed_url, etag=fetch_etag, modified=fetch_modified)
     except Exception as exc:  # noqa: BLE001
-        log.error("[%s] fetch failed: %s", slug, exc)
-        # Preserve prior etag/modified so we still try conditional GET next time;
-        # bump fail_count so health surfacing can highlight chronically-broken sources.
-        new_state[slug] = {
-            "etag": prev_etag,
-            "modified": prev_modified,
-            "fail_count": prev_fail_count + 1,
-            "latest_post": prev.get("latest_post"),
-            "last_error": str(exc)[:200],
-        }
-        return 0, 0, 1
+        cached = load_cached_feed(slug)
+        if cached is None:
+            log.error("[%s] fetch failed: %s", slug, exc)
+            # Preserve prior etag/modified so we still try conditional GET next time;
+            # bump fail_count so health surfacing can highlight chronically-broken sources.
+            new_state[slug] = {
+                "etag": prev_etag,
+                "modified": prev_modified,
+                "fail_count": prev_fail_count + 1,
+                "latest_post": prev.get("latest_post"),
+                "last_error": str(exc)[:200],
+            }
+            return 0, 0, 1
+        used_cache = True
+        parsed = cached
+        log.warning("[%s] live fetch failed (%s) — using substack_cache snapshot",
+                    slug, str(exc)[:120])
 
     status = getattr(parsed, "status", None)
     if status == 304:
@@ -406,21 +435,26 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
         return 0, 0, 0
 
     if parsed.bozo and not parsed.entries:
-        log.error("[%s] parse failed: %s", slug, parsed.bozo_exception)
-        # Log enough of the response to diagnose Cloudflare interstitials,
-        # rate-limit pages, and other surprises.
-        ct = parsed.get("content_type", "?")
-        prefix = parsed.get("raw_prefix", b"")
-        log.error("[%s]   content-type: %s", slug, ct)
-        log.error("[%s]   first 300 bytes: %r", slug, prefix)
-        new_state[slug] = {
-            "etag": prev_etag,
-            "modified": prev_modified,
-            "fail_count": prev_fail_count + 1,
-            "latest_post": prev.get("latest_post"),
-            "last_error": f"parse: {parsed.bozo_exception}"[:200],
-        }
-        return 0, 0, 1
+        cached = None if used_cache else load_cached_feed(slug)
+        if cached is None:
+            log.error("[%s] parse failed: %s", slug, parsed.bozo_exception)
+            # Log enough of the response to diagnose Cloudflare interstitials,
+            # rate-limit pages, and other surprises.
+            ct = parsed.get("content_type", "?")
+            prefix = parsed.get("raw_prefix", b"")
+            log.error("[%s]   content-type: %s", slug, ct)
+            log.error("[%s]   first 300 bytes: %r", slug, prefix)
+            new_state[slug] = {
+                "etag": prev_etag,
+                "modified": prev_modified,
+                "fail_count": prev_fail_count + 1,
+                "latest_post": prev.get("latest_post"),
+                "last_error": f"parse: {parsed.bozo_exception}"[:200],
+            }
+            return 0, 0, 1
+        used_cache = True
+        parsed = cached
+        log.warning("[%s] live response unparseable — using substack_cache snapshot", slug)
 
     fg = FeedGenerator()
     fg.title(name)
@@ -549,6 +583,8 @@ def process_source(src: dict, rules: list[FilterRule], max_items: int,
             latest_post.isoformat() if latest_post else prev.get("latest_post")
         ),
     }
+    if used_cache:
+        new_state[slug]["via_cache"] = True
     return kept, dropped, 0
 
 
