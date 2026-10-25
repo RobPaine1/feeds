@@ -14,6 +14,9 @@ NetNewsWire (or any RSS reader) subscribes to the URLs.
 - `filter_rules.py` — filter engine.
 - `email_sources.py` — IMAP fetch + per-sender RSS for email newsletters.
 - `generate.py` — orchestrator: runs both pipelines, writes OPML/index.
+- `substack_cache.py` — run from a home machine: snapshots `*.substack.com`
+  feeds (blocked for datacenter IPs) into `substack_cache/` and pushes.
+- `substack_cache/` — raw feed XML snapshots that CI falls back to on 403.
 - `feeds/<slug>.xml` — generated per-source RSS files (committed by CI).
 - `opml.xml` — bulk subscription file for RSS readers.
 - `index.html` — simple landing page listing every feed.
@@ -36,6 +39,27 @@ The workflow runs at 14:00, 19:00, and 01:00 UTC (~7am, noon, 6pm Pacific
 in winter; off by an hour when DST shifts). Adjust the cron in
 `.github/workflows/build-feeds.yml` if you want different times. You can
 also trigger a run manually from the Actions tab.
+
+## The Substack 403 workaround
+
+Substack (via Cloudflare) blocks feed requests from cloud-datacenter IPs, so
+GitHub Actions runners get HTTP 403 for every `*.substack.com/feed` URL, no
+matter the User-Agent or TLS fingerprint. Feeds on custom domains (e.g.
+astralcodexten.com) are unaffected.
+
+The workaround is a two-part relay:
+
+1. **`substack_cache.py`** runs on a home machine (via launchd) a few times a
+   day. It fetches every `*.substack.com` source from the residential IP,
+   writes the raw XML to `substack_cache/<slug>.xml`, and pushes the commit.
+2. **`generate.py`** in CI tries the live fetch first; when it fails (or the
+   response is an unparseable interstitial), it falls back to the newest
+   snapshot in `substack_cache/` and processes it through the normal filter
+   pipeline. Such sources get `"via_cache": true` in `feed_state.json`.
+
+If the home machine is off for a while, cached feeds simply go stale until the
+next snapshot — nothing breaks. If Substack ever unblocks datacenter IPs, the
+live fetch quietly takes over again.
 
 ## Filtering
 
