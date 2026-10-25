@@ -52,5 +52,10 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Refresh feeds [skip ci]"
-            git push
+            # The home machine pushes substack_cache/ updates on its own
+            # schedule, so this push can race with it: rebase and retry.
+            for attempt in 1 2 3; do
+              git push && break
+              git pull --rebase --autostash
+            done
           fi
