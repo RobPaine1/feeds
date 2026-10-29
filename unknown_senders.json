@@ -10,7 +10,7 @@
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 18,
+    "count": 19,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
@@ -30,13 +30,13 @@
     ]
   },
   "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 8,
+    "count": 7,
     "subjects": [
-      "\ud83c\udfdb\ufe0f State deepfake rules",
       "\ud83e\udd1d Strange AI coalitions",
       "\ud83d\udce2 Data center messaging",
       "\ud83d\udc40 Europe's AI gamble",
-      "\ud83e\udd16 Drifting toward guardrails"
+      "\ud83e\udd16 Drifting toward guardrails",
+      "\u26a0\ufe0f AI alarm bells"
     ]
   },
   "POLITICO Live  <events@live.politico.com>": {
@@ -50,11 +50,12 @@
     ]
   },
   "Vox <contribute@vox.com>": {
-    "count": 3,
+    "count": 4,
     "subjects": [
       "Celebrate Labor Day with Vox for $30/year",
       "Your Labor Day deal ends today",
-      "The real Project 2029"
+      "The real Project 2029",
+      "Download the new Vox app!"
     ]
   },
   "POLITICO <info@info.politico.com>": {
