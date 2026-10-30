@@ -7,7 +7,7 @@
     "via_cache": true
   },
   "ai-policy-perspectives": {
-    "etag": "W/\"c4609-z8I+CGe6EpYWM35P4000HHg4GK4\"",
+    "etag": "W/\"c4624-wslrjrFBizP46yln5kUHDmc9j60\"",
     "fail_count": 0,
     "latest_post": "2026-10-28T11:17:34+00:00",
     "modified": null
@@ -27,13 +27,13 @@
     "via_cache": true
   },
   "andy-masley": {
-    "etag": "W/\"11d54f-zfAUtwV9SmxIZOWp6ojncJWhqTw\"",
+    "etag": "W/\"11d551-zYTMEZJ1PXc09eyOfjwdturQSBk\"",
     "fail_count": 0,
     "latest_post": "2026-10-28T12:09:32+00:00",
     "modified": null
   },
   "asimov-press": {
-    "etag": "W/\"1498c5-+nopThsFdU91SPkElrKoLEqb4LE\"",
+    "etag": "W/\"1498c5-UQuESADlUEj8/xvX3oH3AGw6RYw\"",
     "fail_count": 0,
     "latest_post": "2026-10-29T14:42:46+00:00",
     "modified": null
@@ -46,7 +46,7 @@
     "via_cache": true
   },
   "astral-codex-ten": {
-    "etag": "W/\"c1d6e-CC9SVMipiwnnKSGdnmNQd5hv1Wg\"",
+    "etag": "W/\"c1d6e-5ub3iLCmwFz0dgdJVovrrTKgVgY\"",
     "fail_count": 0,
     "latest_post": "2026-10-30T16:30:33+00:00",
     "modified": null
@@ -77,13 +77,13 @@
     "via_cache": true
   },
   "cartoons-hate-her": {
-    "etag": "W/\"3a53a-oT/VPK6XCkQEnDiNLGjyovu0cdc\"",
+    "etag": "W/\"3a53a-lvyHliDwFtZDUcIA+5DNmG8zl8E\"",
     "fail_count": 0,
     "latest_post": "2026-10-30T11:02:56+00:00",
     "modified": null
   },
   "clear-eyed-ai": {
-    "etag": "W/\"1183b0-gYAus/Oe0vtzYYG1XeQk8nmivMI\"",
+    "etag": "W/\"1183b0-wGiI+PTeMEg0GhVFx4p1Ej1TIhw\"",
     "fail_count": 0,
     "latest_post": "2026-08-28T03:10:37+00:00",
     "modified": null
@@ -96,7 +96,7 @@
     "via_cache": true
   },
   "david-oks": {
-    "etag": "W/\"ec174-zCaAuowzJSL6pjAuRq4E6AtSn2k\"",
+    "etag": "W/\"ec174-L1TxWcex7BpZqePI0y7ioywwRJU\"",
     "fail_count": 0,
     "latest_post": "2026-07-09T19:18:42+00:00",
     "modified": null
@@ -110,19 +110,19 @@
   },
   "ea-forum-frontpage": {
     "etag": null,
-    "fail_count": 6,
+    "fail_count": 7,
     "last_error": "failed to fetch https://forum.effectivealtruism.org/feed.xml?view=frontpage-rss&karmaThreshold=30: HTTP 429: Too Many Requests",
     "latest_post": "2026-10-28T20:39:21+00:00",
     "modified": "Thu, 29 Oct 2026 02:31:27 GMT"
   },
   "exponential-view": {
-    "etag": "W/\"58cfe-BGltK3JN8Y+LZYytuGR6BmqHAuo\"",
+    "etag": "W/\"58cfe-cQSekNh0mgV1dN8weyjuS0BoFmE\"",
     "fail_count": 0,
     "latest_post": "2026-10-29T13:15:09+00:00",
     "modified": null
   },
   "forethought": {
-    "etag": "W/\"b695b-Nn9G4QeoZ6sfZnsG+DjTgYvNVIA\"",
+    "etag": "W/\"b695b-33+ts0LElOmn4NN2FaHpliU9PVA\"",
     "fail_count": 0,
     "latest_post": "2026-10-30T18:12:21+00:00",
     "modified": null
@@ -149,7 +149,7 @@
     "via_cache": true
   },
   "hyperdimensional": {
-    "etag": "W/\"681bf-C/6ArUJfPajp085Lbb8Iwu2WoHo\"",
+    "etag": "W/\"681bf-JPEaLc0fR/dcIAmdWMaCUArmKEA\"",
     "fail_count": 0,
     "latest_post": "2026-10-16T15:06:01+00:00",
     "modified": null
@@ -162,7 +162,7 @@
     "via_cache": true
   },
   "jasmines-substack": {
-    "etag": "W/\"104dcc-Aj7x9Q1OozHydHF6UDWOt6t4sKY\"",
+    "etag": "W/\"104dcc-QhHq8rT/oBc+JFzEL00NFPq/ohQ\"",
     "fail_count": 0,
     "latest_post": "2026-10-07T15:00:42+00:00",
     "modified": null
@@ -202,7 +202,7 @@
     "via_cache": true
   },
   "matts-five-points": {
-    "etag": "W/\"c2083-3XxrLWzcPCsC/gc+W1yK3IcbcnE\"",
+    "etag": "W/\"c2083-8bhJlNEIgf74N14ulNgIeE1PaBg\"",
     "fail_count": 0,
     "latest_post": "2026-06-19T15:37:39+00:00",
     "modified": null
@@ -215,7 +215,7 @@
     "via_cache": true
   },
   "noahpinion": {
-    "etag": "W/\"191423-3EhLAvH4ycEMXT2muMssFDjHl6o\"",
+    "etag": "W/\"191423-kx4grjuVLZiyBYsW8o+F9OidfPE\"",
     "fail_count": 0,
     "latest_post": "2026-10-29T09:55:51+00:00",
     "modified": null
@@ -257,9 +257,9 @@
     "via_cache": true
   },
   "silver-bulletin": {
-    "etag": "W/\"5b07e-bW0TaU8EFCjOpux615AtLcmo6/E\"",
+    "etag": "W/\"5b1ea-VkPv35fyQeqaPWgkuX2qf9v9Hok\"",
     "fail_count": 0,
-    "latest_post": "2026-10-30T17:44:00+00:00",
+    "latest_post": "2026-10-30T20:33:00+00:00",
     "modified": null
   },
   "taj": {
@@ -277,7 +277,7 @@
     "via_cache": true
   },
   "the-argument": {
-    "etag": "W/\"3fba0-7OJS9dJMrNcBJpAD5Bbkmt8XxkQ\"",
+    "etag": "W/\"3fba0-Ndb1Y2W9IFKH13JMLBZbLHqH4TQ\"",
     "fail_count": 0,
     "latest_post": "2026-10-30T10:03:57+00:00",
     "modified": null
@@ -304,7 +304,7 @@
     "via_cache": true
   },
   "the-simple-heart": {
-    "etag": "W/\"5a165-SjaUOLBOI4wI8GC4WZb30YPD5TM\"",
+    "etag": "W/\"5a165-OpUmTxQb+RFOIun85SiDbeujMaw\"",
     "fail_count": 0,
     "latest_post": "2026-10-20T00:02:54+00:00",
     "modified": null
@@ -324,7 +324,7 @@
     "via_cache": true
   },
   "the-works-in-progess-newsletter": {
-    "etag": "W/\"c577c-XdwDrmO8ACcNJN9Fav+8ovKifIA\"",
+    "etag": "W/\"c577c-fYh0Fx/RLSK3Kqzngm44GiMjC0g\"",
     "fail_count": 0,
     "latest_post": "2026-10-29T13:25:37+00:00",
     "modified": null
@@ -344,7 +344,7 @@
     "via_cache": true
   },
   "understanding-ai": {
-    "etag": "W/\"77aa9-3dYxnW6c0GapUvyHUe5LQpO/BEc\"",
+    "etag": "W/\"77aa9-jNvZWsUDw7uMhg5Z/ngp2pTUnbA\"",
     "fail_count": 0,
     "latest_post": "2026-10-29T19:10:41+00:00",
     "modified": null
@@ -371,7 +371,7 @@
     "via_cache": true
   },
   "wharton-accountable-ai-forum": {
-    "etag": "W/\"1c284-6qfcH325OJtNJbUXAUNDsH96yf4\"",
+    "etag": "W/\"1c284-Q2ubkOkFjyKHFii2pnGe4juYzkc\"",
     "fail_count": 0,
     "latest_post": "2026-10-22T21:02:49+00:00",
     "modified": null
