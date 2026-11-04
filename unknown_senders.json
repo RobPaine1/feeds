@@ -10,7 +10,7 @@
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 22,
+    "count": 23,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
@@ -29,16 +29,6 @@
       "Your October Halloween Hub is here"
     ]
   },
-  "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 7,
-    "subjects": [
-      "\ud83e\udd1d Strange AI coalitions",
-      "\ud83d\udce2 Data center messaging",
-      "\ud83d\udc40 Europe's AI gamble",
-      "\ud83e\udd16 Drifting toward guardrails",
-      "\u26a0\ufe0f AI alarm bells"
-    ]
-  },
   "POLITICO Live  <events@live.politico.com>": {
     "count": 7,
     "subjects": [
@@ -49,20 +39,24 @@
       "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
     ]
   },
+  "AI+ Government <ai.plus.gov@axios.com>": {
+    "count": 6,
+    "subjects": [
+      "\ud83d\udce2 Data center messaging",
+      "\ud83d\udc40 Europe's AI gamble",
+      "\ud83e\udd16 Drifting toward guardrails",
+      "\u26a0\ufe0f AI alarm bells",
+      "\ud83d\udc40 Policing the labs"
+    ]
+  },
   "Vox <contribute@vox.com>": {
-    "count": 4,
+    "count": 5,
     "subjects": [
       "Celebrate Labor Day with Vox for $30/year",
       "Your Labor Day deal ends today",
       "The real Project 2029",
-      "Download the new Vox app!"
-    ]
-  },
-  "POLITICO <info@info.politico.com>": {
-    "count": 2,
-    "subjects": [
-      "Thank you for subscribing to Weekly Agriculture",
-      "Thanks for subscribing to Digital Future Daily"
+      "Download the new Vox app!",
+      "A massive blue wave just hit America"
     ]
   },
   "Axios Live <events@axios.com>": {
