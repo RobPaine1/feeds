@@ -1,6 +1,6 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 53,
+    "count": 54,
     "subjects": [
       "Trump\u2019s latest assault on public lands",
       "Time to think about tariffs again",
@@ -29,16 +29,6 @@
       "Your October Halloween Hub is here"
     ]
   },
-  "POLITICO Live  <events@live.politico.com>": {
-    "count": 7,
-    "subjects": [
-      "SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16",
-      "REGISTER TO WATCH | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16",
-      "NEW SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
-      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
-      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
-    ]
-  },
   "AI+ Government <ai.plus.gov@axios.com>": {
     "count": 6,
     "subjects": [
@@ -47,6 +37,16 @@
       "\ud83e\udd16 Drifting toward guardrails",
       "\u26a0\ufe0f AI alarm bells",
       "\ud83d\udc40 Policing the labs"
+    ]
+  },
+  "POLITICO Live  <events@live.politico.com>": {
+    "count": 6,
+    "subjects": [
+      "REGISTER TO WATCH | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16",
+      "NEW SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "Watch Now | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
     ]
   },
   "Vox <contribute@vox.com>": {
