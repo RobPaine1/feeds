@@ -1,16 +1,16 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 52,
+    "count": 51,
     "subjects": [
-      "The Kennedy Center becomes a hostage",
       "A cancer breakthrough before you log off",
       "Why \"Lake America\" isn't funny",
       "Trump's attack on mail ballots is blocked again",
-      "Trump gets his ballroom"
+      "Trump gets his ballroom",
+      "Log off with a poem by Wendell Berry"
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 30,
+    "count": 31,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
@@ -20,23 +20,13 @@
     ]
   },
   "DeviantArt <noreply@deviantart.com>": {
-    "count": 10,
+    "count": 11,
     "subjects": [
       "Your profile is almost complete!",
       "September's looking good on you \ud83c\udf42",
       "Gain access to the Core of DeviantArt",
       "djdndjxndneksn, your inspiration has arrived!",
       "Your October Halloween Hub is here"
-    ]
-  },
-  "POLITICO Live  <events@live.politico.com>": {
-    "count": 6,
-    "subjects": [
-      "REGISTER TO WATCH | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. on Sept. 16",
-      "NEW SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
-      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
-      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
-      "Watch Now | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C."
     ]
   },
   "Vox <contribute@vox.com>": {
@@ -57,6 +47,16 @@
       "\u26a0\ufe0f AI alarm bells",
       "\ud83d\udc40 Policing the labs",
       "\ud83e\udd16 AI arms control"
+    ]
+  },
+  "POLITICO Live  <events@live.politico.com>": {
+    "count": 5,
+    "subjects": [
+      "NEW SPEAKERS ANNOUNCED | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "Watch Now | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
+      "Key moments from POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. \u2b07\ufe0f"
     ]
   },
   "Axios Live <events@axios.com>": {

@@ -8,234 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:34:15 +0000</lastBuildDate>
-    <item>
-      <title>🔄 Routing roulette</title>
-      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
-      <description>🔄 Routing roulette</description>
-      <content:encoded><![CDATA[<!DOCTYPE html>
-
-<html>
-<head>
-<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
-<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
-<meta content="" property="og:title"/>
-<meta content="" property="og:image"/>
-<meta content="" property="og:description"/>
-<meta content="summary_large_image" name="twitter:card"/>
-<meta content="" name="twitter:title"/>
-<meta content="" name="twitter:description"/>
-<meta content="" property="twitter:image"/>
-<meta content="telephone=no" name="format-detection"/>
-<meta content="date=no" name="format-detection"/>
-<meta content="address=no" name="format-detection"/>
-<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/47195142" name="st-public-url"/>
-
-<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
-<!--[if mso]>
-<style type="text/css">
-.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
-.v {font-family: Georgia, Palatino Linotype, serif !important;}
-.t {padding-bottom: 10px !important;}
-a {color: #222222; text-decoration:underline !important;}
-</style>
-<![endif]-->
-<!--[if gte mso 7]>
-<xml>
-<o:OfficeDocumentSettings>
-<o:AllowPNG/>
-<o:PixelsPerInch>96</o:PixelsPerInch>
-</o:OfficeDocumentSettings>
-</xml>
-<![endif]-->
-</head>
-<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
-<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: AI activity tracker  | Tuesday, August 25, 2026</div>
-<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
-<tr style="max-width:100%">
-<td style="max-width:600px;max-width:100%">
-<!--[if mso]>
-<table style="width:600px;">
-<tr>
-<td>
-<![endif]-->
-<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
-<tr style="max-width:100%">
-<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
-</tr>
-
-<tr style="max-width:100%">
-<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY GLEAN </span> </td>
-</tr>
-<tr style="max-width:100%">
-<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="text-align:center;line-height:1;max-width:100%">
-<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
-<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried and Madison Mills  <span style="margin:0 6px">·</span> Aug 25, 2026 </span>
-</td>
-</tr><tr style="max-width:100%">
-<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>Mady here, concerned that I have an addiction to the TV show "Big Brother," which has now infiltrated my X feed alongside all the usual AI content. </p><p>Today's AI+ is 1,048 words, a 4-minute read.</p></td>
-</tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
-<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: Routing is coming for the frontier AI labs </span>
-</td>
-</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/mmills?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a> </span></td></tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr>
-<tr style="max-width:100%">
-<td style="max-width:100%"> <img alt="Illustration of a zero and a one created out of dotted lines, with navigation icons highlighting the ends of the numbers. " id="item02" src="https://images.axios.com/oDsfCGDqExoJuz6WxIks1ISthT4=/1920x1080/smart/2024/01/24/190038-1706122838387.jpg" style="width:100%;max-width:100%;height:auto"/> </td>
-</tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%">
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
-<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Aïda Amer/Axios</p> </span>
-</td>
-</tr><tr style="max-width:100%">
-<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Businesses seeking more affordable and secure ways to use AI </strong>are turning to routing — the process of matching each query with the best, most efficient model for the task.</p><p><strong>Why it matters: </strong>The popularization of routing could stymie the usage of the frontier AI models that are the most expensive to use and make.</p><p><strong>State of play: </strong>Routing is booming. </p><ul><li>Stripe agreed to buy unicorn OpenRouter for more than $8 billion, the company announced <a href="https://www.axios.com/2026/08/17/stripe-openrouter-paypal?stream=top" target="_blank">last week</a>.</li><li>OpenRouter had 8 million users and 400 models available on the platform as of May, per <a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion?stream=top" target="_blank">Bloomberg</a>. </li><li>Meta is reportedly working on an OpenRouter competitor called Switchboard, per <a href="https://www.theinformation.com/articles/metas-ai-incubator-developing-openrouter-rival-cut-coding-costs?rc=iw8nma&amp;stream=top" target="_blank">The Information,</a> which the company may use to lower its own AI costs. </li><li>Even the frontier AI labs have launched model pickers that allow users to select which model or level of intelligence they want to use for a certain task. </li></ul><p><strong>How it works:</strong> Routing companies say that it's extremely quick and easy to get started. (In a demo, I was able to use a DeepSeek model in under 30 seconds using TrustedRouter, an open-source routing company.) </p><ul><li>A simple query may call on a smaller flash model, while a complex task could go to a more expensive one.</li><li>Companies can set their own priorities for the router, including cost, speed, performance and which models or providers they trust with their data.</li></ul><p><strong>Flashback: </strong>The routing boom was fueled by concerns about AI costs. </p><ul><li>Usage of open models, which can be cheaper, has skyrocketed: The five most popular models used on <a href="https://openrouter.ai/rankings?stream=top#leaderboard-table" target="_blank">OpenRouter</a> are all open weight or open source. OpenAI and Google each have only one model in the top 10, and Anthropic has none. </li><li>Average token costs have <a href="https://x.com/LizThomasStrat/status/2089756336175124841?s=20&amp;stream=top" target="_blank">plummeted</a> since a peak in mid-May due to price cuts from frontier AI labs looking to gain back share from their competitors. </li></ul><p><strong>Zoom out: </strong>There's also a growing push for AI sovereignty, or protecting your enterprise IP and not sharing it with frontier labs, that routers aim to address. </p><ul><li>"I see people excited about us and moving to us because they don't like what Anthropic is becoming," Joseph Perla, founder of TrustedRouter, told Axios. </li><li>TrustedRouter is encrypted end to end to make compute "confidential," Perla said.</li><li>Palantir recently hosted a sovereignty <a href="https://www.thetimes.com/business/companies-markets/article/palantir-cashes-in-on-paranoia-as-ceos-swap-hamptons-for-bootcamp-ztplgt5wl?eafs_enabled=false&amp;stream=top" target="_blank">boot camp</a> in NYC packed with speakers, including one who said, "Are we going to throw our years of knowledge to a frontier AI model? Absolutely not." </li></ul><p><strong>Reality check: </strong>People are not broadly arguing the frontier AI labs are going to die because of model routing. </p><ul><li>"It's not to say you won't ever use commercial models, but it's like you want to have the options to use models that are specific to you," Akshay Krishnaswamy, chief architect at Palantir, told Axios. </li><li>Demand for intelligence is such that there can be multiple winners, because these platforms also "put their models in front of more users and more workloads," Matan Grinberg, CEO of Factory AI, a routing company, told Axios. </li></ul><p><strong>The bottom line:</strong> Routing turns models from destinations in their own right into interchangeable commodities, which could threaten margins for frontier AI models.</p></td>
-</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Frouting-is-coming-for-the-frontier-ai-labs%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Routing+is+coming+for+the+frontier+AI+labs&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Frouting-is-coming-for-the-frontier-ai-labs%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Frouting-is-coming-for-the-frontier-ai-labs%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Routing is coming for the frontier AI labs&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ARouting is coming for the frontier AI labs%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Frouting-is-coming-for-the-frontier-ai-labs%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
-<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. Fitbit founders debut band for aging parents </span>
-</td>
-</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> </span></td></tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr>
-<tr style="max-width:100%">
-<td style="max-width:100%"> <img alt="An image of the gold-toned Luffu Link wearable" id="item03" src="https://images.axios.com/jWetXP8VQtoy5JW3UmpJUDbvfV0=/0x0:1806x1016/1920x1080/2026/08/22/1787357288238.png" style="width:100%;max-width:100%;height:auto"/> </td>
-</tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%">
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
-<span class="b" style="font-size:13px;color:#848484"> <p>The Luffu Link band. Image: Luffu</p> </span>
-</td>
-</tr><tr style="max-width:100%">
-<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Luffu, the startup created by two of Fitbit's co-founders,</strong> debuted a fitness band today that they say is part of their effort to tap the power of AI to help family members keep tabs on one another.</p><p><strong>Why it matters: </strong>The project aims to address the challenges faced by caregivers, including those in the sandwich generation with aging parents and kids at home.</p><p><strong>Driving the news:</strong> The Luffu Link, which will be available early next year, combines sleep and step tracking with voice recording, location tracking and a cellular modem, all in service of keeping tabs on one's own health and that of family members.</p><ul><li>The band will cost $299 ($249 for those who preorder).</li><li>The company won't charge separately for cellular service, but the band requires the company's $20-per-month family subscription plan (covers up to four people).</li></ul><p><strong>How it works: </strong>Link wearers can press the band's button to record a voice memo that is sent to Luffu's AI-powered service. Messages can include a description of a symptom, a record of medicine taken, other health information or anything else they want to remember.</p><ul><li>Luffu can use AI to determine things such as missed medications or a change in vitals, but family members control what gets shared with the AI or with loved ones.</li><li>Users can also use the band to summon help from a family member, while two quick presses of the button sends a message that means all is good.</li></ul><p><strong>What they're saying: </strong>"The purpose of it is to keep people healthy, safe, independent, but also connected to the people who care about them," Luffu CEO and former Fitbit CEO James Park said in an interview.</p><p><strong>What we're watching:</strong> Park is also teasing a home device with a screen that will eventually be part of the lineup.</p></td>
-</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fluffu-fitness-band-aging-parents%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Fitbit+founders+debut+fitness+band+for+aging+parents&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fluffu-fitness-band-aging-parents%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fluffu-fitness-band-aging-parents%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Fitbit founders debut fitness band for aging parents&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AFitbit founders debut fitness band for aging parents%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fluffu-fitness-band-aging-parents%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/25/luffu-fitness-band-aging-parents?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
-<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Exclusive: Cisco bets on infrastructure boom </span>
-</td>
-</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/mmills?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Madison Mills</a> </span></td></tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr>
-<tr style="max-width:100%">
-<td style="max-width:100%"> <img alt="Man speaking with hands" id="item04" src="https://images.axios.com/ZIYABSaUC19b8HNF_oUJa5zIyNE=/0x360:4751x3032/1920x1080/2026/08/24/1787610946735.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
-</tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%">
-</td>
-</tr>
-<tr style="max-width:100%">
-<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
-<span class="b" style="font-size:13px;color:#848484"> <p>Cisco president and chief product officer Jeetu Patel. Photo: Al Drago/Bloomberg via Getty Images</p> </span>
-</td>
-</tr><tr style="max-width:100%">
-<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Cisco is partnering with Supermicro</strong> to add high-powered AI servers to its Nvidia-backed infrastructure offering, expanding beyond networking to sell more of the equipment needed to run AI.</p><p><strong>Why it matters:</strong> Cisco is leaning into its AI infrastructure business, betting that compute demand is not slowing anytime soon. </p><p><strong>Driving the news:</strong> Cisco is working with Supermicro to add high-density, liquid- and air-cooled computing systems to its Secure AI Factory with Nvidia, the company told Axios.</p><ul><li>The systems will support Nvidia's next-generation platforms and are expected to become available in October. </li></ul><p><em><a href="https://www.axios.com/2026/08/25/exclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom?stream=top" target="_blank">Keep reading.</a></em></p></td>
-</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fexclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Exclusive%3A+Cisco+expands+Nvidia+partnership+for+AI+data+center+boom&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fexclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fexclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Exclusive: Cisco expands Nvidia partnership for AI data center boom&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AExclusive: Cisco expands Nvidia partnership for AI data center boom%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Fexclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/25/exclusive-cisco-expands-nvidia-partnership-for-ai-data-center-boom?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr>
-<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
-A MESSAGE FROM GLEAN
-</p></td></tr>
-<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Give Enterprise AI the context it needs</span></td></tr>
-<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
-<tr style="max-width:100%"><td style="max-width:100%">
-<a href="https://www.glean.com?axios_adlink=1&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDl0-zywQEQARgBKAEyCID-lnp4rY2p" style="width:100%;max-width:100%;height:auto"/></a>
-</td></tr>
-<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
-<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
-<p>Enterprise AI only works when it understands your company.
-</p>
-<p><strong>The solution:</strong> Glean connects company knowledge to the tools employees already use, helping teams get trusted answers while reducing token usage by 30%.</p>
-<p>Flexible across models, trusted across the enterprise. <a href="https://www.glean.com?axios_adlink=1&amp;stream=top" target="_blank">Get a demo.</a></p>
-</td></tr>
-<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
-<tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
-<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. Training data </span>
-</td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><ul><li><a href="https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/?stream=top" target="_blank">Hugging Face</a> is reportedly in talks to be acquired for $13 billion. (TechCrunch)</li><li>Smart ring maker <a href="https://www.bloomberg.com/news/articles/2026-08-24/smart-ring-maker-oura-is-said-to-seek-up-to-3-billion-in-ipo?srnd=homepage-americas&amp;stream=top" target="_blank">Oura</a> is looking to raise up to $3 billion in its U.S. IPO. (Bloomberg)</li><li>Apple has <a href="https://www.macrumors.com/2026/08/24/apple-hide-my-email-domain/?stream=top" target="_blank">backtracked</a> on a plan that would have moved those using its "Hide my email" option to a separate domain, making it easier for companies to block such users. (MacRumors)</li></ul></td>
-</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Ftraining-data-ai-plus%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Ftraining-data-ai-plus%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Ftraining-data-ai-plus%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F08%2F25%2Ftraining-data-ai-plus%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/08/25/training-data-ai-plus?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr><tr style="max-width:100%">
-<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
-<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  5. + This </span>
-</td>
-</tr> <tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
-</tr> <tr style="max-width:100%">
-<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>Is your city</strong> also being overtaken by small businesses using AI to create images and posters, or is this just an NYC phenomenon? </p><p>I'm already missing the vintage aesthetic of a human-made corn dog <a href="https://x.com/SolidStapp/status/2089854481970176323?stream=top" target="_blank">poster</a>. </p></td>
-</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-0c19b469-d62d-4fc8-8167-74e656efcb6a.html%3Fchunk%3D5%26utm_term%3Dfbsocialshare%23story5&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-0c19b469-d62d-4fc8-8167-74e656efcb6a.html%3Fchunk%3D5%26utm_term%3Dtwsocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-0c19b469-d62d-4fc8-8167-74e656efcb6a.html%3Fchunk%3D5%26utm_term%3Dlisocialshare%23story5&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2Fnewsletters%2Faxios-ai-plus-0c19b469-d62d-4fc8-8167-74e656efcb6a.html%3Fchunk%3D5%26utm_term%3Demshare%23story5" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/newsletters/axios-ai-plus-0c19b469-d62d-4fc8-8167-74e656efcb6a.html?chunk=5&amp;smsshare=true&amp;name=Axios+AI%2B&amp;stream=top#story5" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
-<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
-</tr>
-<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
-A MESSAGE FROM GLEAN
-</p></td></tr>
-<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Make your hardest AI problems also your most cost effective</span></td></tr>
-<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
-<tr style="max-width:100%"><td style="max-width:100%">
-<a href="https://www.glean.com?axios_adlink=3&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJDl0-zywQEQARgBKAEyCID-lnp4rY2p" style="width:100%;max-width:100%;height:auto"/></a>
-</td></tr>
-<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
-<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
-<p>Glean routes the best AI to the task, you route the savings to your finance team.</p>
-<p><strong>Key numbers:</strong> With pre-connected enterprise context, Glean:</p>
-<ul><li>Reduces token waste.</li>
-<li>Supports 35+ LLMs.</li>
-<li>Costs 75% less per task.</li></ul>
-<p><a href="https://www.glean.com?axios_adlink=3&amp;stream=top" target="_blank">Explore Enterprise AI your team will actually use.
-</a></p>
-</td></tr>
-<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
-<tr style="max-width:100%">
-<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to Megan Morrone for editing this newsletter and Matt Piper for copy editing.</em></p></td>
-</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
-</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
-</td>
-</tr>
-</table>
-<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
-<a href="https://link.axios.com/oc/69ed94405b9537219f092f10s3k06.3k1v/408e8480" style="color:#f5f5f5"> </a>
-</body>
-</html>
-]]></content:encoded>
-      <guid isPermaLink="false">20260825092815.47195142.165955@sailthru.com</guid>
-      <enclosure url="https://images.axios.com/oDsfCGDqExoJuz6WxIks1ISthT4=/1920x1080/smart/2024/01/24/190038-1706122838387.jpg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 25 Aug 2026 09:28:15 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Nov 2026 20:34:17 +0000</lastBuildDate>
     <item>
       <title>💡 Bill Gates' warning</title>
       <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
@@ -11531,6 +11304,216 @@ A MESSAGE FROM MONDAY.COM
       <guid isPermaLink="false">20261112092821.48400233.181590@sailthru.com</guid>
       <enclosure url="https://images.axios.com/Xdmm1MbcRCGiF6VdWZAQsIikUE0=/0x187:4096x2491/1920x1080/2026/11/09/1794194549268.jpeg" length="0" type="image/jpeg"/>
       <pubDate>Thu, 12 Nov 2026 09:28:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>🕳️ Huang's void</title>
+      <link>https://fonts.googleapis.com/css?family=PT+Mono&amp;amp;display=swap</link>
+      <description>🕳️ Huang's void</description>
+      <content:encoded><![CDATA[<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="" property="og:title"/>
+<meta content="" property="og:image"/>
+<meta content="" property="og:description"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="" name="twitter:title"/>
+<meta content="" name="twitter:description"/>
+<meta content="" property="twitter:image"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="date=no" name="format-detection"/>
+<meta content="address=no" name="format-detection"/>
+<meta content="email=no" name="format-detection"/><meta content="https://link.axios.com/public/48417031" name="st-public-url"/>
+
+<link href="https://fonts.googleapis.com/css?family=PT+Mono&amp;display=swap" rel="stylesheet"/>
+<!--[if mso]>
+<style type="text/css">
+.b, .s  {font-family: Arial, Helvetica, Helvetica, sans-serif !important;}
+.v {font-family: Georgia, Palatino Linotype, serif !important;}
+.t {padding-bottom: 10px !important;}
+a {color: #222222; text-decoration:underline !important;}
+</style>
+<![endif]-->
+<!--[if gte mso 7]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+</head>
+<body class="a" style="background-color:#f5f5f5;margin:0 auto;padding:0;text-align:center">
+<div style="display:none;font-size:1px;color:#222;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden"> Plus: Lutnick in the crosshairs | Friday, November 13, 2026</div>
+<table cellpadding="0" cellspacing="0" style="background-color:#f6f6f6;text-align:center;max-width:100%">
+<tr style="max-width:100%">
+<td style="max-width:600px;max-width:100%">
+<!--[if mso]>
+<table style="width:600px;">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding="0" cellspacing="0" style="max-width:600px;width:100%;margin:0 auto;text-align:left;background:#fff;max-width:100%">
+<tr style="max-width:100%">
+<td height="20" style="height:20px;font-size:0;max-width:100%"> </td>
+</tr>
+
+<tr style="max-width:100%">
+<td height="30" style="height:30px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td style="text-align:center;line-height:1.3;max-width:100%"> <span class="b" style="font-size:11px;letter-spacing:1.4px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">PRESENTED BY MONDAY.COM </span> </td>
+</tr>
+<tr style="max-width:100%">
+<td height="16" style="height:16px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="text-align:center;line-height:1;max-width:100%">
+<span class="s" style="font-size:44px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#008dc8;letter-spacing:-1px;line-height:1"> Axios AI+ </span>
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="text-align:center;line-height:1.5;padding-bottom:35px;padding-top:10px;max-width:100%">
+<span class="b" style="font-size:13px;color:#222;font-family:'gorditamedium',Arial,Helvetica,sans-serif">By  Ina Fried, Madison Mills and Maria Curi  <span style="margin:0 6px">·</span> Nov 13, 2026 </span>
+</td>
+</tr><tr style="max-width:100%">
+<td class="v" style="font-size:17px;font-family:Georgia,serif;line-height:1.75;color:#222;letter-spacing:-0.1px;padding:0 3.5%;max-width:100%"><p>Hey, it's Maria, dying to know which AI CEO everyone thinks President Trump <a href="https://gizmodo.com/trump-says-he-told-an-ai-executive-to-kiss-his-family-goodbye-before-going-to-jail-2000837040?stream=top" target="_blank">was referring to</a> in last Sunday's "60 minutes" interview...  </p><p>Today's AI+ is 1,255 words, a 4.5-minute read.</p></td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  1 big thing: The AI boom enters its post-Jensen era </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By  <a class="c" href="https://www.axios.com/authors/ina?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Ina Fried</a> and   <a class="c" href="https://www.axios.com/authors/bradley.olson@axios.com?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Bradley Olson</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Illustration of a snail with a glowing CRT monitor as its shell. " id="item02" src="https://images.axios.com/rTnJq37Bp2Fd5qPpPNk5a_TRLJ0=/0x0:1920x1080/1920x1080/2026/11/12/1794520653870.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>Illustration: Aïda Amer/Axios. Stock: Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>The AI boom</strong> <a href="https://www.axios.com/2026/11/12/nvidia-jensen-huang-out?stream=top" target="_blank">without Jensen Huang</a> will test a hard truth: Even if the tech world has grown somewhat less reliant on Nvidia's chips, it remains highly dependent on its checkbook.</p><p><strong>Why it matters:</strong> With rival chips maturing and recent software breakthroughs, the tech ecosystem has achieved what would have seemed impossible a year ago: a viable path around Nvidia.</p><ul><li>But replacing a CEO willing to bankroll startups, backstop billions in cloud debt and aggressively fund rivals to the AI giants will be much harder.</li></ul><p><strong>The big picture:</strong> The next chapter without Huang will be more cautious, but the industry is capable of absorbing the change, for two key reasons:</p><p>1. <strong>New chips:</strong> Semiconductor competition has become harder to contain.</p><ul><li>At OpenAI and other startups, a longstanding joke was that the best way to get a discount on Nvidia chips was to <a href="https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9?st=gcXNrV&amp;reflink=desktopwebshare_permalink&amp;stream=top" target="_blank">openly talk to Google</a> or others about alternatives. Huang would often swoop in enthusiastically, eager to lock in a customer.</li><li>The <a href="https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals?stream=top" target="_blank">progress of custom chips</a> from Google, Amazon, Microsoft and <a href="https://www.axios.com/2026/06/24/openai-jalapeno-ai-chip-broadcom-nvidia?stream=top" target="_blank">OpenAI</a>, as well as new deals with Broadcom and Nvidia rival AMD, gives those conversations more substance. Customers have options and far more leverage than ever.</li><li>AI itself has also made those offerings easier to use. Anthropic says its Mythos model helped run certain workloads on AMD chips <a href="https://x.com/MarceloLima/status/2120295110093254832?a=QO3GDVXSWxwn1gO20_A&amp;s=20&amp;stream=top" target="_blank">in about three days</a>, compared with six to 12 months in the past.</li></ul><p>2. <strong>Washington:</strong> In D.C., China hawks are ascendant. Huang's departure strengthens calls from administration forces, some lawmakers and <a href="https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips?stream=top" target="_blank">companies such as Anthropic</a> that have pushed for tighter controls on chip sales.</p><ul><li>Legislation is <a href="https://www.semafor.com/article/11/12/2026/a-high-probability-congress-pushes-tighter-export-controls-following-nvidia-scandal?stream=top" target="_blank">rapidly advancing</a> to cut off loopholes and strengthen export restrictions for advanced chip sales to China, and the Commerce Department is reportedly <a href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule?rc=urribs&amp;shared=8282780fb0546111&amp;stream=top" target="_blank">preparing additional ways</a> to limit such access.</li><li>Cutting off those routes could help protect America's lead and offer a major pre-IPO boost to Anthropic and OpenAI. </li></ul><p><strong>Reality check:</strong> Alternative chips and leaps forward in software won't solve the near-term computing crunch that all the big players in AI are facing. </p><ul><li>Nvidia's chips remain the most sought after because they are the most widely supported, making them critical for the industry's smaller players and important for the big companies that need maximum efficiency out of each data center they build.</li></ul><p><strong>There are two reasons</strong> a strong Nvidia still remains essential:</p><p>1. <strong>Finance:</strong> The company's checkbook will be far more difficult to replicate than its computing power.</p><ul><li>Nvidia has made <a href="https://www.linkedin.com/posts/semianalysis_nvidia-in-its-most-recent-10q-disclosed-activity-7514490217039306753-pui9?stream=top" target="_blank">$530 billion</a> of off-balance-sheet <a href="https://www.axios.com/2026/11/09/nvidia-key-man-risk-huang?stream=top" target="_blank">commitments and guarantees</a>, including deals to buy memory and backstops for data centers and certain companies building them, according to data firm SemiAnalysis.</li><li>Smaller cloud providers, often called neoclouds, as well as a vast array of startups all over the world, have lost perhaps their <a href="https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1&amp;stream=top" target="_blank">most enthusiastic champion</a>.</li><li>Nvidia will remain a formidable competitor, but it will almost certainly become less aggressive about startup funding, acquisitions and backstops, tempering its efforts to <a href="https://www.axios.com/2026/08/11/nvidia-chip-securitization-wall-street?stream=top" target="_blank">spread exposure</a> among institutional investors in ways that some critics said resembled the mortgage bubble.</li></ul><p>2. <strong>Open models:</strong> Nvidia has been the most enthusiastic funder and champion of the Western open-model ecosystem — giving developers cheaper alternatives to the expensive offerings from frontier AI companies.</p><ul><li>Its <a href="https://www.axios.com/2026/09/03/nvidia-hugging-face-13b?stream=top" target="_blank">pending acquisition of Hugging Face</a>, licensing agreement with model developer Poolside, <a href="https://www.axios.com/2026/10/04/reflection-open-weight-ai?stream=top" target="_blank">backing of Reflection</a> and development of the Nemotron family of open models extend well beyond chip sales.</li><li>Without Nvidia, it's not clear whether the U.S. will be able to develop open-weight alternatives to China, since many don't have a clear or easy path to financial returns given that such systems are often free to download.</li></ul><p><strong>The bottom line:</strong> Huang's departure won't derail America's AI ambitions. But it leaves a hole in the ecosystem that will be harder to fill than any shortage of Nvidia chips.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fai-boom-without-jensen-huang-nvidia%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=The+AI+boom+enters+its+post-Jensen+era&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fai-boom-without-jensen-huang-nvidia%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fai-boom-without-jensen-huang-nvidia%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: The AI boom enters its post-Jensen era&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0AThe AI boom enters its post-Jensen era%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fai-boom-without-jensen-huang-nvidia%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  2. 11 names to watch in the Huang succession search </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/hscribner?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Herb Scribner</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><!--[if mso]><img alt='A headshots that groups 11 possible Nvidia successors into two categories. Four are current Nvidia employees, including Colette Kress and co-founder Chris Malachowsky. Seven are other potential successors, including Lisa Su, Pat Gelsinger, Rene Haas, Thomas Kurian, Tim Cook and Johny Srouji.' src='https://graphics.axios.com/hermesv2/2026-11-12-1259-potential-replacements-for/fallbacks/2026-11-12-1259-potential-replacements-for-fallback.png' style='max-width: 100%;' width='558' /><![endif]--><!--[if !mso]><!--><img alt="A headshots that groups 11 possible Nvidia successors into two categories. Four are current Nvidia employees, including Colette Kress and co-founder Chris Malachowsky. Seven are other potential successors, including Lisa Su, Pat Gelsinger, Rene Haas, Thomas Kurian, Tim Cook and Johny Srouji." src="https://graphics.axios.com/hermesv2/2026-11-12-1259-potential-replacements-for/fallbacks/2026-11-12-1259-potential-replacements-for-fallback.png" style="max-width: 100%;max-width:100%;height:auto"><!--<![endif]--><div class="bodytext" style="font-size:13px; font-family:'Gordita',Arial,Helvetica,sans-serif; color:#848484; margin-bottom:20px;">Data: Photos: Getty Images, Nvidia, Apple; Chart: Erin Davis/Axios</div><p><strong>Nvidia has begun</strong> searching for a permanent replacement for longtime <a href="https://www.axios.com/2026/11/12/nvidia-jensen-huang-out?stream=top" target="_blank">CEO Huang</a>, who resigned yesterday amid scrutiny over reports of multiple extramarital affairs.</p><p><strong>Why it matters: </strong>Nvidia's next leader will inherit one of the world's most valuable companies — and the daunting task of succeeding the pioneer who transformed it into an AI powerhouse.</p><ul><li>The job will require as much political savvy as technological expertise, Axios' Nathan Bomey says. The next CEO must navigate regulatory scrutiny, geopolitical tensions and the economic upheaval unleashed by the AI boom.</li></ul><p><strong>Catch up quick: </strong>Nvidia announced Thursday that CFO <a href="https://www.axios.com/2026/11/12/colette-kress-nvidia-interim-ceo-jensen-huang?stream=top" target="_blank">Colette Kress</a> would serve as interim CEO following Huang's departure.</p><ul><li>The board said it would consider both internal and external candidates. Longtime director Harvey Jones was appointed Nvidia's first-ever board chair.</li></ul><p><em><a href="https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions?stream=top" target="_blank">Keep reading.</a></em></p></img></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Fnvidia-next-ceo-jensen-huang-predictions%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=11+names+to+watch+in+the+Jensen+Huang+succession+search&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Fnvidia-next-ceo-jensen-huang-predictions%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Fnvidia-next-ceo-jensen-huang-predictions%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: 11 names to watch in the Jensen Huang succession search&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A11 names to watch in the Jensen Huang succession search%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Fnvidia-next-ceo-jensen-huang-predictions%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/11/12/nvidia-next-ceo-jensen-huang-predictions?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  3. Trump sticks by Lutnick despite Nvidia inaction </span>
+</td>
+</tr> <tr style="max-width:100%"><td style="padding:0 3.5% 10px;line-height:1.5;max-width:100%"><span class="b" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">  By <a class="c" href="https://www.axios.com/authors/mcuri?stream=top" style="font-size:13px;font-family:'Gordita',Arial,Helvetica,sans-serif;color:#333335">Maria Curi</a> </span></td></tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%">
+<td style="max-width:100%"> <img alt="Howard Lutnick in the foreground, speaking at a microphone, while President Trump stands behind him staring. " id="item04" src="https://images.axios.com/80CykDZbz8cy_X_DJOK_iTcH-r8=/0x232:4000x2482/1920x1080/2026/11/12/1794498769473.jpeg" style="width:100%;max-width:100%;height:auto"/> </td>
+</tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%">
+</td>
+</tr>
+<tr style="max-width:100%">
+<td style="padding:0 3.5%;line-height:1.3;max-width:100%">
+<span class="b" style="font-size:13px;color:#848484"> <p>President Trump and Commerce Secretary Howard Lutnick at an Oct. 2026 campaign event. Photo: Nathaniel Wilder/Bloomberg via Getty Images</p> </span>
+</td>
+</tr><tr style="max-width:100%">
+<td height="15" style="height:15px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>The White House</strong> is standing by Commerce Secretary Howard Lutnick despite a view within the administration that <a href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls?stream=top" target="_blank">Lutnick delayed action</a> to address concerns over chip smuggling to China. </p><p><strong>Why it matters: </strong>Congress smells blood in the water following bombshell reports that U.S. national security may have been jeopardized by Huang's relationship with a suspected Chinese spy. </p><ul><li>Lawmakers want to know what the Trump administration did or did not do in response to that intelligence — and Lutnick, the official in charge of the department at the center of export control policy, is squarely in their field of view.   </li></ul><p><strong>Trump, however, </strong>is not distancing himself from the secretary. </p><ul><li>"Secretary Lutnick is a champion of President Trump's America First trade and tariff policies, which have secured almost 20 fair trade deals and trillions in manufacturing investments," a White House official tells Axios. </li></ul><p><strong>Catch up quick: </strong>Lutnick <a href="https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo?stream=top" target="_blank">was sent</a> intelligence about Huang's relationship with an alleged Chinese spy and repeatedly <a href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls?stream=top" target="_blank">did not take export control action</a> — despite pressure from the broader administration and the president himself, Axios first reported.</p><p><strong>What they're saying: </strong>Lutnick's role is prompting scrutiny on the Hill from members on both sides of the aisle. </p><ul><li>"Secretary Howard Lutnick and Under Secretary Jeffrey Kessler must explain why they have not closed export control loopholes and act today to ensure our advanced technology is not fueling China's military," Sen. Elizabeth Warren (D-Mass.), poised to be the next Senate Banking Committee chair, said in a statement.</li><li>"The obvious question is why did he choose to sell advanced chips?" Sen. John Kennedy (R-La.) told Politico. </li><li>"Secretary Lutnick needs to answer that in front of God and country," Kennedy added. "I mean, there will be a congressional investigation. But I don't think he ought to wait on Congress."</li></ul><p><strong>The Commerce Department</strong> has not confirmed<strong> </strong>for the record whether or not Lutnick has seen the memo.</p><p><strong>Yes, but: "</strong>It's impossible that Howard Lutnick didn't know about this memo," one senior administration official told Axios.</p><ul><li>"Of course Commerce got the memo. It had to get the memo. That's the point of the memo. It's about chips. Commerce deals with chips," a second official said.</li></ul><p><em><a href="https://www.axios.com/2026/11/12/trump-lutnick-nvidia?stream=top" target="_blank">Go deeper.</a></em></p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Ftrump-lutnick-nvidia%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Trump+sticks+by+Commerce+Secretary+Lutnick+despite+Nvidia+inaction&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Ftrump-lutnick-nvidia%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Ftrump-lutnick-nvidia%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Trump sticks by Commerce Secretary Lutnick despite Nvidia inaction&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATrump sticks by Commerce Secretary Lutnick despite Nvidia inaction%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F11%2F12%2Ftrump-lutnick-nvidia%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/11/12/trump-lutnick-nvidia?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM MONDAY.COM
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">Senior leaders are worried about AI agents</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://monday.com/gp/ai-report-2026?axios_adlink=1&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJD9-pPeLxABGAEoATIIdGEZy-L64Rc" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>Oversight is becoming a challenge as agents take on more of the work and gain less restricted access.</p>
+<p><strong>Among senior leaders</strong>, 52% worry about agents accessing data without sufficient restrictions, a new report shows.</p>
+<p><a href="https://monday.com/gp/ai-report-2026?axios_adlink=1&amp;stream=top" target="_blank">Read the report.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  4. Training data </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><ul><li>AI chipmaker Cerebras <a href="https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html?stream=top" target="_blank">beat third-quarter revenue expectations</a>, raised its annual forecast and announced a new deal with Microsoft. (CNBC)</li><li>The Commerce Department is <a href="https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule?stream=top" target="_blank">finalizing a rule</a> that could close a loophole allowing Chinese AI firms to remotely access advanced chips through overseas data centers, despite opposition from Nvidia. (The Information)</li><li>The New York Times has a <a href="https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html?smid=nytcore-ios-share&amp;stream=top" target="_blank">worthwhile read</a> on the history of affairs that have brought down chief executives, including several in tech.</li></ul></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Ftraining-data-ai-plus%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=Training+data&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Ftraining-data-ai-plus%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Ftraining-data-ai-plus%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: Training data&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0ATraining data%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Ftraining-data-ai-plus%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/11/13/training-data-ai-plus?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr><tr style="max-width:100%">
+<td style="padding:20px 3.5% 10px;line-height:1.5;max-width:100%">
+<span class="b k" style="font-size:27px;font-family:'gorditamedium',Arial,Helvetica,sans-serif;color:#222;letter-spacing:-0.1px;line-height:1.5">  5. + This </span>
+</td>
+</tr> <tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;max-width:100%"> </td>
+</tr> <tr style="max-width:100%">
+<td class="v" style="padding:0 3.5%;line-height:1.75;font-size:17px;font-family:Georgia,serif;color:#222;letter-spacing:-0.1px;max-width:100%"><p><strong>We enjoyed nerding out</strong> on <a href="https://nightingalecollective.org/incidents/?stream=top" target="_blank">this rogue agent dashboard</a>, which takes an important step in trying to rank events by severity on a 1-to-10 scale. Hugging Face got a 5.</p></td>
+</tr> <tr style="max-width:100%"><td align="center" style="padding:20px 3.5% 25px;max-width:100%"> <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fthis-ai-plus%3Futm_term%3Dfbsocialshare&amp;stream=top" style="display:inline-block"><img alt="Share on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://twitter.com/intent/tweet?text=%2B+This&amp;hashtags=axiosai+&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fthis-ai-plus%3Futm_term%3Dtwsocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Tweet this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fthis-ai-plus%3Futm_term%3Dlisocialshare&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Post to LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="mailto:?subject=From Axios: + This&amp;body=robpainefeeds%40gmail.com%20has%20shared%20an%20Axios%20story%20with%20you%3A%0A%0A+ This%0Ahttps%3A%2F%2Fwww.axios.com%2F2026%2F11%2F13%2Fthis-ai-plus%3Futm_term%3Demshare" style="display:inline-block;margin-left:7px"><img alt="Email this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-email-circle-border.png" style="border:0;max-width:100%;height:auto"/></a> <a href="https://www.axios.com/2026/11/13/this-ai-plus?smsshare=true&amp;name=Axios+AI%2B&amp;stream=top" style="display:inline-block;margin-left:7px"><img alt="Text this Story" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-sms-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%">
+<td height="10" style="height:10px;font-size:0;border-bottom:10px solid #f5f5f5;max-width:100%"> </td>
+</tr>
+<tr style="max-width:100%"><td height="20" style="height: 10px; font-size: 0;max-width:100%"> </td></tr><tr style="max-width:100%"><td class="ol-adpad" style="padding: 20px 3.5% 0 3.5%;max-width:100%"><p class="b" style="-webkit-text-size-adjust: 100% !important; margin-bottom: 0 !important; font-size: 11px !important; letter-spacing: 1.4px; color: #008dc8; font-weight:700;">
+A MESSAGE FROM MONDAY.COM
+</p></td></tr>
+<tr style="max-width:100%"><td style="padding: 20px 3.5%; line-height: 1.5;max-width:100%"><span class="b k" style="font-size: 26px; color: #222222;  font-family: 'gorditamedium', Arial, Helvetica, sans-serif;  letter-spacing: -0.1px; line-height: 1.5;">AI is changing how managers evaluate employees, report shows</span></td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td style="max-width:100%">
+<a href="https://monday.com/gp/ai-report-2026?axios_adlink=3&amp;stream=top" target="_blank"><img alt="" src="https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgJD1jvv2WRABGAEoATIIocobMCOzv_o" style="width:100%;max-width:100%;height:auto"/></a>
+</td></tr>
+<tr style="max-width:100%"><td height="15" style="height: 15px; font-size: 0;max-width:100%"> </td></tr>
+<tr style="max-width:100%"><td class="v" style="padding: 0 3.5%; line-height: 1.75;  font-size: 17px; font-family: Georgia, serif; line-height: 1.75; color: #222222; letter-spacing: -0.1px;max-width:100%">
+<p>When AI-polished work lands on a manager’s desk, it’s hard to see who, or what, actually did it, according to a new AI report.
+</p>
+<p><strong>The impact:</strong> 78% of senior leaders have changed how they evaluate team members since adopting AI, while 47% spend more time reviewing output.</p>
+<p><a href="https://monday.com/gp/ai-report-2026?axios_adlink=3&amp;stream=top" target="_blank">Explore the findings.</a></p>
+</td></tr>
+<tr style="max-width:100%"><td height="10" style="height: 10px; font-size: 0; border-bottom: 10px solid #f5f5f5;max-width:100%"> </td></tr>
+<tr style="max-width:100%">
+<td class="v" style="padding:20px 3.5% 10px;margin:0;line-height:1.75;border-bottom:10px solid #f5f5f5;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Georgia,serif;max-width:100%"><p><em>Thanks to Bradley Olson for editing this newsletter and Carlin Becker for copy editing.</em></p></td>
+</tr> <tr style="max-width:100%"><td class="l" style="padding:24px 4%;margin:0;line-height:1.75;font-size:16px;color:#222;letter-spacing:-0.1px;font-family:Arial,sans-serif;max-width:100%"><table cellpadding="0" cellspacing="0" style="margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td style="font-size:0;max-width:100%"><img alt="HQ" border="0" src="https://static.axios.com/img-email/smart-brevity.gif" style="width:100%;max-width:87px;min-width:64px;max-width:100%;height:auto"/></td><td style="max-width:100%"><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td class="m" style="padding-left:20px;font-family:'NB International Pro','Helvetica','Helvetica Neue';max-width:100%"><div class="hq-cta-text-header" style="font-size:17px;color:#333335">👆 Like this comms style and format?</div><div class="hq-cta-text-body" style="padding-top:6px;font-size:14px;color:#656568;line-height:1.5">It's called Smart Brevity®. <a href="https://www.axioshq.com/demo?stream=top">Bring it to your org</a> — via hands-on training or internal comms software — to harness its power and impact.</div></td></tr></table></td></tr></table></td></tr>
+</table><table cellpadding="0" cellspacing="0" style="max-width:600px;margin:0 auto;width:100%;max-width:100%"><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" style="padding:0 5%;line-height:1.75;max-width:100%"><span class="b" style="font-size:12px;line-height:1.75;color:#333335"><p>Axios thanks our partners for supporting our journalism.<br/><a href="https://www.axios.com/advertise?stream=top" style="color:#333335">Advertise with us.</a></p><p>Read more about Axios' <a href="https://www.axios.com/about?stream=top" style="color:#333335">mission</a>, <a href="https://www.axios.com/about/ethics?stream=top" style="color:#333335">ethics</a> and <a href="https://www.axios.com/about/ai?stream=top" style="color:#333335">how we use AI in our journalism</a>. You can reach the authors by replying to this email.<br/>Sponsorship has no influence on editorial content.</p></span><span class="b" style="font-size:12px;line-height:1.75;color:#333335">Axios, PO Box 101060, Arlington VA 22201</span></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td align="center" height="30" style="max-width:100%"><p class="b" style="font-size:12px;line-height:1.75;color:#333335">Follow Axios across:</p><a href="https://www.facebook.com/axiosnews/?stream=top" target="_blank"><img alt="Axios on Facebook" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-facebook-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.twitter.com/axios/?stream=top" target="_blank"><img alt="Axios on X" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-x-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.instagram.com/axios/?stream=top" target="_blank"><img alt="Axios on Instagram" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-instagram-circle-border.png" style="border:0;padding-right:20px;max-width:100%;height:auto"/></a> <a href="https://www.linkedin.com/company/axios-media?stream=top" target="_blank"><img alt="Axios on LinkedIn" src="https://static.axios.com/img/axios-site/newsletters/logos/footer/share-linkedin-circle-border.png" style="border:0;max-width:100%;height:auto"/></a></td></tr><tr style="max-width:100%"><td height="20" style="height:20px;font-size:0;max-width:100%"> </td></tr><tr style="max-width:100%"><td height="70" style="height:70px;font-size:0;max-width:100%"> </td></tr></table>
+</td>
+</tr>
+</table>
+<div class="j" style="white-space:nowrap;font:15px courier;line-height:0">                                             </div>
+<a href="https://link.axios.com/oc/69ed94405b9537219f092f10stqtj.4n4s/2e0c816d" style="color:#f5f5f5"> </a>
+</body>
+</html>
+]]></content:encoded>
+      <guid isPermaLink="false">20261113092823.48417031.216604@sailthru.com</guid>
+      <enclosure url="https://images.axios.com/rTnJq37Bp2Fd5qPpPNk5a_TRLJ0=/0x0:1920x1080/1920x1080/2026/11/12/1794520653870.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 13 Nov 2026 09:28:23 -0500</pubDate>
     </item>
   </channel>
 </rss>
