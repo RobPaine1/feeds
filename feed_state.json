@@ -1,48 +1,52 @@
 {
   "adits-substack": {
-    "etag": "W/\"d9cb2-evebZ+/3jLi+uiATGTZJ6iLdTu8\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-08T14:02:53+00:00",
-    "modified": null
+    "latest_post": "2026-10-24T21:14:25+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "ai-policy-perspectives": {
-    "etag": "W/\"bf222-Lf66uTluwodt6u/JNmFEGRctSCg\"",
+    "etag": "W/\"bf222-p3HQ9Hgx6Zb3NJmC52ma6QQuIQE\"",
     "fail_count": 0,
     "latest_post": "2026-11-05T11:33:48+00:00",
     "modified": null
   },
   "aidans-soupstack": {
-    "etag": "W/\"84911-QJL5sxsrkr6Dk29KOvdBfprO1hI\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-10-15T13:19:49+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "amateur-amateur": {
-    "etag": "W/\"2a589-xUUoBxKXBJbIN7AdDLLhMnTAPaQ\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-08-18T05:51:56+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "andy-masley": {
-    "etag": "W/\"11d5c2-cqa1TtIrA1R0yU/li5evY/MLcLk\"",
+    "etag": "W/\"11d5c2-mnZ+nPB61GLXHMD28i+8fEzRJGM\"",
     "fail_count": 0,
     "latest_post": "2026-10-28T12:09:32+00:00",
     "modified": null
   },
   "asimov-press": {
-    "etag": "W/\"144b05-MUAgF9WSKExIGTn7cf3Bu3ZeOgo\"",
+    "etag": "W/\"144b05-TTCjJaY8Md21T316K919RJs8piQ\"",
     "fail_count": 0,
     "latest_post": "2026-11-03T15:50:35+00:00",
     "modified": null
   },
   "asterisk-magazine": {
-    "etag": "W/\"d0116-MV/kURjqLLQdDnQT5hPq2zI0UeE\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-12T13:03:58+00:00",
-    "modified": null
+    "latest_post": "2026-10-22T12:01:52+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "astral-codex-ten": {
-    "etag": "W/\"c3d5a-IiQFcq96N+gAyUyEqeqMeM3bDnk\"",
+    "etag": "W/\"c3d5a-XGgWgL5erI6WkdFgtbaQ5J9WBAo\"",
     "fail_count": 0,
     "latest_post": "2026-11-14T00:23:27+00:00",
     "modified": null
@@ -52,124 +56,136 @@
     "latest_post": "2026-11-13T09:28:23-05:00"
   },
   "benthams-bulldog": {
-    "etag": "W/\"4fcb9-SSXsBW0Zxy73Ziz8rSjc9VqV3Ek\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-14T16:37:57+00:00",
-    "modified": null
+    "latest_post": "2026-10-24T15:30:44+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "big-iff-true": {
-    "etag": "W/\"f7567-8A2OFp/bRFTAr6RyfbDp9Mj/5K8\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-08T13:59:49+00:00",
-    "modified": null
+    "latest_post": "2026-10-22T12:34:53+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "both-and": {
-    "etag": "W/\"1a937-8t0wfB9pLJ1xGE7Z/zb3yvNNaSg\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-05-08T17:23:50+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "cartoons-hate-her": {
-    "etag": "W/\"316d0-8M0xmz7j3UjVCmJ9veeylgR8zWc\"",
+    "etag": "W/\"316d0-iSnMOOkskxi2ylQQOeluowpj//c\"",
     "fail_count": 0,
     "latest_post": "2026-11-13T12:03:46+00:00",
     "modified": null
   },
   "clear-eyed-ai": {
-    "etag": "W/\"1183f4-DZlgzwpGOoCcPSYIjT7nXgP7Rz0\"",
+    "etag": "W/\"1183f4-+K2mrnM1gLFn6AMda5NbWWXKrXo\"",
     "fail_count": 0,
     "latest_post": "2026-08-28T03:10:37+00:00",
     "modified": null
   },
   "coefficient-giving-farm-animal-welfare": {
-    "etag": "W/\"8e625-6cyQUEKxMu6MCuiNc/EJA0bY/OA\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-10-05T17:44:22+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "david-oks": {
-    "etag": "W/\"ec174-7GiJpkBIJtVN8UzLgQj6F0ZigRM\"",
+    "etag": "W/\"ec174-jWlynY631tViuVR+YoJt/de3MPM\"",
     "fail_count": 0,
     "latest_post": "2026-07-09T19:18:42+00:00",
     "modified": null
   },
   "dylan-matthews": {
-    "etag": "W/\"15aaa-VvQVs+UFKj/FuTnMVgx+3N85nWk\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-04-15T13:02:23+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "ea-forum-frontpage": {
     "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-11T15:44:38+00:00",
+    "latest_post": "2026-11-15T02:06:25+00:00",
     "modified": null
   },
   "exponential-view": {
-    "etag": "W/\"47247-Fc/SfKD/arsi//BboXALj24TEeU\"",
+    "etag": "W/\"47247-Gb1+eJdd/Wo82K7lqkc8br99/R0\"",
     "fail_count": 0,
     "latest_post": "2026-11-14T07:27:27+00:00",
     "modified": null
   },
   "forethought": {
-    "etag": "W/\"bc8b1-j6ifnHIpiVjMgXbm91ommnwunus\"",
+    "etag": "W/\"bc8b1-R16/6N2ceTYzFzE8oV57H8u5AS4\"",
     "fail_count": 0,
     "latest_post": "2026-11-10T20:25:28+00:00",
     "modified": null
   },
   "from-matter": {
-    "etag": "W/\"3e1a4-USMvwrP9Am1VzFxDL0HL3OTlocE\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-07-16T04:58:41+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "going-awol": {
-    "etag": "W/\"991ab-Gp29xATBOmT8gOKzA3C9fVaoMIM\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-06T01:17:31+00:00",
-    "modified": null
+    "latest_post": "2026-09-26T16:11:26+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "good-bones": {
-    "etag": "W/\"2c6ac-LZlWQYF4YGTpXqUXe/QtYx2JgVg\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-13T15:03:41+00:00",
-    "modified": null
+    "latest_post": "2026-10-23T14:03:45+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "hyperdimensional": {
-    "etag": "W/\"6a006-oMBGS6/choo7a8NvAAhsFW1qh+s\"",
+    "etag": "W/\"6a006-Q6JO4Y3aNWt9zW5cUHVPbKbfVdg\"",
     "fail_count": 0,
     "latest_post": "2026-11-10T17:24:58+00:00",
     "modified": null
   },
   "in-development-magazine": {
-    "etag": "W/\"cb393-/7aWSTi8DZAOtLaVUBz6Iun/y8o\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-12T10:01:42+00:00",
-    "modified": null
+    "latest_post": "2026-10-22T09:00:50+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "jasmines-substack": {
-    "etag": "W/\"104e10-kMTFgTIBVRKnYAwmn8R++8iZyxk\"",
+    "etag": "W/\"104e10-F6aJV2oThlilAb0u6RQroVGndt8\"",
     "fail_count": 0,
     "latest_post": "2026-10-07T15:00:42+00:00",
     "modified": null
   },
   "joe-carlsmiths-substack": {
-    "etag": "W/\"2bc986-IGFRDM3WRCgMmcH/WSchch7r424\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-04-09T17:16:30+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "kailer": {
-    "etag": "W/\"1b6c-whJxPLlE6i232nQwN9Atx1In5h8\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-02-23T15:02:59+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "knowingless": {
-    "etag": "W/\"124c19-bEIQcX7mlXe7aUJoxBTTWTGEdqk\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-10-30T20:42:43+00:00",
-    "modified": null
+    "latest_post": "2026-10-08T19:16:32+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "lesswrong-curated": {
     "etag": null,
@@ -178,25 +194,27 @@
     "modified": null
   },
   "marina-bolotnikova": {
-    "etag": "W/\"14f1c-sGxEBFHARq4Po3uE360VjUTgzFc\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-10-03T18:48:42+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "matts-five-points": {
-    "etag": "W/\"cfade-5R5hBB/qq0MUhakOsaqXFHjhjXc\"",
+    "etag": "W/\"cfade-g93BDh1gPrAKg1WZvw98LKG65V4\"",
     "fail_count": 0,
     "latest_post": "2026-11-03T16:47:11+00:00",
     "modified": null
   },
   "more-than-meats-the-eye": {
-    "etag": "W/\"81f20-zY/rUCGWewKs+dGdT3CrIW4kyRs\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-10T15:33:52+00:00",
-    "modified": null
+    "latest_post": "2026-10-15T13:30:51+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "noahpinion": {
-    "etag": "W/\"132b4d-eGNJPU7j+oYrBwWlu4b5EKy8+vA\"",
+    "etag": "W/\"132b4d-Kx3xHed5GnHrnkhDfiAEul1Scjs\"",
     "fail_count": 0,
     "latest_post": "2026-11-14T09:00:44+00:00",
     "modified": null
@@ -210,141 +228,158 @@
     "latest_post": "2026-11-09T15:02:22+00:00"
   },
   "regressiontothemeat": {
-    "etag": "W/\"55e8e-cID4q1sgjGvufGbjjrykO8UrIbI\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-10-20T15:11:24+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "rising-tide": {
-    "etag": "W/\"6ada7-pw6AeSx1O3md/UGJgPzYp6yWu6c\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-04-06T14:31:49+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "sandcastles": {
-    "etag": "W/\"119f1f-2KWzr6y9LipYX5mexo1I2iGgeEM\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-04T15:54:42+00:00",
-    "modified": null
+    "latest_post": "2026-09-12T10:02:16+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "sashas-newsletter": {
-    "etag": "W/\"34e67-kR0xJjTcxXvNsWDrbjN7Xmb35CA\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-09T20:28:15+00:00",
-    "modified": null
+    "latest_post": "2026-10-23T20:10:36+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "silver-bulletin": {
-    "etag": "W/\"5ae2d-pyn5PbRqQH1IPviAaqiCpJxz3TQ\"",
+    "etag": "W/\"5ae2d-XFXbrk3XCQhs/6N7h8d+HynSYgg\"",
     "fail_count": 0,
     "latest_post": "2026-11-13T20:08:40+00:00",
     "modified": null
   },
   "taj": {
-    "etag": "W/\"4dddb-Xo2OMVcXLn/F7Nr+lyHqas3/BT8\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-06T08:06:49+00:00",
-    "modified": null
+    "latest_post": "2026-10-21T18:37:10+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "that-vast-variety": {
-    "etag": "W/\"6e38b-FXWAmIHp6dKuk8M/vqJVF/DwSNc\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-04-19T22:09:44+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "the-argument": {
-    "etag": "W/\"4132f-1aL8B6WXfuGmIowv/2/VPog3Q5U\"",
+    "etag": "W/\"4132f-PpowB3fj523vS06KlPgb8njKuKE\"",
     "fail_count": 0,
     "latest_post": "2026-11-14T14:01:20+00:00",
     "modified": null
   },
   "the-counterfactual": {
-    "etag": "W/\"116733-TwudkqO3ILsuUyxa7DntrzLgs18\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-11T21:15:33+00:00",
-    "modified": null
+    "latest_post": "2026-10-20T19:55:20+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "the-optimists-barn": {
-    "etag": "W/\"68c58-C196hjSqjZ4Qagahuhnck7ZlDV4\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-10-04T12:31:29+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "the-power-law": {
-    "etag": "W/\"9d1e1-xU6R9U2KxiEIyZeWqyvj24Uz/CE\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-08-31T16:43:42+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "the-simple-heart": {
-    "etag": "W/\"5a0e0-ZaUHt1gNQHo/YtOiyTx0iWtJ06s\"",
+    "etag": "W/\"5a0e0-FHucw1DcIBj34OLv3VOlIIuQxHY\"",
     "fail_count": 0,
     "latest_post": "2026-11-01T15:13:15+00:00",
     "modified": null
   },
   "the-urban-animal": {
-    "etag": "W/\"84584-E6RbZicA/CyZosV0hI6r+6B3lls\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-08T19:41:59+00:00",
-    "modified": null
+    "latest_post": "2026-06-12T19:01:09+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "the-vegan-strategist": {
-    "etag": "W/\"616f3-i9YY8ExitDy/vynJeMeFLxYHdS4\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-05T15:26:30+00:00",
-    "modified": null
+    "latest_post": "2026-10-21T13:10:27+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "the-works-in-progess-newsletter": {
-    "etag": "W/\"bc0c7-0MC5knTgHpksKOgw1euBi5tqQxc\"",
+    "etag": "W/\"bc0c7-rTXT1gL6C4C8XIUwcBwIOc9loMA\"",
     "fail_count": 0,
     "latest_post": "2026-11-09T11:24:10+00:00",
     "modified": null
   },
   "thing-of-things": {
-    "etag": "W/\"6ccb5-3wEyJWTHWRQBeBkeDwqtdywTnhY\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-06T16:00:49+00:00",
-    "modified": null
+    "latest_post": "2026-10-23T15:09:32+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "tzus-newsletter": {
-    "etag": "W/\"79d0-kM8ZTEQbJ7tLNwBPpJV3C4ypZUY\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-08-15T03:19:13+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "understanding-ai": {
-    "etag": "W/\"7b129-NsAlBDkclkB4RJ8jwnANVzgxzeQ\"",
+    "etag": "W/\"7b129-tAWLmmXYc7n9weRMt+1yUgY3rDw\"",
     "fail_count": 0,
     "latest_post": "2026-11-05T15:16:59+00:00",
     "modified": null
   },
   "united-states-of-exception": {
-    "etag": "W/\"aa124-/86dkcQqEcELIp6XS8+Qqzo+Sdk\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-06T08:16:41+00:00",
-    "modified": null
+    "latest_post": "2026-06-13T14:51:05+00:00",
+    "modified": null,
+    "via_cache": true
   },
   "useful-fictions": {
-    "etag": "W/\"4cb9e-EBqM09jlJDxGgnfIbEmiTJYx+fk\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-07-23T19:35:52+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "vahid-baugher": {
-    "etag": "W/\"34480-VB5wgYyUsQ3yQU5UAzA+Ap9OY1s\"",
+    "etag": null,
     "fail_count": 0,
     "latest_post": "2026-09-14T08:14:16+00:00",
-    "modified": null
+    "modified": null,
+    "via_cache": true
   },
   "wharton-accountable-ai-forum": {
-    "etag": "W/\"1c284-VjYyht784h9m8XtUXbz+eltycq4\"",
+    "etag": "W/\"1c284-IJBh5/9qWoaeli0/2n34QtMasxE\"",
     "fail_count": 0,
     "latest_post": "2026-10-22T21:02:49+00:00",
     "modified": null
   },
   "wonder-and-aporia": {
-    "etag": "W/\"7c630-QA02ZhVXtrXOVdFIYIHL2HKIC4U\"",
+    "etag": null,
     "fail_count": 0,
-    "latest_post": "2026-11-09T15:03:28+00:00",
-    "modified": null
+    "latest_post": "2026-10-22T18:22:42+00:00",
+    "modified": null,
+    "via_cache": true
   }
 }
