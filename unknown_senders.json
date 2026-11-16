@@ -1,16 +1,16 @@
 {
   "\"Cameron Peters, Vox\" <newsletter@vox.com>": {
-    "count": 51,
+    "count": 50,
     "subjects": [
-      "Why \"Lake America\" isn't funny",
       "Trump's attack on mail ballots is blocked again",
       "Trump gets his ballroom",
       "Log off with a poem by Wendell Berry",
-      "You shouldn't panic about Trump's mail voting scheme \u2014 yet"
+      "You shouldn't panic about Trump's mail voting scheme \u2014 yet",
+      "Log off with a good long read"
     ]
   },
   "Decoded by POLITICO <decodedbypolitico@email.politico.com>": {
-    "count": 32,
+    "count": 33,
     "subjects": [
       "Sam Altman, Decoded",
       "AI\u2019s biggest advocates think they have lost an ally",
@@ -39,16 +39,6 @@
       "A massive blue wave just hit America"
     ]
   },
-  "AI+ Government <ai.plus.gov@axios.com>": {
-    "count": 5,
-    "subjects": [
-      "\ud83d\udc40 Europe's AI gamble",
-      "\ud83e\udd16 Drifting toward guardrails",
-      "\u26a0\ufe0f AI alarm bells",
-      "\ud83d\udc40 Policing the labs",
-      "\ud83e\udd16 AI arms control"
-    ]
-  },
   "POLITICO Live  <events@live.politico.com>": {
     "count": 5,
     "subjects": [
@@ -57,6 +47,15 @@
       "REGISTER TODAY | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
       "Watch Now | POLITICO's Decoded Summit \u2013\u00a0Washington, D.C.",
       "Key moments from POLITICO's Decoded Summit \u2013\u00a0Washington, D.C. \u2b07\ufe0f"
+    ]
+  },
+  "AI+ Government <ai.plus.gov@axios.com>": {
+    "count": 4,
+    "subjects": [
+      "\ud83e\udd16 Drifting toward guardrails",
+      "\u26a0\ufe0f AI alarm bells",
+      "\ud83d\udc40 Policing the labs",
+      "\ud83e\udd16 AI arms control"
     ]
   },
   "Axios Live <events@axios.com>": {
